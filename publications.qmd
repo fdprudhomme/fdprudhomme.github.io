@@ -39,7 +39,7 @@ Education* (Springer).
 
 ## Communications scientifiques
 
-### Communications acceptées — à venir
+
 
 ::: {.cv-entree}
 ::: {.cv-date}
@@ -61,7 +61,7 @@ Education* (Springer).
 :::
 :::
 
-### Communications passées
+
 
 ::: {.cv-entree}
 ::: {.cv-date}
