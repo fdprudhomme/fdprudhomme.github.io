@@ -70,34 +70,91 @@ def sans_balises(texte: str) -> str:
     return re.sub(r"[*_`]", "", texte).strip()
 
 
+def normaliser_setext(md: str) -> str:
+    """Convertit les titres setext (soulignés par des ===/---) en titres ATX
+    (#/##). Pandoc n'écrit en ATX pour tous les niveaux que si on lui passe
+    --markdown-headings=atx (disponible depuis pandoc 2.11.4) ; sans cette
+    option — ou si l'option n'est pas supportée par la version installée —
+    les Titre1/Titre2 Word ressortent en setext. C'est précisément ce cas
+    que le reste du script ne savait pas reconnaître (un bloc setext tient
+    sur deux lignes, donc le test `"\\n" in ligne` de est_titre_entree() le
+    rejetait silencieusement, et le terme retombait en simple texte)."""
+    lignes = md.split("\n")
+    sortie: list[str] = []
+    i = 0
+    while i < len(lignes):
+        ligne = lignes[i]
+        suivante = lignes[i + 1] if i + 1 < len(lignes) else ""
+        if ligne.strip() and not ligne.lstrip().startswith("#") and re.fullmatch(r"=+", suivante.strip()):
+            sortie.append(f"# {ligne.strip()}")
+            i += 2
+            continue
+        if ligne.strip() and not ligne.lstrip().startswith("#") and re.fullmatch(r"-{2,}", suivante.strip()):
+            sortie.append(f"## {ligne.strip()}")
+            i += 2
+            continue
+        sortie.append(ligne)
+        i += 1
+    return "\n".join(sortie)
+
+
 def extraire_markdown(source: Path) -> str:
     """Passe par pandoc si le fichier est un vrai .docx, sinon lit le texte."""
     try:
         with open(source, "rb") as f:
             entete = f.read(2)
-        if entete == b"PK":
-            return subprocess.run(
-                ["pandoc", "-f", "docx", "-t", "markdown",
-                 "--wrap=none", "--markdown-headings=atx", str(source)],
-                capture_output=True, text=True, check=True,
-            ).stdout
     except FileNotFoundError:
         sys.exit(f"Fichier introuvable : {source}")
-    except subprocess.CalledProcessError as e:
-        sys.exit(f"Pandoc a échoué :\n{e.stderr}")
-    return source.read_text(encoding="utf-8")
+    if entete != b"PK":
+        return normaliser_setext(source.read_text(encoding="utf-8"))
+
+    # "markdown-smart" (et non "markdown") : on désactive la conversion
+    # automatique de la ponctuation typographique du .docx (tiret cadratin
+    # « — », guillemets courbes) vers ses équivalents ASCII (« --- », etc.).
+    # Sans quoi le tiret cadratin qui sépare un terme de son sous-titre
+    # (« AGENT — Acteur algorithmique... ») ressort en trois traits d'union,
+    # que ni TITRE_ENTREE ni le partition(" — ") plus bas ne reconnaissent :
+    # le sous-titre reste alors collé au terme, y compris dans l'ancre.
+    commande = ["pandoc", "-f", "docx", "-t", "markdown-smart",
+                "--wrap=none", "--markdown-headings=atx", str(source)]
+    try:
+        resultat = subprocess.run(commande, capture_output=True, text=True)
+    except FileNotFoundError:
+        sys.exit("Pandoc introuvable : installez-le avant de relancer le script.")
+
+    if resultat.returncode != 0 and "--markdown-headings" in resultat.stderr:
+        # Pandoc < 2.11.4 : l'option n'existe pas. On se rabat sur le
+        # comportement par défaut (setext pour Titre1/Titre2) et on
+        # normalise nous-mêmes ci-dessous — le résultat final est identique.
+        commande = [c for c in commande if not c.startswith("--markdown-headings")]
+        resultat = subprocess.run(commande, capture_output=True, text=True)
+
+    if resultat.returncode != 0:
+        sys.exit(f"Pandoc a échoué :\n{resultat.stderr}")
+    return normaliser_setext(resultat.stdout)
 
 
 def est_titre_entree(bloc: str) -> tuple[str, str] | None:
     """Renvoie (terme, sous-titre) si le bloc est un titre d'entrée."""
     ligne = bloc.strip()
     if ligne.startswith("#"):                       # pandoc a gardé le style Word
-        ligne = ligne.lstrip("#").strip()
-        if len(ligne.split()) > 12:
+        m = re.match(r"^(#{1,6})\s*(.+?)\s*$", ligne)
+        if not m:
             return None
-        nu = sans_balises(ligne)
+        niveau, texte = len(m.group(1)), m.group(2)
+        if niveau != 2:
+            # Titre1 (page de titre) ou Titre3+ (sous-section) : ce n'est
+            # pas une entrée de premier niveau. Titre3+ retombe plus bas
+            # dans main() et reste affiché tel quel (### ...) ; Titre1 est
+            # ignoré (ex. « GLOSSAIRE IA »).
+            return None
+        if len(texte.split()) > 12:
+            return None
+        nu = sans_balises(texte)
         terme, _, sous = nu.partition(" — ")
         terme, sous = terme.strip(), sous.strip()
+        if terme in IGNORER or len(terme) < 3:
+            return None
         terme, paren = scinder_parenthese(terme)
         return terme, (sous or paren)
     if len(ligne) > 110 or "\n" in ligne:
