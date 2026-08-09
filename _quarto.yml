@@ -35,7 +35,7 @@ website:
       - href: en/index.qmd
         text: "EN"
       - icon: envelope
-        href: "mailto:prenom.nom@exemple.ca"
+        href: "mailto:fdprudhomme@gmail.com"
         aria-label: "Écrire un courriel"
 
   page-footer:
@@ -43,9 +43,9 @@ website:
     center: "Contenu sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)"
     right:
       - text: "ORCID"
-        href: "https://orcid.org/0000-0000-0000-0000"
+        href: "https://orcid.org/0009-0001-1460-6594"
       - text: "Code source"
-        href: "https://github.com/UTILISATEUR/site"
+        href: "https://github.com/fdprudhomme/fdprudhomme.github.io"
 
   search:
     location: navbar

@@ -1,85 +1,119 @@
 ---
 title: "Curriculum vitæ"
-subtitle: "Version du 3 août 2026"
+subtitle: "François David Prud'homme, Ph. D."
 toc: true
-toc-depth: 2
+toc-title: "Sections"
 ---
 
-::: {.avertissement}
-Version PDF : [télécharger](cv.pdf). *(Générée par `quarto render cv.qmd --to pdf`.)*
-:::
+Docteur en sémiologie · Chargé de cours — UQAM, UQAT, UQO
+
+[fdprudhomme@gmail.com](mailto:fdprudhomme@gmail.com) · [vimeo.com/fdprudhomme](https://vimeo.com/fdprudhomme) · ORCID : [0009-0001-1460-6594](https://orcid.org/0009-0001-1460-6594)
+
+---
+
+## Profil de recherche
+
+Mes recherches se situent à l'intersection de la sémiotique, de l'esthétique du cinéma et des études critiques sur l'intelligence artificielle générative. Spécialisé en logique des mondes possibles et en théorie de la coopération interprétative, je développe des cadres théoriques permettant de décrire les régimes de sémiose que les systèmes génératifs instaurent. Ma thèse de doctorat a porté sur l'accessibilité esthétique des mondes possibles au cinéma ; mes travaux postdoctoraux prolongent le concept d'*opérateurs d'accessibilité* vers celui d'*opérateurs perceptifs réels*, avec des implications directes pour la refonte des études supérieures.
+
+## Projet de recherche postdoctoral
+
+### La coopération interprétative à l'ère de la sémiose algorithmique
+
+*Cartographier, habiter, résister : pour une refonte sémiotique des études supérieures*
+
+Le concept pivot est la *coopération interprétative* d'Eco : tout objet sémiotique est une machine paresseuse dont les blancs appellent le voyage inférentiel du lecteur. L'IA générative effectue l'opération inverse — la *coopération interprétative retournée*. Optimisés pour converger vers les attracteurs sémiotiques d'un public, les systèmes génératifs livrent un objet déjà interprété, dont la crédibilité est immanente à la forme. La sémiose illimitée de Peirce cède à une convergence probabiliste.
+
+Le projet se déploie en trois gestes. **Cartographier** décrit le régime sémiotique des objets algorithmiques : attracteurs statistiques, clôture prématurée, régimes de perceptibilité. **Habiter** développe le *silence sémiotique* et l'*inhabitation* comme conditions anthropologiques de l'interprétation, structurellement absentes de la sémiose computationnelle. **Résister** propose l'*enquête seconde* comme protocole opératoire — un « Blow Up algorithmique » qui transforme la sortie générée de destination en sonde. Le système génératif fonctionne comme un *explicateur* au sens du *Maître ignorant* de Rancière ; l'enquête seconde est la contre-conduite qui restitue à l'interprète la position de celui qui cherche.
+
+L'enquête empirique traverse les trois gestes : textes et images génératives interrogés du point de vue de leurs attracteurs dominants, interfaces cognitives universitaires analysées comme opérateurs perceptifs réels, productions étudiantes lues pour y repérer les traces du court-circuit inférentiel.
+
+[Lire le résumé complet](recherche.qmd)
 
 ## Formation
 
-::: {.cv-entree}
-::: {.cv-date}
-2022
-:::
-::: {.cv-corps}
-**Doctorat en sémiologie**
-[Université du Québec à Montréal — direction : Bertrand Gervais]{.lieu}
-:::
-:::
+**Doctorat en sémiologie** — Université du Québec à Montréal, 2022  
+Thèse : « L'accessibilité esthétique des mondes possibles au cinéma ». Direction : Sylvano Santini et Bertrand Gervais.
 
-::: {.cv-entree}
-::: {.cv-date}
-20XX
-:::
-::: {.cv-corps}
-**Maîtrise en …**
-[Établissement]{.lieu}
-:::
-:::
+**Baccalauréat ès arts** — Université du Québec à Montréal, 2013  
+Mineure en études classiques (2010) · Certificat en scénarisation (2009) · Certificat en création littéraire (2008)
 
-## Enseignement
+## Bourses et distinctions
 
-::: {.cv-entree}
-::: {.cv-date}
-depuis 20XX
-:::
-::: {.cv-corps}
-**Chargé de cours**
-[Université du Québec à Montréal · Université du Québec en Abitibi-Témiscamingue · Université du Québec en Outaouais]{.lieu}
+**Bourse de recherche et de création** — Conseil des arts du Canada, 2022
 
-Sigle du cours — Titre (session, année).
-:::
-:::
+**Bourse du Fonds du Département d'études littéraires** — Doctorat pluridisciplinaire en études sémiotiques, UQAM, 2020
 
-## Recherche
-
-::: {.cv-entree}
-::: {.cv-date}
-en cours
-:::
-::: {.cv-corps}
-**La coopération interprétative à l'ère de la sémiose algorithmique**
-[Projet postdoctoral]{.lieu}
-
-Transformation sémiosique induite par l'IA générative et implications pour les
-études supérieures. [Présentation détaillée](recherche.qmd).
-:::
-:::
+**Bourse d'excellence FARE**, double lauréat — Fonds à l'accessibilité et à la réussite des études, UQAM, 2018–2020
 
 ## Publications
 
-Voir la [liste complète](publications.qmd).
+### À paraître
 
-## Communications
+PRUD'HOMME, François David. « De machine et de mémoire : remédiation sémiotique et auctorialité distribuée dans la cocréation visuelle par requête. » Dans les actes du colloque international *Auctorialités augmentées en régime numérique*, CY Cergy Paris Université et Université Sorbonne-Nouvelle. Texte remis en juillet 2026.
 
-::: {.cv-entree}
-::: {.cv-date}
-2026
-:::
-::: {.cv-corps}
-**Titre de la communication**
-[Colloque, Sorbonne, Paris]{.lieu}
-:::
-:::
+### En préparation
+
+PRUD'HOMME, François David. « La coopération interprétative retournée : attracteurs statistiques, clôture prématurée et silence sémiotique. » Soumission prévue : *Semiotica* (De Gruyter).
+
+PRUD'HOMME, François David. « L'enquête seconde : un protocole rancièrien contre la clôture prématurée dans les études supérieures. » Soumission prévue : *Postdigital Science and Education* (Springer).
+
+### Travaux numériques
+
+*Glossaire de la sémiose algorithmique.* Édition numérique évolutive, [fdprudhomme.com/glossaire](glossaire/index.qmd). Cinquante-six entrées organisées en trois registres.
+
+### Ouvrages, articles et recensions
+
+PRUD'HOMME, François David. *Watchmen, l'aube d'une humanité.* Montréal : Les Éditions Ta Mère, collection Pop-en-Stock. [Essai philosophique, monographie]
+
+Recensions publiées dans *Cygne noir, revue d'exploration sémiotique* (UQAM).
+
+Articles publiés dans des revues étudiantes et académiques de l'UQAM.
+
+### Actes de colloque
+
+PRUD'HOMME, François David. Communication publiée dans *Les variations Jarmusch*, Lettres et civilisations étrangères, Université d'Artois, 2014. Actes du colloque international *Le Cinéma de Jim Jarmusch*, Université d'Artois, Arras (France).
+
+## Communications scientifiques
+
+**Colloque international — Auctorialités augmentées en régime numérique** — CY Cergy Paris Université et Université Sorbonne-Nouvelle, Paris, 2–3 juin 2026  
+« De machine et de mémoire : remédiation sémiotique et auctorialité distribuée dans la cocréation visuelle par requête. » Panel « Auctorialités algorithmiques : délégation, remédiation et figures du visible », coorganisé avec Bertrand Gervais (UQAM).
+
+**93<sup>e</sup> Congrès de l'Acfas — Pratiques et innovations (inter)disciplinaires : recherches émergentes en communication** — Université du Québec à Trois-Rivières, 15 mai 2026  
+« L'écovisible est déjà là — l'écovision reste à inventer. »
+
+**Colloque international Deleuze Studies** — Università degli Studi di Roma Tre, Italie, 2016
+
+**Colloque international bilingue — Le Cinéma de Jim Jarmusch** — Université d'Artois, Arras, France, 2015  
+Actes publiés : *Les variations Jarmusch*, Lettres et civilisations étrangères, Université d'Artois.
+
+**Une folie du voir dans l'extrême contemporain** — Laboratoire NT2 et FIGURA, UQAM, 2014  
+Organisation et participation.
+
+## Expérience d'enseignement
+
+**Chargé de cours — Département d'études littéraires et Scénarisation** — Université du Québec à Montréal, 2018–présent
+
+LIT4345 Littérature et cinéma · LIT4165 Lecture de l'image en mouvement · LIT3190 Sémiotique · LIT450F Lecture de film : la critique cinématographique · LIT455L Du film noir au néo-noir · LIT2845 Lecture de scénarios · LIT2840 Intrigue et scénario
+
+**Chargé de cours — Création et nouveaux médias** — Université du Québec en Abitibi-Témiscamingue, Rouyn-Noranda, 2022–présent
+
+CIN1202 Langage cinématographique · CIN1203 Scénarisation cinématographique · CIN1208 Les genres cinématographiques · AAR1121 / ARN2047 Ateliers dirigés en création et en nouveaux médias
+
+**Chargé de cours — École multidisciplinaire de l'image** — Université du Québec en Outaouais, Gatineau, 2023–présent
+
+ARI1023 Sémiotique de l'image
+
+**Auxiliaire d'enseignement et de recherche** — Université du Québec à Montréal, 2016–2021  
+Encadrement pédagogique, animation d'ateliers, correction et soutien à la recherche.
+
+## Activités professionnelles connexes
+
+**Rédacteur et critique — SÉQUENCES, la revue de cinéma** — Montréal, 2013–2017  
+Analyses cinématographiques, critiques filmiques et études sur le cinéma culte et classique.
+
+**Cinéaste, scénariste et réalisateur indépendant** — Montréal, 2014–présent  
+Courts-métrages, documentaires et films sur l'art présentés en festivals. [vimeo.com/fdprudhomme](https://vimeo.com/fdprudhomme)
 
 ## Langues
 
-Français (langue maternelle) · anglais · italien.
-
-## Coordonnées
-
-prenom.nom@exemple.ca · [ORCID](https://orcid.org/0000-0000-0000-0000)
+Français (langue maternelle) · Anglais (courant) · Italien (lu et écrit) · Allemand (intermédiaire)
