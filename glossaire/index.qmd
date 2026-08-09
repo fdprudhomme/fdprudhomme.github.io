@@ -6,7 +6,7 @@ page-layout: full
 ---
 
 ::: {.chapeau}
-Ce glossaire décrit un seul objet — la **sémiose algorithmique** — selon trois
+Ce glossaire décrit la **sémiose algorithmique** selon trois
 gestes. La carte ci-dessous en donne l'architecture ; le [corps
 alphabétique](entrees.qmd) sert à la consultation.
 :::
