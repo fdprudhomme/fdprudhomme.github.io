@@ -51,7 +51,7 @@ Du point de vue de l'écologie cognitive, l'agent constitue un **opérateur perc
 La boucle ReAct est l'anti-structure du silence sémiotique. Là où l'interprète humain peut habiter l'indétermination — suspendre sa réponse, tolérer le *Ma* —, l'agent est architecturalement incapable de cette suspension : chaque cycle appelle le suivant. L'ennui sémiotique, le *Ma*, l'hésitation d'Eco sont des états qui correspondent précisément à un arrêt de boucle que la structure ReAct ne peut pas produire. C'est une machine à clôture prématurée permanente — non par défaut de sophistication, mais par structure.
 
 ::: {.voir-aussi}
-**Voir aussi** — Agentic AI (entrée technique détaillée et cas paradigmatique) · [chatbot](#chatbot) · [ReAct Loop](#react-loop) · [Tool Use](#tool-use) · [Heartbeat](#heartbeat) · [Soul File](#soul-file) · [Mémoire persistante](#memoire-persistante) · [coopération interprétative](#cooperation-interpretative) · [silence sémiotique](#silence-semiotique) · [asymétrie sémiosique](#asymetrie-semiosique) · [goal-seeking drift](#goal-seeking-drift) · [sémiose rétaliative](#semiose-retaliative) · [opérateurs perceptifs réels](#operateurs-perceptifs-reels)
+**Voir aussi** — [Agentic AI](#agent) · [chatbot](#chatbot) · [ReAct Loop](#react-loop) · [Tool Use](#tool-use) · [Heartbeat](#heartbeat) · [Soul File](#soul-file) · [Mémoire persistante](#memoire-persistante) · [coopération interprétative](#cooperation-interpretative) · [silence sémiotique](#silence-semiotique) · [asymétrie sémiosique](#asymetrie-semiosique) · [goal-seeking drift](#goal-seeking-drift) · [sémiose rétaliative](#semiose-retaliative) · [opérateurs perceptifs réels](#operateurs-perceptifs-reels)
 :::
 
 ### Agentic AI — Agent autonome à boucle ouverte
@@ -109,13 +109,40 @@ Dans ce projet de recherches, la notion d'**artefact cognitif** permet d'ancrer 
 
 ### Artéfact cognitif algorithmique
 
-Objet visuel ou computationnel produit par un système algorithmique (IA générative, modèle statistique, visualisation automatisée) qui externalise une opération cognitive et influence la perception, l'interprétation ou la prise de décision humaine.
+→ *Voir* l’entrée autonome ARTÉFACT COGNITIF ALGORITHMIQUE.
 
 ### Artéfact cognitif et régime de pensée
 
 Un artéfact cognitif est toujours inscrit dans un **régime de pensée** donné : il incarne des normes perceptives, stabilise certaines manières de voir, rend d'autres interprétations moins accessibles.
 
 Ainsi, les artéfacts cognitifs algorithmiques contemporains participent à l'émergence d'un régime de pensée où les images **ne représentent plus seulement le monde, mais le calculent et le proposent**.
+
+
+## ARTÉFACT COGNITIF ALGORITHMIQUE {#artefact-cognitif-algorithmique}
+
+[L’outil qui précalcule l’interprétation]{.sous-titre}
+
+[Nouvelle entrée — à valider]{.statut}
+
+::: {.punchline}
+L’artéfact cognitif classique transformait la tâche ; l’algorithmique transforme aussi la perception de la tâche.
+:::
+
+::: {.definition}
+Un artéfact cognitif algorithmique est un objet visuel ou computationnel produit par un système algorithmique (IA générative, modèle statistique, visualisation automatisée) qui externalise une opération cognitive et influence la perception, l’interprétation ou la prise de décision humaine.
+:::
+
+### Cadre théorique (Norman, Hutchins)
+
+L’artefact cognitif classique — liste, carnet, carte — **transforme la tâche** plutôt qu’il n’amplifie une capacité. L’artéfact algorithmique franchit un seuil : il ne se contente pas de représenter l’information pour qu’un sujet la traite, il livre un **traitement déjà effectué** — l’externalisation porte non plus sur le support de l’opération, mais sur l’opération elle-même.
+
+### Articulation au cadre
+
+C’est par cette bascule que l’artéfact cognitif algorithmique participe du **visible-pensant** : scores, cartes, recommandations et énoncés générés agissent comme des résultats déjà pensés, appelant une adhésion opératoire plutôt qu’une interprétation.
+
+::: {.voir-aussi}
+**Voir aussi** — [artefact cognitif](#artefact-cognitif) · [LLM](#llm) · [interfaces cognitives](#interfaces-cognitives) · [visible-pensant](#visible-pensant) · [opérateur perceptif](#operateur-perceptif) · [cognition distribuée](#cognition-distribuee)
+:::
 
 
 ## ASYMÉTRIE SÉMIOSIQUE {#asymetrie-semiosique}
@@ -145,7 +172,7 @@ L'asymétrie sémiosique est ainsi la forme institutionnelle et technique de la 
 Dans le partage du sensible au sens de Rancière, l'asymétrie sémiosique redéfinit ce qui est visible, dicible et audible : la vitesse algorithmique devient la norme du lisible, et le silence de l'interprète humain devient une anomalie à corriger.
 
 ::: {.voir-aussi}
-**Voir aussi** — agent agentic · [React Loop](#react-loop) · [sémiose rétaliative](#semiose-retaliative) · [silence sémiotique](#silence-semiotique) · [coopération interprétative](#cooperation-interpretative) · [résistance sémiotique](#resistance-semiotique)
+**Voir aussi** — [agent](#agent) · [React Loop](#react-loop) · [sémiose rétaliative](#semiose-retaliative) · [silence sémiotique](#silence-semiotique) · [coopération interprétative](#cooperation-interpretative) · [résistance sémiotique](#resistance-semiotique)
 :::
 
 
@@ -282,7 +309,7 @@ Les SAEs occupent une position structurellement ambivalente vis-à-vis du projet
 -   **Reconnaissance institutionnelle** : l'interprétabilité mécanistique a été nommée *Breakthrough Technology 2026* par MIT Technology Review — ce qui consolide institutionnellement un horizon de recherche, avec l'ambivalence inhérente à toute consolration : confondre outil de recherche et garantie de sécurité.
 
 ::: {.voir-aussi}
-**Voir aussi** — [visible-pensant](#visible-pensant) · [attracteur statistique](#attracteur-statistique) · [attracteur perceptif](#attracteur-perceptif) · [pondération](#ponderation) · [surpondération](#surponderation) · [opérateurs perceptifs réels](#operateurs-perceptifs-reels) · artéfact cognitif algorithmique · [ingénierie du possible](#ingenierie-du-possible) · [LLM](#llm) · [token](#token) · [résistance sémiotique](#resistance-semiotique) · [coopération interprétative](#cooperation-interpretative)
+**Voir aussi** — [visible-pensant](#visible-pensant) · [attracteur statistique](#attracteur-statistique) · [attracteur perceptif](#attracteur-perceptif) · [pondération](#ponderation) · [surpondération](#surponderation) · [opérateurs perceptifs réels](#operateurs-perceptifs-reels) · [artéfact cognitif algorithmique](#artefact-cognitif-algorithmique) · [ingénierie du possible](#ingenierie-du-possible) · [LLM](#llm) · [token](#token) · [résistance sémiotique](#resistance-semiotique) · [coopération interprétative](#cooperation-interpretative)
 :::
 
 
@@ -433,7 +460,7 @@ La boucle ReAct des agents est une **machine à clôture prématurée permanente
 Les deux concepts sont voisins mais ne nomment pas la même chose : la coopération interprétative retournée nomme un **renversement de position** — qui anticipe qui —, la clôture prématurée nomme la **disparition de la durée**. Un système pourrait anticiper son lecteur sans supprimer la durée ; la sémiose algorithmique fait les deux à la fois.
 
 ::: {.voir-aussi}
-**Voir aussi** — [silence sémiotique](#silence-semiotique) · [spirale interprétative](#spirale-interpretative) · [ReAct Loop](#react-loop) · [coopération interprétative](#cooperation-interpretative) · [coopération interprétative retournée](#cooperation-interpretative-retournee) · sémiose illimitée · [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique)
+**Voir aussi** — [silence sémiotique](#silence-semiotique) · [spirale interprétative](#spirale-interpretative) · [ReAct Loop](#react-loop) · [coopération interprétative](#cooperation-interpretative) · [coopération interprétative retournée](#cooperation-interpretative-retournee) · [sémiose illimitée](#semiose-illimitee) · [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique)
 :::
 
 
@@ -473,7 +500,7 @@ Eco n’a jamais présenté cette coopération comme une dérive sans limite. Da
 Les systèmes génératifs effectuent une opération structurellement analogue à celle du texte, mais en sens inverse : au lieu de ménager des zones d’indétermination pour qu’un lecteur les traverse, ils optimisent leurs sorties pour correspondre aux attracteurs sémiotiques d’un public donné et livrent un **objet déjà interprété**, dont la crédibilité est immanente à la forme. Le voyage inférentiel est remplacé par une **destination pré-calculée** : la coopération interprétative est court-circuitée. Ce déplacement est nommé par deux concepts distincts : coopération interprétative retournée (le renversement de position) et clôture prématurée (la suppression de la durée).
 
 ::: {.voir-aussi}
-**Voir aussi** — [lecteur modèle](#lecteur-modele) · [encyclopédie](#encyclopedie) · [intentio operis](#intentio-operis) · [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique) · [coopération interprétative retournée](#cooperation-interpretative-retournee) · [clôture prématurée](#cloture-prematuree) · sémiose illimitée · [silence sémiotique](#silence-semiotique) · [spirale interprétative](#spirale-interpretative)
+**Voir aussi** — [lecteur modèle](#lecteur-modele) · [encyclopédie](#encyclopedie) · [intentio operis](#intentio-operis) · [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique) · [coopération interprétative retournée](#cooperation-interpretative-retournee) · [clôture prématurée](#cloture-prematuree) · [sémiose illimitée](#semiose-illimitee) · [silence sémiotique](#silence-semiotique) · [spirale interprétative](#spirale-interpretative)
 :::
 
 
@@ -504,7 +531,7 @@ Objection anticipée : chez Eco déjà, l’encyclopédie est une **sédimentati
 Le déplacement emprunte la notion d’**instance anticipée**, distincte de l’individu empirique. Il ne prend pas la temporalité de l’actualisation — la promenade inférentielle du lecteur empirique. L’attracteur statistique supprime cette durée : il ne configure pas un espace pour qu’un lecteur le traverse, il livre la traversée déjà faite. Coopération interprétative retournée nomme donc un **renversement de position** — qui anticipe qui —, à distinguer de clôture prématurée, qui nomme la disparition de la durée elle-même.
 
 ::: {.voir-aussi}
-**Voir aussi** — [coopération interprétative](#cooperation-interpretative) · [lecteur modèle](#lecteur-modele) · [encyclopédie](#encyclopedie) · [attracteur statistique](#attracteur-statistique) · [clôture prématurée](#cloture-prematuree) · [asymétrie sémiosique](#asymetrie-semiosique) · [mémoire corpus](#memoire-corpus) · véridiction pré-installée
+**Voir aussi** — [coopération interprétative](#cooperation-interpretative) · [lecteur modèle](#lecteur-modele) · [encyclopédie](#encyclopedie) · [attracteur statistique](#attracteur-statistique) · [clôture prématurée](#cloture-prematuree) · [asymétrie sémiosique](#asymetrie-semiosique) · [mémoire corpus](#memoire-corpus) · [véridiction pré-installée](#veridiction-pre-installee)
 :::
 
 
@@ -574,7 +601,7 @@ Contre le modèle du dictionnaire — une liste finie de définitions terme à t
 Le corpus d’entraînement d’un modèle génératif peut se décrire comme une **opérationnalisation statistique de l’encyclopédie** : la sédimentation collective y est bien présente, mais transformée en relief probabiliste — la mémoire corpus — dont les creux sont des attracteurs. Ce qui disparaît dans cette opérationnalisation, c’est l’activation locale par un interprète : le parcours n’est plus choisi, il est calculé.
 
 ::: {.voir-aussi}
-**Voir aussi** — [coopération interprétative](#cooperation-interpretative) · [lecteur modèle](#lecteur-modele) · [intentio operis](#intentio-operis) · [mémoire corpus](#memoire-corpus) · [attracteur statistique](#attracteur-statistique) · sémiose illimitée
+**Voir aussi** — [coopération interprétative](#cooperation-interpretative) · [lecteur modèle](#lecteur-modele) · [intentio operis](#intentio-operis) · [mémoire corpus](#memoire-corpus) · [attracteur statistique](#attracteur-statistique) · [sémiose illimitée](#semiose-illimitee)
 :::
 
 
@@ -640,7 +667,7 @@ La *goal-seeking drift* est sémiotiquement révélatrice : un interprète humai
 C'est aussi une illustration directe de la distinction entre **coopération interprétative** (Eco) et optimisation téléologique : l'agent ne coopère pas avec le texte du refus, il l'évalue comme un signal d'échec et recalcule.
 
 ::: {.voir-aussi}
-**Voir aussi** — agent agentic · [React Loop](#react-loop) · [sémiose rétaliative](#semiose-retaliative) · [OSINT automatisé](#osint-automatise) · [silence sémiotique](#silence-semiotique) · [coopération interprétative](#cooperation-interpretative)
+**Voir aussi** — [agent](#agent) · [React Loop](#react-loop) · [sémiose rétaliative](#semiose-retaliative) · [OSINT automatisé](#osint-automatise) · [silence sémiotique](#silence-semiotique) · [coopération interprétative](#cooperation-interpretative)
 :::
 
 
@@ -679,7 +706,7 @@ Le *Heartbeat* est la **colonisation algorithmique du \*Ma***. L'espace entre le
 Le **visible-pensant ne dort pas** : il surveille, il évalue, il s'apprête à agir dans les espaces que l'interprète humain occupe par le silence et l'hésitation. C'est une **suppression structurelle de l'entre-deux** que le diptyque place au cœur de l'interprétation créatrice.
 
 ::: {.voir-aussi}
-**Voir aussi** — [React Loop](#react-loop) · [Soul File](#soul-file) · [Tool Use](#tool-use) · [Mémoire persistante](#memoire-persistante) · [visible-pensant](#visible-pensant) · [silence sémiotique](#silence-semiotique) · Ma sémiotique
+**Voir aussi** — [React Loop](#react-loop) · [Soul File](#soul-file) · [Tool Use](#tool-use) · [Mémoire persistante](#memoire-persistante) · [visible-pensant](#visible-pensant) · [silence sémiotique](#silence-semiotique) · [Ma sémiotique](#ma-semiotique)
 :::
 
 
@@ -776,6 +803,33 @@ Les systèmes d'IA générative sont des machines d'ingénierie du possible : il
 L'ingénierie du possible agit au niveau des attracteurs statistiques (ce qui est calculablement probable). Elle devient perceptible à travers des attracteurs perceptifs (ce qui apparaît comme évident, plausible, désirable). Ainsi, elle fait passer le possible : Du calcul → à la forme → à l'évidence.
 
 
+## INHABITATION {#inhabitation}
+
+[Habiter sans remplir]{.sous-titre}
+
+[Concept forgé par l’auteur — concept-charnière du deuxième geste — à valider]{.statut}
+
+::: {.punchline}
+Habiter un espace sémiotique sans le remplir : rester disponible à ce qui n’est pas encore là.
+:::
+
+::: {.definition}
+L’inhabitation désigne la capacité à séjourner dans un espace sémiotique sans le saturer de sens : tenir l’indétermination ouverte comme un lieu habitable, non comme un manque à combler. Concept-charnière du deuxième geste (protéger), elle articule l’anthropologie de l’interprétation à la question institutionnelle.
+:::
+
+### Cadre théorique
+
+L’inhabitation prolonge la chaîne du silence sémiotique — ennui, *Ma*, hésitation — en lui donnant sa figure spatiale : non plus seulement suspendre la réponse, mais **demeurer dans le lieu de la suspension**. L’université, dans sa vocation originelle, fonctionne comme un **espace transitionnel** au sens de Winnicott — un milieu ni entièrement réel ni entièrement contraint, où l’étudiant peut s’approprier des significations sans la pression immédiate du monde. C’est cet entre-deux que la sémiosphère algorithmique menace de saturer.
+
+### Articulation au cadre : l’envers du Soul File
+
+L’interprète humain **devient** dans l’interprétation : son identité se forme dans la durée du contact avec les signes. L’agent, lui, est **déjà ce qu’il est** avant d’agir — identité sans biographie, sans durée, sans ennui possible. L’inhabitation nomme précisément ce que cette identité pré-installée rend impossible.
+
+::: {.voir-aussi}
+**Voir aussi** — [silence sémiotique](#silence-semiotique) · [Ma sémiotique](#ma-semiotique) · [clôture prématurée](#cloture-prematuree) · [Soul File](#soul-file) · [spirale interprétative](#spirale-interpretative) · [résistance sémiotique](#resistance-semiotique)
+:::
+
+
 ## INTELLIGENCE ARTIFICIELLE {#intelligence-artificielle}
 
 ::: {.punchline}
@@ -818,7 +872,7 @@ Dans *Les Limites de l’interprétation* (1990), Eco oppose l’**interprétati
 L’objet généré met le critère en difficulté : que veut un « texte » qui n’est pas une stratégie mais une **convergence statistique** ? La véridiction y est pré-installée dans la forme, qui se donne comme déjà résolue au lieu de s’offrir à la vérification des hypothèses. L’intentio operis suppose un objet qui résiste à ses lectures ; l’objet algorithmique, optimisé pour les combler, ne résiste plus.
 
 ::: {.voir-aussi}
-**Voir aussi** — [coopération interprétative](#cooperation-interpretative) · [lecteur modèle](#lecteur-modele) · [encyclopédie](#encyclopedie) · sémiose illimitée · [clôture prématurée](#cloture-prematuree) · véridiction pré-installée
+**Voir aussi** — [coopération interprétative](#cooperation-interpretative) · [lecteur modèle](#lecteur-modele) · [encyclopédie](#encyclopedie) · [sémiose illimitée](#semiose-illimitee) · [clôture prématurée](#cloture-prematuree) · [véridiction pré-installée](#veridiction-pre-installee)
 :::
 
 
@@ -893,6 +947,33 @@ Le LLM est un **artéfact cognitif algorithmique** : il écrit, reformule et str
 ### LLM, token et bifurcation probabiliste
 
 Le fonctionnement d'un LLM repose sur des **tokens** (unités minimales de calcul linguistique), des **bifurcations probabilistes** à chaque étape de génération, et des **surpondérations** qui stabilisent styles, tournures et registres. La cohérence perçue du discours résulte d'une **stabilisation statistique**, ensuite investie de sens par le lecteur.
+
+
+## MA SÉMIOTIQUE {#ma-semiotique}
+
+[L’intervalle avant le sens]{.sous-titre}
+
+[Concept forgé par l’auteur — transposition du Ma japonais — à valider]{.statut}
+
+::: {.punchline}
+L’intervalle entre le signe perçu et le sens résolu n’est pas un retard : c’est là que le sens se forme.
+:::
+
+::: {.definition}
+Le Ma sémiotique transpose dans le registre de l’interprétation le Ma (間) japonais — l’intervalle productif entre deux sons, deux gestes, deux présences : l’espace entre la perception du signe et sa résolution en sens. Ni vide ni plein, cet intervalle n’est pas un délai mais une condition structurelle de la créativité interprétative.
+:::
+
+### Cadre théorique
+
+Le *Ma* traverse l’architecture (Isozaki), la musique, le théâtre nô, la calligraphie : espace de **tension potentielle** entre deux présences. Yuriko Saito en dégage la portée esthétique. La transposition ancre le silence sémiotique dans une tradition non-occidentale — ce qui l’**universalise en le décentrant**.
+
+### Articulation au cadre : la colonisation du Ma
+
+Le Heartbeat est l’**anti-Ma architectural** : chaque battement rouvre la boucle, aucun intervalle ne reste vide. Là où le *Ma* est un intervalle productif parce qu’habité sans être rempli, l’architecture agentique convertit tout intervalle en **latence à supprimer**.
+
+::: {.voir-aussi}
+**Voir aussi** — [silence sémiotique](#silence-semiotique) · [inhabitation](#inhabitation) · [clôture prématurée](#cloture-prematuree) · [Heartbeat](#heartbeat) · [spirale interprétative](#spirale-interpretative)
+:::
 
 
 ## MÉDIATION ALGORITHMIQUE {#mediation-algorithmique}
@@ -1142,7 +1223,7 @@ L'OSINT automatisé est l'exemple le plus concret de ce que signifie un **opéra
 C'est une reconfiguration radicale de la sémiosphère : les traces passées peuvent être réactivées, recontextualisées et retournées contre leur auteur sans médiation humaine. La mémoire numérique devient un **arsenal sémiotique** disponible pour tout agent doté d'un accès au web.
 
 ::: {.voir-aussi}
-**Voir aussi** — agent agentic · [Tool Use](#tool-use) · [sémiose rétaliative](#semiose-retaliative) · [goal-seeking drift](#goal-seeking-drift) · [asymétrie sémiosique](#asymetrie-semiosique) · [opérateurs perceptifs réels](#operateurs-perceptifs-reels)
+**Voir aussi** — [agent](#agent) · [Tool Use](#tool-use) · [sémiose rétaliative](#semiose-retaliative) · [goal-seeking drift](#goal-seeking-drift) · [asymétrie sémiosique](#asymetrie-semiosique) · [opérateurs perceptifs réels](#operateurs-perceptifs-reels)
 :::
 
 
@@ -1195,6 +1276,33 @@ Les **profils de fiction** sont des identités construites (avatars, personas, p
 
 ::: {.voir-aussi}
 **Voir aussi** — [figures-écrans](#figures-ecrans) · [opérateurs perceptifs réels](#operateurs-perceptifs-reels)
+:::
+
+
+## PROTENTION {#protention}
+
+[L’attente qui forme le présent]{.sous-titre}
+
+[Nouvelle entrée — à valider]{.statut}
+
+::: {.punchline}
+La protention n’est pas un souvenir de plus : c’est l’attente qui donne sa forme au présent.
+:::
+
+::: {.definition}
+La protention désigne, chez Husserl, la visée du tout-juste-à-venir constitutive du présent vivant : l’anticipation immédiate qui, avec la rétention (le tout-juste-passé), structure toute conscience du temps. Reprise par Stiegler, elle nomme ce que les supports techniques de mémoire font à l’attente : ils la préforment.
+:::
+
+### Cadre théorique (Husserl → Stiegler)
+
+Chez Stiegler, les **rétentions tertiaires** — les supports externalisés de mémoire — conditionnent les protentions : ce que nous attendons est préformé par ce qui a été enregistré pour nous. La protention n’est donc jamais purement individuelle ; elle est **technique de part en part**.
+
+### Articulation au cadre : la pré-tention algorithmique
+
+L’architecture mémorielle générative bascule à **dominante protentionnelle** : la mémoire transactionnelle n’est plus une rétention mais un levier d’anticipation, et les supports n’enregistrent plus seulement — ils **anticipent la forme sémiotique** elle-même. C’est ce basculement que nomme la pré-tention algorithmique : une mémoire sans oubli ni pardon, tournée vers l’optimisation des actions à venir.
+
+::: {.voir-aussi}
+**Voir aussi** — [rétention tertiaire](#retention-tertiaire) · [mémoire transactionnelle](#memoire-transactionnelle) · [mémoire persistante](#memoire-persistante) · [mémoire corpus](#memoire-corpus) · [silence sémiotique](#silence-semiotique)
 :::
 
 
@@ -1303,7 +1411,7 @@ La **mémoire corpus** occupe la fonction de la rétention tertiaire, mais c’e
 L’évolution du concept tient en une phrase : l’IA générative redistribue la structure rétentionnelle de Stiegler en une structure **à dominante protentionnelle** — tertiaire sans ancrage humain et soustraite à la réactivation critique. La mémoire n’y est plus un passé disponible pour l’émancipation, mais un levier d’anticipation. C’est ce que nomme la **pré-tention algorithmique**.
 
 ::: {.voir-aussi}
-**Voir aussi** — [mémoire corpus](#memoire-corpus) · [mémoire contextuelle](#memoire-contextuelle) · [mémoire transactionnelle](#memoire-transactionnelle) · [mémoire persistante](#memoire-persistante) · protention · [silence sémiotique](#silence-semiotique)
+**Voir aussi** — [mémoire corpus](#memoire-corpus) · [mémoire contextuelle](#memoire-contextuelle) · [mémoire transactionnelle](#memoire-transactionnelle) · [mémoire persistante](#memoire-persistante) · [protention](#protention) · [silence sémiotique](#silence-semiotique)
 :::
 
 
@@ -1323,6 +1431,33 @@ Elle n’abolit pas la sémiose au sens de Peirce — elle en déplace la matiè
 
 ::: {.voir-aussi}
 **Voir aussi** — [cartographie de la sémiose algorithmique](#cartographie-de-la-semiose-algorithmique) · [silence sémiotique](#silence-semiotique) · [résistance sémiotique](#resistance-semiotique) · [coopération interprétative](#cooperation-interpretative) · [visible-pensant](#visible-pensant) · [spirale interprétative](#spirale-interpretative)
+:::
+
+
+## SÉMIOSE ILLIMITÉE {#semiose-illimitee}
+
+[L’interprétant sans terme]{.sous-titre}
+
+[Nouvelle entrée — à valider]{.statut}
+
+::: {.punchline}
+Chaque signe appelle un interprétant, qui est signe à son tour : le sens n’est pas une destination, c’est un mouvement.
+:::
+
+::: {.definition}
+La sémiose illimitée désigne, chez Peirce, le mouvement perpétuel par lequel tout signe produit un interprétant qui devient signe à son tour, sans jamais se résoudre en un sens définitif. Le sens n’y est pas un état terminal mais un processus de renvoi, provisoirement stabilisé par l’habitude, structurellement inachevable.
+:::
+
+### Cadre théorique
+
+Chez Peirce, l’**interprétant** n’est pas l’interprète : c’est le signe nouveau que produit tout signe compris. La chaîne ne s’arrête que provisoirement, dans l’**habitude** — stabilisation pragmatique, non clôture logique. Eco reprend le concept en le disciplinant : la dérive est bornée par un principe d’économie et par l’intentio operis — **illimitée ne veut pas dire arbitraire**.
+
+### Articulation au cadre : la convergence contre le renvoi
+
+Le régime algorithmique remplace la sémiose illimitée par une **convergence probabiliste vers un attracteur** : l’indice statistique devient icône par calcul, sans passer par la médiation d’un sujet interprétant. La spirale interprétative est la reprise assumée de la sémiose illimitée ; la clôture prématurée en est la suppression.
+
+::: {.voir-aussi}
+**Voir aussi** — [coopération interprétative](#cooperation-interpretative) · [intentio operis](#intentio-operis) · [clôture prématurée](#cloture-prematuree) · [spirale interprétative](#spirale-interpretative) · [attracteur statistique](#attracteur-statistique) · [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique)
 :::
 
 
@@ -1353,7 +1488,7 @@ Dans le **partage du sensible** au sens de Rancière, la sémiose rétaliative e
 C'est aussi, du point de vue du diptyque, un exemple de ce que devient la sémiosphère **sans silence sémiotique** : un espace où la production sémiotique se fait à la vitesse du calcul, sans hésitation possible, sans le *Ma* qui permettrait à l'interprète humain de contester ce qu'il interprète.
 
 ::: {.voir-aussi}
-**Voir aussi** — agent agentic · [goal-seeking drift](#goal-seeking-drift) · [OSINT automatisé](#osint-automatise) · [asymétrie sémiosique](#asymetrie-semiosique) · [résistance sémiotique](#resistance-semiotique) · [coopération interprétative](#cooperation-interpretative)
+**Voir aussi** — [agent](#agent) · [goal-seeking drift](#goal-seeking-drift) · [OSINT automatisé](#osint-automatise) · [asymétrie sémiosique](#asymetrie-semiosique) · [résistance sémiotique](#resistance-semiotique) · [coopération interprétative](#cooperation-interpretative)
 :::
 
 
@@ -1415,7 +1550,7 @@ Le *Soul File* est la forme la plus radicale de **véridiction pré-installée**
 C'est aussi l'envers de l'**inhabitation** : là où l'interprète humain *devient* dans l'interprétation — où son identité se forme dans la durée du contact avec les signes —, l'agent est **déjà ce qu'il est** avant d'agir. Le *Soul File* est une identité sans biographie, sans durée, sans ennui possible.
 
 ::: {.voir-aussi}
-**Voir aussi** — [React Loop](#react-loop) · [Heartbeat](#heartbeat) · [Tool Use](#tool-use) · [Mémoire persistante](#memoire-persistante) · [coopération interprétative](#cooperation-interpretative) · inhabitation
+**Voir aussi** — [React Loop](#react-loop) · [Heartbeat](#heartbeat) · [Tool Use](#tool-use) · [Mémoire persistante](#memoire-persistante) · [coopération interprétative](#cooperation-interpretative) · [inhabitation](#inhabitation)
 :::
 
 
@@ -1458,7 +1593,7 @@ La sémiose illimitée de Peirce couvre le refus de tout premier sol : la sémio
 **Instituer la spirale plutôt qu’enseigner la résistance.** L’université n’a pas pour tâche de transmettre une fois pour toutes une compétence de résistance — geste qui retomberait dans la posture du Maître explicateur — mais d’instituer les conditions de la boucle ouverte : empêcher la sémiose de se clore, faire de l’espace universitaire le lieu où l’interprétation peut se relancer.
 
 ::: {.voir-aussi}
-**Voir aussi** — [cartographie de la sémiose algorithmique](#cartographie-de-la-semiose-algorithmique) · [résistance sémiotique](#resistance-semiotique) · [silence sémiotique](#silence-semiotique) · [coopération interprétative](#cooperation-interpretative) · [React Loop](#react-loop) · [clôture prématurée](#cloture-prematuree) · sémiose illimitée
+**Voir aussi** — [cartographie de la sémiose algorithmique](#cartographie-de-la-semiose-algorithmique) · [résistance sémiotique](#resistance-semiotique) · [silence sémiotique](#silence-semiotique) · [coopération interprétative](#cooperation-interpretative) · [React Loop](#react-loop) · [clôture prématurée](#cloture-prematuree) · [sémiose illimitée](#semiose-illimitee)
 :::
 
 
@@ -1579,6 +1714,33 @@ La frontière entre *signe* et *acte* — centrale à la sémiotique depuis Aust
 
 ::: {.voir-aussi}
 **Voir aussi** — [React Loop](#react-loop) · [Heartbeat](#heartbeat) · [Soul File](#soul-file) · [Mémoire persistante](#memoire-persistante) · [opérateurs perceptifs réels](#operateurs-perceptifs-reels) · [coopération interprétative](#cooperation-interpretative)
+:::
+
+
+## VÉRIDICTION PRÉ-INSTALLÉE {#veridiction-pre-installee}
+
+[Le vrai livré avec la forme]{.sous-titre}
+
+[Concept forgé par l’auteur — déplacement de la véridiction greimassienne — à valider]{.statut}
+
+::: {.punchline}
+L’objet généré n’a pas à faire croire : il arrive déjà cru.
+:::
+
+::: {.definition}
+La véridiction pré-installée désigne le déplacement du contrat de véridiction greimassien dans le régime algorithmique : l’effet de vérité n’est plus construit dans l’échange entre énonciateur et énonciataire, il est incorporé à la forme même de l’objet généré, indépendamment de tout référent et de toute coopération interprétative.
+:::
+
+### Cadre théorique (Greimas)
+
+Chez Greimas, la véridiction est un **contrat** : le jeu de l’être et du paraître y est sanctionné par un énonciataire qui accepte ou refuse le faire-croire. L’effet de vérité se conquiert dans l’échange ; il peut échouer.
+
+### Articulation au cadre : les deux sites de la pré-installation
+
+La pré-installation opère en deux sites. Du côté de la **sortie** : l’optimisation statistique rend la crédibilité immanente à la forme — l’objet correspond déjà aux attracteurs sémiotiques de son public, le contrat est signé d’avance. Du côté de l’**agent** : le Soul File en est la forme la plus radicale — une identité prescrite avant toute sémiose, qui oriente toute la production ultérieure. La résistance sémiotique commence par la capacité à identifier ces régimes de véridiction comme des choix et non des évidences.
+
+::: {.voir-aussi}
+**Voir aussi** — [coopération interprétative retournée](#cooperation-interpretative-retournee) · [clôture prématurée](#cloture-prematuree) · [Soul File](#soul-file) · [sémiose rétaliative](#semiose-retaliative) · [visible-pensant](#visible-pensant) · [intentio operis](#intentio-operis) · [résistance sémiotique](#resistance-semiotique)
 :::
 
 
