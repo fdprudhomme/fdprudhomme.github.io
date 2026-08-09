@@ -1,119 +1,118 @@
 ---
-title: "Curriculum vitæ"
-subtitle: "François David Prud'homme, Ph. D."
+title: "Curriculum Vitae"
+subtitle: "François David Prud'homme, PhD"
 toc: true
 toc-title: "Sections"
+lang: en
 ---
 
-Docteur en sémiologie · Chargé de cours — UQAM, UQAT, UQO
+PhD in Semiotics · Sessional Lecturer — UQAM, UQAT, UQO
 
-[fdprudhomme@gmail.com](mailto:fdprudhomme@gmail.com) · [vimeo.com/fdprudhomme](https://vimeo.com/fdprudhomme) · ORCID : [0009-0001-1460-6594](https://orcid.org/0009-0001-1460-6594)
+[fdprudhomme@gmail.com](mailto:fdprudhomme@gmail.com) · [vimeo.com/fdprudhomme](https://vimeo.com/fdprudhomme) · ORCID: [0009-0001-1460-6594](https://orcid.org/0009-0001-1460-6594)
 
 ---
 
-## Profil de recherche
+## Research Profile
 
-Mes recherches se situent à l'intersection de la sémiotique, de l'esthétique du cinéma et des études critiques sur l'intelligence artificielle générative. Spécialisé en logique des mondes possibles et en théorie de la coopération interprétative, je développe des cadres théoriques permettant de décrire les régimes de sémiose que les systèmes génératifs instaurent. Ma thèse de doctorat a porté sur l'accessibilité esthétique des mondes possibles au cinéma ; mes travaux postdoctoraux prolongent le concept d'*opérateurs d'accessibilité* vers celui d'*opérateurs perceptifs réels*, avec des implications directes pour la refonte des études supérieures.
+My work sits at the intersection of semiotics, film aesthetics and critical studies of generative artificial intelligence. Trained in possible-worlds logic and in the theory of interpretive cooperation, I develop conceptual frameworks for describing the semiotic regimes that generative systems institute. My doctoral thesis addressed the aesthetic accessibility of possible worlds in cinema; my postdoctoral work extends the concept of *accessibility operators* toward that of *real perceptual operators*, with direct implications for the redesign of higher education.
 
-## Projet de recherche postdoctoral
+## Postdoctoral Research Project
 
-### La coopération interprétative à l'ère de la sémiose algorithmique
+### Interpretive Cooperation in the Age of Algorithmic Semiosis
 
-*Cartographier, habiter, résister : pour une refonte sémiotique des études supérieures*
+*Mapping, dwelling, resisting: toward a semiotic redesign of higher education*
 
-Le concept pivot est la *coopération interprétative* d'Eco : tout objet sémiotique est une machine paresseuse dont les blancs appellent le voyage inférentiel du lecteur. L'IA générative effectue l'opération inverse — la *coopération interprétative retournée*. Optimisés pour converger vers les attracteurs sémiotiques d'un public, les systèmes génératifs livrent un objet déjà interprété, dont la crédibilité est immanente à la forme. La sémiose illimitée de Peirce cède à une convergence probabiliste.
+The pivotal concept is Eco's *interpretive cooperation*: every semiotic object is a lazy machine whose gaps call for the reader's inferential journey. Generative AI performs the inverse operation, which I call *reversed interpretive cooperation*. Optimised to converge on an audience's semiotic attractors, generative systems deliver an object that arrives already interpreted, its credibility immanent to its form. Peirce's unlimited semiosis gives way to probabilistic convergence.
 
-Le projet se déploie en trois gestes. **Cartographier** décrit le régime sémiotique des objets algorithmiques : attracteurs statistiques, clôture prématurée, régimes de perceptibilité. **Habiter** développe le *silence sémiotique* et l'*inhabitation* comme conditions anthropologiques de l'interprétation, structurellement absentes de la sémiose computationnelle. **Résister** propose l'*enquête seconde* comme protocole opératoire — un « Blow Up algorithmique » qui transforme la sortie générée de destination en sonde. Le système génératif fonctionne comme un *explicateur* au sens du *Maître ignorant* de Rancière ; l'enquête seconde est la contre-conduite qui restitue à l'interprète la position de celui qui cherche.
+The project unfolds through three gestures. **Mapping** describes the semiotic regime of algorithmic objects: statistical attractors, premature closure, regimes of perceptibility. **Dwelling** develops *semiotic silence* and *inhabitation* as anthropological conditions of interpretation, structurally absent from computational semiosis. **Resisting** proposes the *second inquiry* (*enquête seconde*) as an operative protocol — an "algorithmic *Blow Up*" that turns generated output from destination into probe. The generative system functions as an *explicator* in the sense of Rancière's *The Ignorant Schoolmaster*; the second inquiry is the counter-conduct that restores to the interpreter the position of one who searches.
 
-L'enquête empirique traverse les trois gestes : textes et images génératives interrogés du point de vue de leurs attracteurs dominants, interfaces cognitives universitaires analysées comme opérateurs perceptifs réels, productions étudiantes lues pour y repérer les traces du court-circuit inférentiel.
+Empirical work runs across all three gestures: generative texts and images interrogated for their dominant attractors, university cognitive interfaces analysed as real perceptual operators, and student production read for traces of the inferential short circuit.
 
-[Lire le résumé complet](recherche.qmd)
+[Read the full summary](research.qmd)
 
-## Formation
+## Education
 
-**Doctorat en sémiologie** — Université du Québec à Montréal, 2022  
-Thèse : « L'accessibilité esthétique des mondes possibles au cinéma ». Direction : Sylvano Santini et Bertrand Gervais.
+**PhD in Semiotics** — Université du Québec à Montréal, 2022  
+Thesis: *L'accessibilité esthétique des mondes possibles au cinéma* [The Aesthetic Accessibility of Possible Worlds in Cinema]. Supervisors: Sylvano Santini and Bertrand Gervais.
 
-**Baccalauréat ès arts** — Université du Québec à Montréal, 2013  
-Mineure en études classiques (2010) · Certificat en scénarisation (2009) · Certificat en création littéraire (2008)
+**Bachelor of Arts** — Université du Québec à Montréal, 2013  
+Minor in Classical Studies (2010) · Certificate in Screenwriting (2009) · Certificate in Creative Writing (2008)
 
-## Bourses et distinctions
+## Awards and Distinctions
 
-**Bourse de recherche et de création** — Conseil des arts du Canada, 2022
+**Research and Creation Grant** — Canada Council for the Arts, 2022
 
-**Bourse du Fonds du Département d'études littéraires** — Doctorat pluridisciplinaire en études sémiotiques, UQAM, 2020
+**Département d'études littéraires Fund Scholarship** — Interdisciplinary Doctorate in Semiotic Studies, UQAM, 2020
 
-**Bourse d'excellence FARE**, double lauréat — Fonds à l'accessibilité et à la réussite des études, UQAM, 2018–2020
+**FARE Excellence Scholarship**, twice awarded — Fonds à l'accessibilité et à la réussite des études, UQAM, 2018–2020
 
 ## Publications
 
-### À paraître
+### Forthcoming
 
-PRUD'HOMME, François David. « De machine et de mémoire : remédiation sémiotique et auctorialité distribuée dans la cocréation visuelle par requête. » Dans les actes du colloque international *Auctorialités augmentées en régime numérique*, CY Cergy Paris Université et Université Sorbonne-Nouvelle. Texte remis en juillet 2026.
+PRUD'HOMME, François David. "De machine et de mémoire : remédiation sémiotique et auctorialité distribuée dans la cocréation visuelle par requête" [Of Machine and Memory: Semiotic Remediation and Distributed Authorship in Prompt-Based Visual Co-creation]. In the proceedings of the international conference *Auctorialités augmentées en régime numérique*, CY Cergy Paris Université and Université Sorbonne-Nouvelle. Submitted July 2026.
 
-### En préparation
+### In Preparation
 
-PRUD'HOMME, François David. « La coopération interprétative retournée : attracteurs statistiques, clôture prématurée et silence sémiotique. » Soumission prévue : *Semiotica* (De Gruyter).
+PRUD'HOMME, François David. "Reversed Interpretive Cooperation: Statistical Attractors, Premature Closure and Semiotic Silence." Target journal: *Semiotica* (De Gruyter).
 
-PRUD'HOMME, François David. « L'enquête seconde : un protocole rancièrien contre la clôture prématurée dans les études supérieures. » Soumission prévue : *Postdigital Science and Education* (Springer).
+PRUD'HOMME, François David. "The Second Inquiry: A Rancièrian Protocol Against Premature Closure in Higher Education." Target journal: *Postdigital Science and Education* (Springer).
 
-### Travaux numériques
+### Digital Scholarship
 
-*Glossaire de la sémiose algorithmique.* Édition numérique évolutive, [fdprudhomme.com/glossaire](glossaire/index.qmd). Cinquante-six entrées organisées en trois registres.
+*Glossaire de la sémiose algorithmique* [Glossary of Algorithmic Semiosis]. Evolving digital edition, [fdprudhomme.com/glossaire](../glossaire/index.qmd). Fifty-six entries organised across three registers.
 
-### Ouvrages, articles et recensions
+### Books, Articles and Reviews
 
-PRUD'HOMME, François David. *Watchmen, l'aube d'une humanité.* Montréal : Les Éditions Ta Mère, collection Pop-en-Stock. [Essai philosophique, monographie]
+PRUD'HOMME, François David. *Watchmen, l'aube d'une humanité*. Montréal: Les Éditions Ta Mère, Pop-en-Stock series. [Philosophical essay, monograph]
 
-Recensions publiées dans *Cygne noir, revue d'exploration sémiotique* (UQAM).
+Reviews published in *Cygne noir, revue d'exploration sémiotique* (UQAM). Articles published in academic and graduate journals at UQAM.
 
-Articles publiés dans des revues étudiantes et académiques de l'UQAM.
+### Conference Proceedings
 
-### Actes de colloque
+PRUD'HOMME, François David. Paper published in *Les variations Jarmusch*, Lettres et civilisations étrangères, Université d'Artois, 2014. Proceedings of the international conference *Le Cinéma de Jim Jarmusch*, Université d'Artois, Arras, France.
 
-PRUD'HOMME, François David. Communication publiée dans *Les variations Jarmusch*, Lettres et civilisations étrangères, Université d'Artois, 2014. Actes du colloque international *Le Cinéma de Jim Jarmusch*, Université d'Artois, Arras (France).
+## Conference Papers
 
-## Communications scientifiques
+**International Conference — Auctorialités augmentées en régime numérique** [Augmented Authorship in the Digital Regime] — CY Cergy Paris Université and Université Sorbonne-Nouvelle, Paris, 2–3 June 2026  
+"De machine et de mémoire: semiotic remediation and distributed authorship in prompt-based visual co-creation." Panel "Algorithmic Authorship: Delegation, Remediation and Figures of the Visible," co-convened with Bertrand Gervais (UQAM).
 
-**Colloque international — Auctorialités augmentées en régime numérique** — CY Cergy Paris Université et Université Sorbonne-Nouvelle, Paris, 2–3 juin 2026  
-« De machine et de mémoire : remédiation sémiotique et auctorialité distribuée dans la cocréation visuelle par requête. » Panel « Auctorialités algorithmiques : délégation, remédiation et figures du visible », coorganisé avec Bertrand Gervais (UQAM).
+**93rd Acfas Congress — Emerging Research in Communication** — Université du Québec à Trois-Rivières, 15 May 2026  
+"The eco-visible is already here — eco-vision remains to be invented."
 
-**93<sup>e</sup> Congrès de l'Acfas — Pratiques et innovations (inter)disciplinaires : recherches émergentes en communication** — Université du Québec à Trois-Rivières, 15 mai 2026  
-« L'écovisible est déjà là — l'écovision reste à inventer. »
+**Deleuze Studies International Conference** — Università degli Studi di Roma Tre, Italy, 2016
 
-**Colloque international Deleuze Studies** — Università degli Studi di Roma Tre, Italie, 2016
+**International Bilingual Conference — The Cinema of Jim Jarmusch** — Université d'Artois, Arras, France, 2015  
+Proceedings published in *Les variations Jarmusch*, Lettres et civilisations étrangères, Université d'Artois.
 
-**Colloque international bilingue — Le Cinéma de Jim Jarmusch** — Université d'Artois, Arras, France, 2015  
-Actes publiés : *Les variations Jarmusch*, Lettres et civilisations étrangères, Université d'Artois.
+**"Une folie du voir dans l'extrême contemporain"** — NT2 Laboratory and FIGURA, UQAM, 2014  
+Co-organiser and speaker.
 
-**Une folie du voir dans l'extrême contemporain** — Laboratoire NT2 et FIGURA, UQAM, 2014  
-Organisation et participation.
+## Teaching Experience
 
-## Expérience d'enseignement
+**Sessional Lecturer — Department of Literary Studies and Screenwriting** — Université du Québec à Montréal, 2018–present
 
-**Chargé de cours — Département d'études littéraires et Scénarisation** — Université du Québec à Montréal, 2018–présent
+Literature and Cinema · Reading the Moving Image · Semiotics · Film Reading: Film Criticism · From Film Noir to Neo-Noir · Reading Screenplays · Plot and Screenplay
 
-LIT4345 Littérature et cinéma · LIT4165 Lecture de l'image en mouvement · LIT3190 Sémiotique · LIT450F Lecture de film : la critique cinématographique · LIT455L Du film noir au néo-noir · LIT2845 Lecture de scénarios · LIT2840 Intrigue et scénario
+**Sessional Lecturer — Creation and New Media** — Université du Québec en Abitibi-Témiscamingue, Rouyn-Noranda, 2022–present
 
-**Chargé de cours — Création et nouveaux médias** — Université du Québec en Abitibi-Témiscamingue, Rouyn-Noranda, 2022–présent
+Film Language · Screenwriting · Film Genres · Directed Studios in Creation and New Media
 
-CIN1202 Langage cinématographique · CIN1203 Scénarisation cinématographique · CIN1208 Les genres cinématographiques · AAR1121 / ARN2047 Ateliers dirigés en création et en nouveaux médias
+**Sessional Lecturer — École multidisciplinaire de l'image** — Université du Québec en Outaouais, Gatineau, 2023–present
 
-**Chargé de cours — École multidisciplinaire de l'image** — Université du Québec en Outaouais, Gatineau, 2023–présent
+Semiotics of the Image
 
-ARI1023 Sémiotique de l'image
+**Teaching and Research Assistant** — Université du Québec à Montréal, 2016–2021  
+Student supervision, workshop facilitation, marking and research support.
 
-**Auxiliaire d'enseignement et de recherche** — Université du Québec à Montréal, 2016–2021  
-Encadrement pédagogique, animation d'ateliers, correction et soutien à la recherche.
+## Related Professional Activity
 
-## Activités professionnelles connexes
+**Writer and Critic — SÉQUENCES, la revue de cinéma** — Montréal, 2013–2017  
+Film analysis, criticism and studies in cult and classical cinema.
 
-**Rédacteur et critique — SÉQUENCES, la revue de cinéma** — Montréal, 2013–2017  
-Analyses cinématographiques, critiques filmiques et études sur le cinéma culte et classique.
+**Independent Filmmaker and Screenwriter** — Montréal, 2014–present  
+Short films, documentaries and films on art screened at international festivals. [vimeo.com/fdprudhomme](https://vimeo.com/fdprudhomme)
 
-**Cinéaste, scénariste et réalisateur indépendant** — Montréal, 2014–présent  
-Courts-métrages, documentaires et films sur l'art présentés en festivals. [vimeo.com/fdprudhomme](https://vimeo.com/fdprudhomme)
+## Languages
 
-## Langues
-
-Français (langue maternelle) · Anglais (courant) · Italien (lu et écrit) · Allemand (intermédiaire)
+French (native) · English (fluent) · Italian (reading and writing) · German (intermediate)
