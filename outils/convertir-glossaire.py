@@ -36,7 +36,9 @@ PREFIXES_SOUS_TITRE = (
     "généalogie", "rapport", "lien", "et ", "définition",
 )
 
-STATUTS = re.compile(r"^\*+\[(.+?)\]\*+$")
+# Les crochets peuvent arriver échappés (\[...\]) : certaines versions de
+# pandoc protègent les crochets littéraux en sortie markdown, d'autres non.
+STATUTS = re.compile(r"^\*+\\?\[(.+?)\\?\]\*+$")
 PUNCHLINE = re.compile(r"^\*\*\*(.+?)\*\*\*$", re.S)
 DEFINITION = re.compile(r"^\*(?!\*)(.+?)\*$", re.S)
 VOIR_AUSSI = re.compile(r"^\*?Voir aussi\s*:\s*(.+?)\.?\*?$", re.I | re.S)
@@ -259,8 +261,14 @@ def main() -> None:
             lignes.append(f"::: {{.punchline}}\n{m.group(1).strip()}\n:::\n")
             continue
 
-        m = DEFINITION.match(bloc)
-        if m and len(bloc) > 60:
+        # La définition (paragraphe italique bordé dans Word) peut ressortir
+        # de pandoc en bloc de citation (« > *...* ») selon la version : on
+        # déshabille l'éventuel préfixe de citation avant de tester.
+        nu = bloc
+        if all(l.lstrip().startswith(">") for l in bloc.splitlines()):
+            nu = "\n".join(l.lstrip().lstrip(">").strip() for l in bloc.splitlines()).strip()
+        m = DEFINITION.match(nu)
+        if m and len(nu) > 60:
             lignes.append(f"::: {{.definition}}\n{m.group(1).strip()}\n:::\n")
             continue
 
