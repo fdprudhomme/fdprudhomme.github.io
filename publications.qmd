@@ -45,6 +45,6 @@ Education* (Springer).
 :::
 ::: {.cv-corps}
 **Titre de la thèse**
-[Thèse de doctorat en sémiologie, UQAM. Direction : Bertrand Gervais.]{.lieu}
+[Thèse de doctorat en sémiologie, UQAM. Direction : Sylvano Santini et Bertrand Gervais.]{.lieu}
 :::
 :::
