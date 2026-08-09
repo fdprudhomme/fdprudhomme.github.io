@@ -6,3 +6,5 @@ _site/
 outils/source/*.docx
 
 /.quarto/
+
+**/*.quarto_ipynb
