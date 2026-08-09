@@ -1,0 +1,285 @@
+---
+title: "Interpretive Cooperation in the Age of Algorithmic Semiosis"
+subtitle: "Postdoctoral project"
+lang: en
+toc: true
+toc-title: "On this page"
+---
+
+[Summary]{.eyebrow}
+
+::: {.chapeau}
+Generative systems deliver objects that are *already interpreted*: the
+inferential walk that once belonged to the reader is pre-executed by
+computation. This project describes that regime — **algorithmic semiosis** —
+through three gestures, and draws out its consequences for the university as a
+site of interpretation.
+:::
+
+*Mapping, dwelling, resisting: toward a semiotic reform of higher education.*
+
+::: {.carte}
+::: {.geste-1}
+### Mapping
+[Describe]{.verbe}
+
+Turning probabilistic reliefs into a legible map.
+
+- statistical attractor
+- perceptual attractor
+- probabilistic bifurcation
+- the thinking-visible
+- real perceptual operators
+:::
+
+::: {.geste-2}
+### Dwelling
+[Protect]{.verbe}
+
+Holding the not-yet-resolved against premature closure.
+
+- semiotic silence
+- *Ma*
+- inhabitation
+- hesitation
+- transitional space (Winnicott)
+:::
+
+::: {.geste-3}
+### Resisting
+[Act]{.verbe}
+
+Restoring to the interpreter the position of one who searches.
+
+- semiotic resistance
+- the second inquiry
+- the inferential walk, resumed
+- emancipation (Rancière)
+- a pedagogy of indeterminacy
+:::
+:::
+
+The conceptual vocabulary above is developed at length in the
+[*Glossaire de la sémiose algorithmique*](../glossaire/index.qmd), currently
+available in French only.
+
+## The problem
+
+My doctoral thesis (*L'accessibilité esthétique des mondes possibles au cinéma*,
+UQAM, 2022) developed the concept of *accessibility operators*: the
+double-addressed semiotic signals by which characters and viewers cross the
+boundaries between fictional worlds. This project examines the contemporary
+mutation of that mechanism. In the age of generative AI, the devices that orient
+semiosis spill beyond fictional universes and act as *real perceptual
+operators*: generative images, LLM outputs, automated syntheses and pedagogical
+interfaces reconfigure the conditions of semiosis itself. The boundary has
+shifted, and now runs between the interpreting subject and the semiotic object.
+
+The pivotal concept is Eco's *interpretive cooperation*: every semiotic object
+is a lazy machine whose gaps call for the reader's inferential journey.
+Generative AI performs the inverse operation — what I call **reversed
+interpretive cooperation**. Optimised to converge on an audience's semiotic
+attractors, generative systems deliver an object that arrives already
+interpreted, its credibility immanent to its form. The inferential walk that was
+the interpreter's work becomes an operation pre-executed by computation; the
+journey is replaced by a pre-calculated destination. Semiotics describes this
+mechanism with a precision that neither philosophy of technology nor cognitive
+science reaches alone: Peirce's unlimited semiosis gives way to probabilistic
+convergence, where the index becomes icon by computation and Greimasian
+veridiction is pre-installed in the form. Where Deleuze conceived the
+image-thought as a putting-into-crisis of thought, the algorithmic regime
+anticipates the crisis in order to defuse it: indeterminacy becomes an anomaly
+to be corrected.
+
+The stakes are institutional. The university has cultivated interpretive
+cooperation since its origins: reading difficult texts, tolerating indeterminacy,
+defending and revising one's inferences. When AI short-circuits that journey, it
+raises far more than a question of academic integrity — it forces a rethinking
+of the very purposes of education, that is, of the kind of semiotic subject the
+university sets out to form.
+
+## Three gestures
+
+The project describes *algorithmic semiosis* through three complementary
+gestures.
+
+### Mapping
+
+The diagnostic gesture: describing the generative milieu as a territory of
+probabilistic reliefs — attractors, overweightings, bifurcations — in which a
+prompt converges on pre-stabilised forms. The *thinking-visible*, the regime of
+generative images in which form resolves its own interpretant, and *algorithmic
+textuality*, its discursive counterpart, appear here as reliefs on the map.
+
+The properly semiotic contribution is to describe the chain of transduction
+running from the statistical attractor to the perceptual attractor: the passage
+from index to iconic sign, mediated by computation. The emergence of sparse
+autoencoders (SAEs), theorised here as partial renderings of Eco's
+computational encyclopaedia, provides empirical purchase on this gesture for the
+first time.
+
+### Dwelling
+
+The anthropological gesture: naming what the proliferation of algorithmic agents
+makes visible by contrast. *Semiotic silence* designates the interval between the
+perception of a sign and its resolution into meaning — a structural condition of
+interpretive creativity, grounded in phenomenological boredom (Husserl,
+Heidegger), the Japanese *Ma*, the Lotmanian boundary and Eco's hesitation. Its
+inverse is *premature closure*, the structural pathology of agentic
+architectures in which each cycle calls forth the next.
+
+From this gesture comes the hinge concept of *inhabitation* — dwelling in a
+semiotic space without filling it — which connects the anthropology of
+interpretation to the institutional question: the university functions as a
+transitional space in Winnicott's sense, and it is precisely this in-between
+that the algorithmic semiosphere threatens to saturate.
+
+### Resisting
+
+The political-pedagogical gesture, and the project's most original contribution.
+*Semiotic resistance* is a critical stance: Rancière's emancipation of the gaze,
+extended to the interpreting subject as a whole. Its operative protocol is the
+*second inquiry* (*enquête seconde*): an "algorithmic *Blow Up*" that turns
+generated output from destination into probe and resumes the pre-executed
+inferential walk. The generative system functions as an explicator in the sense
+of *The Ignorant Schoolmaster*; the second inquiry is the counter-conduct that
+restores to the interpreter the position of one who searches.
+
+Deliverables: a diagnosis of the state of higher education in the face of AI; a
+set of devices for a pedagogy of indeterminacy that treats hesitation, silence
+and slowness as competences rather than defects; and a contribution to
+curriculum reform grounded in the formation of a critical semiotic subject.
+
+::: {.charniere}
+### Hinge — the interpretive spiral
+
+The three gestures coil rather than follow one another: mapping makes dwelling
+and resisting possible, which in turn produces new reliefs to map. This open
+loop is the structural opposite of premature closure — the project's
+methodological principle as much as its theoretical wager.
+:::
+
+## Method
+
+Empirical inquiry runs across all three gestures as a transversal method rather
+than a separate strand. It combines three approaches: semiotic analysis of
+forms, describing the dominant attractors of a generated corpus; analysis of
+devices, treating interfaces as real perceptual operators; and interviews with
+students and instructors, documenting the situated experience of the inferential
+short circuit.
+
+## Corpus and fieldwork
+
+Three types of paradigmatic object:
+
+**Generative texts and images** from current-generation models, interrogated for
+their dominant attractors — which forms are overweighted, which bodies, faces
+and spaces are produced as "natural" or "universal".
+
+**University cognitive interfaces** — platforms, automated marking, LLM
+assistants — analysed as real perceptual operators that reconfigure the act of
+learning upstream of any particular use.
+
+**AI-assisted student work**, read for traces of the inferential short circuit.
+
+## Contribution and stance
+
+Dominant discourse on AI and education oscillates between integrative enthusiasm
+and regulatory panic, two positions that treat AI as a neutral tool whose use
+must be managed: the managerial register this project takes as its object of
+critique. The project holds that generative AI acts as a real perceptual
+operator, reconfiguring the conditions of seeing, reading, thinking and
+believing independently of use. The pedagogical question then becomes: what
+semiotic ecology must the university build so that human beings remain the
+subjects of their own semiosis?
+
+In **semiotics**, the project updates foundational concepts in the context of
+algorithmic production and opens onto a computational semiotics. In **media
+theory**, it connects the French tradition — Stiegler, with algorithmic
+pre-tention as a deformation of tertiary retention; Simondon; Rancière — to the
+cognitive science of distributed cognition (Hutchins, Norman). In **education
+research**, it proposes a shift from digital competences to semiotic formation,
+making resistance to algorithmic semiosis an academic competence in its own
+right.
+
+The stance is descriptive and anti-hermeneutic, in Bertrand Gervais's sense: to
+describe the semiotic regimes that algorithmic outputs institute, and to reopen,
+through the second inquiry, the process their form claims to close. That
+description is the condition of any serious critical pedagogy.
+
+## References
+
+A selection; the full apparatus appears in the long version of the project.
+
+DE CERTEAU, Michel. 1980. *L'Invention du quotidien, 1. Arts de faire*. Paris:
+Union générale d'éditions.
+
+DELEUZE, Gilles. 1985. *Cinéma 2. L'Image-temps*. Paris: Minuit.
+
+ECO, Umberto. 1979. *Lector in fabula. La cooperazione interpretativa nei testi
+narrativi*. Milan: Bompiani.
+
+ECO, Umberto. 1990. *The Limits of Interpretation*. Bloomington: Indiana
+University Press.
+
+ECO, Umberto. 1989 [1962]. *The Open Work*. Trans. Anna Cancogni. Cambridge
+(Mass.): Harvard University Press.
+
+GERVAIS, Bertrand. 2024. "Formes de l'identité-flux : figure-écran, profil de
+fiction et imagination artificielle." *Revue des sciences humaines*, no. 352,
+57–72.
+
+GREIMAS, Algirdas Julien, and Joseph COURTÉS. 1979. *Sémiotique. Dictionnaire
+raisonné de la théorie du langage*. Paris: Hachette.
+
+HUTCHINS, Edwin. 1995. *Cognition in the Wild*. Cambridge (Mass.): MIT Press.
+
+LOTMAN, Yuri M. 1990. *Universe of the Mind: A Semiotic Theory of Culture*.
+Trans. Ann Shukman. London / New York: I. B. Tauris.
+
+NORMAN, Donald A. 1991. "Cognitive Artifacts." In John M. CARROLL (ed.),
+*Designing Interaction: Psychology at the Human-Computer Interface*. Cambridge:
+Cambridge University Press, 17–38.
+
+PEIRCE, Charles Sanders. 1931–1958. *Collected Papers*. Cambridge (Mass.):
+Harvard University Press.
+
+PRUD'HOMME, François David. 2022. *L'accessibilité esthétique des mondes
+possibles au cinéma*. PhD thesis in semiotics. Montreal: Université du Québec à
+Montréal.
+
+RANCIÈRE, Jacques. 1991 [1987]. *The Ignorant Schoolmaster: Five Lessons in
+Intellectual Emancipation*. Trans. Kristin Ross. Stanford: Stanford University
+Press.
+
+RANCIÈRE, Jacques. 2004 [2000]. *The Politics of Aesthetics: The Distribution of
+the Sensible*. Trans. Gabriel Rockhill. London: Continuum.
+
+SIMONDON, Gilbert. 1958. *Du mode d'existence des objets techniques*. Paris:
+Aubier.
+
+STIEGLER, Bernard. 1994–2001. *La Technique et le Temps*, 3 vols. Paris:
+Galilée.
+
+TEMPLETON, Adly, *et al.* 2024. "Scaling Monosemanticity: Extracting
+Interpretable Features from Claude 3 Sonnet." *Transformer Circuits Thread*,
+Anthropic.
+
+WINNICOTT, Donald W. 1971. *Playing and Reality*. London: Tavistock.
+
+<!--
+Once the summary is deposited on Zenodo, uncomment the block below
+and paste in the DOI.
+
+::: {.avertissement}
+Full version: PRUD'HOMME, François David. 2026. *Interpretive Cooperation in the
+Age of Algorithmic Semiosis* (project summary). Zenodo.
+[https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+:::
+-->
+
+::: {.avertissement}
+This summary describes work in progress; its formulations evolve with the
+research. For the long version, or to discuss the project,
+[get in touch](mailto:fdprudhomme@gmail.com).
+:::
