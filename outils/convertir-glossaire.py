@@ -40,9 +40,23 @@ STATUTS = re.compile(r"^\*+\[(.+?)\]\*+$")
 PUNCHLINE = re.compile(r"^\*\*\*(.+?)\*\*\*$", re.S)
 DEFINITION = re.compile(r"^\*(?!\*)(.+?)\*$", re.S)
 VOIR_AUSSI = re.compile(r"^\*?Voir aussi\s*:\s*(.+?)\.?\*?$", re.I | re.S)
-TITRE_ENTREE = re.compile(r"^\*{0,3}([A-ZÀ-ÜŒÇ0-9][A-ZÀ-ÜŒÇ0-9 ,''\u2019\-]{2,})(\s+—\s+(.+?))?\*{0,3}$")
+# Les parenthèses sont autorisées dans le titre pour reconnaître des formes
+# comme « LLM (LARGE LANGUAGE MODEL) » ou « MÉMOIRE PERSISTANTE (MEMORY) » ;
+# scinder_parenthese() les sépare ensuite du terme pour ne pas polluer l'ancre.
+TITRE_ENTREE = re.compile(r"^\*{0,3}([A-ZÀ-ÜŒÇ0-9][A-ZÀ-ÜŒÇ0-9 ,''\u2019()\-]{2,})(\s+—\s+(.+?))?\*{0,3}$")
+PARENTHESE_FINALE = re.compile(r"^(.*?)\s*\((.+)\)\s*$")
 
 IGNORER = {"GLOSSAIRE IA", "CARTE DU GLOSSAIRE"}
+
+
+def scinder_parenthese(terme: str) -> tuple[str, str]:
+    """Sépare un titre du type « LLM (LARGE LANGUAGE MODEL) » en
+    (terme, précision) : le terme seul sert à l'ancre et au slug, la
+    précision devient un sous-titre si aucun autre n'a été fourni."""
+    m = PARENTHESE_FINALE.match(terme)
+    if m:
+        return m.group(1).strip(" ,"), m.group(2).strip()
+    return terme, ""
 
 
 def slug(texte: str) -> str:
@@ -83,7 +97,9 @@ def est_titre_entree(bloc: str) -> tuple[str, str] | None:
             return None
         nu = sans_balises(ligne)
         terme, _, sous = nu.partition(" — ")
-        return terme.strip(), sous.strip()
+        terme, sous = terme.strip(), sous.strip()
+        terme, paren = scinder_parenthese(terme)
+        return terme, (sous or paren)
     if len(ligne) > 110 or "\n" in ligne:
         return None
     m = TITRE_ENTREE.match(ligne)
@@ -95,7 +111,9 @@ def est_titre_entree(bloc: str) -> tuple[str, str] | None:
     lettres = [c for c in terme if c.isalpha()]
     if not lettres or sum(c.isupper() for c in lettres) / len(lettres) < 0.9:
         return None
-    return terme, (m.group(3) or "").strip()
+    sous = (m.group(3) or "").strip()
+    terme, paren = scinder_parenthese(terme)
+    return terme, (sous or paren)
 
 
 def est_sous_titre(bloc: str) -> bool:
