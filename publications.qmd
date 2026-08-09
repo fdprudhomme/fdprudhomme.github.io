@@ -37,6 +37,62 @@ Education* (Springer).
 :::
 :::
 
+## Communications scientifiques
+
+### Communications acceptées — à venir
+
+::: {.cv-entree}
+::: {.cv-date}
+2026
+:::
+::: {.cv-corps}
+**« Du texte à l'image algorithmique : remédiation sémiotique et auctorialité distribuée dans la cocréation visuelle par prompt »**
+[Colloque international *Auctorialités augmentées en régime numérique*, CY Cergy Paris Université et Université Sorbonne-Nouvelle, Paris, 2–3 juin 2026. Panel « Auctorialités algorithmiques : délégation, remédiation et figures du visible » (avec Bertrand Gervais, UQAM).]{.lieu}
+:::
+:::
+
+::: {.cv-entree}
+::: {.cv-date}
+2026
+:::
+::: {.cv-corps}
+**« L'écovisible est déjà là — l'écovision reste à inventer »**
+[93e Congrès de l'Acfas, colloque *Pratiques et innovations (inter)disciplinaires : recherches émergentes en communication*, UQTR, 15 mai 2026.]{.lieu}
+:::
+:::
+
+### Communications passées
+
+::: {.cv-entree}
+::: {.cv-date}
+2016
+:::
+::: {.cv-corps}
+Colloque international *Deleuze Studies*
+[Università degli Studi di Roma Tre, Italie.]{.lieu}
+:::
+:::
+
+::: {.cv-entree}
+::: {.cv-date}
+2015
+:::
+::: {.cv-corps}
+Colloque international bilingue *Le Cinéma de Jim Jarmusch*
+[Université d'Artois, Arras (Pas-de-Calais), France. Actes publiés : *Les variations Jarmusch*, Lettres et civilisations étrangères, Université d'Artois.]{.lieu}
+:::
+:::
+
+::: {.cv-entree}
+::: {.cv-date}
+2014
+:::
+::: {.cv-corps}
+Organisation et participation — « Une folie du voir dans l'extrême contemporain »
+[Laboratoire NT2 et FIGURA, UQAM.]{.lieu}
+:::
+:::
+
 ## Thèse
 
 ::: {.cv-entree}
