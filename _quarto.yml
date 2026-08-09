@@ -8,6 +8,8 @@ project:
     - "glossaire/*.qmd"
     - "en/*.qmd"
     - "!outils/"
+  post-render:
+    - "outils/localiser-en.py"
 
 website:
   title: "François David Prud'homme"

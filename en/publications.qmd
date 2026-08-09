@@ -1,0 +1,116 @@
+---
+title: "Publications"
+toc: true
+lang: en
+---
+
+## Articles
+
+::: {.cv-entree}
+::: {.cv-date}
+2026
+:::
+::: {.cv-corps}
+**"De machine et de mémoire : remédiation sémiotique et auctorialité distribuée
+dans la cocréation visuelle par requête"** [Of Machine and Memory: Semiotic
+Remediation and Distributed Authorship in Prompt-Based Visual Co-creation]
+[Proceedings of the conference, Sorbonne / CY Cergy Paris Université]{.lieu}
+:::
+:::
+
+## In Preparation
+
+::: {.cv-entree}
+::: {.cv-date}
+submitted
+:::
+::: {.cv-corps}
+**Reversed Interpretive Cooperation: Statistical Attractors, Premature Closure
+and Semiotic Silence** — *Semiotica* (De Gruyter)
+:::
+:::
+
+::: {.cv-entree}
+::: {.cv-date}
+in progress
+:::
+::: {.cv-corps}
+**The Second Inquiry as a Rancièrian Protocol** — *Postdigital Science and
+Education* (Springer).
+:::
+:::
+
+## Conference Papers
+
+::: {.cv-entree}
+::: {.cv-date}
+2026
+:::
+::: {.cv-corps}
+**"De machine et de mémoire: semiotic remediation and distributed authorship
+in prompt-based visual co-creation"**
+[International conference *Auctorialités augmentées en régime numérique*
+[Augmented Authorship in the Digital Regime], CY Cergy Paris Université and
+Université Sorbonne-Nouvelle, Paris, 2–3 June 2026. Panel "Algorithmic
+Authorship: Delegation, Remediation and Figures of the Visible" (with Bertrand
+Gervais, UQAM).]{.lieu}
+:::
+:::
+
+::: {.cv-entree}
+::: {.cv-date}
+2026
+:::
+::: {.cv-corps}
+**"The eco-visible is already here — eco-vision remains to be invented"**
+[93rd Acfas Congress, conference *Emerging Research in Communication*, UQTR,
+15 May 2026.]{.lieu}
+:::
+:::
+
+::: {.cv-entree}
+::: {.cv-date}
+2016
+:::
+::: {.cv-corps}
+Deleuze Studies International Conference
+[Università degli Studi di Roma Tre, Italy.]{.lieu}
+:::
+:::
+
+::: {.cv-entree}
+::: {.cv-date}
+2015
+:::
+::: {.cv-corps}
+International Bilingual Conference *The Cinema of Jim Jarmusch*
+[Université d'Artois, Arras (Pas-de-Calais), France. Proceedings published in
+*Les variations Jarmusch*, Lettres et civilisations étrangères, Université
+d'Artois.]{.lieu}
+:::
+:::
+
+::: {.cv-entree}
+::: {.cv-date}
+2014
+:::
+::: {.cv-corps}
+Co-organiser and speaker — "Une folie du voir dans l'extrême contemporain" [A
+Madness of Seeing in the Extreme Contemporary]
+[NT2 Laboratory and FIGURA, UQAM.]{.lieu}
+:::
+:::
+
+## Doctoral Thesis
+
+::: {.cv-entree}
+::: {.cv-date}
+2022
+:::
+::: {.cv-corps}
+**L'accessibilité esthétique des mondes possibles au cinéma** [The Aesthetic
+Accessibility of Possible Worlds in Cinema]
+[PhD thesis in semiotics, UQAM. Supervisors: Sylvano Santini and Bertrand
+Gervais.]{.lieu}
+:::
+:::

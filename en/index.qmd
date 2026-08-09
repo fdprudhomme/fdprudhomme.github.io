@@ -17,4 +17,4 @@ built around three gestures: mapping probabilistic reliefs, inhabiting the
 semiotic silence they short-circuit, and instituting the conditions for
 semiotic resistance in higher education.
 
-[CV →](cv.qmd) · [Glossary (in French) →](../glossaire/index.qmd) · [Français →](../index.qmd)
+[Read the project →](research.qmd) · [Glossary (in French) →](../glossaire/index.qmd) · [CV →](cv.qmd)
