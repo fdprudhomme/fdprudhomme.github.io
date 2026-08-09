@@ -17,7 +17,7 @@ Ce que le script fait :
 
 Le script ne modifie jamais le .docx source.
 """
-
+from __future__ import annotations
 import re
 import subprocess
 import sys
