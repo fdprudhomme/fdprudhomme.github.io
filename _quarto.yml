@@ -1,0 +1,69 @@
+lang: fr
+
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "glossaire/*.qmd"
+    - "en/*.qmd"
+    - "!outils/"
+
+website:
+  title: "François David Prud'homme"
+  description: "Sémiotique, IA générative et refonte des études supérieures."
+  site-url: "https://fdprudhomme.com"      # ← à remplacer par ton domaine
+  favicon: assets/favicon.png
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Accueil"
+      - href: recherche.qmd
+        text: "Recherche"
+      - text: "Glossaire"
+        menu:
+          - href: glossaire/index.qmd
+            text: "Carte du glossaire"
+          - href: glossaire/entrees.qmd
+            text: "Entrées (A–Z)"
+      - href: publications.qmd
+        text: "Publications"
+      - href: cv.qmd
+        text: "CV"
+    right:
+      - href: en/index.qmd
+        text: "EN"
+      - icon: envelope
+        href: "mailto:prenom.nom@exemple.ca"
+        aria-label: "Écrire un courriel"
+
+  page-footer:
+    left: "© 2026 François David Prud'homme"
+    center: "Contenu sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)"
+    right:
+      - text: "ORCID"
+        href: "https://orcid.org/0000-0000-0000-0000"
+      - text: "Code source"
+        href: "https://github.com/UTILISATEUR/site"
+
+  search:
+    location: navbar
+    type: overlay
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: true
+    toc-title: "Sur cette page"
+    anchor-sections: true
+    link-external-newwindow: true
+    link-external-icon: false
+    smooth-scroll: true
+    citations-hover: true
+    lang: fr
+
+bibliography: references.bib
+# csl: chicago-note-bibliography.csl   # placer le fichier .csl à la racine (voir LISEZMOI)

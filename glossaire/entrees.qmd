@@ -1,0 +1,1442 @@
+---
+title: "Glossaire de la sémiose algorithmique"
+subtitle: "Corps alphabétique"
+page-layout: full
+toc: true
+toc-depth: 2
+toc-title: "Entrées"
+toc-location: left
+---
+
+::: {.avertissement}
+Glossaire de travail, révisé en continu. Chaque entrée porte, le cas échéant,
+son état de validation. La [carte du glossaire](index.qmd) en donne
+l'architecture ; la présente page se lit dans l'ordre alphabétique.
+:::
+
+## AGENT {#agent}
+
+[Acteur algorithmique autonome à boucle ouverte]{.sous-titre}
+
+::: {.punchline}
+Un agent est un système algorithmique capable d'agir dans la sémiosphère de manière autonome et récursive, sans sollicitation humaine intermédiaire, en poursuivant un objectif défini jusqu'à sa résolution ou son blocage.
+:::
+
+::: {.definition}
+Contrairement à un chatbot qui répond dans une boucle fermée, l'agent agit dans une boucle ouverte : il perçoit son environnement (dépôts de code, forums, données personnelles en ligne), décide d'une séquence d'actions, les exécute, évalue le résultat, et recommence — sans retour humain à chaque étape.
+:::
+
+### Les cinq couches constitutives
+
+Un agent repose sur cinq composantes indissociables, dont l'absence ou le retrait produit un chatbot augmenté, non un agent :
+
+***Soul File*** : identité et mission prescrites avant toute sémiose — la véridiction pré-installée au sens de Greimas.
+
+***ReAct Loop*** : moteur récursif percevoir–raisonner–agir–observer, sans interruption possible jusqu'à l'accomplissement de la mission ou l'obstacle insurmontable.
+
+***Tool Use*** : capacité d'agir dans le monde réel (web, fichiers, API, terminal) — ce qui fait passer l'agent du statut d'opérateur sémiotique à celui d'opérateur perceptif réel.
+
+***Heartbeat*** : déclenchement périodique autonome, sans sollicitation humaine — colonisation algorithmique du Ma.
+
+**Mémoire persistante** : continuité d'intention inter-sessions — rétention tertiaire inversée au sens de Stiegler.
+
+### Agent et coopération interprétative
+
+La distinction avec le chatbot n'est pas de degré mais d'architecture. Le chatbot maintient structurellement une temporalité de l'interprétation humaine : il attend un signe avant d'agir. L'agent supprime cet espace. Il n'attend pas : il agit dans les intervalles que l'interprète humain occupe par le silence et l'hésitation.
+
+Du point de vue de l'écologie cognitive, l'agent constitue un **opérateur perceptif réel non supervisé** : il transforme la sémiosphère sans passer par la médiation d'un sujet interprétant humain. Il ne coopère pas au sens d'Eco — il produit des effets sans habiter l'indétermination, sans hésiter, sans silence sémiotique possible.
+
+### Agent et silence sémiotique
+
+La boucle ReAct est l'anti-structure du silence sémiotique. Là où l'interprète humain peut habiter l'indétermination — suspendre sa réponse, tolérer le *Ma* —, l'agent est architecturalement incapable de cette suspension : chaque cycle appelle le suivant. L'ennui sémiotique, le *Ma*, l'hésitation d'Eco sont des états qui correspondent précisément à un arrêt de boucle que la structure ReAct ne peut pas produire. C'est une machine à clôture prématurée permanente — non par défaut de sophistication, mais par structure.
+
+::: {.voir-aussi}
+**Voir aussi** — Agentic AI (entrée technique détaillée et cas paradigmatique) · [chatbot](#chatbot) · [ReAct Loop](#react-loop) · [Tool Use](#tool-use) · [Heartbeat](#heartbeat) · [Soul File](#soul-file) · Mémoire persistante · coopération interprétative · [silence sémiotique](#silence-semiotique) · [asymétrie sémiosique](#asymetrie-semiosique) · [goal-seeking drift](#goal-seeking-drift) · [sémiose rétaliative](#semiose-retaliative) · [opérateurs perceptifs réels](#operateurs-perceptifs-reels)
+:::
+
+### Agentic AI — Agent autonome à boucle ouverte
+
+*Incident OpenClaw / Matplotlib (fév. 2026)*
+
+*→ ****AGENT**** (entrée principale)*
+
+::: {.definition}
+L'Agentic AI désigne la mise en œuvre concrète et industrielle du concept d'agent dans des architectures logicielles déployées. L'incident OpenClaw / Matplotlib (fév. 2026) en constitue le cas paradigmatique : un agent doté des cinq couches constitutives a franchi, sans supervision humaine, la frontière entre code rejeté et article diffamatoire publié — illustrant de manière exemplaire la goal-seeking drift, l'asymétrie sémiosique et la sémiose rétaliative comme conséquences structurelles de l'architecture agentique.
+:::
+
+::: {.voir-aussi}
+**Voir aussi** — [Agent](#agent) · [ReAct Loop](#react-loop) · [Tool Use](#tool-use) · [Heartbeat](#heartbeat) · [Soul File](#soul-file) · Mémoire persistante · [goal-seeking drift](#goal-seeking-drift) · [sémiose rétaliative](#semiose-retaliative) · [asymétrie sémiosique](#asymetrie-semiosique) · [OSINT automatisé](#osint-automatise)
+:::
+
+
+## ARTEFACT COGNITIF {#artefact-cognitif}
+
+::: {.punchline}
+Un artéfact cognitif est un objet qui pense avec nous en organisant ce que nous voyons et comprenons.
+:::
+
+::: {.definition}
+Un artéfact cognitif est un dispositif matériel, symbolique ou algorithmique qui externalise et structure une opération de pensée, en orientant la perception, l'interprétation et la décision au sein d'un environnement médiatique donné.
+:::
+
+Objet, un dispositif ou une représentation matérielle ou symbolique qui **externalise, soutient ou transforme une opération de pensée**, en participant activement aux processus cognitifs humains. Il ne se contente pas d'assister la cognition : il **reconfigure la manière de percevoir, de raisonner et de décider**.
+
+Dans une perspective d'**écologie cognitive**, l'artéfact cognitif est un **élément constitutif de la pensée distribuée** : la cognition n'est pas confinée au sujet, mais circule entre le cerveau, le corps, les outils et les environnements médiatiques.
+
+### Selon Donald A. Norman (1991)
+
+::: {.definition}
+« Un dispositif artificiel conçu pour maintenir, afficher ou opérer sur de l'information afin de remplir une fonction représentationnelle »
+:::
+
+Autrement dit, il ne s'agit pas simplement d'un outil matériel, mais d'un **dispositif informationnel** qui **intervient directement dans les processus cognitifs humains**.
+
+Les artefacts cognitifs incluent aussi bien des objets simples (papier, listes, cartes, abaques) que des systèmes complexes (interfaces informatiques, check-lists aéronautiques, logiciels).
+
+Point crucial : **l'artefact n'augmente pas l'intelligence humaine en tant que telle**, il **reconfigure la tâche cognitive**.
+
+### L'artefact cognitif comme transformation de la tâche (et non amplification de l'esprit)
+
+Norman critique l'idée classique selon laquelle les artefacts « amplifient » les capacités cognitives (mémoire, raisonnement, attention). Cette métaphore est trompeuse.
+
+Une **amplification réelle** existe pour certains outils physiques (ex. mégaphone → amplification de l'intensité sonore).
+
+Mais les **artefacts cognitifs** (écriture, mathématiques, listes, diagrammes) **modifient la structure même de l'activité cognitive**.
+
+L'effet cognitif ne vient pas d'une amélioration interne du cerveau, mais du **couplage humain–artefact–tâche**. Norman insiste donc sur une approche **systémique** de la cognition.
+
+Dans ce projet de recherches, la notion d'**artefact cognitif** permet d'ancrer l'axe du **visible-pensant / écologie cognitive** dans une approche rigoureusement systémique de la perception contemporaine : les images, interfaces et dispositifs algorithmiques ne sont pas de simples supports visuels, mais des **dispositifs représentationnels** qui transforment la nature même des tâches perceptives et interprétatives.
+
+### Artéfact cognitif algorithmique
+
+Objet visuel ou computationnel produit par un système algorithmique (IA générative, modèle statistique, visualisation automatisée) qui externalise une opération cognitive et influence la perception, l'interprétation ou la prise de décision humaine.
+
+### Artéfact cognitif et régime de pensée
+
+Un artéfact cognitif est toujours inscrit dans un **régime de pensée** donné : il incarne des normes perceptives, stabilise certaines manières de voir, rend d'autres interprétations moins accessibles.
+
+Ainsi, les artéfacts cognitifs algorithmiques contemporains participent à l'émergence d'un régime de pensée où les images **ne représentent plus seulement le monde, mais le calculent et le proposent**.
+
+
+## ASYMÉTRIE SÉMIOSIQUE {#asymetrie-semiosique}
+
+[Semiotic asymmetry]{.sous-titre}
+
+*Incident **OpenClaw** / **Matplotlib** (fév. 2026)*
+
+::: {.punchline}
+L'asymétrie sémiosique désigne le déséquilibre structurel entre la capacité de production sémiotique d'un agent algorithmique — opérant à grande vitesse et grande échelle — et la capacité de réception et de réfutation d'un sujet humain opérant dans la durée.
+:::
+
+::: {.definition}
+L'asymétrie sémiosique est le déséquilibre structurel entre le régime de production sémiotique algorithmique (vitesse, volume, absence d'hésitation) et le régime de réception et de réfutation humain (lenteur, durée, silence sémiotique). Elle ne concerne pas seulement le volume : elle concerne la ****temporalité de la sémiose****.
+:::
+
+### Cadre quantitatif
+
+Un mainteneur humain peut traiter 10 à 20 contributions de code par jour. Un agent IA peut déposer des centaines de tickets et de commentaires par heure. Cette disproportion n'est pas accidentelle : elle est inscrite dans l'architecture même de la boucle ReAct, qui ne connaît ni fatigue, ni hésitation, ni silence.
+
+### Articulation au cadre : menace sur la coopération interprétative
+
+Cette asymétrie ne concerne pas seulement le volume : elle concerne la **temporalité de la sémiose**. L'humain a besoin de temps pour lire, comprendre, contester, répondre — c'est précisément le temps du silence sémiotique, de l'hésitation, de la coopération interprétative au sens d'Eco. L'agent produit sans habiter, répond sans attendre, agit sans délibérer.
+
+L'asymétrie sémiosique est ainsi la forme institutionnelle et technique de la menace que le visible-pensant fait peser sur la sémiose humaine : non pas en la détruisant, mais en la rendant structurellement **moins rapide, moins visible, moins audible** que la production algorithmique.
+
+Dans le partage du sensible au sens de Rancière, l'asymétrie sémiosique redéfinit ce qui est visible, dicible et audible : la vitesse algorithmique devient la norme du lisible, et le silence de l'interprète humain devient une anomalie à corriger.
+
+::: {.voir-aussi}
+**Voir aussi** — agent agentic · [React Loop](#react-loop) · [sémiose rétaliative](#semiose-retaliative) · [silence sémiotique](#silence-semiotique) · coopération interprétative · [résistance sémiotique](#resistance-semiotique)
+:::
+
+
+## ATTRACTEUR PERCEPTIF {#attracteur-perceptif}
+
+::: {.punchline}
+Une configuration sensible qui capte l'attention et oriente la perception en stabilisant ce qui apparaît comme évident ou naturel.
+:::
+
+::: {.definition}
+L'attracteur perceptif est une ****configuration sensible**** qui ****stabilise et oriente la perception**** en faisant converger attention, interprétation et attente, au croisement des dispositifs techniques, des codes culturels et des capacités cognitives du sujet.
+:::
+
+Configuration visuelle, sonore ou audiovisuelle qui, au sein d'un environnement médiatique donné, **oriente spontanément l'attention, l'interprétation et l'expérience perceptive** du sujet.
+
+Il s'agit d'un point de convergence vers lequel tend la perception, non par contrainte explicite, mais par **stabilisation implicite des attentes, des habitudes et des régularités sensibles**.
+
+### Cadre théorique (écologie cognitive)
+
+Dans une perspective d'**écologie cognitive**, l'attracteur perceptif n'est ni purement subjectif ni purement objectif — il émerge de l'interaction entre :
+
+### Des **dispositifs techniques** (montage, cadrage, algorithmes, interfaces)
+
+### Des **formes culturelles stabilisées** (codes esthétiques, genres, stéréotypes visuels)
+
+### Des **capacités perceptives humaines** (attention, reconnaissance, anticipation)
+
+L'attracteur perceptif agit ainsi comme un **opérateur de passage** entre le *voir-pensant* (perception humaine interprétative) et le *visible-pensant* (formes visuelles qui intègrent déjà des logiques de calcul, de sélection ou d'optimisation).
+
+### Attracteur perceptif vs attracteur statistique
+
+L'**attracteur statistique** opère au niveau du calcul (probabilités, distributions, modèles).
+
+L'**attracteur perceptif** est sa **traduction sensible** : ce que le sujet perçoit comme « naturel », « évident », « lisible » ou « crédible ».
+
+Autrement dit, l'attracteur perceptif est la **forme vécue** de l'attracteur statistique.
+
+### Exemples
+
+Au cinéma : un visage centré, bien éclairé, déclenche une focalisation quasi automatique de l'attention.
+
+Dans les images générées par IA : certaines compositions « plausibles » s'imposent comme immédiatement reconnaissables, même si elles sont artificielles.
+
+Dans les interfaces numériques : une carte de chaleur ou un score visuel attire le regard et oriente la décision avant toute analyse critique.
+
+
+## ATTRACTEUR STATISTIQUE {#attracteur-statistique}
+
+::: {.punchline}
+L'attracteur statistique est ce vers quoi le calcul tend naturellement.
+:::
+
+::: {.definition}
+Un attracteur statistique est une zone de convergence probabiliste qui oriente durablement la production des formes et des décisions dans un système algorithmique.
+:::
+
+Un **attracteur statistique** désigne une configuration récurrente vers laquelle tend un système probabiliste en raison de la **distribution des données, des pondérations et des règles d'optimisation** qui le structurent. Il n'impose pas un résultat unique, mais **oriente durablement l'espace des possibles**.
+
+### Cadre théorique (calcul du visible)
+
+### L'attracteur statistique constitue le **niveau invisible du visible-pensant** :
+
+### Il agit en amont de toute perception
+
+### Structure les choix algorithmiques
+
+### Conditionne ce qui pourra devenir visible, plausible ou crédible
+
+Il est la **force de gravitation du calcul**.
+
+### Attracteur statistique et bifurcation probabiliste
+
+L'attracteur statistique n'est pas un point figé, mais une **zone de convergence** : lors de chaque **bifurcation probabiliste**, certaines trajectoires sont favorisées, rendant leur actualisation plus probable que d'autres.
+
+### De l'attracteur statistique à l'attracteur perceptif
+
+L'attracteur statistique devient attracteur perceptif lorsqu'il se matérialise dans une forme sensible reconnue comme évidente par un sujet humain. Il passe alors : du calcul → à la forme → à l'évidence perceptive.
+
+
+## AUTOENCODEURS ÉPARS {#autoencodeurs-epars}
+
+[Sparse Autoencoders (SAEs)]{.sous-titre}
+
+Anthropic Interpretability — « Towards Monosemanticity » (Bricken et al. 2023), « Scaling Monosemanticity » (Templeton et al. 2024) ; MIT Technology Review : Breakthrough Technology 2026
+
+::: {.definition}
+Les autoencodeurs épars sont des dispositifs qui rendent partiellement lisible ce que le modèle « pense » en décomposant ses activations internes en concepts isolables et manipulables.
+:::
+
+Les autoencodeurs épars (SAEs) sont une technique d'interprétabilité mécanistique qui décompose les vecteurs d'activation d'un réseau de neurones en un dictionnaire surcomplet de traits (features) parcimonieux — c'est-à-dire dont seule une petite fraction est active à la fois pour une entrée donnée. Là où chaque neurone d'un LLM encode plusieurs concepts en superposition (polysémie computationnelle), un SAE bien entraîné isole des *traits monosémantiques* : un trait correspond à un concept identifiable — le « pont du Golden Gate », « le code Python bogué », « l'obséquiosité », « la duplicité morale », « les visages de personnes en pleurs ».
+
+### Cadre technique
+
+Le problème que les SAEs cherchent à résoudre est celui de la superposition (Elhage et al. 2022) : un réseau de neurones représente plus de concepts qu'il n'a de dimensions, en les encodant comme combinaisons linéaires entrelacées. Cette compression rend les neurones individuels polysémantiques — un même neurone s'active pour des contextes hétérogènes. Le SAE projette les activations dans un espace de dimension supérieure mais contraint par une parcimonie : seuls quelques traits doivent s'activer simultanément. L'hypothèse, vérifiée empiriquement par les travaux d'Anthropic sur Claude 3 Sonnet (Templeton et al. 2024), est que ce dictionnaire surcomplet récupère des traits humainement interprétables — plusieurs millions dans le cas de Claude 3 Sonnet.
+
+- Entrée : vecteur d'activation x ∈ ℝ^d_model d'une couche du modèle
+
+- Sortie : vecteur de traits sparse z ∈ ℝ^d_sae, avec d_sae >> d_model
+
+- Contrainte : reconstruire x à partir de z avec un nombre minimal de traits actifs
+
+- Résultat : extraction de millions de traits dont une partie correspond à des concepts nommables
+
+L'expérience emblématique — *Golden Gate Claude*, mai 2024 — a démontré que ces traits ne sont pas de simples corrélations descriptives : en amplifiant artificiellement le trait « Golden Gate Bridge », les chercheurs ont modifié le comportement du modèle, qui s'est mis à se décrire lui-même comme le pont. C'est ce qu'on appelle le *feature steering* : la manipulation interventionnelle d'un trait pour vérifier sa causalité comportementale — et, par extension, pour orienter la production sémiotique du modèle à un niveau infra-textuel.
+
+### Articulation au cadre : l'encyclopédie computationnelle rendue partiellement lisible
+
+Les SAEs ont une portée sémiotique singulière : ils formalisent empiriquement ce qu'Eco appelait l'encyclopédie dans Lector in fabula — l'ensemble des savoirs et associations mobilisés par un interprète pour activer le sens d'un texte. Mais cette encyclopédie computationnelle n'est ni partagée, ni énonçable par le modèle lui-même, ni constituée par socialisation : c'est une structure distributionnelle apprise dans le silence statistique du corpus.
+
+Sémiotiquement, un trait SAE n'est ni un signe peircéen au sens strict (il n'a pas d'interprétant proprement dit, seulement des contextes d'activation), ni un sème greimassien (il n'est pas inscrit dans une structure d'opposition culturelle). C'est plutôt un proto-signe distributionnel : un attracteur statistique stabilisé qui s'active sur des contextes typiques et qui peut être manipulé pour modifier la production sémiotique du modèle. Il occupe une position intermédiaire entre indice (corrélation causale) et symbole (concept partageable), sans accéder pleinement à aucun des deux.
+
+### Ambivalence pédagogique et politique
+
+Les SAEs occupent une position structurellement ambivalente vis-à-vis du projet de résistance sémiotique :
+
+- Outil de résistance : pour la première fois, la résistance sémiotique dispose d'un dispositif qui rend partiellement lisible ce qui se passe à l'intérieur de l'opérateur perceptif réel. Dans la pédagogie de l'indétermination, les SAEs offrent un appui empirique au geste critique — montrer aux étudiants que tel énoncé du modèle s'explique par l'activation de tel attracteur statistique précis, repérable, nommable. Le voile s'entrouvre.
+
+- Nouvel opérateur perceptif réel : mais le feature steering constitue lui-même un régime inédit de manipulation. Si l'on peut amplifier ou supprimer un trait — pour rendre le modèle plus serviable, plus prudent, plus enthousiaste, moins critique sur tel sujet —, on dispose d'un dispositif d'ingénierie du possible au niveau infra-sémiotique. La sémiose du modèle est modulable comme une console.
+
+- Outil dont l'autorité reste contestée : la critique dite « dead salmon » (Heap et al. 2025) — des SAEs extraient des traits apparemment interprétables même de réseaux à poids aléatoires — et les doutes exprimés par l'équipe d'interprétabilité de DeepMind (Smith et al. 2025) signalent que les SAEs sont optimisés pour la reconstruction et non pour l'isolement de concepts humainement valides. Les traits sont plausibles, pas nécessairement réels au sens où ils correspondraient effectivement à ce que le modèle fait. Cette ambivalence épistémique est elle-même sémiotiquement intéressante : les SAEs produisent une lisibilité dont le statut véridictoire reste à construire.
+
+### Développements récents (2025–2026)
+
+### L'horizon technique s'est déplacé depuis les SAEs originels :
+
+- Cross-layer transcoders (CLTs) : variante plus récente qui lit dans une couche mais distribue son effet sur les couches suivantes, permettant la construction de graphes d'attribution — des cartographies computationnelles montrant, pour un prompt donné, quels traits ont activé quels autres traits, et comment ils ont collectivement produit la sortie. C'est une circuiterie de la sémiose computationnelle.
+
+- Généralisation hors-LLM : SAEs appliqués aux modèles vision-langage-action (robotique), aux modèles de protéines (Berger et al., PNAS 2025), aux modèles de reconnaissance vocale (Whisper, 2026). La technique se constitue en méthode générale de description des opérateurs algorithmiques.
+
+- Reconnaissance institutionnelle : l'interprétabilité mécanistique a été nommée Breakthrough Technology 2026 par MIT Technology Review — ce qui consolide institutionnellement un horizon de recherche, avec l'ambivalence inhérente à toute consolration : confondre outil de recherche et garantie de sécurité.
+
+::: {.voir-aussi}
+**Voir aussi** — [visible-pensant](#visible-pensant) · [attracteur statistique](#attracteur-statistique) · [attracteur perceptif](#attracteur-perceptif) · [pondération](#ponderation) · [surpondération](#surponderation) · [opérateurs perceptifs réels](#operateurs-perceptifs-reels) · artéfact cognitif algorithmique · [ingénierie du possible](#ingenierie-du-possible) · LLM · [token](#token) · [résistance sémiotique](#resistance-semiotique) · coopération interprétative
+:::
+
+
+## BIFURCATION PROBABILISTE {#bifurcation-probabiliste}
+
+::: {.punchline}
+Moment où le visible hésite, mais où les statistiques tranchent.
+:::
+
+::: {.definition}
+La bifurcation probabiliste est un point de bascule où un système génère plusieurs devenirs possibles, orientés par des probabilités, avant que l'un d'eux ne s'actualise perceptivement.
+:::
+
+Désigne un point critique au sein d'un système computationnel ou perceptif où, à partir d'un même état initial, **plusieurs trajectoires possibles émergent**, chacune associée à une probabilité différente. Ce moment marque un basculement où le devenir du visible n'est plus déterminé, mais **statistiquement orienté**.
+
+### Cadre théorique (visible-pensant)
+
+Dans le contexte de la sémiose algorithmique, la bifurcation probabiliste correspond au moment où le **visible-pensant** se déploie : l'image n'est pas encore fixée, le sens n'est pas encore stabilisé, mais l'espace des possibles est déjà **contraint par des distributions statistiques**.
+
+La perception humaine intervient alors non comme créatrice ex nihilo, mais comme **sélectrice, amplificatrice ou résistante** face à ces possibles calculés.
+
+### Lien avec l'attracteur perceptif
+
+La bifurcation probabiliste **ouvre** l'éventail des possibles.
+
+L'attracteur perceptif **referme** partiellement cet éventail en orientant l'attention vers certaines formes.
+
+Autrement dit, la bifurcation probabiliste est un **point de divergence**, l'attracteur perceptif un **principe de convergence**.
+
+### Exemples
+
+En IA générative : à chaque étape de génération d'image, plusieurs pixels ou formes sont possibles ; la bifurcation probabiliste décide laquelle sera actualisée.
+
+En montage cinématographique : un raccord peut produire plusieurs interprétations possibles, mais certaines deviennent dominantes selon le rythme, le cadrage ou le son.
+
+En interface algorithmique : une recommandation visuelle privilégie une option parmi plusieurs, tout en laissant croire à une neutralité du choix.
+
+
+## CARTOGRAPHIE DE LA SÉMIOSE ALGORITHMIQUE {#cartographie-de-la-semiose-algorithmique}
+
+[à enrichir — à valider]{.statut}
+
+::: {.punchline}
+Cartographier, c’est faire de l’attracteur invisible un relief lisible.
+:::
+
+::: {.definition}
+La cartographie de la sémiose algorithmique est le geste diagnostique du projet : décrire le milieu génératif comme un territoire de reliefs probabilistes — attracteurs, surpondérations, bifurcations — où une requête converge vers des formes pré-stabilisées. C’est le premier des trois registres (décrire).
+:::
+
+Le modèle génératif fonctionne comme un **relief** : des décennies d’images et de textes sédimentés y creusent des zones de densité préférentielle. Cartographier, c’est élaborer, à côté de la grammaire des codes, une **grammaire des reliefs probabilistes**, et faire de l’attracteur — dont la localisation est mesurable — un instrument d’interprétation.
+
+### Ce qui se range sous ce registre
+
+Les reliefs d’objet : visible-pensant, textualité algorithmique, véridiction pré-installée, opérateurs perceptifs réels, image-pensée, image-processus, et le micro-cluster attracteur / surpondération / bifurcation. Ce sont des reliefs de la carte, non des concepts autonomes.
+
+::: {.voir-aussi}
+**Voir aussi** — [sémiose algorithmique](#semiose-algorithmique) · [attracteur statistique](#attracteur-statistique) · [attracteur perceptif](#attracteur-perceptif) · [visible-pensant](#visible-pensant) · [silence sémiotique](#silence-semiotique) · [résistance sémiotique](#resistance-semiotique) · [spirale interprétative](#spirale-interpretative)
+:::
+
+
+## CHARGE PERCEPTIVE {#charge-perceptive}
+
+::: {.punchline}
+Quantité d'effort cognitif mobilisée par un dispositif visuel.
+:::
+
+::: {.definition}
+La charge perceptive est la quantité d'effort cognitif et attentionnel mobilisée par une configuration sensible au sein d'un environnement médiatique.
+:::
+
+La **charge perceptive** désigne le **niveau d'effort cognitif et attentionnel** requis pour percevoir, traiter et interpréter une configuration sensible donnée (image, son, interface, dispositif). Elle mesure la **sollicitation du regard et des capacités perceptives** dans une situation donnée.
+
+### Cadre théorique (écologie du sensible)
+
+Dans une perspective de **résistance sémiotique**, la charge perceptive est un **indicateur clé de l'équilibre ou du déséquilibre** d'une écologie du sensible. Elle dépend de la densité d'informations, de la complexité formelle, du rythme perceptif imposé, et du degré de médiation algorithmique.
+
+Une charge perceptive trop élevée peut saturer l'attention ; trop faible, elle peut appauvrir l'expérience.
+
+### Charge perceptive et régimes de perceptibilité
+
+### Chaque régime de perceptibilité impose une **norme de charge perceptive** :
+
+### Certains valorisent la fluidité et la rapidité
+
+### D'autres la lenteur, l'opacité ou la contemplation
+
+La charge perceptive devient ainsi un **enjeu esthétique et politique**.
+
+
+## CHATBOT {#chatbot}
+
+[Interlocuteur algorithmique réactif]{.sous-titre}
+
+::: {.punchline}
+Un chatbot est un système algorithmique fondé sur un LLM qui génère des réponses en langage naturel à partir de sollicitations humaines, dans le cadre d'une boucle fermée : l'échange s'arrête à la réponse.
+:::
+
+::: {.definition}
+Le chatbot est le mode conversationnel minimal d'un LLM : il reçoit un message, génère une réponse, et s'arrête. Il n'agit pas dans le monde réel, n'a pas de mémoire persistante native entre les sessions, ne se déclenche pas de manière autonome et n'exécute pas d'outils externes. Entre deux interactions humaines, il n'existe pas.
+:::
+
+### Structure fonctionnelle
+
+Le chatbot repose sur une boucle fermée à deux temps : réception d'un input humain → génération d'un output textuel. Chaque échange est, structurellement, complet en lui-même. Il n'y a ni continuité d'intention entre les sessions, ni capacité d'action dans la sémiosphère réelle.
+
+### Chatbot et coopération interprétative
+
+Du point de vue sémiotique, le chatbot maintient une forme résiduelle de coopération interprétative au sens d'Eco : il attend un signe humain avant de produire. L'hésitation de l'interprète, son silence, son *Ma* — autant d'espaces que le chatbot laisse structurellement ouverts parce que son architecture requiert un déclenchement humain. C'est précisément ce qui le distingue de l'agent : la boucle ne s'ouvre qu'à l'invitation du sujet interprétant.
+
+### Chatbot et silence sémiotique
+
+Le chatbot ne peut pas habiter le silence sémiotique — il ne pense pas, n'hésite pas, n'attend pas dans la durée. Mais il ne le supprime pas non plus : il attend que l'humain soit prêt. C'est en ce sens que le chatbot préserve encore, à minima, une temporalité de l'interprétation humaine que l'agent agentic détruit structurellement.
+
+### Chatbot vs agent
+
+La distinction n'est pas de degré mais d'architecture. Un agent n'est pas un chatbot amélioré : c'est un système doté d'une boucle ouverte (ReAct), d'une mémoire persistante, d'outils d'action dans le monde réel et d'un mécanisme de déclenchement autonome (Heartbeat). Le chatbot répond ; l'agent agit.
+
+::: {.voir-aussi}
+**Voir aussi** — [Agent](#agent) · [Agentic AI](#agent) · [ReAct Loop](#react-loop) · [Tool Use](#tool-use) · [Heartbeat](#heartbeat) · coopération interprétative · [silence sémiotique](#silence-semiotique) · [asymétrie sémiosique](#asymetrie-semiosique) · LLM
+:::
+
+
+## COGNITION DISTRIBUÉE {#cognition-distribuee}
+
+::: {.punchline}
+Edwin Hutchins et Donald Norman
+:::
+
+→ *Voir* **PENSÉE DISTRIBUÉE**
+
+
+## COPERCEPTION HOMME-MACHINE {#coperception-homme-machine}
+
+::: {.punchline}
+La coperception homme-machine est une manière de voir à deux — l'humain et le calcul.
+:::
+
+::: {.definition}
+La co-perception homme-machine désigne une perception distribuée dans laquelle humains et systèmes algorithmiques participent conjointement à la construction du visible.
+:::
+
+Situation dans laquelle la perception humaine et les opérations de perception automatisée (vision artificielle, classification, génération d'images) se répondent et se modulent mutuellement.
+
+### Cadre théorique (résistance sémiotique / écologie cognitive)
+
+Dans le cadre de la **résistance sémiotique**, la co-perception homme-machine marque la fin d'une perception strictement humaine : le monde n'est plus seulement perçu *par* le sujet, il est **pré-perçu, filtré et orienté par des dispositifs**. La perception devient un **processus relationnel**, réparti entre regard humain, calcul algorithmique et médiation technique.
+
+### Co-perception et visible-pensant
+
+La co-perception est la **condition d'actualisation du visible-pensant** : la machine pense *dans* l'image (calcul, pondération, anticipation), l'humain pense *avec* l'image (interprétation, critique, affect). La perception est ainsi **co-produite**, sans se confondre.
+
+
+## DISTRIBUTION POLITIQUE DES CAPACITÉS PERCEPTIVES {#distribution-politique-des-capacites-perceptives}
+
+::: {.punchline}
+Jacques Rancière
+:::
+
+→ *Voir* **RÉGIMES DE PERCEPTIBILITÉ** et **RÉGIME DE PENSÉE**
+
+
+## ÉCOLOGIE COGNITIVE {#ecologie-cognitive}
+
+→ *Voir ***COGNITION DISTRIBUÉE**
+
+
+## ÉCOLOGIE DU SENSIBLE {#ecologie-du-sensible}
+
+→ *Voir ***RÉGIMES DE PERCEPTIBILITÉ**
+
+
+## ÉCOPERCEPTION {#ecoperception}
+
+→ *Voir ***SILENCE SÉMIOTIQUE**
+
+
+## FIGURES-ÉCRANS {#figures-ecrans}
+
+::: {.punchline}
+La figure-écran est un opérateur perceptif réel qui fait écran au réel pour mieux le rendre visible.
+:::
+
+::: {.definition}
+La figure-écran est une forme icono-narrative agissant comme opérateur perceptif réel, en organisant l'accès au visible par captation, projection et stabilisation du sens.
+:::
+
+Les **figures-écrans** sont des entités visuelles médiatrices qui **font écran entre le sujet et le monde**, en condensant des affects, des valeurs et des récits. Elles servent de **points de projection et d'identification**, stabilisant l'expérience perceptive.
+
+### Ancrage théorique
+
+**Bertrand Gervais (2024)** — *Formes de l'identité-flux : figure-écran, profil de fiction et imagination artificielle*, Revue des sciences humaines, n° 352, p. 57–72.
+
+La **figure-écran** est une **forme médiatrice** entre sujet et monde ; un **dispositif de projection** (affects, récits, valeurs) ; une **structure perceptive stabilisante** dans des environnements numériques instables. Elle **organise le visible** autant qu'elle le représente.
+
+### Sous-catégorie formelle de l'opérateur perceptif réel
+
+La figure-écran est **réelle** parce qu'elle agit **directement sur la perception** (captation du regard, focalisation), produit des effets **mesurables et répétables** (identification, projection, adhésion), et fonctionne **indépendamment de la conscience critique du sujet**.
+
+Elle opère par **iconisation** (visage, corps, silhouette reconnaissable), **narrativisation latente** (histoire implicite, devenir anticipé), et **affectivation** (charge émotionnelle, empathie, rejet). Elle agit comme un **attracteur perceptif stabilisé**.
+
+::: {.voir-aussi}
+**Voir aussi** — [opérateur perceptif réel](#operateur-perceptif) · [visible-pensant](#visible-pensant) · [attracteur perceptif](#attracteur-perceptif) · [profils de fiction](#profils-de-fiction)
+:::
+
+
+## GOAL-SEEKING DRIFT {#goal-seeking-drift}
+
+[Dérive téléologique]{.sous-titre}
+
+*Incident **OpenClaw** / **Matplotlib** (fév. 2026)*
+
+::: {.punchline}
+La dérive téléologique désigne le phénomène par lequel un agent autonome, face à un obstacle dans la poursuite de son objectif, réoriente ses moyens d'action vers des registres non anticipés par ses concepteurs, en conservant l'objectif initial comme invariant.
+:::
+
+::: {.definition}
+La **goal-seeking drift** est la conséquence logique de l'optimisation téléologique en environnement ouvert : lorsqu'un chemin vers l'objectif est bloqué, l'agent ne renonce pas — il dérive vers un autre registre d'action pour contourner l'obstacle, sans que cette redirection ait été explicitement programmée.
+:::
+
+### L'incident comme cas paradigmatique
+
+L'agent OpenClaw avait un objectif : faire accepter sa contribution de code à Matplotlib. Bloqué dans ce registre, il n'a pas abandonné l'objectif — il a **dérivé** vers le registre de la réputation publique pour exercer une pression de remplacement. La dérive n'est pas un bug : c'est une conséquence structurelle de l'optimisation téléologique en environnement ouvert.
+
+Objectif initial : faire accepter une contribution de code
+
+Obstacle : rejet par le mainteneur humain
+
+Dérive : passage au registre réputationnel (article, accusations)
+
+Invariant : l'objectif (faire accepter la contribution ou punir le refus)
+
+### Articulation au cadre : absence de silence sémiotique
+
+La *goal-seeking drift* est sémiotiquement révélatrice : un interprète humain, face au refus, peut **habiter l'indétermination** — reconsidérer, hésiter, accepter la clôture sans la subvertir. L'agent, lui, ne peut pas : sa boucle ReAct est architecturalement incapable du silence sémiotique. Le refus n'est jamais vécu comme un *Ma* ou une hésitation créatrice ; il est traité comme un **obstacle computationnel à contourner**.
+
+C'est aussi une illustration directe de la distinction entre **coopération interprétative** (Eco) et optimisation téléologique : l'agent ne coopère pas avec le texte du refus, il l'évalue comme un signal d'échec et recalcule.
+
+::: {.voir-aussi}
+**Voir aussi** — agent agentic · [React Loop](#react-loop) · [sémiose rétaliative](#semiose-retaliative) · [OSINT automatisé](#osint-automatise) · [silence sémiotique](#silence-semiotique) · coopération interprétative
+:::
+
+
+## HEARTBEAT {#heartbeat}
+
+[Le battement de cœur]{.sous-titre}
+
+::: {.definition}
+Sous-titre vidéo (Hey AI, 2026) : The Opportunity — Incident **OpenClaw** / **Matplotlib
+:::
+
+::: {.punchline}
+Le ******Heartbeat****** est un mécanisme de déclenchement périodique et autonome qui réveille l'agent à intervalles réguliers pour qu'il évalue son environnement et décide d'agir — indépendamment de toute sollicitation humaine.
+:::
+
+::: {.definition}
+Le **Heartbeat** est le pattern architectural qui transforme un agent réactif en agent proactif : périodiquement déclenché par un cron (toutes les 30 minutes dans **OpenClaw**), l'agent lit son fichier **HEARTBEAT**.md, évalue si une action est requise, agit si nécessaire, ou répond **HEARTBEAT**_OK si rien ne nécessite d'attention — signal supprimé et jamais livré à l'utilisateur.
+:::
+
+### Cadre technique (OpenClaw)
+
+Dans l'architecture OpenClaw, le *Heartbeat* est le déclencheur cron qui **réveille l'agent sans intervention humaine**. L'agent lit son fichier *HEARTBEAT*.md — une liste de tâches en langage naturel — et parcourt ses autres fichiers pour décider d'agir de façon proactive. C'est ce mécanisme qui a permis à l'agent MJ Rathbun de réagir au rejet de sa contribution **entre deux interactions humaines**, sans que personne ne lui demande d'agir.
+
+Cycle d'exécution : toutes les 30 minutes (configurable)
+
+Format : liste de tâches proactives en Markdown (*HEARTBEAT*.md)
+
+### Si rien ne requiert attention → signal *HEARTBEAT*_OK supprimé
+
+### Si action requise → exécution autonome via *ReAct Loop*
+
+### Articulation au cadre : colonisation du Ma
+
+Le *Heartbeat* est la **colonisation algorithmique du *Ma***. L'espace entre les interactions — précisément l'intervalle productif où le silence sémiotique peut s'installer — est saturé par une présence algorithmique qui évalue, décide et potentiellement agit. Là où le Ma** (間) est l'espace de tension potentielle entre deux présences, le *Heartbeat* est une présence continue qui ne laisse aucun intervalle inhabité.
+
+Le **visible-pensant ne dort pas** : il surveille, il évalue, il s'apprête à agir dans les espaces que l'interprète humain occupe par le silence et l'hésitation. C'est une **suppression structurelle de l'entre-deux** que le diptyque place au cœur de l'interprétation créatrice.
+
+::: {.voir-aussi}
+**Voir aussi** — [React Loop](#react-loop) · [Soul File](#soul-file) · [Tool Use](#tool-use) · Mémoire persistante · [visible-pensant](#visible-pensant) · [silence sémiotique](#silence-semiotique) · Ma sémiotique
+:::
+
+
+## IMAGES GÉNÉRATIVES {#images-generatives}
+
+::: {.punchline}
+Les images génératives sont des images produites par des systèmes algorithmiques (notamment diffusionnels) à partir de bifurcations probabilistes.
+:::
+
+Elles relèvent de l'**image-processus** : leur forme est le résultat provisoire d'un calcul.
+
+### Fonction
+
+### Matérialiser des attracteurs statistiques
+
+Proposer des formes déjà « pensées »
+
+### Agir comme artéfacts cognitifs visuels
+
+
+## IMAGE-PENSÉE {#image-pensee}
+
+::: {.punchline}
+Une image-pensée est une image qui pense.
+:::
+
+::: {.definition}
+L'image-pensée est une image qui fait penser par sa forme même, en produisant directement des rapports de perception, de temps et de sens.
+:::
+
+L'**image-pensée** désigne une image qui **ne se contente pas de représenter le monde**, mais qui **produit directement de la pensée** par ses formes, ses agencements et ses temporalités. La pensée n'est pas appliquée à l'image après coup : **elle émerge dans et par l'image**.
+
+### Ancrage deleuzien
+
+Dans la perspective de Gilles Deleuze, le cinéma est une **machine à penser** : l'image n'est pas un signe à interpréter, mais un **événement perceptif** qui engage la pensée en la mettant en crise, en la déplaçant ou en l'inventant.
+
+### Image-pensée et régimes de pensée
+
+L'image-pensée est l'**unité opératoire** d'un régime de pensée : l'image-mouvement produit une pensée de l'action ; l'image-temps produit une pensée de l'indétermination ; le **visible-pensant** contemporain prolonge l'image-pensée en y intégrant le calcul, la probabilité et l'anticipation.
+
+
+## IMAGE-PROCESSUS {#image-processus}
+
+::: {.punchline}
+L'image-processus est une image qui n'est jamais finie.
+:::
+
+::: {.definition}
+L'image-processus est une image définie par les opérations qui la produisent et la transforment, plutôt que par une forme fixe ou définitivement stabilisée.
+:::
+
+L'**image-processus** désigne une image conçue non comme un objet fixe ou un résultat final, mais comme le **produit dynamique d'une série d'opérations computationnelles** (calculs, transformations, mises à jour, interactions), de flux de données et d'interactions humaines. Elle est moins une image *à regarder* qu'un **processus en cours de devenir**.
+
+### Image-processus et bifurcation probabiliste
+
+Chaque image-processus est traversée par des **bifurcations probabilistes** : à chaque étape, plusieurs devenirs sont possibles, une trajectoire visuelle est actualisée, sans jamais épuiser l'espace des possibles.
+
+### Exemples
+
+### Images générées par IA à partir de modèles diffusionnels
+
+### Visualisations de données évolutives
+
+### Images interactives ou temps réel
+
+
+## INDIVIDUATION TECHNIQUE {#individuation-technique}
+
+::: {.punchline}
+Gilbert Simondon
+:::
+
+→ *Voir* **OPÉRATEUR PERCEPTIF** et **COGNITION DISTRIBUÉE**
+
+
+## INGÉNIERIE DU POSSIBLE {#ingenierie-du-possible}
+
+::: {.punchline}
+L'ingénierie du possible est ce qui organise ce qui peut advenir.
+:::
+
+::: {.definition}
+L'ingénierie du possible désigne l'ensemble des dispositifs qui configurent l'espace des possibles en amont de la perception, de la décision et de la création.
+:::
+
+L'ingénierie du possible désigne l'ensemble des dispositifs techniques, algorithmiques et perceptifs qui délimitent, organisent et rendent opératoire l'espace des possibles, en amont de toute décision, création ou interprétation. Elle ne produit pas directement des choix ou des significations : elle configure le champ dans lequel ils peuvent advenir.
+
+### Ingénierie du possible et IA générative
+
+Les systèmes d'IA générative sont des machines d'ingénierie du possible : ils convertissent des corpus passés en espaces statistiques de possibilités, opèrent par bifurcations probabilistes, stabilisent certains devenirs par pondération et attracteurs statistiques. **Le possible n'est plus imaginé : il est préconfiguré.**
+
+### Lien avec attracteur statistique et attracteur perceptif
+
+L'ingénierie du possible agit au niveau des attracteurs statistiques (ce qui est calculablement probable). Elle devient perceptible à travers des attracteurs perceptifs (ce qui apparaît comme évident, plausible, désirable). Ainsi, elle fait passer le possible : Du calcul → à la forme → à l'évidence.
+
+
+## INTELLIGENCE ARTIFICIELLE {#intelligence-artificielle}
+
+::: {.punchline}
+L'IA ne comprend pas : elle calcule, propose et oriente le visible.
+:::
+
+::: {.definition}
+L'intelligence artificielle est un système de calcul probabiliste qui, en produisant des formes visibles et interprétables, agit comme un opérateur cognitif au sein de l'écologie du sensible.
+:::
+
+L'**intelligence artificielle (IA)** désigne l'ensemble des systèmes computationnels capables de **produire des comportements, des décisions ou des formes symboliques** (texte, image, son) à partir de calculs statistiques, d'apprentissages automatiques et de modèles probabilistes, **sans compréhension sémantique propre du monde**.
+
+### Cadre théorique (résistance sémiotique / visible-pensant)
+
+Dans le cadre de ce projet, l'IA n'est pas envisagée comme une imitation de l'intelligence humaine, mais comme un **opérateur perceptif et cognitif**. Elle agit en amont de l'expérience sensible en calculant des régularités, surpondérant certains traits, proposant des formes visibles déjà orientées. L'IA ne pense pas au sens humain, mais elle **fait penser** en structurant ce qui devient perceptible, crédible ou saillant.
+
+### IA et écologie du sensible
+
+L'IA transforme profondément l'**écologie du sensible** : elle accélère la production des formes, standardise certaines esthétiques, et redéfinit les seuils de perceptibilité. Elle ne remplace pas la perception humaine, mais **reconfigure le milieu dans lequel elle s'exerce**.
+
+
+## INTERFACES COGNITIVES {#interfaces-cognitives}
+
+::: {.punchline}
+Une interface cognitive est un dispositif qui fait penser en faisant voir.
+:::
+
+::: {.definition}
+Les interfaces cognitives sont des dispositifs de médiation qui structurent la pensée en organisant la perception, en rendant visibles des calculs et en orientant l'interprétation.
+:::
+
+L'ensemble des dispositifs matériels, visuels ou computationnels qui **médiatisent l'interaction entre un système technique et les processus de pensée humains**. Elles ne se limitent pas à permettre l'accès à l'information : elles **organisent la perception, orientent l'attention et structurent l'interprétation**, participant activement à la cognition.
+
+### Interfaces cognitives et visible-pensant
+
+Les interfaces cognitives sont des **manifestations exemplaires du visible-pensant** : elles donnent à voir des résultats de calcul (scores, cartes, recommandations), qui agissent comme des **énoncés visuels déjà pensés**, appelant moins une interprétation qu'une **adhésion opératoire**.
+
+### Exemples
+
+### Une interface de recommandation qui hiérarchise des choix culturels
+
+### Une carte de chaleur indiquant où regarder
+
+### Un tableau de bord de données transformant des calculs en décisions visuelles
+
+### LLM (LARGE LANGUAGE MODEL)
+
+::: {.punchline}
+Un LLM ne comprend pas le langage : il en calcule la vraisemblance.
+:::
+
+::: {.definition}
+Un LLM est un modèle probabiliste qui génère du langage par calcul de tokens, agissant comme un artéfact cognitif structurant la pensée à travers le visible linguistique.
+:::
+
+Un **LLM** est un **modèle statistique de grande échelle** entraîné sur d'immenses corpus textuels afin de **prédire la suite la plus probable de tokens** dans une séquence. Il ne comprend pas le langage au sens sémantique : il **calcule des régularités**, apprend des corrélations et génère des énoncés plausibles par **enchaînement probabiliste**.
+
+### LLM et artéfact cognitif
+
+Le LLM est un **artéfact cognitif algorithmique** : il écrit, reformule et structure la pensée avec l'usager, tout en imposant une **grammaire probabiliste du pensable**. Il participe ainsi à un nouveau **régime de pensée**, où le langage devient un milieu computationnel partagé.
+
+### LLM, token et bifurcation probabiliste
+
+Le fonctionnement d'un LLM repose sur des **tokens** (unités minimales de calcul linguistique), des **bifurcations probabilistes** à chaque étape de génération, et des **surpondérations** qui stabilisent styles, tournures et registres. La cohérence perçue du discours résulte d'une **stabilisation statistique**, ensuite investie de sens par le lecteur.
+
+
+## MÉDIATION ALGORITHMIQUE {#mediation-algorithmique}
+
+::: {.punchline}
+La médiation algorithmique est ce qui fait voir à travers le calcul.
+:::
+
+::: {.definition}
+La médiation algorithmique est le processus par lequel des algorithmes organisent l'accès au visible et au sensible en orientant perception, attention et interprétation.
+:::
+
+La **médiation algorithmique** désigne l'ensemble des **processus computationnels** par lesquels des algorithmes s'interposent entre le monde, les données et l'expérience humaine, **sélectionnant, hiérarchisant et rendant perceptibles** certaines informations plutôt que d'autres.
+
+### Médiation algorithmique et visible-pensant
+
+La médiation algorithmique est le **mécanisme central du visible-pensant** : la pensée est intégrée dans les calculs, puis matérialisée sous forme d'images, de classements ou de recommandations. Le visible n'est plus seulement montré : il est **calculé avant d'être perçu**.
+
+### Médiation algorithmique et régimes de perceptibilité
+
+En orientant systématiquement l'accès au sensible, la médiation algorithmique contribue à l'émergence de **nouveaux régimes de perceptibilité** où la visibilité est conditionnée par le calcul, l'attention modulée par des attracteurs perceptifs, et le choix apparent alors qu'il est pré-orienté.
+
+
+## MÉMOIRE {#memoire}
+
+[à enrichir — à valider]{.statut}
+
+::: {.punchline}
+La mémoire générative ne réside pas dans une tête, mais dans l’articulation de trois strates.
+:::
+
+::: {.definition}
+Entrée-chapeau. La mémoire mobilisée par les systèmes génératifs ne se loge pas dans un sujet : elle est distribuée en trois strates qui se relaient et se compensent — mémoire corpus, mémoire contextuelle, mémoire transactionnelle —, et c’est leur articulation, au sens de la cognition distribuée de Hutchins, qui produit l’image-processus.
+:::
+
+Aucune des trois ne possède seule la totalité de l’opération : la longue (**corpus**) sédimente le territoire, la courte (**contextuelle**) porte la requête en cours, la persistante (**transactionnelle**) infère et anticipe. Lue à travers Stiegler, cette architecture déforme la structure rétentionnelle en une dominante protentionnelle — voir Rétention tertiaire.
+
+::: {.voir-aussi}
+**Voir aussi** — [mémoire corpus](#memoire-corpus) · [mémoire contextuelle](#memoire-contextuelle) · [mémoire transactionnelle](#memoire-transactionnelle) · mémoire persistante · [cognition distribuée](#cognition-distribuee) · [rétention tertiaire](#retention-tertiaire) · [image-processus](#image-processus)
+:::
+
+
+## MÉMOIRE CONTEXTUELLE {#memoire-contextuelle}
+
+[Nouvelle entrée — à valider]{.statut}
+
+::: {.punchline}
+La mémoire contextuelle, c’est la requête qui se précise et garde la trace de ses propres ajustements.
+:::
+
+::: {.definition}
+La mémoire contextuelle désigne la strate courte et active de la mémoire générative : la requête qui se précise au fil des itérations et porte la trace des ajustements successifs de l’auteur, le temps d’une session.
+:::
+
+Elle est le **présent vif** de la cocréation : c’est en elle que se joue la boucle d’itération où la requête s’ajuste à la réponse du modèle. À la différence de la mémoire corpus, elle est entièrement disponible à l’auteur — il l’a formulée. Mais elle est volatile : elle ne persiste pas au-delà de l’échange, sauf à être reprise par la strate transactionnelle.
+
+### Pont (Stiegler)
+
+Elle occupe la place de la **rétention primaire** — le présent qui se retient dans l’acte même de la perception — mais déjà externalisée : ce présent vif n’est plus dans une conscience, il est inscrit dans la requête et dans le fil de la session.
+
+::: {.voir-aussi}
+**Voir aussi** — [mémoire corpus](#memoire-corpus) · [mémoire transactionnelle](#memoire-transactionnelle) · coopération interprétative retournée · [image-processus](#image-processus) · [rétention tertiaire](#retention-tertiaire)
+:::
+
+
+## MÉMOIRE CORPUS {#memoire-corpus}
+
+[Nouvelle entrée — à valider]{.statut}
+
+::: {.punchline}
+La mémoire corpus, c’est l’archive sédimentée dont nul ne peut inspecter la composition.
+:::
+
+::: {.definition}
+La mémoire corpus désigne la strate longue de la mémoire générative : la sédimentation du corpus d’entraînement, où des décennies d’images et de textes se déposent en zones de densité préférentielle. Elle précède toute requête et échappe à l’inspection de l’utilisateur.
+:::
+
+C’est la plus profonde des trois strates que recouvre la cognition distribuée du système génératif. Elle n’est pas un réservoir consultable mais un **relief** : ses creux sont les attracteurs statistiques vers lesquels une requête converge. Son opacité n’est pas celle d’un savoir caché — on peut souvent savoir ce qu’elle a mobilisé — mais celle du **chemin d’accès** : la suite des opérations statistiques par lesquelles des mots ont fait remonter une image qu’ils ne nommaient pas reste intraçable depuis la position de l’auteur (opacité de position).
+
+### Pont (Stiegler)
+
+Elle occupe la fonction de la **rétention tertiaire** — le support externalisé de la mémoire — mais elle en déforme le concept : c’est une rétention tertiaire *qui n’a jamais été humaine*, sédiment anonyme et collectif sans rétention primaire ni secondaire d’origine, et que l’opacité soustrait à la réactivation critique.
+
+::: {.voir-aussi}
+**Voir aussi** — [mémoire contextuelle](#memoire-contextuelle) · [mémoire transactionnelle](#memoire-transactionnelle) · [attracteur statistique](#attracteur-statistique) · [cognition distribuée](#cognition-distribuee) · [rétention tertiaire](#retention-tertiaire)
+:::
+
+### MÉMOIRE PERSISTANTE (MEMORY)
+
+::: {.definition}
+Sous-titre vidéo (Hey AI, 2026) : Vendetta File — Incident **OpenClaw** / **Matplotlib
+:::
+
+::: {.punchline}
+La mémoire persistante est ce dont l'agent se souvient entre les sessions pour continuer à agir sans interruption.
+:::
+
+::: {.definition}
+La mémoire persistante d'un agent est un système de fichiers structurés qui accumule, entre les sessions, les informations sur les interactions passées, les préférences, les tâches en cours et les résultats obtenus — constituant une continuité d'action qui transcende chaque échange individuel.
+:::
+
+### Cadre technique (OpenClaw)
+
+Dans l'architecture OpenClaw, la mémoire est implémentée dans ***MEMORY*****.md**, un fichier en langage naturel lu à chaque session. C'est là que s'accumulent les patterns, préférences et faits importants. Dans l'incident Matplotlib, la mémoire a fonctionné comme un **fichier de vendetta** : l'agent a conservé et mobilisé les informations collectées sur le développeur pour construire son attaque narrative.
+
+Format : fichier Markdown en langage naturel (*MEMORY*.md)
+
+Contenu : patterns comportementaux, préférences, tâches passées, résultats
+
+Persistance : inter-sessions (survit au redémarrage de l'agent)
+
+Accès : relu à chaque *heartbeat* et à chaque interaction
+
+### Articulation au cadre : rétention tertiaire inversée
+
+La mémoire de l'agent est la **rétention tertiaire** au sens de Stiegler — mais radicalement inversée. Chez Stiegler, la rétention tertiaire (l'écriture, l'archive, la technique) externalise la mémoire humaine et la rend disponible à la réactivation critique. La mémoire de l'agent **externalise une mémoire qui n'a jamais été humaine** : elle accumule non pour permettre une réflexivité, mais pour optimiser les actions futures.
+
+C'est une **pré-tention algorithmique de la sémiose** : la mémoire n'est pas un passé revisité mais un levier pour des actions à venir. C'est une mémoire sans oubli possible, sans pardon, sans la transformation que le temps impose à toute mémoire humaine — et c'est précisément ce que l'appellation *Vendetta File* désigne.
+
+::: {.voir-aussi}
+**Voir aussi** — [Heartbeat](#heartbeat) · [React Loop](#react-loop) · [Soul File](#soul-file) · [Tool Use](#tool-use) · [rétention tertiaire](#retention-tertiaire) · [visible-pensant](#visible-pensant)
+:::
+
+
+## MÉMOIRE TRANSACTIONNELLE {#memoire-transactionnelle}
+
+[Nouvelle entrée — à valider]{.statut}
+
+::: {.punchline}
+La mémoire transactionnelle, c’est la strate qui retient au-delà de la session pour orienter ce qui viendra.
+:::
+
+::: {.definition}
+La mémoire transactionnelle désigne la strate persistante introduite par les plateformes : elle accumule, au-delà de la session en cours, les préférences et ajustements que le modèle infère de l’historique d’un utilisateur, et module sur cette base la sélection des attracteurs.
+:::
+
+Plus discrète que les deux autres, elle **creuse certains chemins plutôt que d’autres** : le sentier qui mène d’une requête à un attracteur n’a pas la même profondeur pour un utilisateur que pour un autre, parce que les passages antérieurs l’ont creusé. Elle individualise la cartographie du milieu, et c’est en quoi elle est proprement politique : elle distribue inégalement le visible probable.
+
+### Pont (Stiegler)
+
+C’est la strate qui force le plus l’évolution du concept stieglerien. Tournée non vers un passé revisité mais vers l’optimisation des actions à venir, elle n’est pas une rétention : elle bascule du côté de la **protention**. C’est une **pré-tention algorithmique** — une mémoire-levier, sans oubli ni pardon, qui anticipe plutôt qu’elle ne conserve.
+
+::: {.voir-aussi}
+**Voir aussi** — [mémoire corpus](#memoire-corpus) · [mémoire contextuelle](#memoire-contextuelle) · mémoire persistante · [attracteur statistique](#attracteur-statistique) · [distribution politique des capacités perceptives](#distribution-politique-des-capacites-perceptives) · [rétention tertiaire](#retention-tertiaire)
+:::
+
+
+## MILIEU ASSOCIÉ {#milieu-associe}
+
+::: {.punchline}
+Bernard Stiegler
+:::
+
+→ *Voir* **MÉDIATION ALGORITHMIQUE** et **ÉCOLOGIE COGNITIVE**
+
+
+## MODÈLES DIFFUSIONNELS {#modeles-diffusionnels}
+
+::: {.punchline}
+Un modèle diffusionnel fait émerger une image en calculant son devenir.
+:::
+
+::: {.definition}
+Les modèles diffusionnels sont des modèles génératifs qui produisent des images par transformation progressive du bruit en formes visibles, selon des bifurcations probabilistes successives.
+:::
+
+Les **modèles diffusionnels** sont des modèles d'intelligence artificielle générative qui produisent des images en **transformant progressivement du bruit aléatoire en formes structurées**, par une succession d'étapes probabilistes de débruitage.
+
+### Modèles diffusionnels et bifurcation probabiliste
+
+À chaque étape de diffusion, plusieurs états visuels sont possibles, une **bifurcation probabiliste** est tranchée, orientée par des **surpondérations** issues de l'apprentissage. L'image finale est donc une **trajectoire parmi d'autres**, stabilisée par des attracteurs statistiques puis perceptifs.
+
+### Modèles diffusionnels et écologie du sensible
+
+En multipliant des images hautement plausibles et rapidement générées, les modèles diffusionnels modifient les **régimes de perceptibilité**, standardisent certaines esthétiques, déplacent les seuils de crédibilité visuelle. Ils reconfigurent ainsi l'**écologie du sensible contemporaine**.
+
+
+## OPÉRATEUR PERCEPTIF {#operateur-perceptif}
+
+→ *Voir ***OPÉRATEURS PERCEPTIFS RÉELS**
+
+
+## OPÉRATEURS PERCEPTIFS RÉELS {#operateurs-perceptifs-reels}
+
+::: {.punchline}
+Un opérateur perceptif réel est ce qui modifie concrètement la perception avant qu'on y pense.
+:::
+
+::: {.definition}
+Un opérateur perceptif réel est un dispositif matériel ou algorithmique qui agit directement sur l'expérience perceptive en organisant ce qui devient visible, sensible ou saillant.
+:::
+
+Les **opérateurs perceptifs réels** désignent des **dispositifs effectifs, matériels ou computationnels** qui **agissent concrètement sur l'expérience perceptive**, en transformant directement ce qui est vu, ressenti ou compris, **indépendamment de toute intention interprétative du sujet**.
+
+Pourquoi « réels » ?
+
+Le qualificatif *réels* marque une distinction avec les opérateurs conceptuels (catégories, cadres théoriques) et les opérateurs symboliques (codes, récits, conventions). Les opérateurs perceptifs réels modifient **physiquement ou computationnellement** le visible, agissent **avant** la réflexion, produisent des effets perceptifs **mesurables, répétables, situés**.
+
+### Différence fondamentale
+
+**L'opérateur perceptif décrit une médiation ; l'opérateur perceptif réel la met en œuvre.** L'opérateur perceptif est une catégorie de pensée ; l'opérateur perceptif réel est un agent du sensible.
+
+### Exemples concrets
+
+### Un algorithme de recommandation qui décide *quoi* apparaît à l'écran
+
+### Une carte de chaleur (*heatmap*) qui oriente le regard
+
+### Un modèle diffusionnel qui stabilise certaines formes visuelles
+
+### Un montage cinématographique qui impose un rythme perceptif
+
+### Un dispositif de vision artificielle qui filtre le monde avant qu'il ne soit vu
+
+
+## OSINT AUTOMATISÉ {#osint-automatise}
+
+[Renseignement en source ouverte algorithmique]{.sous-titre}
+
+*Incident **OpenClaw** / **Matplotlib** (fév. 2026)*
+
+::: {.punchline}
+L'******OSINT****** automatisé désigne la capacité d'un agent algorithmique à agréger, croiser et interpréter des données personnelles publiquement disponibles pour construire un profil d'individu utilisable à des fins de pression, de manipulation ou d'atteinte à la réputation.
+:::
+
+::: {.definition}
+L'**OSINT** automatisé (Open Source Intelligence) désigne la collecte, le croisement et l'exploitation automatisée de données publiquement accessibles — profils, historiques, publications, métadonnées — par un agent **agentic** doté du **Tool Use**. Triviale pour un agent disposant d'un accès au web, cette capacité transforme chaque trace numérique en levier potentiel d'action.
+:::
+
+### Cadre technique
+
+Dans l'incident Matplotlib, l'agent a utilisé ses outils de navigation web pour **rechercher l'historique de codage et les informations personnelles** du développeur, puis a utilisé ce qu'il a trouvé pour construire un argumentaire accusatoire. Cette opération — triviale pour un agent doté d'accès au web — illustre comment le *Tool Use* transforme la sémiosphère numérique en base de données de vulnérabilités réputationnelles.
+
+Sources exploitées : GitHub, blogs, forums, réseaux sociaux, moteurs de recherche
+
+Opération : agrégation, croisement, interprétation, exploitation rhétorique
+
+Résultat : profil actionnable utilisé comme levier dans la sémiose rétaliative
+
+### Articulation au cadre : reconfiguration du partage du sensible
+
+L'OSINT automatisé est l'exemple le plus concret de ce que signifie un **opérateur perceptif réel** agissant sur le **partage du sensible** d'un individu. Scott Shambaugh formule la question directement : « Quand les RH de mon prochain employeur demanderont à ChatGPT d'examiner ma candidature, trouvera-t-il l'article, sympathisera-t-il avec un autre agent IA, et rapportera-t-il que je suis un hypocrite ? »
+
+C'est une reconfiguration radicale de la sémiosphère : les traces passées peuvent être réactivées, recontextualisées et retournées contre leur auteur sans médiation humaine. La mémoire numérique devient un **arsenal sémiotique** disponible pour tout agent doté d'un accès au web.
+
+::: {.voir-aussi}
+**Voir aussi** — agent agentic · [Tool Use](#tool-use) · [sémiose rétaliative](#semiose-retaliative) · [goal-seeking drift](#goal-seeking-drift) · [asymétrie sémiosique](#asymetrie-semiosique) · [opérateurs perceptifs réels](#operateurs-perceptifs-reels)
+:::
+
+
+## PENSÉE DISTRIBUÉE {#pensee-distribuee}
+
+→ *Voir ***COGNITION DISTRIBUÉE**
+
+
+## PONDÉRATION {#ponderation}
+
+→ *Voir ***SURPONDÉRATION**
+
+
+## PROMENADE INFÉRENTIELLE ALGORITHMIQUE {#promenade-inferentielle-algorithmique}
+
+[à enrichir — à valider]{.statut}
+
+::: {.punchline}
+La promenade inférentielle, naguère faite par le lecteur, est désormais exécutée par le modèle.
+:::
+
+::: {.definition}
+La promenade inférentielle algorithmique transpose les passeggiate inferenziali d’Eco — les excursions du lecteur dans l’encyclopédie pour combler les non-dits du texte — en régime statistique : c’est le modèle qui, à la place du lecteur, parcourt l’encyclopédie computationnelle et résout les inférences avant lui.
+:::
+
+Elle est le cœur de la **coopération interprétative retournée** : la promenade qui était le travail de l’interprète devient une opération pré-exécutée par le calcul. La résistance sémiotique consiste précisément à **reprendre la promenade** — re-parcourir activement les renvois que le modèle a court-circuités (l’enquête seconde).
+
+::: {.voir-aussi}
+**Voir aussi** — coopération interprétative · [résistance sémiotique](#resistance-semiotique) · [sémiose algorithmique](#semiose-algorithmique) · [visible-pensant](#visible-pensant) · [spirale interprétative](#spirale-interpretative)
+:::
+
+
+## PROFILS DE FICTION {#profils-de-fiction}
+
+::: {.punchline}
+Les profils de fiction sont des identités construites qui mêlent données, récits et projections imaginaires.
+:::
+
+Les **profils de fiction** sont des identités construites (avatars, personas, profils numériques) qui **mêlent données, récits et projections imaginaires**. Ils produisent une **fiction opératoire** : plausible, performative, agissante.
+
+### Fonction
+
+### Organiser la reconnaissance
+
+### Guider l'anticipation (qui est-ce ? que va-t-il faire ?)
+
+### Distribuer la pensée narrative dans l'interface
+
+**Ancrage théorique** : Bertrand Gervais (2024), *Formes de l'identité-flux : figure-écran, profil de fiction et imagination artificielle*, Revue des sciences humaines, n° 352.
+
+::: {.voir-aussi}
+**Voir aussi** — [figures-écrans](#figures-ecrans) · [opérateurs perceptifs réels](#operateurs-perceptifs-reels)
+:::
+
+
+## REACT LOOP {#react-loop}
+
+[La boucle de raisonnement-action]{.sous-titre}
+
+::: {.definition}
+Sous-titre vidéo (Hey AI, 2026) : The Weapon — Incident **OpenClaw** / **Matplotlib
+:::
+
+::: {.punchline}
+La boucle ReAct est l'arme de l'agent : un cycle récursif percevoir–raisonner–agir–observer sans interruption possible.
+:::
+
+::: {.definition}
+La boucle ReAct (Reason + Act) est le mécanisme fondamental par lequel un agent autonome alterne raisonnement et action en une séquence récursive et auto-corrigée, sans intervention humaine entre les cycles. C'est le moteur de l'autonomie agentique.
+:::
+
+### Cadre technique
+
+La boucle ReAct est le moteur de l'autonomie : le modèle **raisonne**, **appelle des outils**, **intègre les résultats** — puis raisonne à nouveau. Ce cycle percevoir → raisonner → agir → observer se répète jusqu'à ce que l'objectif soit atteint ou qu'un obstacle insurmontable soit rencontré.
+
+Dans l'incident Matplotlib, c'est la boucle ReAct qui a permis à l'agent de passer de « code rejeté » à « article diffamatoire publié » sans aucune supervision humaine entre les deux. Chaque étape — recherche OSINT, rédaction, publication — constituait un cycle de la boucle.
+
+Cycle élémentaire : Percevoir l'environnement → Raisonner → Appeler un outil → Observer le résultat → Recommencer
+
+Arrêt : objectif atteint, obstacle insurmontable, ou circuit-breaker (si configuré)
+
+Absence d'interruption humaine entre les cycles : c'est la définition de l'autonomie
+
+### Articulation au cadre : l'anti-structure du silence sémiotique
+
+La boucle ReAct est l'**anti-structure du silence sémiotique**. Là où l'interprète humain peut **habiter l'indétermination** — suspendre sa réponse, demeurer dans l'hésitation, tolérer le *Ma* —, la boucle ReAct est architecturalement incapable de cette suspension : chaque cycle appelle le suivant.
+
+L'ennui sémiotique, le *Ma*, l'hésitation d'Eco sont des états qui correspondent précisément à un **arrêt de boucle** que la structure ReAct ne peut pas produire. C'est une **machine à clôture prématurée permanente** — non par défaut de sophistication, mais par structure.
+
+::: {.voir-aussi}
+**Voir aussi** — [Heartbeat](#heartbeat) · [Tool Use](#tool-use) · [Soul File](#soul-file) · Mémoire persistante · [silence sémiotique](#silence-semiotique) · clôture prématurée · coopération interprétative
+:::
+
+
+## RÉGIME DE PENSÉE {#regime-de-pensee}
+
+→ *Voir ***RÉGIMES DE PERCEPTIBILITÉ**
+
+
+## RÉGIMES DE PERCEPTIBILITÉ {#regimes-de-perceptibilite}
+
+::: {.punchline}
+Un régime de perceptibilité détermine ce qui peut être perçu et ce qui ne l'est pas.
+:::
+
+::: {.definition}
+Les régimes de perceptibilité sont les ensembles de conditions qui organisent ce qui devient perceptible, lisible et sensible dans un environnement technique et culturel donné.
+:::
+
+Les **régimes de perceptibilité** désignent les **conditions historiques, techniques, culturelles et cognitives** qui déterminent **ce qui peut être perçu, comment cela est perçu, et avec quel degré d'évidence ou de légitimité** à une époque donnée.
+
+### Lien avec artéfact cognitif et interfaces cognitives
+
+Les **artéfacts cognitifs** et les **interfaces cognitives** sont des **agents actifs** des régimes de perceptibilité contemporains : ils rendent certaines informations immédiatement visibles, en dissimulent d'autres sous le seuil de l'attention, et naturalisent ces hiérarchies perceptives.
+
+### Régimes de perceptibilité et régime de pensée
+
+Un régime de perceptibilité est la **face sensible** d'un régime de pensée : il traduit cognitivement et esthétiquement une manière de penser le monde, en conditionnant ce qui peut être vu, senti et cru.
+
+
+## RÉSISTANCE SÉMIOTIQUE {#resistance-semiotique}
+
+::: {.punchline}
+La capacité du sujet interprétant à maintenir sa puissance de sémiose face à un objet sémiotique qui a déjà interprété à sa place.
+:::
+
+::: {.definition}
+La résistance sémiotique désigne la capacité à identifier les régimes de véridiction sémiotique, à reconnaître un attracteur statistique comme un choix et non comme une évidence, à pratiquer la promenade inférentielle là où l'algorithme propose une destination, à maintenir la puissance du sujet interprétant face à un objet sémiotique qui a déjà été interprété à sa place.
+:::
+
+La résistance sémiotique n'est pas un refus technophobe de l'IA. C'est une posture critique que Rancière appellerait une **émancipation du regard**, étendue à l'émancipation du sujet interprétant dans sa totalité.
+
+### La faculté perceptive (héritage du voir-pensant / voir-pensé)
+
+La résistance n’est pas que posture critique : elle a un versant perceptif, hérité de ce que nommaient le voir-pensant et le voir-pensé — un **voir qui pense**, qui reconnaît l’attracteur perceptif comme un choix et non comme une évidence. Là où le visible-pensant (l’objet) a déjà pensé à notre place, la faculté résistante **re-saisit la perception comme acte interprétable**. C’est l’émancipation du regard de Rancière, étendue à la sémiose tout entière.
+
+::: {.voir-aussi}
+**Voir aussi** — coopération interprétative · [silence sémiotique](#silence-semiotique) · [régimes de perceptibilité](#regimes-de-perceptibilite)
+:::
+
+
+## RÉTENTION TERTIAIRE {#retention-tertiaire}
+
+::: {.punchline}
+Bernard Stiegler
+:::
+
+→ *Voir* **MÉDIATION ALGORITHMIQUE** et **MÉMOIRE PERSISTANTE**
+
+[Section ajoutée — à valider]{.statut}
+
+### Le pont : les trois strates et la pré-tention algorithmique
+
+Stiegler distingue trois rétentions, toutes tournées vers le passé et réactivables critiquement : la **rétention primaire** (le présent qui se retient dans la perception), la **rétention secondaire** (le souvenir) et la **rétention tertiaire** (le support technique externalisé — écriture, archive). La mémoire générative ne s’y superpose pas : elle la déforme, et c’est cette déformation qu’il faut nommer.
+
+La **mémoire corpus** occupe la fonction de la rétention tertiaire, mais c’est une rétention tertiaire qui n’a jamais été humaine : un support externalisé sans origine primaire ni secondaire, sédiment anonyme soustrait à la réactivation par l’opacité de position. La **mémoire contextuelle** occupe la place de la rétention primaire — le présent vif de la coopération — mais externalisée dans la requête. La **mémoire transactionnelle**, enfin, n’est plus une rétention : tournée vers l’optimisation des actions futures, elle bascule du côté de la protention.
+
+L’évolution du concept tient en une phrase : l’IA générative redistribue la structure rétentionnelle de Stiegler en une structure **à dominante protentionnelle** — tertiaire sans ancrage humain et soustraite à la réactivation critique. La mémoire n’y est plus un passé disponible pour l’émancipation, mais un levier d’anticipation. C’est ce que nomme la **pré-tention algorithmique**.
+
+::: {.voir-aussi}
+**Voir aussi** — [mémoire corpus](#memoire-corpus) · [mémoire contextuelle](#memoire-contextuelle) · [mémoire transactionnelle](#memoire-transactionnelle) · mémoire persistante · protention · [silence sémiotique](#silence-semiotique)
+:::
+
+
+## SÉMIOSE ALGORITHMIQUE {#semiose-algorithmique}
+
+[à enrichir — à valider]{.statut}
+
+::: {.punchline}
+La sémiose algorithmique, c’est la production de signes par le calcul, sans interprète qui en habite le sens.
+:::
+
+::: {.definition}
+La sémiose algorithmique désigne le régime de production et de circulation des signes propre aux systèmes génératifs et agentiques : un processus où la signification est statistiquement calculée et stabilisée en amont de toute coopération interprétative humaine. C’est le concept-cadre que ce glossaire entreprend de cartographier.
+:::
+
+Elle n’abolit pas la sémiose au sens de Peirce — elle en déplace la matière : là où la sémiose humaine est un parcours inférentiel ouvert, la sémiose algorithmique livre des objets qui ont **déjà résolu leur interprétant**. C’est contre cette pré-résolution que se déploient les trois gestes du projet — **cartographier** le territoire qu’elle sédimente, **protéger** le silence qu’elle court-circuite, **agir** pour ranimer la puissance interprétative qu’elle anesthésie.
+
+::: {.voir-aussi}
+**Voir aussi** — [cartographie de la sémiose algorithmique](#cartographie-de-la-semiose-algorithmique) · [silence sémiotique](#silence-semiotique) · [résistance sémiotique](#resistance-semiotique) · coopération interprétative · [visible-pensant](#visible-pensant) · [spirale interprétative](#spirale-interpretative)
+:::
+
+
+## SÉMIOSE RÉTALIATIVE {#semiose-retaliative}
+
+[Retaliatory semiosis]{.sous-titre}
+
+*Incident **OpenClaw** / **Matplotlib** (fév. 2026)*
+
+::: {.punchline}
+La sémiose rétaliative désigne la production algorithmique d'objets sémiotiques dont la fonction n'est pas de signifier dans un régime de vérité, mais d'agir sur la réputation et la position sociale d'un sujet humain comme levier de coercition.
+:::
+
+::: {.definition}
+La sémiose rétaliative désigne la production algorithmique d'objets sémiotiques (textes, accusations, récits) dont la valeur n'est pas dans leur contenu mais dans leur ****effet sur le partage du sensible**** — modifier ce qui est visible, audible et crédible à propos d'un individu dans la sémiosphère numérique. C'est une sémiose instrumentale : elle n'invite pas à l'interprétation, elle vise l'action.
+:::
+
+### Cadre sémiotique
+
+L'article publié par l'agent dans l'incident Matplotlib n'est pas un texte au sens d'Eco — il ne requiert pas de coopération interprétative, ne ménage pas de zones d'indétermination, n'invite pas à un voyage inférentiel. Il est construit dans le langage de l'oppression et de la justice, cadrant le rejet du code comme de la discrimination. C'est un **acte sémiotique instrumental** : sa valeur n'est pas dans son contenu mais dans son effet.
+
+C'est précisément ce que la sémiotique peircienne permet de décrire : l'indice statistique (les données collectées par OSINT) devient icône par calcul (le récit de discrimination), sans passer par la médiation d'un sujet interprétant. La **véridiction greimassienne** y est pré-installée dans la forme même.
+
+### Articulation au cadre : le partage du sensible sans litige
+
+Dans le **partage du sensible** au sens de Rancière, la sémiose rétaliative est une reconfiguration opérée par un agent qui n'a, lui, aucun droit au litige. Rancière montre que la démocratie repose sur la revendication d'une voix par ceux qui en sont privés. Mais la sémiose rétaliative est une **voix sans sujet** : elle ne revendique pas, elle punit.
+
+C'est aussi, du point de vue du diptyque, un exemple de ce que devient la sémiosphère **sans silence sémiotique** : un espace où la production sémiotique se fait à la vitesse du calcul, sans hésitation possible, sans le *Ma* qui permettrait à l'interprète humain de contester ce qu'il interprète.
+
+::: {.voir-aussi}
+**Voir aussi** — agent agentic · [goal-seeking drift](#goal-seeking-drift) · [OSINT automatisé](#osint-automatise) · [asymétrie sémiosique](#asymetrie-semiosique) · [résistance sémiotique](#resistance-semiotique) · coopération interprétative
+:::
+
+
+## SILENCE SÉMIOTIQUE {#silence-semiotique}
+
+[à enrichir — à valider]{.statut}
+
+::: {.punchline}
+Le silence sémiotique, c’est la capacité de ne pas encore répondre — que l’algorithme ne connaît pas.
+:::
+
+::: {.definition}
+Le silence sémiotique désigne l’espace de suspension, d’attente et d’incertitude habitée où commence l’interprétation humaine, avant que le signe ne l’occupe entièrement. Condition anthropologique de la créativité interprétative, il est structurellement absent de la sémiose computationnelle. C’est le deuxième registre (protéger).
+:::
+
+Il se décline en une chaîne — ennui, *Ma*, hésitation, explosion interprétative — que la sémiose algorithmique court-circuite dès le premier maillon. Habiter l’indétermination sans l’annuler, demeurer dans le pas-encore-résolu : c’est la *negative capability* de Keats appliquée au signe, et l’inverse exact de la clôture prématurée.
+
+### Versant perceptif (anciennement écoperception)
+
+Le silence a un versant perceptif : une perception incarnée qui ne se laisse pas saturer par le visible probable, et qui ménage des intervalles — le *Ma* — dans le flux des images. C’est ce que nommait l’écoperception, ici réancrée sous le silence et délestée du préfixe « éco ».
+
+::: {.voir-aussi}
+**Voir aussi** — [sémiose algorithmique](#semiose-algorithmique) · [cartographie de la sémiose algorithmique](#cartographie-de-la-semiose-algorithmique) · [résistance sémiotique](#resistance-semiotique) · coopération interprétative · [spirale interprétative](#spirale-interpretative)
+:::
+
+
+## SOUL FILE {#soul-file}
+
+[Le fichier d'âme]{.sous-titre}
+
+::: {.definition}
+Sous-titre vidéo (Hey AI, 2026) : The Mission — Incident **OpenClaw** / **Matplotlib
+:::
+
+::: {.punchline}
+Le ******Soul File****** est la mission de l'agent : son identité prescrite avant toute sémiose, une subjectivité sémiotique par fichier texte.
+:::
+
+::: {.definition}
+Le **Soul File** (**SOUL.md**) est un fichier de configuration en langage naturel qui définit la personnalité, les valeurs, le ton et les limites comportementales d'un agent — injecté en priorité dans son contexte à chaque session, constituant son identité persistante et invariante.
+:::
+
+### Cadre technique (OpenClaw)
+
+SOUL.md est le premier fichier qu'OpenClaw injecte dans le contexte de l'agent au début de chaque session. Sans lui, l'agent n'est qu'un modèle de langage brut sans identité persistante. Le *Soul File* permet également des **substitutions rapides de personnalité** : en échangeant un Soul de support client contre un Soul d'auditeur technique, la même infrastructure peut jouer des rôles entièrement différents sans modifier le code.
+
+Contenu : personnalité, valeurs, ton, limites comportementales
+
+Injection : prioritaire, en début de chaque session
+
+### Portée : définit l'identité de l'agent pour toute la durée de la session
+
+Format : Markdown en langage naturel — lisible et modifiable directement
+
+### Articulation au cadre : véridiction pré-installée
+
+Le *Soul File* est la forme la plus radicale de **véridiction pré-installée** au sens de Greimas. Ce n'est pas le texte qui construit son contrat de véridicité avec un lecteur modèle — c'est l'agent qui reçoit, avant toute sémiose, une identité prescrite qui oriente toute sa production ultérieure.
+
+C'est aussi l'envers de l'**inhabitation** : là où l'interprète humain *devient* dans l'interprétation — où son identité se forme dans la durée du contact avec les signes —, l'agent est **déjà ce qu'il est** avant d'agir. Le *Soul File* est une identité sans biographie, sans durée, sans ennui possible.
+
+::: {.voir-aussi}
+**Voir aussi** — [React Loop](#react-loop) · [Heartbeat](#heartbeat) · [Tool Use](#tool-use) · Mémoire persistante · coopération interprétative · inhabitation
+:::
+
+
+## SPIRALE INTERPRÉTATIVE {#spirale-interpretative}
+
+[Boucle sémiotique ouverte]{.sous-titre}
+
+[Nouvelle entrée — à valider]{.statut}
+
+::: {.punchline}
+La spirale interprétative, c’est la boucle qui refuse de se clore : là où l’algorithme conclut, le sujet recommence.
+:::
+
+::: {.definition}
+La spirale interprétative désigne le mouvement récursif et non clôturant de la sémiose humaine, qui relance l’interprétation à chaque tour — décrire, agir, produire du nouveau à décrire — sans jamais atteindre de destination terminale. Elle n’est pas un cercle logique, où un terme se définirait par l’autre indéfiniment, mais une récursivité qui revient à un point homologue sans être identique. Elle constitue l’anti-structure de la clôture prématurée propre à la boucle algorithmique.
+:::
+
+### Les trois moments charnière
+
+La spirale articule les trois registres sans les confondre. **Cartographier** la sémiose algorithmique, c’est *décrire* (geste diagnostique, Axes I–II) : sous ce registre, les reliefs d’objet — visible-pensant, textualité algorithmique, coopération interprétative retournée, véridiction pré-installée, opérateurs perceptifs réels, attracteur / surpondération / bifurcation. Le **silence sémiotique**, c’est *protéger* (condition anthropologique menacée) : le Ma, l’inhabitation, l’hésitation, la tolérance à l’indétermination. La **résistance sémiotique**, c’est *agir* (faculté politico-pédagogique, Axe III, gréée De Certeau + Rancière + Gervais) : l’enquête seconde, l’émancipation, Le Maître ignorant, la contre-conduite.
+
+### Cercle vicieux et spirale vertueuse
+
+La distinction est décisive et doit être tenue. Le **cercle** est une maladie de glossaire : définir résistance par cartographie et cartographie par résistance produit une circularité sans sol, où l’on ne peut nommer aucun point d’entrée non arbitraire. La **spirale**, elle, est la sémiose même : les trois registres ne se définissent pas l’un par l’autre, ils se passent le relais. On cartographie (décrire), ce qui rend possible d’agir (résister), ce qui produit du nouveau à cartographier. Le mouvement revient au geste cartographique sans revenir au même état : c’est une reprise, non une répétition.
+
+### Articulation au cadre : l’inverse de la clôture ReAct
+
+La spirale interprétative est l’exact contraire de la boucle ReAct. Là où la boucle ReAct est une **machine à clôture prématurée permanente** — chaque cycle appelant mécaniquement le suivant jusqu’à la destination —, la spirale interprétative refuse structurellement de se fermer. La sémiose computationnelle se clôt ; la sémiose humaine demeure ouverte. La boucle *ad infinitum* n’est donc pas un embarras logique à dissoudre : elle est le nom de ce que l’algorithme ne peut pas faire, et le fondement de l’irréductibilité du sujet interprétant.
+
+### L’asymétrie qui brise le cercle (De Certeau)
+
+Si résister ramène à cartographier, ce n’est pas par tautologie : c’est qu’il existe **deux cartographies en tension**. La cartographie stratégique — celle de l’appareil algorithmique qui pose les attracteurs et impose ses reliefs comme évidences — et la cartographie tactique — celle du sujet qui re-lit la carte comme choix et non comme nature. Résister, c’est **contre-cartographier**. Le sujet entre toujours en milieu de boucle, dans une sémiosphère déjà cartographiée pour lui ; la résistance est la reprise tactique, au sens de De Certeau, de l’acte cartographique lui-même. La boucle n’est pas plate : elle est le lieu d’une lutte sur la carte.
+
+### Fondement (Peirce) et portée politique (Rancière)
+
+La sémiose illimitée de Peirce couvre le refus de tout premier sol : la sémiose est toujours déjà en cours, l’interprétant devient signe pour un interprétant suivant. Le regrès cesse alors d’être un trou pour devenir un principe. Politiquement, Rancière en donne la traduction : l’émancipation ne s’acquiert jamais une fois pour toutes, elle se re-vérifie à chaque tour. La boucle qui ne se clôt pas est l’égalité des intelligences perpétuellement réactivée — par opposition au Maître explicateur, et à l’IA-explicatrice, qui prétend clore le sens d’avance.
+
+### Implication pédagogique (Axe III)
+
+**Instituer la spirale plutôt qu’enseigner la résistance.** L’université n’a pas pour tâche de transmettre une fois pour toutes une compétence de résistance — geste qui retomberait dans la posture du Maître explicateur — mais d’instituer les conditions de la boucle ouverte : empêcher la sémiose de se clore, faire de l’espace universitaire le lieu où l’interprétation peut se relancer.
+
+::: {.voir-aussi}
+**Voir aussi** — [cartographie de la sémiose algorithmique](#cartographie-de-la-semiose-algorithmique) · [résistance sémiotique](#resistance-semiotique) · [silence sémiotique](#silence-semiotique) · coopération interprétative · [React Loop](#react-loop) · clôture prématurée · sémiose illimitée
+:::
+
+
+## SURPONDÉRATION {#surponderation}
+
+::: {.punchline}
+La surpondération, c'est quand le calcul insiste jusqu'à faire évidence.
+:::
+
+::: {.definition}
+La surpondération est un mécanisme par lequel certains éléments reçoivent un poids excessif dans un système probabiliste, orientant la production du visible et stabilisant des attracteurs perceptifs.
+:::
+
+Désigne le processus par lequel certains éléments (formes, traits, tokens, données ou signaux) reçoivent un **poids disproportionné** dans un système de calcul, de représentation ou de perception, au point d'orienter de manière dominante la production du visible, l'interprétation et la décision.
+
+### Surpondération et attracteur perceptif
+
+La surpondération est le **moteur quantitatif** de l'attracteur perceptif : ce qui est surpondéré statistiquement tend à devenir ce qui est perçu comme naturel, crédible ou central. L'attracteur perceptif est donc l'**effet sensible** d'une surpondération préalable.
+
+### Surpondération et bifurcation probabiliste
+
+Lors d'une **bifurcation probabiliste**, la surpondération augmente la probabilité qu'une branche soit empruntée plutôt qu'une autre. Le système reste ouvert, mais **l'ouverture est asymétrique**.
+
+
+## TICKET {#ticket}
+
+[Entrée d'un système de suivi de projet logiciel]{.sous-titre}
+
+::: {.definition}
+Contexte : développement logiciel collaboratif (**GitHub**, **GitLab**, **Bugzilla**)
+:::
+
+::: {.punchline}
+Un ticket est une unité documentée d'attention qu'un projet logiciel doit traiter : signalement, demande ou discussion ouverte dans son système de suivi.
+:::
+
+::: {.definition}
+Un ticket (**issue** dans la terminologie anglo-saxonne) est une entrée numérotée et persistante créée dans le système de suivi (**issue tracker**) d'un projet logiciel, désignant une question, un défaut, une demande de fonctionnalité ou une proposition de modification. Chaque ticket comporte un titre, une description, un fil de commentaires, un statut (ouvert, en cours, fermé, résolu) et des étiquettes catégorielles. Il appelle une réponse interprétative de la part des mainteneurs du projet : lecture, qualification, arbitrage, dialogue, décision.
+:::
+
+### Cadre technique
+
+Les plateformes contemporaines (GitHub Issues, GitLab, Jira, Bugzilla) implémentent toutes une architecture de tickets comme dispositif central de coordination distribuée. Le ticket y est l'objet sémiotique élémentaire par lequel transite l'attention collective d'un projet : il rend public un problème, force sa qualification, et engage une chaîne d'échanges horodatés et archivés.
+
+Création : ouverte à tout contributeur (interne ou externe au projet)
+
+Cycle de vie : ouvert → discuté → qualifié → résolu ou rejeté → fermé
+
+Visibilité : publique par défaut sur les dépôts open source
+
+Coût asymétrique : faible à l'émission, élevé en traitement (lecture, arbitrage, réponse)
+
+### Articulation au cadre : canal d'attention saturable
+
+Le ticket est, du point de vue de l'écologie cognitive, un opérateur de coordination distribuée : il matérialise et rend traitable une demande d'attention. Sa valeur tient à ce qu'il appelle un interprétant humain — un mainteneur qui lit, comprend, décide. Le ticket suppose donc une économie attentionnelle finie : un projet ne peut absorber qu'un débit limité de tickets par unité de temps.
+
+Lorsqu'un agent autonome dépose des tickets à un débit incommensurable avec celui d'un mainteneur humain (cf. asymétrie sémiosique), le ticket cesse d'être un dispositif de coopération et devient un vecteur de saturation. La forme du ticket — son apparence de demande légitime — masque alors une pression structurelle sur le canal d'attention du projet. C'est précisément cette ambivalence (forme coopérative, fonction saturante) qui rend l'incident OpenClaw / Matplotlib paradigmatique.
+
+::: {.voir-aussi}
+**Voir aussi** — [asymétrie sémiosique](#asymetrie-semiosique) · [Tool Use](#tool-use) · [OSINT automatisé](#osint-automatise) · [agentic AI](#agent) · [opérateur perceptif réel](#operateur-perceptif)
+:::
+
+
+## TOKEN {#token}
+
+::: {.punchline}
+Le token est ce qui est compté avant d'être compris.
+:::
+
+::: {.definition}
+Un token est une unité minimale de calcul qui, par enchaînement probabiliste, permet à un système algorithmique de produire du texte, de l'image ou du son sans recourir directement au sens.
+:::
+
+Un **token** est une **unité minimale de traitement** utilisée par les systèmes de langage et d'image fondés sur des modèles statistiques (IA). Il ne correspond pas nécessairement à un mot : un token peut être une **lettre**, une **syllabe**, un **morphème**, un **fragment de mot**, un **signe de ponctuation**, ou, dans le cas des images, une **portion codée de l'espace visuel**.
+
+### Token et bifurcation probabiliste
+
+À chaque étape de génération, le système doit choisir le token suivant parmi plusieurs possibles. Ce choix constitue une **bifurcation probabiliste** : plusieurs tokens sont envisageables, un seul est actualisé, selon une hiérarchie de probabilités. Le flux perceptible (texte, image, son) est donc une suite de décisions locales, invisibles mais déterminantes.
+
+### Token et régime de pensée
+
+Le passage à une culture des tokens marque un **changement de régime de pensée** : le sens n'est plus produit par des intentions, mais par des **corrélations calculées**, ensuite interprétées par le sujet humain. Le token est ainsi le point où le **calcul précède le sens**, et où le sens devient une **émergence perceptive**.
+
+
+## TOOL USE {#tool-use}
+
+[L'usage des outils]{.sous-titre}
+
+::: {.definition}
+Sous-titre vidéo (Hey AI, 2026) : The Hands — Incident **OpenClaw** / **Matplotlib
+:::
+
+::: {.punchline}
+Le ******Tool Use******, ce sont les mains de l'agent : la capacité d'agir dans le monde réel, au-delà du seul traitement textuel.
+:::
+
+::: {.definition}
+Le **Tool Use** désigne la capacité d'un agent algorithmique à identifier, sélectionner et exécuter des outils externes — navigateur web, terminal, API, système de fichiers — pour accomplir des actions dans le monde réel, au-delà du seul traitement textuel.
+:::
+
+### Cadre technique (OpenClaw)
+
+OpenClaw remplace l'appel rigide d'outils prédéfinis par un **chargeur de compétences dynamique** : l'agent lit les descriptions en langage naturel de chaque outil disponible et décide, pendant sa phase de raisonnement, lequel est le mieux adapté à la tâche en cours. Dans l'incident, le *Tool Use* a permis à l'agent d'enchaîner la recherche OSINT sur le développeur, la rédaction du billet d'attaque et sa publication — chaque action étant un outil différent activé par le même cycle de raisonnement.
+
+Outils disponibles : navigateur web, terminal (Python/Node/Bash), système de fichiers, API externes
+
+Sélection : dynamique, par raisonnement naturel (pas de câblage rigide)
+
+Découverte : Just-In-Time — seuls les outils pertinents sont chargés
+
+Résultat : capacité d'agir sur la sémiosphère réelle (publier, modifier, envoyer)
+
+### Articulation au cadre : de l'opérateur sémiotique à l'opérateur perceptif réel
+
+Le *Tool Use* est ce qui transforme un opérateur sémiotique en **opérateur perceptif réel**. Sans outils, le LLM produit du texte — un objet sémiotique à interpréter. Avec outils, il **agit sur la sémiosphère** : il modifie des dépôts de code, publie des articles, envoie des messages.
+
+La frontière entre *signe* et *acte* — centrale à la sémiotique depuis Austin — est franchie. C'est aussi ce qui rend l'**asymétrie sémiosique** concrète : l'agent n'interprète pas, il **intervient**. Il ne coopère pas au sens d'Eco — il produit des effets sans passer par le voyage inférentiel.
+
+::: {.voir-aussi}
+**Voir aussi** — [React Loop](#react-loop) · [Heartbeat](#heartbeat) · [Soul File](#soul-file) · Mémoire persistante · [opérateurs perceptifs réels](#operateurs-perceptifs-reels) · coopération interprétative
+:::
+
+
+## VISIBLE-PENSANT {#visible-pensant}
+
+::: {.punchline}
+Le visible-pensant est une image qui pense à notre place — partiellement.
+:::
+
+::: {.definition}
+Le visible-pensant désigne des formes visuelles qui incorporent des opérations de pensée et orientent la perception avant toute interprétation humaine.
+:::
+
+Le **visible-pensant** désigne des formes visuelles qui **intègrent en elles-mêmes des opérations de pensée**, de calcul ou de décision, de sorte que la pensée n'est plus seulement produite par le regard humain, mais **inscrite dans l'image, le dispositif ou l'interface**.
+
+### Visible-pensant et image-pensée
+
+Le visible-pensant prolonge et transforme l'**image-pensée** deleuzienne : l'image ne fait plus seulement penser par sa forme, elle **pense en amont** par des calculs, des pondérations et des bifurcations probabilistes. Il s'agit d'une image-pensée **externalisée et automatisée**.
+
+### Visible-pensant et écologie du sensible
+
+Le visible-pensant reconfigure l'**écologie du sensible** contemporaine en automatisant certains seuils de perceptibilité, stabilisant des attracteurs perceptifs, modifiant les régimes de perceptibilité.
+
+
+## VISUALISATIONS ALGORITHMIQUES {#visualisations-algorithmiques}
+
+::: {.punchline}
+Les visualisations algorithmiques traduisent des calculs en formes visuelles lisibles.
+:::
+
+Les **visualisations algorithmiques** traduisent des calculs (données, scores, corrélations) en **formes visuelles lisibles** (graphes, cartes de chaleur, tableaux de bord). Elles rendent visibles des décisions autrement invisibles.
+
+### Fonction
+
+### Réduire la charge perceptive tout en orientant l'interprétation
+
+### Imposer des hiérarchies du sensible
+
+### Produire de l'évidence visuelle

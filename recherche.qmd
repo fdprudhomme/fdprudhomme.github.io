@@ -1,0 +1,29 @@
+---
+title: "La coopération interprétative à l'ère de la sémiose algorithmique"
+subtitle: "Projet postdoctoral"
+---
+
+[Résumé]{.eyebrow}
+
+*Remplacer ce paragraphe par le résumé de deux pages, ou par une version courte
+avec un lien vers le PDF complet.*
+
+## Problème
+
+## Trois gestes
+
+### Cartographier
+
+### Habiter
+
+### Résister
+
+## Méthode
+
+## Corpus et terrain
+
+## Références
+
+::: {.avertissement}
+Version complète en PDF : [télécharger](assets/projet-postdoctoral.pdf).
+:::

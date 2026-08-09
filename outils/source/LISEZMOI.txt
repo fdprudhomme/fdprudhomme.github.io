@@ -1,0 +1,1 @@
+Déposer ici les versions .docx du glossaire. Ce dossier est exclu du dépôt Git.

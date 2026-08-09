@@ -1,0 +1,20 @@
+---
+title: "François David Prud'homme"
+subtitle: "Semiotics · Generative AI · Higher education"
+toc: false
+page-layout: full
+---
+
+::: {.chapeau}
+I work on how generative systems produce signs that have *already resolved
+their interpretant* — and on what that pre-resolution does to the university as
+a site of interpretation.
+:::
+
+PhD in semiotics (UQAM, 2022), lecturer at UQAM, UQAT and UQO. My postdoctoral
+project, **Interpretive Cooperation in the Age of Algorithmic Semiosis**, is
+built around three gestures: mapping probabilistic reliefs, inhabiting the
+semiotic silence they short-circuit, and instituting the conditions for
+semiotic resistance in higher education.
+
+[CV →](cv.qmd) · [Glossary (in French) →](../glossaire/index.qmd) · [Français →](../index.qmd)

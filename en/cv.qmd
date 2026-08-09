@@ -1,0 +1,19 @@
+---
+title: "Curriculum vitae"
+subtitle: "Updated 3 August 2026"
+toc: true
+---
+
+*English version of the [French CV](../cv.qmd).*
+
+## Education
+
+## Teaching
+
+## Research
+
+## Publications
+
+## Languages
+
+French (native) · English · Italian.

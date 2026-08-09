@@ -1,0 +1,85 @@
+---
+title: "Curriculum vitæ"
+subtitle: "Version du 3 août 2026"
+toc: true
+toc-depth: 2
+---
+
+::: {.avertissement}
+Version PDF : [télécharger](cv.pdf). *(Générée par `quarto render cv.qmd --to pdf`.)*
+:::
+
+## Formation
+
+::: {.cv-entree}
+::: {.cv-date}
+2022
+:::
+::: {.cv-corps}
+**Doctorat en sémiologie**
+[Université du Québec à Montréal — direction : Bertrand Gervais]{.lieu}
+:::
+:::
+
+::: {.cv-entree}
+::: {.cv-date}
+20XX
+:::
+::: {.cv-corps}
+**Maîtrise en …**
+[Établissement]{.lieu}
+:::
+:::
+
+## Enseignement
+
+::: {.cv-entree}
+::: {.cv-date}
+depuis 20XX
+:::
+::: {.cv-corps}
+**Chargé de cours**
+[Université du Québec à Montréal · Université du Québec en Abitibi-Témiscamingue · Université du Québec en Outaouais]{.lieu}
+
+Sigle du cours — Titre (session, année).
+:::
+:::
+
+## Recherche
+
+::: {.cv-entree}
+::: {.cv-date}
+en cours
+:::
+::: {.cv-corps}
+**La coopération interprétative à l'ère de la sémiose algorithmique**
+[Projet postdoctoral]{.lieu}
+
+Transformation sémiosique induite par l'IA générative et implications pour les
+études supérieures. [Présentation détaillée](recherche.qmd).
+:::
+:::
+
+## Publications
+
+Voir la [liste complète](publications.qmd).
+
+## Communications
+
+::: {.cv-entree}
+::: {.cv-date}
+2026
+:::
+::: {.cv-corps}
+**Titre de la communication**
+[Colloque, Sorbonne, Paris]{.lieu}
+:::
+:::
+
+## Langues
+
+Français (langue maternelle) · anglais · italien.
+
+## Coordonnées
+
+prenom.nom@exemple.ca · [ORCID](https://orcid.org/0000-0000-0000-0000)

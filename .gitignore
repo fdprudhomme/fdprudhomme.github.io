@@ -1,0 +1,8 @@
+_site/
+.quarto/
+*.pdf
+!assets/*.pdf
+.DS_Store
+outils/source/*.docx
+
+/.quarto/

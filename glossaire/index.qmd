@@ -1,0 +1,67 @@
+---
+title: "Glossaire de la sémiose algorithmique"
+subtitle: "Carte du glossaire"
+toc: false
+page-layout: full
+---
+
+::: {.chapeau}
+Ce glossaire décrit un seul objet — la **sémiose algorithmique** — selon trois
+gestes. La carte ci-dessous en donne l'architecture ; le [corps
+alphabétique](entrees.qmd) sert à la consultation.
+:::
+
+::: {.carte}
+::: {.geste-1}
+### Cartographier
+[Décrire · Axes I–II]{.verbe}
+
+Faire des reliefs probabilistes une carte lisible.
+
+- [visible-pensant](entrees.qmd#visible-pensant)
+- [attracteur statistique](entrees.qmd#attracteur-statistique)
+- [attracteur perceptif](entrees.qmd#attracteur-perceptif)
+- [surpondération](entrees.qmd#surponderation)
+- [bifurcation probabiliste](entrees.qmd#bifurcation-probabiliste)
+- [opérateurs perceptifs réels](entrees.qmd#operateurs-perceptifs-reels)
+- [image-pensée](entrees.qmd#image-pensee)
+- [image-processus](entrees.qmd#image-processus)
+- [médiation algorithmique](entrees.qmd#mediation-algorithmique)
+:::
+
+::: {.geste-2}
+### Silence sémiotique
+[Protéger]{.verbe}
+
+Habiter l'indétermination, tenir le pas-encore-résolu.
+
+- [silence sémiotique](entrees.qmd#silence-semiotique)
+- le *Ma*
+- l'inhabitation
+- l'hésitation
+- la tolérance à l'indétermination
+:::
+
+::: {.geste-3}
+### Résistance sémiotique
+[Agir · Axe III]{.verbe}
+
+La faculté politico-pédagogique : De Certeau, Rancière, Gervais.
+
+- [résistance sémiotique](entrees.qmd#resistance-semiotique)
+- l'enquête seconde
+- l'émancipation
+- *Le Maître ignorant*
+- la contre-conduite
+- [la promenade inférentielle](entrees.qmd#promenade-inferentielle-algorithmique)
+:::
+:::
+
+::: {.charniere}
+### Charnière — [spirale interprétative](entrees.qmd#spirale-interpretative)
+
+La boucle ouverte qui relie les trois gestes : cartographier rend possible
+d'agir, ce qui produit du nouveau à cartographier — sans jamais se clore.
+:::
+
+[Aller au corps alphabétique →](entrees.qmd)

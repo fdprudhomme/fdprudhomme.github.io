@@ -1,0 +1,50 @@
+---
+title: "Publications"
+toc: true
+---
+
+## Articles
+
+::: {.cv-entree}
+::: {.cv-date}
+2026
+:::
+::: {.cv-corps}
+**De machine et de mémoire : remédiation sémiotique et auctorialité distribuée
+dans la cocréation visuelle par requête**
+[Actes du colloque, Sorbonne / CY Cergy Paris Université]{.lieu}
+:::
+:::
+
+## En préparation
+
+::: {.cv-entree}
+::: {.cv-date}
+soumis
+:::
+::: {.cv-corps}
+**Titre** — *Semiotica* (De Gruyter).
+:::
+:::
+
+::: {.cv-entree}
+::: {.cv-date}
+en cours
+:::
+::: {.cv-corps}
+**L'enquête seconde comme protocole rancièrien** — *Postdigital Science and
+Education* (Springer).
+:::
+:::
+
+## Thèse
+
+::: {.cv-entree}
+::: {.cv-date}
+2022
+:::
+::: {.cv-corps}
+**Titre de la thèse**
+[Thèse de doctorat en sémiologie, UQAM. Direction : Bertrand Gervais.]{.lieu}
+:::
+:::
