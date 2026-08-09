@@ -36,10 +36,10 @@ Faire des reliefs probabilistes une carte lisible.
 Habiter l'indétermination, tenir le pas-encore-résolu.
 
 - [silence sémiotique](entrees.qmd#silence-semiotique)
-- le *Ma*
-- l'inhabitation
-- l'hésitation
-- la tolérance à l'indétermination
+- le [*Ma*](entrees.qmd#ma-semiotique)
+- [l'inhabitation](entrees.qmd#inhabitation)
+- [l'hésitation](entrees.qmd#hesitation)
+- [la tolérance à l'indétermination](entrees.qmd#tolerance-a-l-indetermination)
 :::
 
 ::: {.geste-3}
@@ -49,10 +49,10 @@ Habiter l'indétermination, tenir le pas-encore-résolu.
 La faculté politico-pédagogique : De Certeau, Rancière, Gervais.
 
 - [résistance sémiotique](entrees.qmd#resistance-semiotique)
-- l'enquête seconde
-- l'émancipation
-- *Le Maître ignorant*
-- la contre-conduite
+- [l'enquête seconde](entrees.qmd#enquete-seconde)
+- [l'émancipation](entrees.qmd#emancipation)
+- [*Le Maître ignorant*](entrees.qmd#maitre-ignorant)
+- [la contre-conduite](entrees.qmd#contre-conduite)
 - [la promenade inférentielle](entrees.qmd#promenade-inferentielle-algorithmique)
 :::
 :::

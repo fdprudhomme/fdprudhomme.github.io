@@ -473,6 +473,33 @@ Edwin Hutchins et Donald Norman
 → *Voir* **PENSÉE DISTRIBUÉE**
 
 
+## CONTRE-CONDUITE {#contre-conduite}
+
+[Chercher plutôt qu’obéir]{.sous-titre}
+
+[Concept forgé par l’auteur — reprise foucaldienne, référence à confirmer — à valider]{.statut}
+
+::: {.punchline}
+Se conduire autrement que comme on voudrait qu’on nous conduise.
+:::
+
+::: {.definition}
+La contre-conduite désigne, dans la filiation foucaldienne, une résistance qui ne refuse pas d’être conduite mais conteste la manière dont elle l’est, en revendiquant une autre conduite de soi. Le projet reprend le terme pour nommer l’enquête seconde comme geste émancipateur : face au système génératif qui fonctionne comme un explicateur, refuser la position de celui à qui l’on explique et restituer à l’interprète la position de celui qui cherche.
+:::
+
+### Cadre théorique (Foucault)
+
+Le terme provient des cours de Foucault au Collège de France (*Sécurité, territoire, population*, 1977-1978), où la contre-conduite nomme une résistance interne aux dispositifs de pouvoir pastoral — on ne refuse pas d’être conduit, on se conduit **autrement**. La référence exacte reste à confirmer avant validation de l’entrée.
+
+### Articulation au cadre : l’enquête seconde comme contre-conduite
+
+Le système génératif fonctionne comme un explicateur au sens du *Maître ignorant* : il explique à la place de l’interprète et le maintient dans la position de celui à qui l’on explique. L’enquête seconde est précisément cette **contre-conduite émancipatrice** — non un refus de l’outil, mais une autre manière de s’en servir, qui restitue à l’interprète la position de celui qui cherche.
+
+::: {.voir-aussi}
+**Voir aussi** — [enquête seconde](#enquete-seconde) · [Maître ignorant](#maitre-ignorant) · [résistance sémiotique](#resistance-semiotique) · [émancipation](#emancipation)
+:::
+
+
 ## COOPÉRATION INTERPRÉTATIVE {#cooperation-interpretative}
 
 [Le texte comme machine paresseuse]{.sous-titre}
@@ -580,6 +607,33 @@ Jacques Rancière
 → *Voir* **SILENCE SÉMIOTIQUE**
 
 
+## ÉMANCIPATION {#emancipation}
+
+[L’égalité perpétuellement réactivée]{.sous-titre}
+
+[Nouvelle entrée — à valider]{.statut}
+
+::: {.punchline}
+L’émancipation ne s’acquiert jamais une fois pour toutes : elle se re-vérifie à chaque tour.
+:::
+
+::: {.definition}
+Reprise du concept rancièrien, l’émancipation désigne ici l’égalité des intelligences perpétuellement réactivée par la boucle de l’interprétation qui refuse de se clore — par opposition au Maître explicateur, qui prétend clore le sens d’avance. Étendue à la sémiose tout entière, elle nomme la capacité du sujet interprétant à re-saisir sa propre perception comme acte interprétable plutôt que comme évidence reçue.
+:::
+
+### Cadre théorique (Rancière)
+
+Dans *Le Maître ignorant* (1987), l’émancipation intellectuelle suppose l’**égalité des intelligences comme point de départ**, non comme but à atteindre par la médiation d’un maître. Dans *Le Spectateur émancipé* (2008), Rancière l’étend à l’**émancipation du regard** : voir n’est pas recevoir passivement une image déjà interprétée, c’est exercer sa propre puissance de sémiose.
+
+### Articulation au cadre : la spirale contre l’explicateur
+
+La sémiose illimitée de Peirce refuse tout premier sol : l’interprétant devient signe pour un interprétant suivant, sans terme. Rancière en donne la traduction politique — l’émancipation ne se transmet pas une fois pour toutes, elle se relance à chaque tour. La spirale interprétative est la forme institutionnelle de cette réactivation perpétuelle : instituer la spirale plutôt qu’enseigner la résistance, pour ne pas retomber dans la posture du Maître explicateur.
+
+::: {.voir-aussi}
+**Voir aussi** — [résistance sémiotique](#resistance-semiotique) · [Maître ignorant](#maitre-ignorant) · [contre-conduite](#contre-conduite) · [spirale interprétative](#spirale-interpretative) · [sémiose illimitée](#semiose-illimitee) · [coopération interprétative](#cooperation-interpretative)
+:::
+
+
 ## ENCYCLOPÉDIE {#encyclopedie}
 
 [Le labyrinthe des parcours interprétatifs]{.sous-titre}
@@ -602,6 +656,33 @@ Le corpus d’entraînement d’un modèle génératif peut se décrire comme un
 
 ::: {.voir-aussi}
 **Voir aussi** — [coopération interprétative](#cooperation-interpretative) · [lecteur modèle](#lecteur-modele) · [intentio operis](#intentio-operis) · [mémoire corpus](#memoire-corpus) · [attracteur statistique](#attracteur-statistique) · [sémiose illimitée](#semiose-illimitee)
+:::
+
+
+## ENQUÊTE SECONDE {#enquete-seconde}
+
+[Le Blow Up algorithmique]{.sous-titre}
+
+[Concept forgé par l’auteur — à valider]{.statut}
+
+::: {.punchline}
+Ne pas s’arrêter à ce que la machine a produit : interroger ce qui l’a fait produire cela.
+:::
+
+::: {.definition}
+L’enquête seconde désigne le protocole par lequel l’interprète transforme la sortie d’un système génératif de destination en sonde : au lieu de s’arrêter au résultat, il interroge le modèle sur ses choix, compare plusieurs générations, formule des hypothèses sur le relief qui les a stabilisées, et reprend activement la promenade inférentielle que la machine a court-circuitée.
+:::
+
+### Cadre théorique : le Blow Up algorithmique
+
+Le protocole s’apparente à un **« Blow Up algorithmique »** — du film d’Antonioni où l’agrandissement d’une photographie révèle ce que le premier regard n’avait pas vu. Générer ne suffit pas : il faut interroger ce qui a été généré, vérifier les hypothèses par des requêtes destinées à provoquer la résistance du modèle. Chaque génération devient une mesure du relief plutôt qu’une destination.
+
+### Articulation au cadre : l’explicateur et sa contre-conduite
+
+Le système génératif fonctionne comme un **explicateur** au sens du *Maître ignorant* de Rancière : il explique à la place de l’interprète et le maintient dans la position de celui à qui l’on explique. L’enquête seconde est la **contre-conduite émancipatrice** qui restitue à l’interprète la position de celui qui cherche — une lecture qui rejoint l’**anti-herméneutique** de Bertrand Gervais : il ne s’agit pas de restituer un sens caché derrière la sortie, mais d’en faire le point de départ d’une enquête qui ne se referme pas.
+
+::: {.voir-aussi}
+**Voir aussi** — [résistance sémiotique](#resistance-semiotique) · [Maître ignorant](#maitre-ignorant) · [contre-conduite](#contre-conduite) · [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique) · [coopération interprétative retournée](#cooperation-interpretative-retournee)
 :::
 
 
@@ -707,6 +788,33 @@ Le **visible-pensant ne dort pas** : il surveille, il évalue, il s'apprête à 
 
 ::: {.voir-aussi}
 **Voir aussi** — [React Loop](#react-loop) · [Soul File](#soul-file) · [Tool Use](#tool-use) · [Mémoire persistante](#memoire-persistante) · [visible-pensant](#visible-pensant) · [silence sémiotique](#silence-semiotique) · [Ma sémiotique](#ma-semiotique)
+:::
+
+
+## HÉSITATION {#hesitation}
+
+[La durée que le sens réclame]{.sous-titre}
+
+[Nouvelle entrée — à valider]{.statut}
+
+::: {.punchline}
+Hésiter n’est pas ne pas savoir : c’est laisser au sens le temps de se former.
+:::
+
+::: {.definition}
+L’hésitation désigne, chez Eco, la durée nécessaire de la dérive sémiosique : le moment où l’interprète, avant de fixer un sens, demeure dans la pluralité des possibles que le texte autorise. Premier maillon avec le Ma de la chaîne du silence sémiotique — ennui, Ma, hésitation, tolérance à l’indétermination —, elle est ce que la sémiose algorithmique court-circuite dès son ouverture.
+:::
+
+### Cadre théorique (Eco)
+
+L’hésitation n’est pas une déficience de la lecture, elle en est la **condition temporelle** : le sens se forme dans le temps du parcours inférentiel, non dans son seul résultat. C’est la durée que la coopération interprétative réclame pour que les hypothèses du lecteur se vérifient, se révisent, se stabilisent.
+
+### Articulation au cadre : chatbot et agent
+
+Le **chatbot** préserve, à minima, un espace d’hésitation : il attend un signe humain avant de produire. L’**agent**, par sa boucle ReAct, le supprime structurellement — chaque cycle appelle le suivant sans l’arrêt de boucle que produirait l’hésitation. C’est une machine à clôture prématurée permanente, non par défaut de sophistication mais par architecture.
+
+::: {.voir-aussi}
+**Voir aussi** — [silence sémiotique](#silence-semiotique) · [Ma sémiotique](#ma-semiotique) · [tolérance à l’indétermination](#tolerance-a-l-indetermination) · [clôture prématurée](#cloture-prematuree) · [coopération interprétative](#cooperation-interpretative) · [chatbot](#chatbot) · [ReAct Loop](#react-loop)
 :::
 
 
@@ -973,6 +1081,33 @@ Le Heartbeat est l’**anti-Ma architectural** : chaque battement rouvre la bouc
 
 ::: {.voir-aussi}
 **Voir aussi** — [silence sémiotique](#silence-semiotique) · [inhabitation](#inhabitation) · [clôture prématurée](#cloture-prematuree) · [Heartbeat](#heartbeat) · [spirale interprétative](#spirale-interpretative)
+:::
+
+
+## MAÎTRE IGNORANT {#maitre-ignorant}
+
+[L’explicateur qui referme le sens d’avance]{.sous-titre}
+
+[Nouvelle entrée — à valider]{.statut}
+
+::: {.punchline}
+Expliquer, c’est démontrer à quelqu’un qu’il ne peut pas comprendre par lui-même.
+:::
+
+::: {.definition}
+Repris du Maître ignorant de Jacques Rancière (1987), l’explicateur désigne la figure pédagogique qui maintient l’élève dans la position de celui à qui l’on explique, en interposant son propre discours entre l’élève et le savoir. Le projet applique cette figure au système génératif : celui-ci fonctionne comme un explicateur qui explique à la place de l’interprète et le maintient dans la position de celui qui reçoit une réponse déjà résolue.
+:::
+
+### Cadre théorique (Rancière)
+
+Le maître explicateur ne transmet pas seulement un savoir : il **installe une hiérarchie des intelligences** en désignant l’écart entre ce que l’élève sait et ce qu’il doit encore apprendre — écart que seule sa médiation prétend combler. L’émancipation intellectuelle suppose au contraire l’égalité des intelligences comme **point de départ**, non comme but.
+
+### Articulation au cadre : l’IA-explicatrice
+
+L’objet généré, par sa véridiction pré-installée, fonctionne comme une **IA-explicatrice** qui prétend clore le sens d’avance : il livre une réponse déjà résolue, sans laisser à l’interprète la position de celui qui cherche. L’enquête seconde, comme contre-conduite, est la réponse qui refuse cette position.
+
+::: {.voir-aussi}
+**Voir aussi** — [émancipation](#emancipation) · [contre-conduite](#contre-conduite) · [enquête seconde](#enquete-seconde) · [résistance sémiotique](#resistance-semiotique) · [véridiction pré-installée](#veridiction-pre-installee) · [clôture prématurée](#cloture-prematuree)
 :::
 
 
@@ -1676,6 +1811,33 @@ Un **token** est une **unité minimale de traitement** utilisée par les systèm
 ### Token et régime de pensée
 
 Le passage à une culture des tokens marque un **changement de régime de pensée** : le sens n'est plus produit par des intentions, mais par des **corrélations calculées**, ensuite interprétées par le sujet humain. Le token est ainsi le point où le **calcul précède le sens**, et où le sens devient une **émergence perceptive**.
+
+
+## TOLÉRANCE À L’INDÉTERMINATION {#tolerance-a-l-indetermination}
+
+[Résister à la résolution]{.sous-titre}
+
+[Nouvelle entrée — à valider]{.statut}
+
+::: {.punchline}
+Ne pas se hâter de conclure, c’est déjà une compétence interprétative.
+:::
+
+::: {.definition}
+La tolérance à l’indétermination désigne la capacité de l’interprète à demeurer dans l’ambiguïté d’un signe le temps qu’une interprétation se construise, sans en précipiter la résolution. Dernier maillon de la chaîne du silence sémiotique, elle est la condition qui rend possible, chez Lotman, l’explosion interprétative — le moment de créativité sémiotique où plusieurs traductions restent simultanément disponibles, aux frontières de la sémiosphère.
+:::
+
+### Cadre théorique (Lotman)
+
+Chez Lotman, la créativité naît aux **frontières de la sémiosphère**, dans l’impossibilité temporaire de traduire : elle présuppose des interprètes capables de tolérer cette indétermination plutôt que de la résoudre au premier signe venu. C’est la version lotmanienne de ce que Keats nommait la *negative capability* : demeurer dans le doute sans chercher irritablement le fait et la raison.
+
+### Articulation au cadre : vocation institutionnelle
+
+L’université, depuis ses origines médiévales, est un espace institutionnel voué à la cultivation de cette tolérance : lire des textes difficiles, formuler des hypothèses sur leur sens, tolérer l’indétermination le temps qu’une interprétation se construise. La résistance sémiotique en fait un programme explicite — une **pédagogie de l’indétermination** qui valorise l’hésitation, le silence et la lenteur comme compétences plutôt que comme défauts.
+
+::: {.voir-aussi}
+**Voir aussi** — [silence sémiotique](#silence-semiotique) · [hésitation](#hesitation) · [Ma sémiotique](#ma-semiotique) · [résistance sémiotique](#resistance-semiotique) · [coopération interprétative](#cooperation-interpretative) · [clôture prématurée](#cloture-prematuree)
+:::
 
 
 ## TOOL USE {#tool-use}
