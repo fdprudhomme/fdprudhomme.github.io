@@ -44,7 +44,7 @@ Education* (Springer).
 2022
 :::
 ::: {.cv-corps}
-**Titre de la thèse**
+**L’accessibilité esthétique des mondes possibles au cinéma**
 [Thèse de doctorat en sémiologie, UQAM. Direction : Sylvano Santini et Bertrand Gervais.]{.lieu}
 :::
 :::
