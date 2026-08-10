@@ -158,6 +158,13 @@ h1.title {
 }
 
 .charniere {
+
+.geste-1 > h3:first-child,
+.geste-2 > h3:first-child,
+.geste-3 > h3:first-child {
+  margin-top: 0;
+}
+.charniere {
   border-top: 1px solid $encre;
   border-bottom: 1px solid $encre;
   padding: 1.3rem 1.4rem;
