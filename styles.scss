@@ -141,6 +141,22 @@ h1.title {
 .geste-2 { border-top: 3px solid $bleu;   h3 { color: $bleu; }   .verbe { color: $bleu; } }
 .geste-3 { border-top: 3px solid $brique; h3 { color: $brique; } .verbe { color: $brique; } }
 
+// Blocs de geste employés seuls, hors de la grille .carte : ils doivent porter
+// eux-mêmes la respiration que .carte donne à ses enfants. Le sélecteur exclut
+// le contexte .carte, où margin-top décrocherait les colonnes du filet.
+:not(.carte) > .geste-1,
+:not(.carte) > .geste-2,
+:not(.carte) > .geste-3 {
+  padding-top: 1.75rem;
+  margin-top: 2.5rem;
+}
+
+:not(.carte) > .geste-1 > h3:first-child,
+:not(.carte) > .geste-2 > h3:first-child,
+:not(.carte) > .geste-3 > h3:first-child {
+  margin-top: 0;
+}
+
 .charniere {
   border-top: 1px solid $encre;
   border-bottom: 1px solid $encre;
