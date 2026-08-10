@@ -126,10 +126,18 @@ h1.title {
 .carte ul { list-style: none; padding: 0; margin: 0.9rem 0 0; }
 .carte li { font-size: 0.9rem; padding: 0.12rem 0; }
 
-.geste-1 { border-top: 3px solid $vert;   h3 { color: $vert; }   .verbe { color: $vert; } }
-.geste-2 { border-top: 3px solid $bleu;   h3 { color: $bleu; }   .verbe { color: $bleu; } }
-.geste-3 { border-top: 3px solid $brique; h3 { color: $brique; } .verbe { color: $brique; } }
+.geste-1 { border-top: 1px solid rgba($vert, 0.35);   h3 { color: $vert; }   .verbe { color: $vert; } }
+.geste-2 { border-top: 1px solid rgba($bleu, 0.35);   h3 { color: $bleu; }   .verbe { color: $bleu; } }
+.geste-3 { border-top: 1px solid rgba($brique, 0.35); h3 { color: $brique; } .verbe { color: $brique; } }
+.geste-1, .geste-2, .geste-3 {
+  padding-top: 1.75rem;
+}
 
+.geste-1 > h3:first-child,
+.geste-2 > h3:first-child,
+.geste-3 > h3:first-child {
+  margin-top: 0;
+}
 .charniere {
   border-top: 1px solid $encre;
   border-bottom: 1px solid $encre;
