@@ -137,9 +137,9 @@ h1.title {
 .carte ul { list-style: none; padding: 0; margin: 0.9rem 0 0; }
 .carte li { font-size: 0.9rem; padding: 0.12rem 0; }
 
-.geste-1 { border-top: 3px solid $vert;   h3 { color: $vert; }   .verbe { color: $vert; } }
-.geste-2 { border-top: 3px solid $bleu;   h3 { color: $bleu; }   .verbe { color: $bleu; } }
-.geste-3 { border-top: 3px solid $brique; h3 { color: $brique; } .verbe { color: $brique; } }
+.geste-1 { border-top: 1px solid rgba($vert, 0.35);   h3 { color: $vert; }   .verbe { color: $vert; } }
+.geste-2 { border-top: 1px solid rgba($bleu, 0.35);   h3 { color: $bleu; }   .verbe { color: $bleu; } }
+.geste-3 { border-top: 1px solid rgba($brique, 0.35); h3 { color: $brique; } .verbe { color: $brique; } }
 
 // Blocs de geste employés seuls, hors de la grille .carte : ils doivent porter
 // eux-mêmes la respiration que .carte donne à ses enfants. Le sélecteur exclut
