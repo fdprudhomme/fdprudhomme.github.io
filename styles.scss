@@ -114,11 +114,9 @@ h1.title {
   margin: 2.5rem 0 0;
   border-top: 1px solid $encre;
 }
-.carte > div {
+.carte > * {
   padding: 1.4rem 1.4rem 1.8rem;
-  border-right: 1px solid $relief;
 }
-.carte > div:last-child { border-right: none; }
 
 .carte h3 {
   font-size: 1.16rem;
@@ -158,13 +156,6 @@ h1.title {
 }
 
 .charniere {
-
-.geste-1 > h3:first-child,
-.geste-2 > h3:first-child,
-.geste-3 > h3:first-child {
-  margin-top: 0;
-}
-.charniere {
   border-top: 1px solid $encre;
   border-bottom: 1px solid $encre;
   padding: 1.3rem 1.4rem;
@@ -175,7 +166,7 @@ h1.title {
 
 @media (max-width: 800px) {
   .carte { grid-template-columns: 1fr; border-top: none; }
-  .carte > div { border-right: none; border-bottom: 1px solid $relief; }
+  .carte > * { border-right: none; border-bottom: 1px solid $relief; }
 }
 
 // --- Entrées de glossaire --------------------------------------------------
