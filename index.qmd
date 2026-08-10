@@ -31,13 +31,3 @@ supérieur.
 [Consulter](glossaire/entrees.qmd)
 :::
 :::
-
-::: {.cv-entree}
-::: {.cv-date}
-2026
-:::
-::: {.cv-corps}
-**« De machine et de mémoire »** — remédiation sémiotique et auctorialité
-distribuée dans la cocréation visuelle par requête. Actes du colloque, Sorbonne.
-:::
-:::

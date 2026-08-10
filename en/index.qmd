@@ -18,3 +18,15 @@ semiotic silence they short-circuit, and instituting the conditions for
 semiotic resistance in higher education.
 
 [Read the project →](research.qmd) · [Glossary (in French) →](../glossaire/index.qmd) · [CV →](cv.qmd)
+
+## In progress
+
+::: {.cv-entree}
+::: {.cv-date}
+2026
+:::
+::: {.cv-corps}
+**Glossary of algorithmic semiosis** — working version, continuously revised.
+[View](../glossaire/entrees.qmd)
+:::
+:::
