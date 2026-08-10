@@ -3,6 +3,8 @@ title: "La coopération interprétative à l'ère de la sémiose algorithmique"
 subtitle: "Projet postdoctoral"
 toc: true
 toc-title: "Sur cette page"
+nocite: |
+  @micheldecerteauetlucegiardLinventionQuotidien11990
 ---
 
 [Résumé]{.eyebrow}
@@ -61,7 +63,8 @@ Restituer à l'interprète la position de celui qui cherche.
 ## Problème
 
 Ma thèse (*L'accessibilité esthétique des mondes possibles au cinéma*, UQAM,
-2022) a développé le concept d'*opérateurs d'accessibilité* : les signaux
+2022 [@prudhommeLaccessibiliteEsthetiqueMondes2022]) a développé le concept
+d'*opérateurs d'accessibilité* : les signaux
 sémiotiques à double adresse par lesquels personnages et spectateurs
 franchissent les frontières entre mondes fictionnels. Ce projet examine la
 mutation contemporaine de cette mécanique. À l'ère de l'IA générative, les
@@ -71,9 +74,9 @@ LLM, synthèses automatisées et interfaces pédagogiques reconfigurent les
 conditions de la sémiose elle-même. La frontière s'est déplacée entre le sujet
 interprétant et l'objet sémiotique.
 
-Le concept pivot est la *coopération interprétative* d'Eco : tout objet
-sémiotique est une machine paresseuse dont les blancs appellent le voyage
-inférentiel du lecteur. L'IA générative effectue l'opération inverse : la
+Le concept pivot est la *coopération interprétative* d'Eco
+[@ecoLectorFabula1985] : tout objet sémiotique est une machine paresseuse dont
+les blancs appellent le voyage inférentiel du lecteur. L'IA générative effectue l'opération inverse : la
 **coopération interprétative retournée**. Optimisés pour converger vers les
 attracteurs sémiotiques d'un public, les systèmes génératifs livrent un objet
 déjà interprété, dont la crédibilité est immanente à la forme. La promenade
@@ -81,15 +84,17 @@ inférentielle, qui était le travail de l'interprète, devient une opération
 pré-exécutée par le calcul ; le voyage est remplacé par une destination
 pré-calculée. La sémiotique décrit ce mécanisme avec une précision que ni la
 philosophie des techniques ni les sciences cognitives n'atteignent seules : la
-sémiose illimitée de Peirce cède à une convergence probabiliste où l'indice
-devient icône par calcul, et la véridiction greimassienne est pré-installée dans
-la forme. Là où Deleuze concevait l'image-pensée comme mise en crise de la
-pensée, le régime algorithmique anticipe la crise pour la désamorcer :
+sémiose illimitée de Peirce [@peirceCollectedPapersCharles2009] cède à une
+convergence probabiliste où l'indice devient icône par calcul, et la
+véridiction greimassienne [@greimasSemiotiqueDictionnaireRaisonne1979a] est
+pré-installée dans la forme. Là où Deleuze [@deleuzeLimageTemps1985a] concevait
+l'image-pensée comme mise en crise de la pensée, le régime algorithmique
+anticipe la crise pour la désamorcer :
 l'indétermination y devient une anomalie à corriger.
 
 L'enjeu est universitaire. L'université cultive depuis ses origines la
 coopération interprétative : lire des textes difficiles, tolérer
-l'indétermination, défendre et réviser ses inférences. Quand l'IA court-circuite
+l'indétermination [@ecoLoeuvreOuverte1965], défendre et réviser ses inférences. Quand l'IA court-circuite
 ce voyage, elle pose bien davantage qu'un problème d'intégrité académique : elle
 oblige à repenser les finalités mêmes de la formation, c'est-à-dire la nature du
 sujet sémiotique que l'université cherche à former.
@@ -110,8 +115,10 @@ la carte.
 La contribution sémiotique propre : décrire la chaîne de transduction qui va de
 l'attracteur statistique à l'attracteur perceptif, le passage de l'indice au
 signe iconique médiatisé par le calcul. L'émergence des autoencodeurs épars
-(SAE), théorisés comme rendus partiels de l'encyclopédie computationnelle d'Eco,
-fournit pour la première fois un appui empirique à ce geste.
+(SAE) [@cunninghamSparseAutoencodersFind2023; @templetonScalingMonosemanticityExtracting2026],
+théorisés comme rendus partiels de l'encyclopédie computationnelle d'Eco
+[@ecoLimitesLinterpretation1992], fournit pour la première fois un appui
+empirique à ce geste.
 
 ### Habiter
 
@@ -119,26 +126,29 @@ Geste anthropologique : nommer ce que la prolifération d'agents algorithmiques
 rend visible par contraste. Le *silence sémiotique* désigne l'intervalle entre
 la perception du signe et sa résolution en sens, condition structurelle de la
 créativité interprétative, ancrée dans l'ennui phénoménologique (Husserl,
-Heidegger), le *Ma* japonais, la frontière lotmanienne et l'hésitation d'Eco.
-Son inverse est la *clôture prématurée*, pathologie structurelle des
-architectures agentiques dont chaque cycle appelle le suivant.
+Heidegger), le *Ma* japonais [@saitoJapaneseAestheticsImperfection], la
+frontière lotmanienne [@UniverseMindSemiotic] et l'hésitation d'Eco
+[@ecoLimitesLinterpretation1992]. Son inverse est la *clôture prématurée*,
+pathologie structurelle des architectures agentiques dont chaque cycle appelle
+le suivant.
 
 De ce geste naît le concept-charnière d'*inhabitation* — habiter un espace
 sémiotique sans le remplir — qui articule l'anthropologie de l'interprétation à
 la question institutionnelle : l'université fonctionne comme un espace
-transitionnel au sens de Winnicott, et c'est cet entre-deux que la sémiosphère
-algorithmique menace de saturer.
+transitionnel au sens de Winnicott [@winnicottJeuRealiteLespace1975], et c'est
+cet entre-deux que la sémiosphère algorithmique menace de saturer.
 
 ### Résister
 
 Geste politico-pédagogique, contribution la plus originale du projet. La
 *résistance sémiotique* est une posture critique : l'émancipation du regard de
-Rancière, étendue au sujet interprétant dans sa totalité. Son protocole
-opératoire est l'*enquête seconde* : un « Blow Up algorithmique » qui transforme
-la sortie générée de destination en sonde et reprend la promenade inférentielle
-pré-exécutée. Le système génératif fonctionne comme un explicateur au sens du
-*Maître ignorant* ; l'enquête seconde est la contre-conduite qui restitue à
-l'interprète la position de celui qui cherche.
+Rancière [@rancierePartageSensibleEsthetique2000], étendue au sujet
+interprétant dans sa totalité. Son protocole opératoire est l'*enquête
+seconde* : un « Blow Up algorithmique » qui transforme la sortie générée de
+destination en sonde et reprend la promenade inférentielle pré-exécutée. Le
+système génératif fonctionne comme un explicateur au sens du *Maître ignorant*
+[@ranciereMaitreIgnorantCinq1987] ; l'enquête seconde est la contre-conduite
+qui restitue à l'interprète la position de celui qui cherche.
 
 Livrables : un diagnostic de l'état des études supérieures face à l'IA ; des
 dispositifs de pédagogie de l'indétermination valorisant structurellement
@@ -192,76 +202,28 @@ l'être humain reste le sujet de sa propre sémiose ?
 
 En **sémiotique**, le projet actualise les concepts fondamentaux dans le
 contexte de la production algorithmique et ouvre une sémiotique computationnelle.
-En **théorie des médias**, il articule la tradition française — Stiegler, avec
-la pré-tention algorithmique comme déformation de la rétention tertiaire ;
-Simondon ; Rancière — aux sciences cognitives de la cognition distribuée
-(Hutchins, Norman). En **sciences de l'éducation**, il propose de passer des
-compétences numériques à la formation sémiotique, en faisant de la résistance à
-la sémiose algorithmique une compétence académique à part entière.
+En **théorie des médias**, il articule la tradition française — Stiegler
+[@stieglerTechniqueTempsSuivi2018], avec la pré-tention algorithmique comme
+déformation de la rétention tertiaire ; Simondon
+[@simondonModeDexistenceObjets2024] ; Rancière — aux sciences cognitives de la
+cognition distribuée (Hutchins [@hutchinsCognitionWild1995], Norman
+[@normanCognitiveArtifacts1991]). En **sciences de l'éducation**, il propose de
+passer des compétences numériques à la formation sémiotique, en faisant de la
+résistance à la sémiose algorithmique une compétence académique à part
+entière.
 
-La posture est descriptive et anti-herméneutique, au sens de Bertrand Gervais :
-décrire les régimes de sémiose que les sorties algorithmiques instaurent, et
-rouvrir par l'enquête seconde le processus que leur forme prétend clore. Cette
-description est la condition de toute pédagogie critique sérieuse.
+La posture est descriptive et anti-herméneutique, au sens de Bertrand Gervais
+[@gervaisFormesLidentitefluxFigureecran2024] : décrire les régimes de sémiose
+que les sorties algorithmiques instaurent, et rouvrir par l'enquête seconde le
+processus que leur forme prétend clore. Cette description est la condition de
+toute pédagogie critique sérieuse.
 
 ## Références
 
 Sélection ; l'appareil complet figure dans la version longue du projet.
 
-DE CERTEAU, Michel. 1980. *L'Invention du quotidien, 1. Arts de faire*. Paris :
-Union générale d'éditions.
-
-DELEUZE, Gilles. 1985. *Cinéma 2. L'Image-temps*. Paris : Minuit.
-
-ECO, Umberto. 1985 [1979]. *Lector in fabula. La coopération interprétative dans
-les textes narratifs*. Trad. Myriem Bouzaher. Paris : Grasset.
-
-ECO, Umberto. 1992 [1990]. *Les limites de l'interprétation*. Trad. Myriem
-Bouzaher. Paris : Grasset.
-
-ECO, Umberto. 1979 [1962]. *L'Œuvre ouverte*. Paris : Seuil.
-
-GERVAIS, Bertrand. 2024. « Formes de l'identité-flux : figure-écran, profil de
-fiction et imagination artificielle ». *Revue des sciences humaines*, n° 352,
-p. 57–72.
-
-GREIMAS, Algirdas Julien et Joseph COURTÉS. 1979. *Sémiotique. Dictionnaire
-raisonné de la théorie du langage*. Paris : Hachette.
-
-HUTCHINS, Edwin. 1995. *Cognition in the Wild*. Cambridge (Mass.) : MIT Press.
-
-LOTMAN, Iouri M. 1990. *Universe of the Mind: A Semiotic Theory of Culture*.
-Trad. Ann Shukman. Londres / New York : I. B. Tauris.
-
-NORMAN, Donald A. 1991. « Cognitive Artifacts ». Dans John M. CARROLL (dir.),
-*Designing Interaction: Psychology at the Human-Computer Interface*. Cambridge :
-Cambridge University Press, p. 17–38.
-
-PEIRCE, Charles Sanders. 1931–1958. *Collected Papers*. Cambridge (Mass.) :
-Harvard University Press.
-
-PRUD'HOMME, François David. 2022. *L'accessibilité esthétique des mondes
-possibles au cinéma*. Thèse de doctorat en sémiologie. Montréal : Université du
-Québec à Montréal.
-
-RANCIÈRE, Jacques. 1987. *Le Maître ignorant. Cinq leçons sur l'émancipation
-intellectuelle*. Paris : Fayard.
-
-RANCIÈRE, Jacques. 2000. *Le Partage du sensible. Esthétique et politique*.
-Paris : La Fabrique.
-
-SIMONDON, Gilbert. 1958. *Du mode d'existence des objets techniques*. Paris :
-Aubier.
-
-STIEGLER, Bernard. 1994–2001. *La Technique et le Temps*, 3 vol. Paris :
-Galilée.
-
-TEMPLETON, Adly *et al.* 2024. « Scaling Monosemanticity: Extracting
-Interpretable Features from Claude 3 Sonnet ». *Transformer Circuits Thread*,
-Anthropic.
-
-WINNICOTT, Donald W. 1975 [1971]. *Jeu et réalité. L'espace potentiel*. Trad.
-Claude Monod et J.-B. Pontalis. Paris : Gallimard.
+::: {#refs}
+:::
 
 <!--
 Quand le résumé sera déposé sur Zenodo, décommenter le bloc ci-dessous
