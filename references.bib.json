@@ -1,0 +1,2475 @@
+{
+  "config": {
+    "id": "36a3b0b5-bad0-4a04-b79b-441c7cef77db",
+    "label": "BetterBibTeX JSON",
+    "preferences": {
+      "ascii": "",
+      "asciiBibLaTeX": false,
+      "asciiBibTeX": true,
+      "autoExport": "immediate",
+      "autoExportDelay": 5,
+      "autoExportIdleWait": 10,
+      "autoExportPathReplaceDiacritics": false,
+      "autoExportPathReplaceDirSep": "-",
+      "autoExportPathReplaceSpace": " ",
+      "automaticTags": true,
+      "auxImport": false,
+      "baseAttachmentPath": "",
+      "biblatexExtendedDateFormat": true,
+      "biblatexExtendedNameFormat": true,
+      "biblatexExtractEprint": true,
+      "biblatexUsePrefix": true,
+      "bibtexEditionOrdinal": false,
+      "bibtexParticleNoOp": false,
+      "bibtexURL": "off",
+      "cache": true,
+      "cacheDelete": false,
+      "charmap": "",
+      "chinese": false,
+      "chineseSplitName": true,
+      "citeCommand": "cite",
+      "citekeyCaseInsensitive": true,
+      "citekeyFold": true,
+      "citekeyFormat": "auth.lower + shorttitle(3, 3) + year",
+      "citekeyUnsafeChars": "\\\"#%'(),={}~",
+      "csquotes": "",
+      "DOIandURL": "both",
+      "exportBibTeXStrings": "off",
+      "exportBraceProtection": true,
+      "exportCaseProtection": "",
+      "exportSort": "citekey",
+      "exportTitlecase": "",
+      "extraMergeCitekeys": false,
+      "extraMergeCSL": false,
+      "extraMergeTeX": false,
+      "fillKeyAfter": 1,
+      "git": "config",
+      "import": true,
+      "importBibTeXStrings": true,
+      "importCaseProtection": "as-needed",
+      "importCitationKey": true,
+      "importDetectURLs": true,
+      "importExtra": true,
+      "importJabRefAbbreviations": true,
+      "importJabRefStrings": true,
+      "importNoteToExtra": "",
+      "importPlaceEvent": "inproceedings,conference,presentation,talk",
+      "importSentenceCase": "on+guess",
+      "importSentenceCaseQuoted": true,
+      "importUnknownTexCommand": "ignore",
+      "itemObserverDelay": 5,
+      "jabrefFormat": 0,
+      "japanese": false,
+      "journalAbbreviation": "abbrev",
+      "keyScope": "library",
+      "language": "langid",
+      "mapMath": "",
+      "mapText": "",
+      "packages": "",
+      "parseParticles": true,
+      "patchDates": "dateadded=dateAdded, date-added=dateAdded, datemodified=dateModified, date-modified=dateModified",
+      "postscript": "",
+      "postscriptOverride": "",
+      "preferencesOverride": "",
+      "qualityReport": false,
+      "quickCopyEta": "",
+      "quickCopyMode": "latex",
+      "quickCopyOrgMode": "zotero",
+      "quickCopyPandocBrackets": false,
+      "quickCopySelectLink": "zotero",
+      "rawImports": false,
+      "rawLaTag": "#LaTeX",
+      "relativeFilePaths": false,
+      "remigrate": false,
+      "resetKeyOnChange": false,
+      "separatorList": "and",
+      "separatorNames": "and",
+      "skipFields": "",
+      "skipWords": "a,ab,aboard,about,above,across,after,against,al,along,amid,among,an,and,anti,around,as,at,before,behind,below,beneath,beside,besides,between,beyond,but,by,d,da,das,de,del,dell,dello,dei,degli,della,dell,delle,dem,den,der,des,despite,die,do,down,du,during,ein,eine,einem,einen,einer,eines,el,en,et,except,for,from,gli,i,il,in,inside,into,is,l,la,las,le,les,like,lo,los,near,nor,of,off,on,onto,or,over,past,per,plus,round,save,since,so,some,sur,than,the,through,to,toward,towards,un,una,unas,under,underneath,une,unlike,uno,unos,until,up,upon,versus,via,von,while,with,within,without,yet,zu,zum",
+      "strings": "",
+      "stringsOverride": "",
+      "verbatimFields": "url,doi,file,pdf,ids,eprint,/^verb[a-z]$/,groups,/^citeulike-linkout-[0-9]+$/,/^bdsk-url-[0-9]+$/, keywords",
+      "warnBulkModify": 10,
+      "warnTitleCased": false
+    },
+    "options": {
+      "Items": true,
+      "Normalize": false,
+      "Preferences": true,
+      "biblatexAPA": false,
+      "biblatexChicago": false,
+      "exportFileData": false,
+      "exportNotes": true,
+      "keepUpdated": false,
+      "worker": true,
+      "exportDir": "/Users/fd/Documents/site-fdp",
+      "exportPath": "/Users/fd/Documents/site-fdp/references.bib.json"
+    }
+  },
+  "version": {
+    "zotero": "9.0.6",
+    "bbt": "9.0.55"
+  },
+  "collections": {},
+  "items": [
+    {
+      "key": "KR2ULRQ4",
+      "version": 4185,
+      "itemType": "preprint",
+      "title": "Surface Reading LLMs: Synthetic Text and its Styles",
+      "abstractNote": "Despite a potential plateau in ML advancement, the societal impact of large language models lies not in approaching superintelligence but in generating text surfaces indistinguishable from human writing. While Critical AI Studies provides essential material and socio-technical critique, it risks overlooking how LLMs phenomenologically reshape meaning-making. This paper proposes a semiotics of \"surface integrity\" as attending to the immediate plane where LLMs inscribe themselves into human communication. I distinguish three knowledge interests in ML research (epistemology, epistēmē, and epistemics) and argue for integrating surface-level stylistic analysis alongside depth-oriented critique. Through two case studies examining stylistic markers of synthetic text, I argue how attending to style as a semiotic phenomenon reveals LLMs as cultural machines that transform the conditions of meaning emergence and circulation in contemporary discourse, independent of questions about machine consciousness.",
+      "date": "2025-11-15",
+      "shortTitle": "Surface Reading LLMs",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2510.22162",
+      "accessDate": "2026-08-10T13:14:11Z",
+      "extra": "arXiv:2510.22162 [cs.CY]",
+      "DOI": "10.48550/arXiv.2510.22162",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2510.22162",
+      "citationKey": "bajohrSurfaceReadingLLMs2025a",
+      "creators": [
+        {
+          "firstName": "Hannes",
+          "lastName": "Bajohr",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computation and Language",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Computers and Society",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-08-10T13:14:11Z",
+      "dateModified": "2026-08-10T13:14:11Z",
+      "uri": "http://zotero.org/users/4329366/items/KR2ULRQ4",
+      "itemID": 1487,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Preprint PDF",
+          "url": "http://arxiv.org/pdf/2510.22162v3",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-10T13:14:11Z",
+          "dateModified": "2026-08-10T13:14:11Z",
+          "uri": "http://zotero.org/users/4329366/items/U3VESZ6K",
+          "path": "/Users/fd/Zotero/storage/U3VESZ6K/Bajohr - 2025 - Surface Reading LLMs Synthetic Text and its Styles.pdf",
+          "select": "zotero://select/library/items/U3VESZ6K"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2510.22162",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-10T13:14:12Z",
+          "dateModified": "2026-08-10T13:14:12Z",
+          "uri": "http://zotero.org/users/4329366/items/5SCKB6N9",
+          "path": "/Users/fd/Zotero/storage/5SCKB6N9/2510.html",
+          "select": "zotero://select/library/items/5SCKB6N9"
+        }
+      ],
+      "notes": [
+        {
+          "key": "6VRCJPRV",
+          "version": 4184,
+          "itemType": "note",
+          "parentItem": "KR2ULRQ4",
+          "note": "Comment: 12 pages, 1 figure",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-10T13:14:11Z",
+          "dateModified": "2026-08-10T13:14:11Z",
+          "uri": "http://zotero.org/users/4329366/items/6VRCJPRV"
+        }
+      ],
+      "autoJournalAbbreviation": "",
+      "itemKey": "KR2ULRQ4",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/KR2ULRQ4"
+    },
+    {
+      "key": "6G6MSLZL",
+      "version": 4149,
+      "itemType": "journalArticle",
+      "title": "Word Priming in Attractor Networks",
+      "abstractNote": "We propose a new view of word priming in attractor networks, which involves deepening the basins of attraction for primed words. In a network that maps from orthographic to phonological word representations via semantics, this view of priming leads to novel predictions about the interactions between orthographically and/or semantically similar primes and targets, when compared on an orthographic versus a semantic retrieval task. W e confirm these predictions in computer simulations of long-term priming in a word recognition network. Connectionist models have strongly influenced current thinking about the nature of human memory storage and retrieval processes. One reason for their appeal is that they can account for a wide range of human performance on tasks such as word recognition (McClelland and Rumelhart, 1981), reading (Seidenberg and McClelland, 1989), and repetition priming (McClelland and Rumelhart, 1986). Further, because connectionist models make relatively specific assumptions about the mechanisms of cognitive processes, they can lead to novel predictions about human performance. One of the most exciting developments in the last decade of human memory research is the characterization of implicit memory (Graf &amp;; Schacter, 1985; Schacter, 1985), a form of automatic, unconscious retrieval of previously encountered material. A widely used experimental method for testing implicit m e m ory is repetition priming, in which the accuracy or speed of processing is measured on successive presentations of a target stimulus. Evidence of implicit memory is observed when subjects are more accurate or efficient in responding to previously studied targets than to new targets. The priming literature is highly relevant to connectionist models of learning and memory for two reasons: 1) Priming effects can be extremely long-lasting, ranging from minutes to many hours, or even months, and apparently reflect fundamental automatic (\"unsupervised\") learning processes employed by the brain. 2) W h e n the prime and target are not identical, but have similar input and/or semantic features, the priming effects may range from facilitation to inhibition; these effects can shed light on the nature of h u m a n memory organization, and provide constraints on the representations employed in connectionist models. In this paper, w e first review the previous connectionist accounts of priming. W e then propose a new view of word priming in attractor networks with orthographic and semantic levels of representation, which involves deepening the basins of attraction for primed words. This leads to some novel predictions about the interactions between primes and targets, which we explore in computer simulations.",
+      "date": "1993",
+      "language": "en",
+      "libraryCatalog": "repositories.cdlib.org",
+      "url": "https://escholarship.org/uc/item/13k8p12j",
+      "accessDate": "2026-07-19T16:10:59Z",
+      "volume": "15",
+      "publicationTitle": "Proceedings of the Annual Meeting of the Cognitive Science Society",
+      "issue": "0",
+      "citationKey": "beckerWordPrimingAttractor1993",
+      "creators": [
+        {
+          "firstName": "Suzanna",
+          "lastName": "Becker",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Marlene",
+          "lastName": "Behrmann",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Morris",
+          "lastName": "Moscovitch",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-07-19T16:10:59Z",
+      "dateModified": "2026-07-19T16:10:59Z",
+      "uri": "http://zotero.org/users/4329366/items/6G6MSLZL",
+      "itemID": 1423,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://escholarship.org/content/qt13k8p12j/qt13k8p12j.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-07-19T16:11:01Z",
+          "dateModified": "2026-07-19T16:11:01Z",
+          "uri": "http://zotero.org/users/4329366/items/PALINFZ4",
+          "path": "/Users/fd/Zotero/storage/PALINFZ4/Becker et al. - 1993 - Word Priming in Attractor Networks.pdf",
+          "select": "zotero://select/library/items/PALINFZ4"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "Proc. Annu. Meet. Cogn. Sci. Soc.",
+      "itemKey": "6G6MSLZL",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/6G6MSLZL"
+    },
+    {
+      "key": "TXTJIYZL",
+      "version": 4194,
+      "itemType": "preprint",
+      "title": "Sparse Autoencoders Find Highly Interpretable Features in Language Models",
+      "abstractNote": "One of the roadblocks to a better understanding of neural networks' internals is \\textit{polysemanticity}, where neurons appear to activate in multiple, semantically distinct contexts. Polysemanticity prevents us from identifying concise, human-understandable explanations for what neural networks are doing internally. One hypothesised cause of polysemanticity is \\textit{superposition}, where neural networks represent more features than they have neurons by assigning features to an overcomplete set of directions in activation space, rather than to individual neurons. Here, we attempt to identify those directions, using sparse autoencoders to reconstruct the internal activations of a language model. These autoencoders learn sets of sparsely activating features that are more interpretable and monosemantic than directions identified by alternative approaches, where interpretability is measured by automated methods. Moreover, we show that with our learned set of features, we can pinpoint the features that are causally responsible for counterfactual behaviour on the indirect object identification task \\citep{wang2022interpretability} to a finer degree than previous decompositions. This work indicates that it is possible to resolve superposition in language models using a scalable, unsupervised method. Our method may serve as a foundation for future mechanistic interpretability work, which we hope will enable greater model transparency and steerability.",
+      "date": "2023-10-04",
+      "libraryCatalog": "arXiv.org",
+      "accessDate": "2026-08-10T13:05:56Z",
+      "extra": "arXiv:2309.08600 [cs.LG]",
+      "DOI": "10.48550/arXiv.2309.08600",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2309.08600",
+      "citationKey": "cunninghamSparseAutoencodersFind2023",
+      "creators": [
+        {
+          "firstName": "Hoagy",
+          "lastName": "Cunningham",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Aidan",
+          "lastName": "Ewart",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Logan",
+          "lastName": "Riggs",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Robert",
+          "lastName": "Huben",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lee",
+          "lastName": "Sharkey",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computation and Language",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Machine Learning",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-08-10T13:05:56Z",
+      "dateModified": "2026-08-10T13:46:27Z",
+      "uri": "http://zotero.org/users/4329366/items/TXTJIYZL",
+      "itemID": 1471,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Preprint PDF",
+          "url": "http://arxiv.org/pdf/2309.08600v3",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-10T13:05:57Z",
+          "dateModified": "2026-08-10T13:05:57Z",
+          "uri": "http://zotero.org/users/4329366/items/TSM2GY9T",
+          "path": "/Users/fd/Zotero/storage/TSM2GY9T/Cunningham et al. - 2023 - Sparse Autoencoders Find Highly Interpretable Features in Language Models.pdf",
+          "select": "zotero://select/library/items/TSM2GY9T"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2309.08600",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-10T13:05:57Z",
+          "dateModified": "2026-08-10T13:05:57Z",
+          "uri": "http://zotero.org/users/4329366/items/R38TB6HX",
+          "path": "/Users/fd/Zotero/storage/R38TB6HX/2309.html",
+          "select": "zotero://select/library/items/R38TB6HX"
+        }
+      ],
+      "notes": [
+        {
+          "key": "R7R76XZJ",
+          "version": 4153,
+          "itemType": "note",
+          "parentItem": "TXTJIYZL",
+          "note": "Comment: 20 pages, 18 figures, 2 tables",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-10T13:05:56Z",
+          "dateModified": "2026-08-10T13:05:56Z",
+          "uri": "http://zotero.org/users/4329366/items/R7R76XZJ"
+        }
+      ],
+      "autoJournalAbbreviation": "",
+      "itemKey": "TXTJIYZL",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/TXTJIYZL"
+    },
+    {
+      "key": "EN9CZ8FM",
+      "version": 4195,
+      "itemType": "journalArticle",
+      "title": "Les IA génératives visuelles entre perception d’archives et circuits de composition",
+      "abstractNote": "Résumé Cet article aborde les intelligences artificielles génératives visuelles telles que Midjourney et DALL·E afin d’analyser leur fonctionnement sémiotique. Le point de départ est la définition de la discipline sémiotique proposée par Pierluigi Basso Fossali, décrivant celle-ci comme la science qui étudie la gestion sociale du sens, et qui s’articule en quatre sphères fondamentales : la perception, l’énonciation, la communication et la transmission. À partir de ce cadre théorique, l’objectif est de proposer et de décrire deux nouvelles configurations qui caractérisent le fonctionnent sémiotique des IA génératives visuelles : à travers une perception d’archives et grâce à des circuits de composition. Le concept de perception d’archives a pour objectif de décrire la manière particulière dont les IA voient, entendent et apprennent, celle-ci étant réalisée sur de grandes quantités de données et à travers une généalogie d’opérations reconfigurables sur les archives. Les circuits de composition, quant à eux, concernent le couplage entre la logique de la composition visuelle et de la prédication verbale : il s’agit du processus d’énonciation par débruitage visuel réalisé par les IA, guidé par les requêtes en langage naturel fournies par des opérateurs humains. À partir de trois critères élaborés en sémiotique – les catégories plastiques, l’énonciation visuelle, ainsi que la traduction intersémiotique entre textes verbaux et images – une série de tests seront proposés afin d’examiner les circuits de composition des modèles génératifs de Midjourney et de DALL·E. Les IA seront enfin définies en tant que machines co-énonçantes : des entités dépourvues d’intentionnalité et d’initiative, qui produisent pourtant des énoncés en collaboration avec un opérateur humain et sur la base d’archives de données hautement structurées et reconfigurables.",
+      "date": "2025-01-01",
+      "language": "fr",
+      "libraryCatalog": "www.degruyterbrill.com",
+      "accessDate": "2026-07-18T14:42:47Z",
+      "rights": "De Gruyter expressly reserves the right to use all content for commercial text and data mining within the meaning of Section 44b of the German Copyright Act.",
+      "volume": "2025",
+      "publisher": "De Gruyter Mouton",
+      "pages": "213-257",
+      "publicationTitle": "Semiotica",
+      "DOI": "10.1515/sem-2024-0184",
+      "issue": "262",
+      "ISSN": "1613-3692",
+      "citationKey": "darmenioIAGenerativesVisuelles2025",
+      "creators": [
+        {
+          "firstName": "Enzo",
+          "lastName": "D’Armenio",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "artificial intelligence",
+          "type": 1
+        },
+        {
+          "tag": "perception",
+          "type": 1
+        },
+        {
+          "tag": "archive",
+          "type": 1
+        },
+        {
+          "tag": "enunciation",
+          "type": 1
+        },
+        {
+          "tag": "intersemiotic translation",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-07-18T14:42:47Z",
+      "dateModified": "2026-08-10T13:46:36Z",
+      "uri": "http://zotero.org/users/4329366/items/EN9CZ8FM",
+      "itemID": 1421,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://www.degruyterbrill.com/document/doi/10.1515/sem-2024-0184/pdf?licenseType=open-access",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-07-18T14:42:53Z",
+          "dateModified": "2026-07-18T14:42:53Z",
+          "uri": "http://zotero.org/users/4329366/items/WKJV6HB4",
+          "path": "/Users/fd/Zotero/storage/WKJV6HB4/D’Armenio - 2025 - Les IA génératives visuelles entre perception d’archives et circuits de composition.pdf",
+          "select": "zotero://select/library/items/WKJV6HB4"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Les IA génératives visuelles entre perception d’archives et circuits de composition",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-07-20T13:57:31Z",
+          "dateModified": "2026-07-20T13:57:31Z",
+          "uri": "http://zotero.org/users/4329366/items/935Q5TX9",
+          "path": "/Users/fd/Zotero/storage/935Q5TX9/Les IA génératives visuelles entre perception d’archives et circuits de composition.pdf",
+          "select": "zotero://select/library/items/935Q5TX9"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "EN9CZ8FM",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/EN9CZ8FM"
+    },
+    {
+      "key": "7D6YQ3TR",
+      "version": 4193,
+      "itemType": "book",
+      "title": "L'image-temps",
+      "abstractNote": "378 p. ; 22 cm; Includes bibliographical references and index",
+      "date": "1985",
+      "language": "fre",
+      "libraryCatalog": "Internet Archive",
+      "accessDate": "2026-08-10T12:41:09Z",
+      "publisher": "Paris : Editions de Minuit",
+      "ISBN": "978-2-7073-1047-7",
+      "numPages": "390",
+      "citationKey": "deleuzeLimageTemps1985a",
+      "creators": [
+        {
+          "firstName": "Gilles",
+          "lastName": "Deleuze",
+          "creatorType": "author"
+        },
+        {
+          "name": "Internet Archive",
+          "creatorType": "contributor"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Motion pictures -- Philosophy",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-08-10T12:41:09Z",
+      "dateModified": "2026-08-10T13:46:03Z",
+      "uri": "http://zotero.org/users/4329366/items/7D6YQ3TR",
+      "itemID": 1443,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "7D6YQ3TR",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/7D6YQ3TR"
+    },
+    {
+      "key": "729XKTAK",
+      "version": 4196,
+      "itemType": "journalArticle",
+      "title": "From the represenationalist stance to conceptual blending in AI-generated images",
+      "abstractNote": "This paper examines how AI-generated images reconfigure key aesthetic and epistemological categories within contemporary visual culture. Drawing on Nelson Goodman’s distinction between autographic and allographic art forms, we argue that AI image generation occupies a hybrid position, functioning as a “mixed case” where linguistic prompts serve as notational structures and generative outputs as autographic instantiations. Through the notion of semantic attractors, we describe how lexical inputs act as gravitational forces within the model’s latent space, guiding the emergence of visual and affective configurations. This dynamic is interpreted through conceptual blending theory, revealing how AI systems integrate heterogeneous domains into novel perceptual and semantic syntheses. Finally, we introduce the concept of the image-ideogram to analyze the cultural impact of deepfakes and synthetic imagery, suggesting that photorealistic synthesis now operates less as an epistemic index and more as a visual and linguistic resource within the accelerated economy of contemporary visual discourse.",
+      "date": "2025-11-26",
+      "language": "en",
+      "libraryCatalog": "riviste.unimi.it",
+      "accessDate": "2026-08-10T13:06:30Z",
+      "rights": "Copyright (c) 2025",
+      "publicationTitle": "Itinera",
+      "DOI": "10.54103/2039-9251/30244",
+      "issue": "30",
+      "ISSN": "2039-9251",
+      "citationKey": "disaRepresenationalistStanceConceptual2025",
+      "creators": [
+        {
+          "firstName": "Francesco",
+          "lastName": "D'Isa",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lorenzo",
+          "lastName": "Manera",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "estetica",
+          "type": 1
+        },
+        {
+          "tag": "filosofia morale",
+          "type": 1
+        },
+        {
+          "tag": "Itinera",
+          "type": 1
+        },
+        {
+          "tag": "journals unimi",
+          "type": 1
+        },
+        {
+          "tag": "journals università degli studi di milano",
+          "type": 1
+        },
+        {
+          "tag": "ojs",
+          "type": 1
+        },
+        {
+          "tag": "riviste oa unimi",
+          "type": 1
+        },
+        {
+          "tag": "riviste open access unimi",
+          "type": 1
+        },
+        {
+          "tag": "riviste unimi",
+          "type": 1
+        },
+        {
+          "tag": "riviste università degli studi di milano",
+          "type": 1
+        },
+        {
+          "tag": "rivisteunimi",
+          "type": 1
+        },
+        {
+          "tag": "storia della filosofia",
+          "type": 1
+        },
+        {
+          "tag": "teoria delle arti e del teatro",
+          "type": 1
+        },
+        {
+          "tag": "university of milan journals",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-08-10T13:06:30Z",
+      "dateModified": "2026-08-10T13:46:43Z",
+      "uri": "http://zotero.org/users/4329366/items/729XKTAK",
+      "itemID": 1475,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://riviste.unimi.it/index.php/itinera/article/download/30244/25035",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-10T13:06:32Z",
+          "dateModified": "2026-08-10T13:06:32Z",
+          "uri": "http://zotero.org/users/4329366/items/5WMJQKQV",
+          "path": "/Users/fd/Zotero/storage/5WMJQKQV/D'Isa et Manera - 2025 - From the represenationalist stance to conceptual blending in AI-generated images.pdf",
+          "select": "zotero://select/library/items/5WMJQKQV"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "729XKTAK",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/729XKTAK"
+    },
+    {
+      "key": "LJA3ZHTA",
+      "version": 4080,
+      "itemType": "book",
+      "title": "Lector in Fabula",
+      "date": "1985 [1979]",
+      "place": "Paris",
+      "publisher": "Grasset et Fasquelle",
+      "citationKey": "ecoLectorFabula1985",
+      "creators": [
+        {
+          "firstName": "Umberto",
+          "lastName": "Eco",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2017-11-28T11:27:33Z",
+      "dateModified": "2017-12-07T13:57:09Z",
+      "uri": "http://zotero.org/users/4329366/items/LJA3ZHTA",
+      "itemID": 256,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "LJA3ZHTA",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/LJA3ZHTA"
+    },
+    {
+      "key": "9AL4SDXA",
+      "version": 4080,
+      "itemType": "book",
+      "title": "Les limites de l'interprétation",
+      "date": "1992",
+      "language": "fre",
+      "libraryCatalog": "dam.bib.uqam.ca:1701",
+      "callNumber": "PN98S46E2614 1994",
+      "place": "Paris",
+      "publisher": "Grasset et Fasquelle",
+      "ISBN": "978-2-253-94192-7",
+      "numPages": "413",
+      "citationKey": "ecoLimitesLinterpretation1992",
+      "creators": [
+        {
+          "firstName": "Umberto",
+          "lastName": "Eco",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Critique; Esthétique de la réception; Sémiotique et littérature",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2019-06-25T12:33:58Z",
+      "dateModified": "2019-06-25T12:34:56Z",
+      "uri": "http://zotero.org/users/4329366/items/9AL4SDXA",
+      "itemID": 434,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "9AL4SDXA",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/9AL4SDXA"
+    },
+    {
+      "key": "3QIVRE4G",
+      "version": 4088,
+      "itemType": "book",
+      "title": "L'oeuvre ouverte",
+      "date": "1965",
+      "language": "fre",
+      "libraryCatalog": "virtuose.uqam.ca",
+      "callNumber": "B840E314 1979",
+      "place": "Paris",
+      "publisher": "Éditions du Seuil",
+      "ISBN": "978-2-02-005327-3",
+      "series": "Points 107 Sciences humaines",
+      "numPages": "315",
+      "citationKey": "ecoLoeuvreOuverte1965",
+      "creators": [
+        {
+          "firstName": "Umberto",
+          "lastName": "Eco",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "PHILOSOPHIE"
+        },
+        {
+          "tag": "SIGNIFICATION"
+        },
+        {
+          "tag": "OEUVRE"
+        },
+        {
+          "tag": "HISTOIRE"
+        },
+        {
+          "tag": "SYSTEME"
+        },
+        {
+          "tag": "poetry"
+        },
+        {
+          "tag": "Intension (Logique)"
+        },
+        {
+          "tag": "Intension (Philosophie)"
+        },
+        {
+          "tag": "Semantics (Philosophy)"
+        },
+        {
+          "tag": "Sémantique (Philosophie)"
+        },
+        {
+          "tag": "Sémantique formelle"
+        },
+        {
+          "tag": "Sémantique intentionnelle"
+        },
+        {
+          "tag": "Sémasiologie"
+        },
+        {
+          "tag": "Syntactique"
+        },
+        {
+          "tag": "LANGAGE"
+        },
+        {
+          "tag": "LINGUISTIQUE"
+        },
+        {
+          "tag": "MODERNE"
+        },
+        {
+          "tag": "MOT"
+        },
+        {
+          "tag": "SEMANTIQUE"
+        },
+        {
+          "tag": "Poetry"
+        },
+        {
+          "tag": "Dzhois, Dzheims Avgustin Aloizii, 1882-1941"
+        },
+        {
+          "tag": "Dzoiss, Dzeimss, 1882-1941"
+        },
+        {
+          "tag": "G`ois, G`aims, 1882-1941"
+        },
+        {
+          "tag": "Information theory"
+        },
+        {
+          "tag": "Information, Théorie de l'"
+        },
+        {
+          "tag": "Joyce, Giacomo, 1882-1941"
+        },
+        {
+          "tag": "Joyce, James, 1882-1941."
+        },
+        {
+          "tag": "Juyis, Jims, 1882-1941"
+        },
+        {
+          "tag": "Œuvres poétiques"
+        },
+        {
+          "tag": "OUVERT"
+        },
+        {
+          "tag": "Poèmes"
+        },
+        {
+          "tag": "Poésie"
+        },
+        {
+          "tag": "Poésie Philosophie"
+        },
+        {
+          "tag": "Poésie."
+        },
+        {
+          "tag": "Poésies"
+        },
+        {
+          "tag": "Poetry as Topic"
+        },
+        {
+          "tag": "Récits en vers"
+        },
+        {
+          "tag": "Théorie de l'information de Shannon et Weaver"
+        },
+        {
+          "tag": "Théorie de l'information."
+        },
+        {
+          "tag": "Tzoys, Tzaiems, 1882-1941"
+        },
+        {
+          "tag": "Tzoys, Tzeems, 1882-1941"
+        }
+      ],
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4329366/items/ZG3SQRKS"
+        ]
+      },
+      "dateAdded": "2018-02-13T15:14:58Z",
+      "dateModified": "2024-07-24T18:11:14Z",
+      "uri": "http://zotero.org/users/4329366/items/3QIVRE4G",
+      "itemID": 465,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "3QIVRE4G",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/3QIVRE4G"
+    },
+    {
+      "key": "PV28YGBJ",
+      "version": 4197,
+      "itemType": "journalArticle",
+      "title": "Formes de l’identité-flux : figure-écran, profil de fiction et imagination artificielle",
+      "date": "2024",
+      "language": "fr",
+      "shortTitle": "Formes de l’identité-flux",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "accessDate": "2026-05-11T14:19:51Z",
+      "rights": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "volume": "352",
+      "pages": "57-72",
+      "publicationTitle": "Revue des Sciences Humaines",
+      "DOI": "10.4000/rsh.4327",
+      "journalAbbreviation": "rsh",
+      "ISSN": "0035-2195, 2540-3362",
+      "citationKey": "gervaisFormesLidentitefluxFigureecran2024",
+      "creators": [
+        {
+          "firstName": "Bertrand",
+          "lastName": "Gervais",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-05-11T14:19:51Z",
+      "dateModified": "2026-08-10T13:46:55Z",
+      "uri": "http://zotero.org/users/4329366/items/PV28YGBJ",
+      "itemID": 1368,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "PDF",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-05-11T14:19:25Z",
+          "dateModified": "2026-05-11T14:19:51Z",
+          "uri": "http://zotero.org/users/4329366/items/U4A3USB2",
+          "path": "/Users/fd/Zotero/storage/U4A3USB2/Gervais - 2024 - Formes de l’identité-flux  figure-écran, profil de fiction et imagination artificielle.pdf",
+          "select": "zotero://select/library/items/U4A3USB2"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "Rev. Sci. Hum.",
+      "itemKey": "PV28YGBJ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/PV28YGBJ"
+    },
+    {
+      "key": "BL6P4RMC",
+      "version": 4198,
+      "itemType": "journalArticle",
+      "title": "« Qui lira ce que tu n’as pas écrit ? Dialogue avec un infra-auteur »",
+      "date": "2024-09-16",
+      "language": "fr",
+      "shortTitle": "« Qui lira ce que tu n’as pas écrit ?",
+      "libraryCatalog": "shs-cairn-info.proxy.bibliotheques.uqam.ca",
+      "accessDate": "2026-01-21T15:57:56Z",
+      "volume": "226",
+      "publisher": "Armand Colin",
+      "pages": "115-124",
+      "publicationTitle": "Le français aujourd'hui",
+      "DOI": "10.3917/lfa.226.0115",
+      "issue": "3",
+      "ISSN": "0184-7732",
+      "citationKey": "gervaisQuiLiraCe2024",
+      "creators": [
+        {
+          "firstName": "Bertrand",
+          "lastName": "Gervais",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Nathalie",
+          "lastName": "Lacelle",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-01-21T15:57:56Z",
+      "dateModified": "2026-08-10T13:47:00Z",
+      "uri": "http://zotero.org/users/4329366/items/BL6P4RMC",
+      "itemID": 1335,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://shs.cairn.info/article/LFA_226_0115/pdf?lang=fr",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-21T15:58:02Z",
+          "dateModified": "2026-01-21T15:58:03Z",
+          "uri": "http://zotero.org/users/4329366/items/CMB3DLN4",
+          "path": "/Users/fd/Zotero/storage/CMB3DLN4/Gervais et Lacelle - 2024 - « Qui lira ce que tu n’as pas écrit  Dialogue avec un infra-auteur ».pdf",
+          "select": "zotero://select/library/items/CMB3DLN4"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "Fr. Aujourdhui",
+      "itemKey": "BL6P4RMC",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/BL6P4RMC"
+    },
+    {
+      "key": "HHLG35L4",
+      "version": 4199,
+      "itemType": "book",
+      "title": "Sémiotique : dictionnaire raisonné de la théorie du langage",
+      "abstractNote": "volumes ; 23 cm",
+      "date": "1979",
+      "language": "fre",
+      "shortTitle": "Sémiotique",
+      "libraryCatalog": "Internet Archive",
+      "accessDate": "2026-08-10T12:48:13Z",
+      "publisher": "Paris : Hachette",
+      "ISBN": "978-2-01-005221-7",
+      "numPages": "442",
+      "citationKey": "greimasSemiotiqueDictionnaireRaisonne1979",
+      "creators": [
+        {
+          "firstName": "Algirdas Julien",
+          "lastName": "Greimas",
+          "creatorType": "author"
+        },
+        {
+          "name": "Internet Archive",
+          "creatorType": "contributor"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Semiotics -- Dictionaries -- French",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-08-10T12:48:13Z",
+      "dateModified": "2026-08-10T13:47:07Z",
+      "uri": "http://zotero.org/users/4329366/items/HHLG35L4",
+      "itemID": 1448,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "HHLG35L4",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/HHLG35L4"
+    },
+    {
+      "key": "YTGFW5SK",
+      "version": 4191,
+      "itemType": "book",
+      "title": "Sémiotique: dictionnaire raisonné de la théorie du langage",
+      "date": "1979",
+      "language": "French",
+      "shortTitle": "Sémiotique",
+      "libraryCatalog": "WorldCat Discovery Service",
+      "extra": "Section: 2 volumes ; 24 cm",
+      "place": "Paris",
+      "publisher": "Hachette",
+      "ISBN": "978-2-01-005221-7",
+      "series": "Langue, linguistique, communication",
+      "citationKey": "greimasSemiotiqueDictionnaireRaisonne1979a",
+      "creators": [
+        {
+          "firstName": "Algirdas Julien",
+          "lastName": "Greimas",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Joseph",
+          "lastName": "Courtés",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-10T13:15:36Z",
+      "dateModified": "2026-08-10T13:15:39Z",
+      "uri": "http://zotero.org/users/4329366/items/YTGFW5SK",
+      "itemID": 1491,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "YTGFW5SK",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/YTGFW5SK"
+    },
+    {
+      "key": "AHSID6A6",
+      "version": 4165,
+      "itemType": "journalArticle",
+      "title": "Lesioning an attractor network: investigations of acquired dyslexia",
+      "abstractNote": "A recurrent connectionist network was trained to output semantic feature vectors when presented with letter strings. When damaged, the network exhibited characteristics that resembled several of the phenomena found in deep dyslexia and semantic-access dyslexia. Damaged networks sometimes settled to the semantic vectors for semantically similar but visually dissimilar words. With severe damage, a forced-choice decision between categories was possible even when the choice of the particular semantic vector within the category was not possible. The damaged networks typically exhibited many mixed visual and semantic errors in which the output corresponded to a word that was both visually and semantically similar. Surprisingly, damage near the output sometimes caused pure visual errors. Indeed, the characteristic error pattern of deep dyslexia occurred with damage to virtually any part of the network.",
+      "date": "1991-01",
+      "language": "eng",
+      "shortTitle": "Lesioning an attractor network",
+      "libraryCatalog": "PubMed",
+      "volume": "98",
+      "pages": "74-95",
+      "publicationTitle": "Psychological Review",
+      "DOI": "10.1037/0033-295x.98.1.74",
+      "issue": "1",
+      "journalAbbreviation": "Psychol Rev",
+      "ISSN": "0033-295X",
+      "citationKey": "hintonLesioningAttractorNetwork1991",
+      "PMID": "2006233",
+      "creators": [
+        {
+          "firstName": "G. E.",
+          "lastName": "Hinton",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "T.",
+          "lastName": "Shallice",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Brain",
+          "type": 1
+        },
+        {
+          "tag": "Brain Damage, Chronic",
+          "type": 1
+        },
+        {
+          "tag": "Brain Mapping",
+          "type": 1
+        },
+        {
+          "tag": "Dyslexia, Acquired",
+          "type": 1
+        },
+        {
+          "tag": "Humans",
+          "type": 1
+        },
+        {
+          "tag": "Models, Neurological",
+          "type": 1
+        },
+        {
+          "tag": "Nerve Net",
+          "type": 1
+        },
+        {
+          "tag": "Neuropsychological Tests",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-08-10T13:07:27Z",
+      "dateModified": "2026-08-10T13:07:27Z",
+      "uri": "http://zotero.org/users/4329366/items/AHSID6A6",
+      "itemID": 1478,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "PubMed entry",
+          "url": "http://www.ncbi.nlm.nih.gov/pubmed/2006233",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-10T13:07:27Z",
+          "dateModified": "2026-08-10T13:07:27Z",
+          "uri": "http://zotero.org/users/4329366/items/XQMA7BHP",
+          "select": "zotero://select/library/items/XQMA7BHP"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "Psychol. Rev.",
+      "itemKey": "AHSID6A6",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/AHSID6A6"
+    },
+    {
+      "key": "K6DZALHV",
+      "version": 4091,
+      "itemType": "book",
+      "title": "Cognition in the Wild",
+      "date": "1995-02-10",
+      "language": "en",
+      "libraryCatalog": "MIT Press Books",
+      "place": "Cambridge, MA, USA",
+      "publisher": "MIT Press",
+      "ISBN": "978-0-262-08231-0",
+      "numPages": "402",
+      "citationKey": "hutchinsCognitionWild1995",
+      "creators": [
+        {
+          "firstName": "Edwin",
+          "lastName": "Hutchins",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-10T12:48:58Z",
+      "dateModified": "2026-08-10T12:49:02Z",
+      "uri": "http://zotero.org/users/4329366/items/K6DZALHV",
+      "itemID": 1449,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "K6DZALHV",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/K6DZALHV"
+    },
+    {
+      "key": "N4PDE2FZ",
+      "version": 4084,
+      "itemType": "journalArticle",
+      "title": "HOW A COCKPIT REMEMBERS ITS SPEEDS",
+      "language": "en",
+      "libraryCatalog": "Zotero",
+      "citationKey": "hutchinsHOWCOCKPITREMEMBERS",
+      "creators": [
+        {
+          "firstName": "Edwin",
+          "lastName": "Hutchins",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-05-11T14:19:42Z",
+      "dateModified": "2026-05-11T14:19:42Z",
+      "uri": "http://zotero.org/users/4329366/items/N4PDE2FZ",
+      "itemID": 1363,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "PDF",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-05-11T14:19:19Z",
+          "dateModified": "2026-05-11T14:19:42Z",
+          "uri": "http://zotero.org/users/4329366/items/84NC9V7R",
+          "path": "/Users/fd/Zotero/storage/84NC9V7R/Hutchins - HOW A COCKPIT REMEMBERS ITS SPEEDS.pdf",
+          "select": "zotero://select/library/items/84NC9V7R"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "N4PDE2FZ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/N4PDE2FZ"
+    },
+    {
+      "key": "U3JAWHUQ",
+      "version": 4085,
+      "itemType": "journalArticle",
+      "title": "A Path Towards Autonomous Machine Intelligence Version 0.9.2, 2022-06-27",
+      "abstractNote": "How could machines learn as eﬃciently as humans and animals? How could machines learn to reason and plan? How could machines learn representations of percepts and action plans at multiple levels of abstraction, enabling them to reason, predict, and plan at multiple time horizons? This position paper proposes an architecture and training paradigms with which to construct autonomous intelligent agents. It combines concepts such as conﬁgurable predictive world model, behavior driven through intrinsic motivation, and hierarchical joint embedding architectures trained with self-supervised learning.",
+      "language": "en",
+      "libraryCatalog": "Zotero",
+      "citationKey": "lecunPathAutonomousMachine",
+      "creators": [
+        {
+          "firstName": "Yann",
+          "lastName": "LeCun",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-05-11T14:17:40Z",
+      "dateModified": "2026-05-11T14:17:40Z",
+      "uri": "http://zotero.org/users/4329366/items/U3JAWHUQ",
+      "itemID": 1342,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "PDF",
+          "url": "https://openreview.net/pdf?id=BZ5a1r-kVsf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-05-11T14:17:38Z",
+          "dateModified": "2026-05-11T14:17:40Z",
+          "uri": "http://zotero.org/users/4329366/items/3BAQJ9EN",
+          "path": "/Users/fd/Zotero/storage/3BAQJ9EN/LeCun - A Path Towards Autonomous Machine Intelligence Version 0.9.2, 2022-06-27.pdf",
+          "select": "zotero://select/library/items/3BAQJ9EN"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "U3JAWHUQ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/U3JAWHUQ"
+    },
+    {
+      "key": "MC5MXDYJ",
+      "version": 4169,
+      "itemType": "book",
+      "title": "La sémiosphère",
+      "date": "1999",
+      "language": "French",
+      "libraryCatalog": "WorldCat Discovery Service",
+      "extra": "Section: 149 pages ; 24 cm",
+      "place": "Limoges",
+      "publisher": "PULIM",
+      "ISBN": "978-2-84287-100-0",
+      "series": "Nouveaux actes sémiotiques",
+      "numPages": "149",
+      "citationKey": "lotmanSemiosphere1999",
+      "creators": [
+        {
+          "firstName": "Ju M.",
+          "lastName": "Lotman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anka",
+          "lastName": "Ledenko",
+          "creatorType": "translator"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-10T13:08:45Z",
+      "dateModified": "2026-08-10T13:09:29Z",
+      "uri": "http://zotero.org/users/4329366/items/MC5MXDYJ",
+      "itemID": 1480,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "MC5MXDYJ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/MC5MXDYJ"
+    },
+    {
+      "key": "7AVNHAL9",
+      "version": 4202,
+      "itemType": "journalArticle",
+      "title": "Language Models’ Hall of Mirrors Problem: Why AI Alignment Requires Peircean Semiosis",
+      "abstractNote": "This paper examines some limitations of large language models (LLMs) through the framework of Peircean semiotics. We argue that basic LLMs exist within a “hall of mirrors,” reflecting only the linguistic surface of training data without indexical grounding in a shared external world, and manipulating symbols without participation in socially-mediated epistemology. We then argue that newer developments, including extended context windows, persistent memory, and mediated interactions with reality, are moving towards making newer Artificial Intelligence (AI) systems into genuine Peircean interpretants, and conclude that LLMs may be approaching this goal, and we identify no fundamental architectural barriers that would prevent this. This lens reframes a central challenge for AI alignment: without grounding in the semiotic process, a model’s linguistic encoding of goals may diverge from real-world values. By synthesizing Peirce’s pragmatic view of signs, contemporary discussions of AI alignment, and recent work on relational realism, we illustrate a fundamental epistemological and practical challenge to AI safety and point to part of a solution.",
+      "date": "2026-01-03",
+      "language": "en",
+      "shortTitle": "Language Models’ Hall of Mirrors Problem",
+      "libraryCatalog": "Springer Link",
+      "accessDate": "2026-07-07T11:35:48Z",
+      "volume": "39",
+      "pages": "9",
+      "publicationTitle": "Philosophy & Technology",
+      "DOI": "10.1007/s13347-025-00975-5",
+      "issue": "1",
+      "journalAbbreviation": "Philos. Technol.",
+      "ISSN": "2210-5441",
+      "citationKey": "manheimLanguageModelsHall2026",
+      "creators": [
+        {
+          "firstName": "David",
+          "lastName": "Manheim",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Epistemology",
+          "type": 1
+        },
+        {
+          "tag": "AI alignment",
+          "type": 1
+        },
+        {
+          "tag": "AI safety",
+          "type": 1
+        },
+        {
+          "tag": "Artificial intelligence",
+          "type": 1
+        },
+        {
+          "tag": "Charles Peirce",
+          "type": 1
+        },
+        {
+          "tag": "Emerging technology",
+          "type": 1
+        },
+        {
+          "tag": "Large language models",
+          "type": 1
+        },
+        {
+          "tag": "Linguistics",
+          "type": 1
+        },
+        {
+          "tag": "Semiotics",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-07-07T11:35:48Z",
+      "dateModified": "2026-08-10T13:47:26Z",
+      "uri": "http://zotero.org/users/4329366/items/7AVNHAL9",
+      "itemID": 1414,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://link.springer.com/content/pdf/10.1007%2Fs13347-025-00975-5.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-07-07T11:35:49Z",
+          "dateModified": "2026-07-07T11:35:49Z",
+          "uri": "http://zotero.org/users/4329366/items/RL782I3K",
+          "path": "/Users/fd/Zotero/storage/RL782I3K/Manheim - 2026 - Language Models’ Hall of Mirrors Problem Why AI Alignment Requires Peircean Semiosis.pdf",
+          "select": "zotero://select/library/items/RL782I3K"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "Philos. Technol.",
+      "itemKey": "7AVNHAL9",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/7AVNHAL9"
+    },
+    {
+      "key": "LXQXQINL",
+      "version": 4202,
+      "itemType": "book",
+      "title": "L'invention du quotidien 1. Arts de faire",
+      "abstractNote": "La Raison technicienne croit savoir comment organiser au \nmieux les choses et les gens, assignant à chacun une place, un rôle, des\n produits à consommer. Mais l'homme ordinaire se soustrait en silence à \ncette conformation. Il invente le quotidien grâce aux arts de faire,\n ruses subtiles, tactiques de résistance par lesquelles il détourne les \nobjets et les codes, se réapproprie l'espace et l'usage à sa façon. \nTours et traverses, manières de faire des coups, astuces de chasseurs, \nmobilités, mises en récit et trouvailles de mots, mille pratiques \ninventives prouvent, à qui sait les voir, que la foule sans qualité \nn'est pas obéissante et passive, mais pratique l'écart dans l'usage des \nproduits imposés, dans une liberté buissonnière par laquelle chacun \ntâche de vivre au mieux l'ordre social et la violence des choses.Michel\n de Certeau, le premier, restitua les ruses anonymes des arts de faire, \ncet art de vivre la société de consommation. Vite devenues classiques, \nses analyses pionnières ont inspiré historiens, philosophes et \nsociologues.",
+      "date": "1990-11-13",
+      "language": "fre",
+      "libraryCatalog": "Internet Archive",
+      "accessDate": "2026-08-10T12:40:20Z",
+      "publisher": "Editions Gallimard",
+      "ISBN": "978-2-07-032576-4",
+      "citationKey": "micheldecerteauetlucegiardLinventionQuotidien11990",
+      "creators": [
+        {
+          "name": "Michel de Certeau et Luce Giard",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "sociology",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-08-10T12:40:20Z",
+      "dateModified": "2026-08-10T13:47:29Z",
+      "uri": "http://zotero.org/users/4329366/items/LXQXQINL",
+      "itemID": 1442,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "LXQXQINL",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/LXQXQINL"
+    },
+    {
+      "key": "D6VBSU2G",
+      "version": 4095,
+      "itemType": "bookSection",
+      "title": "Cognitive Artifacts",
+      "date": "1991-01-01",
+      "libraryCatalog": "ResearchGate",
+      "extra": "Journal Abbreviation: Designing interaction: psychology at the human-computer interface",
+      "ISBN": "978-0-521-40056-5",
+      "pages": "333",
+      "bookTitle": "Designing interaction: psychology at the human-computer interface",
+      "citationKey": "normanCognitiveArtifacts1991",
+      "creators": [
+        {
+          "firstName": "Donald",
+          "lastName": "Norman",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-05-11T14:23:14Z",
+      "dateModified": "2026-05-11T14:23:14Z",
+      "uri": "http://zotero.org/users/4329366/items/D6VBSU2G",
+      "itemID": 1374,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://www.researchgate.net/profile/Donald-Norman-3/publication/213799289_Cognitive_Artifacts/links/00b7d522031e0aabd8000000/Cognitive-Artifacts.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-05-11T14:23:14Z",
+          "dateModified": "2026-05-11T14:23:14Z",
+          "uri": "http://zotero.org/users/4329366/items/M5EMWLNP",
+          "path": "/Users/fd/Zotero/storage/M5EMWLNP/Norman - 1991 - Cognitive Artifacts.pdf",
+          "select": "zotero://select/library/items/M5EMWLNP"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "D6VBSU2G",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/D6VBSU2G"
+    },
+    {
+      "key": "MWGT74XP",
+      "version": 4203,
+      "itemType": "journalArticle",
+      "title": "The myth of meaning: generative AI as language-endowed machines and the machinic essence of the human being",
+      "abstractNote": "This article explores the intersection of generative artiﬁcial intelligence (AI) and human cognition through semiotics, proposing that generative AI oﬀers a lens through which the essence of human being is revealed and through which semiotic enunciation and meaning can be radically reevaluated. Drawing on semiotic, philosophical, and neurodevelopmental frameworks, it argues that generative AI, as exempliﬁed by language-endowed systems like ChatGPT and others, challenges traditional notions of meaning, subjectivity, and intelligence. By tracing the evolution of enunciation theories and their application to AI, the paper asserts that these machines reveal a machinic essence intrinsic to human beings – our reliance on external cognitive aids and hybridization with the environment that makes us “natural-born cyborgs.” Indeed AI, far from merely simulating intelligence, exposes the limits of human-centric models of meaning and the myths underlying our conceptualization of cognition and language.",
+      "date": "2025-01-29",
+      "language": "en",
+      "shortTitle": "The myth of meaning",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "accessDate": "2026-05-11T14:19:46Z",
+      "rights": "http://creativecommons.org/licenses/by/4.0",
+      "volume": "2025",
+      "pages": "5-23",
+      "publicationTitle": "Semiotica",
+      "DOI": "10.1515/sem-2024-0204",
+      "issue": "262",
+      "ISSN": "0037-1998, 1613-3692",
+      "citationKey": "paolucciMythMeaningGenerative2025",
+      "creators": [
+        {
+          "firstName": "Claudio",
+          "lastName": "Paolucci",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-05-11T14:19:46Z",
+      "dateModified": "2026-08-10T13:47:36Z",
+      "uri": "http://zotero.org/users/4329366/items/MWGT74XP",
+      "itemID": 1364,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "PDF",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-05-11T14:19:21Z",
+          "dateModified": "2026-05-11T14:19:46Z",
+          "uri": "http://zotero.org/users/4329366/items/GGJ5FVNQ",
+          "path": "/Users/fd/Zotero/storage/GGJ5FVNQ/Paolucci - 2025 - The myth of meaning generative AI as language-endowed machines and the machinic essence of the huma.pdf",
+          "select": "zotero://select/library/items/GGJ5FVNQ"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "MWGT74XP",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/MWGT74XP"
+    },
+    {
+      "key": "FE24LZLQ",
+      "version": 4087,
+      "itemType": "book",
+      "title": "The collected papers of Charles Sanders Peirce",
+      "date": "2009",
+      "language": "Anglais",
+      "libraryCatalog": "WorldCat Discovery Service",
+      "url": "http://library.nlx.com/display.cfm?&clientID=168963&depth=2&infobase=pmpeirce.nfo&softpage=GetClient42&titleCategory=0&view=browse",
+      "accessDate": "2021-01-12T14:51:20Z",
+      "place": "Charlottesville, Va.",
+      "publisher": "InteLex Corp.",
+      "citationKey": "peirceCollectedPapersCharles2009",
+      "creators": [
+        {
+          "firstName": "Charles S. (Charles Sanders), 1839-1914.",
+          "lastName": "Peirce",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Charles 1897-2000.",
+          "lastName": "Hartshorne",
+          "creatorType": "editor"
+        },
+        {
+          "firstName": "Paul 1901-2002.",
+          "lastName": "Weiss",
+          "creatorType": "editor"
+        },
+        {
+          "firstName": "Arthur W. (Arthur Walter), 1915-2008.",
+          "lastName": "Burks",
+          "creatorType": "editor"
+        },
+        {
+          "name": "InteLex Corporation.",
+          "creatorType": "editor"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-01-12T14:51:20Z",
+      "dateModified": "2021-01-12T14:52:29Z",
+      "uri": "http://zotero.org/users/4329366/items/FE24LZLQ",
+      "itemID": 609,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "FE24LZLQ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/FE24LZLQ"
+    },
+    {
+      "key": "XQ992B4L",
+      "version": 4204,
+      "itemType": "preprint",
+      "title": "Not Minds, but Signs: Reframing LLMs through Semiotics",
+      "abstractNote": "This paper challenges the prevailing tendency to frame Large Language Models (LLMs) as cognitive systems, arguing instead for a semiotic perspective that situates these models within the broader dynamics of sign manipulation and meaning-making. Rather than assuming that LLMs understand language or simulate human thought, we propose that their primary function is to recombine, recontextualize, and circulate linguistic forms based on probabilistic associations. By shifting from a cognitivist to a semiotic framework, we avoid anthropomorphism and gain a more precise understanding of how LLMs participate in cultural processes, not by thinking, but by generating texts that invite interpretation. Through theoretical analysis and practical examples, the paper demonstrates how LLMs function as semiotic agents whose outputs can be treated as interpretive acts, open to contextual negotiation and critical reflection. We explore applications in literature, philosophy, education, and cultural production, emphasizing how LLMs can serve as tools for creativity, dialogue, and critical inquiry. The semiotic paradigm foregrounds the situated, contingent, and socially embedded nature of meaning, offering a more rigorous and ethically aware framework for studying and using LLMs. Ultimately, this approach reframes LLMs as technological participants in an ongoing ecology of signs. They do not possess minds, but they alter how we read, write, and make meaning, compelling us to reconsider the foundations of language, interpretation, and the role of artificial systems in the production of knowledge.",
+      "date": "2026-03-27",
+      "shortTitle": "Not Minds, but Signs",
+      "libraryCatalog": "arXiv.org",
+      "accessDate": "2026-08-10T13:13:51Z",
+      "extra": "arXiv:2505.17080 [cs.CL]",
+      "DOI": "10.48550/arXiv.2505.17080",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2505.17080",
+      "citationKey": "piccaNotMindsSigns2026a",
+      "creators": [
+        {
+          "firstName": "Davide",
+          "lastName": "Picca",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computation and Language",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-08-10T13:13:51Z",
+      "dateModified": "2026-08-10T13:47:46Z",
+      "uri": "http://zotero.org/users/4329366/items/XQ992B4L",
+      "itemID": 1484,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Preprint PDF",
+          "url": "http://arxiv.org/pdf/2505.17080v3",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-10T13:13:52Z",
+          "dateModified": "2026-08-10T13:13:52Z",
+          "uri": "http://zotero.org/users/4329366/items/XK89GRI7",
+          "path": "/Users/fd/Zotero/storage/XK89GRI7/Picca - 2026 - Not Minds, but Signs Reframing LLMs through Semiotics.pdf",
+          "select": "zotero://select/library/items/XK89GRI7"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2505.17080",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-10T13:13:52Z",
+          "dateModified": "2026-08-10T13:13:52Z",
+          "uri": "http://zotero.org/users/4329366/items/77MDI7L5",
+          "path": "/Users/fd/Zotero/storage/77MDI7L5/2505.html",
+          "select": "zotero://select/library/items/77MDI7L5"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "XQ992B4L",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/XQ992B4L"
+    },
+    {
+      "key": "48Q6J7E2",
+      "version": 4205,
+      "itemType": "thesis",
+      "title": "L'accessibilité esthétique des mondes possibles au cinéma",
+      "date": "2022",
+      "language": "French",
+      "libraryCatalog": "WorldCat Discovery Service",
+      "accessDate": "2026-08-10T13:00:58Z",
+      "place": "Montréal",
+      "citationKey": "prudhommeLaccessibiliteEsthetiqueMondes2022",
+      "university": "Université du Québec à Montréal",
+      "creators": [
+        {
+          "firstName": "François David",
+          "lastName": "Prud'homme",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Sylvano",
+          "lastName": "Santini",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Bertrand",
+          "lastName": "Gervais",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-10T13:00:58Z",
+      "dateModified": "2026-08-10T13:47:50Z",
+      "uri": "http://zotero.org/users/4329366/items/48Q6J7E2",
+      "itemID": 1467,
+      "attachments": [],
+      "notes": [
+        {
+          "key": "B8RZHBF9",
+          "version": 4123,
+          "itemType": "note",
+          "parentItem": "48Q6J7E2",
+          "note": "<p>1 ressource en ligne (x, 383 pages) : illustrations principalement en couleur, schémas, tableaux.</p>",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-10T13:00:58Z",
+          "dateModified": "2026-08-10T13:00:58Z",
+          "uri": "http://zotero.org/users/4329366/items/B8RZHBF9"
+        }
+      ],
+      "autoJournalAbbreviation": "",
+      "itemKey": "48Q6J7E2",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/48Q6J7E2"
+    },
+    {
+      "key": "88UXYTRV",
+      "version": 4206,
+      "itemType": "book",
+      "title": "Le maître ignorant : cinq leçons sur l'émancipation intellectuelle",
+      "abstractNote": "233 p. ; 22 cm; \"10/18\"--T.p, cover and spine; Includes bibliographical references",
+      "date": "1987",
+      "language": "fre",
+      "shortTitle": "Le maître ignorant",
+      "libraryCatalog": "Internet Archive",
+      "accessDate": "2026-08-10T12:50:52Z",
+      "publisher": "[Paris] : Fayard",
+      "ISBN": "978-2-264-04017-6",
+      "numPages": "246",
+      "citationKey": "ranciereMaitreIgnorantCinq1987",
+      "creators": [
+        {
+          "firstName": "Jacques",
+          "lastName": "Rancière",
+          "creatorType": "author"
+        },
+        {
+          "name": "Internet Archive",
+          "creatorType": "contributor"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jacotot, Jean-Joseph, 1770-1840",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-08-10T12:50:52Z",
+      "dateModified": "2026-08-10T13:47:55Z",
+      "uri": "http://zotero.org/users/4329366/items/88UXYTRV",
+      "itemID": 1451,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "88UXYTRV",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/88UXYTRV"
+    },
+    {
+      "key": "HTZAK9BN",
+      "version": 4207,
+      "itemType": "book",
+      "title": "Le partage du sensible. Esthétique et politique",
+      "abstractNote": "Hors collection",
+      "date": "2000",
+      "language": "fr",
+      "libraryCatalog": "shs.cairn.info",
+      "accessDate": "2026-08-10T12:51:58Z",
+      "extra": "DOI: 10.3917/lafab.ranci.2000.01",
+      "publisher": "La Fabrique Éditions",
+      "ISBN": "978-2-913372-05-4",
+      "DOI": "10.3917/lafab.ranci.2000.01",
+      "citationKey": "rancierePartageSensibleEsthetique2000",
+      "creators": [
+        {
+          "firstName": "Jacques",
+          "lastName": "Rancière",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-10T12:51:58Z",
+      "dateModified": "2026-08-10T13:47:59Z",
+      "uri": "http://zotero.org/users/4329366/items/HTZAK9BN",
+      "itemID": 1452,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "https://shs.cairn.info/le-partage-du-sensible--9782913372054",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-10T12:52:03Z",
+          "dateModified": "2026-08-10T12:52:03Z",
+          "uri": "http://zotero.org/users/4329366/items/HHY365TH",
+          "path": "/Users/fd/Zotero/storage/HHY365TH/le-partage-du-sensible--9782913372054.html",
+          "select": "zotero://select/library/items/HHY365TH"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "HTZAK9BN",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/HTZAK9BN"
+    },
+    {
+      "key": "NAG9MCD6",
+      "version": 4140,
+      "itemType": "journalArticle",
+      "title": "The Japanese Aesthetics of Imperfection and Insufficiency",
+      "language": "en",
+      "libraryCatalog": "Zotero",
+      "citationKey": "saitoJapaneseAestheticsImperfection",
+      "creators": [
+        {
+          "firstName": "Yuriko",
+          "lastName": "Saito",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-05-11T14:19:48Z",
+      "dateModified": "2026-05-11T14:19:48Z",
+      "uri": "http://zotero.org/users/4329366/items/NAG9MCD6",
+      "itemID": 1366,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "PDF",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-05-11T14:19:23Z",
+          "dateModified": "2026-05-11T14:19:49Z",
+          "uri": "http://zotero.org/users/4329366/items/3HXNFD46",
+          "path": "/Users/fd/Zotero/storage/3HXNFD46/Saito - The Japanese Aesthetics of Imperfection and Insufficiency.pdf",
+          "select": "zotero://select/library/items/3HXNFD46"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "NAG9MCD6",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/NAG9MCD6"
+    },
+    {
+      "key": "ZZ9SBTGE",
+      "version": 4209,
+      "itemType": "preprint",
+      "title": "Hallucination Stations: On Some Basic Limitations of Transformer-Based Language Models",
+      "abstractNote": "In this paper we explore hallucinations and related capability limitations in LLMs and LLM-based agents from the perspective of computational complexity. We show that beyond a certain complexity, LLMs are incapable of carrying out computational and agentic tasks or verifying their accuracy.",
+      "date": "2025-07-15",
+      "shortTitle": "Hallucination Stations",
+      "libraryCatalog": "arXiv.org",
+      "accessDate": "2026-05-11T14:25:03Z",
+      "extra": "arXiv:2507.07505 [cs]",
+      "DOI": "10.48550/arXiv.2507.07505",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2507.07505",
+      "citationKey": "sikkaHallucinationStationsBasic2025",
+      "creators": [
+        {
+          "firstName": "Varin",
+          "lastName": "Sikka",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Vishal",
+          "lastName": "Sikka",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computation and Language",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Artificial Intelligence",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-05-11T14:25:03Z",
+      "dateModified": "2026-08-10T13:48:03Z",
+      "uri": "http://zotero.org/users/4329366/items/ZZ9SBTGE",
+      "itemID": 1377,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Preprint PDF",
+          "url": "http://arxiv.org/pdf/2507.07505v3",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-05-11T14:25:03Z",
+          "dateModified": "2026-05-11T14:25:03Z",
+          "uri": "http://zotero.org/users/4329366/items/UVCKDDFC",
+          "path": "/Users/fd/Zotero/storage/UVCKDDFC/Sikka et Sikka - 2025 - Hallucination Stations On Some Basic Limitations of Transformer-Based Language Models.pdf",
+          "select": "zotero://select/library/items/UVCKDDFC"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2507.07505",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-05-11T14:25:04Z",
+          "dateModified": "2026-05-11T14:25:04Z",
+          "uri": "http://zotero.org/users/4329366/items/UP9SKJ3Y",
+          "path": "/Users/fd/Zotero/storage/UP9SKJ3Y/2507.html",
+          "select": "zotero://select/library/items/UP9SKJ3Y"
+        }
+      ],
+      "notes": [
+        {
+          "key": "9VV3G29R",
+          "version": 3157,
+          "itemType": "note",
+          "parentItem": "ZZ9SBTGE",
+          "note": "Comment: 6 pages; to be submitted to AAAI-26 after reviews",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-05-11T14:25:03Z",
+          "dateModified": "2026-05-11T14:25:03Z",
+          "uri": "http://zotero.org/users/4329366/items/9VV3G29R"
+        }
+      ],
+      "autoJournalAbbreviation": "",
+      "itemKey": "ZZ9SBTGE",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ZZ9SBTGE"
+    },
+    {
+      "key": "T8Z7SUTE",
+      "version": 4209,
+      "itemType": "book",
+      "title": "Du mode d'existence des objets techniques",
+      "abstractNote": "Champs",
+      "date": "2024",
+      "language": "fr",
+      "libraryCatalog": "shs.cairn.info",
+      "accessDate": "2026-08-10T12:52:26Z",
+      "publisher": "Flammarion",
+      "ISBN": "978-2-08-123141-2",
+      "citationKey": "simondonModeDexistenceObjets2024",
+      "creators": [
+        {
+          "firstName": "Gilbert",
+          "lastName": "Simondon",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-10T12:52:26Z",
+      "dateModified": "2026-08-10T13:48:06Z",
+      "uri": "http://zotero.org/users/4329366/items/T8Z7SUTE",
+      "itemID": 1454,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "https://shs.cairn.info/du-mode-dexistence-des-objets-techniques--9782081231412",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-10T12:52:33Z",
+          "dateModified": "2026-08-10T12:52:33Z",
+          "uri": "http://zotero.org/users/4329366/items/I54DJAGN",
+          "path": "/Users/fd/Zotero/storage/I54DJAGN/du-mode-dexistence-des-objets-techniques--9782081231412.html",
+          "select": "zotero://select/library/items/I54DJAGN"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "T8Z7SUTE",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/T8Z7SUTE"
+    },
+    {
+      "key": "GT2RDM7K",
+      "version": 4114,
+      "itemType": "book",
+      "title": "La technique et le temps: suivi de Le nouveau conflit des facultés et des fonctions de l'Anthropocène",
+      "date": "2018",
+      "language": "French",
+      "shortTitle": "La technique et le temps",
+      "libraryCatalog": "WorldCat Discovery Service",
+      "extra": "Section: 969 pages ; 24 cm.",
+      "place": "Paris",
+      "publisher": "Librairie Arthème Fayard",
+      "ISBN": "978-2-213-70087-8",
+      "series": "Essais",
+      "numPages": "969",
+      "citationKey": "stieglerTechniqueTempsSuivi2018",
+      "creators": [
+        {
+          "firstName": "Bernard",
+          "lastName": "Stiegler",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-10T12:59:43Z",
+      "dateModified": "2026-08-10T12:59:43Z",
+      "uri": "http://zotero.org/users/4329366/items/GT2RDM7K",
+      "itemID": 1462,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "GT2RDM7K",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/GT2RDM7K"
+    },
+    {
+      "key": "MZI6H7BW",
+      "version": 4113,
+      "itemType": "book",
+      "title": "La vérité du numérique: recherche et enseignement supérieur à l'ère des technologies numériques",
+      "date": "2018",
+      "language": "French",
+      "shortTitle": "La vérité du numérique",
+      "libraryCatalog": "WorldCat Discovery Service",
+      "extra": "Section: 1 v. (205 p.) : illustrations, couv. illustrations en coul. ; 21 cm",
+      "place": "Limoges], [Paris",
+      "publisher": "Fyp éditions ; IRI, Institut de recherche et d'innovation",
+      "ISBN": "978-2-36405-162-1",
+      "series": "Collection du nouveau monde industriel,",
+      "numPages": "205",
+      "citationKey": "stieglerVeriteNumeriqueRecherche2018",
+      "creators": [
+        {
+          "firstName": "Bernard",
+          "lastName": "Stiegler",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-10T12:59:21Z",
+      "dateModified": "2026-08-10T12:59:21Z",
+      "uri": "http://zotero.org/users/4329366/items/MZI6H7BW",
+      "itemID": 1461,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "MZI6H7BW",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/MZI6H7BW"
+    },
+    {
+      "key": "RMTYHZDM",
+      "version": 4210,
+      "itemType": "journalArticle",
+      "title": "Technologies de la mémoire et de l'imagination",
+      "date": "1986",
+      "language": "fre",
+      "libraryCatalog": "www.persee.fr",
+      "accessDate": "2026-07-07T12:55:02Z",
+      "rights": "free",
+      "publisher": "Persée - Portail des revues scientifiques en SHS",
+      "DOI": "10.3406/reso.1986.1204",
+      "citationKey": "stieglierTechnologiesMemoireLimagination1986",
+      "creators": [
+        {
+          "firstName": "Bernard",
+          "lastName": "Stieglier",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-07-07T12:55:02Z",
+      "dateModified": "2026-08-10T13:48:15Z",
+      "uri": "http://zotero.org/users/4329366/items/RMTYHZDM",
+      "itemID": 1416,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "RMTYHZDM",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/RMTYHZDM"
+    },
+    {
+      "key": "VZBCPC7Y",
+      "version": 4173,
+      "itemType": "book",
+      "title": "Nonlinear dynamics and chaos: with applications to physics, biology, chemistry, and engineering",
+      "date": "2019",
+      "language": "en",
+      "shortTitle": "Nonlinear dynamics and chaos",
+      "libraryCatalog": "K10plus ISBN",
+      "place": "Boca Raton London New York",
+      "publisher": "CRC Press",
+      "ISBN": "978-0-8133-4910-7 978-0-367-09206-1",
+      "series": "A Chapman & Hall book",
+      "edition": "Second edition, first issued in hardback",
+      "numPages": "513",
+      "citationKey": "strogatzNonlinearDynamicsChaos2019",
+      "creators": [
+        {
+          "firstName": "Steven",
+          "lastName": "Strogatz",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-10T13:11:06Z",
+      "dateModified": "2026-08-10T13:11:06Z",
+      "uri": "http://zotero.org/users/4329366/items/VZBCPC7Y",
+      "itemID": 1482,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "PDF",
+          "url": "https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-10T13:11:03Z",
+          "dateModified": "2026-08-10T13:11:06Z",
+          "uri": "http://zotero.org/users/4329366/items/KBLN6WJ5",
+          "path": "/Users/fd/Zotero/storage/KBLN6WJ5/Strogatz - 2019 - Nonlinear dynamics and chaos with applications to physics, biology, chemistry, and engineering.pdf",
+          "select": "zotero://select/library/items/KBLN6WJ5"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "VZBCPC7Y",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/VZBCPC7Y"
+    },
+    {
+      "key": "4B232I2U",
+      "version": 4211,
+      "itemType": "preprint",
+      "title": "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet",
+      "abstractNote": "We demonstrate that sparse autoencoders can extract interpretable features from Claude 3 Sonnet, a production-scale language model, addressing the open question of whether dictionary learning methods scale beyond small transformers. We trained sparse autoencoders with up to 34 million features on the model's middle layer residual stream, using scaling laws to guide hyperparameter selection. The resulting features are multilingual and multimodal (generalizing to images despite text-only training), respond to both concrete instances and abstract discussions of concepts, and can be used to steer model behavior in ways consistent with their interpretations. We find features corresponding to famous entities and locations, as well as more abstract concepts like sarcasm or errors in code. We also identify features relevant to ways in which language models might cause harm--including features representing deception, power-seeking, sycophancy, and bias--and show that these causally influence model outputs when manipulated. Additionally, we conduct analyses of feature interpretability, geometry, and computational function. However, significant limitations remain: our suite of features is incomplete, and we lack rigorous methods for evaluating whether our features faithfully capture model computations.",
+      "date": "2026-05-28",
+      "shortTitle": "Scaling Monosemanticity",
+      "libraryCatalog": "arXiv.org",
+      "accessDate": "2026-08-10T13:00:13Z",
+      "extra": "arXiv:2605.29358 [cs.AI]",
+      "DOI": "10.48550/arXiv.2605.29358",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2605.29358",
+      "citationKey": "templetonScalingMonosemanticityExtracting2026",
+      "creators": [
+        {
+          "firstName": "Adly",
+          "lastName": "Templeton",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Tom",
+          "lastName": "Conerly",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jonathan",
+          "lastName": "Marcus",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jack",
+          "lastName": "Lindsey",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Trenton",
+          "lastName": "Bricken",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Brian",
+          "lastName": "Chen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Adam",
+          "lastName": "Pearce",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Craig",
+          "lastName": "Citro",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Emmanuel",
+          "lastName": "Ameisen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Andy",
+          "lastName": "Jones",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Hoagy",
+          "lastName": "Cunningham",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Nicholas L.",
+          "lastName": "Turner",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Callum",
+          "lastName": "McDougall",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Monte",
+          "lastName": "MacDiarmid",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Alex",
+          "lastName": "Tamkin",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Esin",
+          "lastName": "Durmus",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Tristan",
+          "lastName": "Hume",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Francesco",
+          "lastName": "Mosconi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "C. Daniel",
+          "lastName": "Freeman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Theodore R.",
+          "lastName": "Sumers",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Edward",
+          "lastName": "Rees",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Joshua",
+          "lastName": "Batson",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Adam",
+          "lastName": "Jermyn",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shan",
+          "lastName": "Carter",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Chris",
+          "lastName": "Olah",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Tom",
+          "lastName": "Henighan",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Artificial Intelligence",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-08-10T13:00:13Z",
+      "dateModified": "2026-08-10T13:48:21Z",
+      "uri": "http://zotero.org/users/4329366/items/4B232I2U",
+      "itemID": 1463,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Preprint PDF",
+          "url": "http://arxiv.org/pdf/2605.29358v1",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-10T13:00:14Z",
+          "dateModified": "2026-08-10T13:00:14Z",
+          "uri": "http://zotero.org/users/4329366/items/6T68FKK2",
+          "path": "/Users/fd/Zotero/storage/6T68FKK2/Templeton et al. - 2026 - Scaling Monosemanticity Extracting Interpretable Features from Claude 3 Sonnet.pdf",
+          "select": "zotero://select/library/items/6T68FKK2"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2605.29358",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-10T13:00:14Z",
+          "dateModified": "2026-08-10T13:00:14Z",
+          "uri": "http://zotero.org/users/4329366/items/8PJLFP5L",
+          "path": "/Users/fd/Zotero/storage/8PJLFP5L/2605.html",
+          "select": "zotero://select/library/items/8PJLFP5L"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "4B232I2U",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/4B232I2U"
+    },
+    {
+      "key": "7C5THVV9",
+      "version": 4175,
+      "itemType": "book",
+      "title": "Stabilité structurelle et morphogénèse; essai d'une théorie générale des modèles",
+      "abstractNote": "362 pages 24 cm; Includes bibliographical references",
+      "date": "1972",
+      "language": "fre",
+      "libraryCatalog": "Internet Archive",
+      "url": "http://archive.org/details/stabilitestructu0000thom_y5k9",
+      "accessDate": "2026-08-10T13:11:50Z",
+      "publisher": "Reading, Mass., W.A. Benjamin",
+      "ISBN": "978-0-8053-9272-2 978-0-8053-9629-4",
+      "numPages": "406",
+      "citationKey": "thomStabiliteStructurelleMorphogenese1972",
+      "creators": [
+        {
+          "firstName": "René",
+          "lastName": "Thom",
+          "creatorType": "author"
+        },
+        {
+          "name": "Internet Archive",
+          "creatorType": "contributor"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Biology -- Mathematical models",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-08-10T13:11:50Z",
+      "dateModified": "2026-08-10T13:11:50Z",
+      "uri": "http://zotero.org/users/4329366/items/7C5THVV9",
+      "itemID": 1483,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "7C5THVV9",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/7C5THVV9"
+    },
+    {
+      "key": "M5F4DLGP",
+      "version": 4137,
+      "itemType": "preprint",
+      "title": "Emergence and Evolution of Interpretable Concepts in Diffusion Models",
+      "abstractNote": "Diffusion models have become the go-to method for text-to-image generation, producing high-quality images from pure noise. However, the inner workings of diffusion models is still largely a mystery due to their black-box nature and complex, multi-step generation process. Mechanistic interpretability techniques, such as Sparse Autoencoders (SAEs), have been successful in understanding and steering the behavior of large language models at scale. However, the great potential of SAEs has not yet been applied toward gaining insight into the intricate generative process of diffusion models. In this work, we leverage the SAE framework to probe the inner workings of a popular text-to-image diffusion model, and uncover a variety of human-interpretable concepts in its activations. Interestingly, we find that even before the first reverse diffusion step is completed, the final composition of the scene can be predicted surprisingly well by looking at the spatial distribution of activated concepts. Moreover, going beyond correlational analysis, we design intervention techniques aimed at manipulating image composition and style, and demonstrate that (1) in early stages of diffusion image composition can be effectively controlled, (2) in the middle stages image composition is finalized, however stylistic interventions are effective, and (3) in the final stages only minor textural details are subject to change.",
+      "date": "2026-01-21",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2504.15473",
+      "accessDate": "2026-05-18T14:38:39Z",
+      "extra": "arXiv:2504.15473 [cs.CV]",
+      "DOI": "10.48550/arXiv.2504.15473",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2504.15473",
+      "citationKey": "tinazEmergenceEvolutionInterpretable2026",
+      "creators": [
+        {
+          "firstName": "Berk",
+          "lastName": "Tinaz",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Zalan",
+          "lastName": "Fabian",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Mahdi",
+          "lastName": "Soltanolkotabi",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Machine Learning",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Computer Vision and Pattern Recognition",
+          "type": 1
+        },
+        {
+          "tag": "Electrical Engineering and Systems Science - Image and Video Processing",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-05-18T14:38:39Z",
+      "dateModified": "2026-05-18T14:38:39Z",
+      "uri": "http://zotero.org/users/4329366/items/M5F4DLGP",
+      "itemID": 1383,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://arxiv.org/pdf/2504.15473",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-05-18T14:38:44Z",
+          "dateModified": "2026-05-18T14:38:44Z",
+          "uri": "http://zotero.org/users/4329366/items/NBQE3FB8",
+          "path": "/Users/fd/Zotero/storage/NBQE3FB8/Tinaz et al. - 2026 - Emergence and Evolution of Interpretable Concepts in Diffusion Models.pdf",
+          "select": "zotero://select/library/items/NBQE3FB8"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2504.15473",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-05-18T14:38:39Z",
+          "dateModified": "2026-05-18T14:38:39Z",
+          "uri": "http://zotero.org/users/4329366/items/2FYN4ZB3",
+          "path": "/Users/fd/Zotero/storage/2FYN4ZB3/2504.html",
+          "select": "zotero://select/library/items/2FYN4ZB3"
+        }
+      ],
+      "notes": [
+        {
+          "key": "WP8RBYNK",
+          "version": 3164,
+          "itemType": "note",
+          "parentItem": "M5F4DLGP",
+          "note": "Comment: 32 pages, 32 figures, published at the 39th Conference on Neural Information Processing Systems (NeurIPS), 2025",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-05-18T14:38:39Z",
+          "dateModified": "2026-05-18T14:38:39Z",
+          "uri": "http://zotero.org/users/4329366/items/WP8RBYNK"
+        }
+      ],
+      "autoJournalAbbreviation": "",
+      "itemKey": "M5F4DLGP",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/M5F4DLGP"
+    },
+    {
+      "key": "5LE623PA",
+      "version": 4200,
+      "itemType": "book",
+      "title": "Universe Of The Mind A Semiotic Theory Of Culture A Semiotic Theory Of Culture Yuri Lotman M.",
+      "abstractNote": "'Universe of The Mind a Semiotic Theory of Culture A Semiotic Theory of Culture Yuri Lotman M. '",
+      "language": "san",
+      "libraryCatalog": "Internet Archive",
+      "accessDate": "2026-08-10T12:49:33Z",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "citationKey": "UniverseMindSemiotic",
+      "creators": [
+        {
+          "firstName": "Yuri",
+          "lastName": "Lotman",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Agni Wadhwa",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-08-10T12:49:33Z",
+      "dateModified": "2026-08-10T13:47:20Z",
+      "uri": "http://zotero.org/users/4329366/items/5LE623PA",
+      "itemID": 1450,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "5LE623PA",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/5LE623PA"
+    },
+    {
+      "key": "FN29EUVD",
+      "version": 4121,
+      "itemType": "book",
+      "title": "Jeu et realite: l'espace potentiel. Trad. de l'anglais par claude monod et J.-B. Pontalis. Pref. de J.-B. Pontalis.",
+      "date": "1975",
+      "language": "French",
+      "shortTitle": "Jeu et realite",
+      "libraryCatalog": "WorldCat Discovery Service",
+      "extra": "Section: 218 pages",
+      "place": "Paris",
+      "publisher": "Gallimard",
+      "series": "Titre original - playing and reality",
+      "numPages": "218",
+      "citationKey": "winnicottJeuRealiteLespace1975",
+      "creators": [
+        {
+          "firstName": "D. W.",
+          "lastName": "Winnicott",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-10T13:00:32Z",
+      "dateModified": "2026-08-10T13:00:32Z",
+      "uri": "http://zotero.org/users/4329366/items/FN29EUVD",
+      "itemID": 1466,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "FN29EUVD",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/FN29EUVD"
+    }
+  ]
+}
