@@ -133,6 +133,8 @@ h1.title {
   margin: 0 0 0.15rem;
   font-weight: 700;
 }
+
+.carte h3 a { color: inherit; }
 .carte .verbe {
   display: block;
   font-family: $font-family-monospace;

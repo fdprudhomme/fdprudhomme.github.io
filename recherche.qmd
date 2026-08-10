@@ -12,8 +12,10 @@ nocite: |
 ::: {.chapeau}
 Les systèmes génératifs livrent des objets *déjà interprétés* : la promenade
 inférentielle qui revenait au lecteur y est pré-exécutée par le calcul. Ce
-projet décrit ce régime — la **sémiose algorithmique** — selon trois gestes, et
-en tire les conséquences pour l'université comme lieu d'interprétation.
+projet décrit ce régime — la
+[**sémiose algorithmique**](glossaire/entrees.qmd#semiose-algorithmique) —
+selon trois gestes, et en tire les conséquences pour l'université comme lieu
+d'interprétation.
 :::
 
 *Cartographier, habiter, résister : pour une refonte sémiotique des études
@@ -40,9 +42,9 @@ Faire des reliefs probabilistes une carte lisible.
 Tenir le pas-encore-résolu contre la clôture prématurée.
 
 - [silence sémiotique](glossaire/entrees.qmd#silence-semiotique)
-- le *Ma*
-- l'inhabitation
-- l'hésitation
+- le [*Ma*](glossaire/entrees.qmd#ma-semiotique)
+- l'[inhabitation](glossaire/entrees.qmd#inhabitation)
+- l'[hésitation](glossaire/entrees.qmd#hesitation)
 - l'espace transitionnel (Winnicott)
 :::
 
@@ -53,9 +55,9 @@ Tenir le pas-encore-résolu contre la clôture prématurée.
 Restituer à l'interprète la position de celui qui cherche.
 
 - [résistance sémiotique](glossaire/entrees.qmd#resistance-semiotique)
-- l'enquête seconde
+- l'[enquête seconde](glossaire/entrees.qmd#enquete-seconde)
 - [la promenade inférentielle](glossaire/entrees.qmd#promenade-inferentielle-algorithmique)
-- l'émancipation (Rancière)
+- l'[émancipation](glossaire/entrees.qmd#emancipation) (Rancière)
 - la pédagogie de l'indétermination
 :::
 :::
@@ -64,32 +66,37 @@ Restituer à l'interprète la position de celui qui cherche.
 
 Ma thèse (*L'accessibilité esthétique des mondes possibles au cinéma*, UQAM,
 2022 [@prudhommeLaccessibiliteEsthetiqueMondes2022]) a développé le concept
-d'*opérateurs d'accessibilité* : les signaux
-sémiotiques à double adresse par lesquels personnages et spectateurs
-franchissent les frontières entre mondes fictionnels. Ce projet examine la
-mutation contemporaine de cette mécanique. À l'ère de l'IA générative, les
-dispositifs qui orientent la sémiose débordent les univers fictionnels et
-agissent comme des *opérateurs perceptifs réels* : images génératives, textes de
-LLM, synthèses automatisées et interfaces pédagogiques reconfigurent les
-conditions de la sémiose elle-même. La frontière s'est déplacée entre le sujet
+d'*opérateurs d'accessibilité* : les signaux sémiotiques à double adresse par
+lesquels personnages et spectateurs franchissent les frontières entre mondes
+fictionnels. Ce projet examine la mutation contemporaine de cette mécanique. À
+l'ère de l'IA générative, les dispositifs qui orientent la sémiose débordent
+les univers fictionnels et agissent comme des
+[*opérateurs perceptifs réels*](glossaire/entrees.qmd#operateurs-perceptifs-reels) :
+[images génératives](glossaire/entrees.qmd#images-generatives), textes de LLM,
+synthèses automatisées et interfaces pédagogiques reconfigurent les conditions
+de la sémiose elle-même. La frontière s'est déplacée entre le sujet
 interprétant et l'objet sémiotique.
 
-Le concept pivot est la *coopération interprétative* d'Eco
-[@ecoLectorFabula1985] : tout objet sémiotique est une machine paresseuse dont
-les blancs appellent le voyage inférentiel du lecteur. L'IA générative effectue l'opération inverse : la
-**coopération interprétative retournée**. Optimisés pour converger vers les
-attracteurs sémiotiques d'un public, les systèmes génératifs livrent un objet
-déjà interprété, dont la crédibilité est immanente à la forme. La promenade
-inférentielle, qui était le travail de l'interprète, devient une opération
-pré-exécutée par le calcul ; le voyage est remplacé par une destination
-pré-calculée. La sémiotique décrit ce mécanisme avec une précision que ni la
-philosophie des techniques ni les sciences cognitives n'atteignent seules : la
-sémiose illimitée de Peirce [@peirceCollectedPapersCharles2009] cède à une
-convergence probabiliste où l'indice devient icône par calcul, et la
-véridiction greimassienne [@greimasSemiotiqueDictionnaireRaisonne1979a] est
-pré-installée dans la forme. Là où Deleuze [@deleuzeLimageTemps1985a] concevait
-l'image-pensée comme mise en crise de la pensée, le régime algorithmique
-anticipe la crise pour la désamorcer :
+Le concept pivot est la
+[*coopération interprétative*](glossaire/entrees.qmd#cooperation-interpretative)
+d'Eco [@ecoLectorFabula1985] : tout objet sémiotique est une machine
+paresseuse dont les blancs appellent le voyage inférentiel du lecteur. L'IA
+générative effectue l'opération inverse : la
+[**coopération interprétative retournée**](glossaire/entrees.qmd#cooperation-interpretative-retournee).
+Optimisés pour converger vers les attracteurs sémiotiques d'un public, les
+systèmes génératifs livrent un objet déjà interprété, dont la crédibilité est
+immanente à la forme. La promenade inférentielle, qui était le travail de
+l'interprète, devient une opération pré-exécutée par le calcul ; le voyage est
+remplacé par une destination pré-calculée. La sémiotique décrit ce mécanisme
+avec une précision que ni la philosophie des techniques ni les sciences
+cognitives n'atteignent seules : la
+[sémiose illimitée](glossaire/entrees.qmd#semiose-illimitee) de Peirce
+[@peirceCollectedPapersCharles2009] cède à une convergence probabiliste où
+l'indice devient icône par calcul, et la véridiction greimassienne
+[@greimasSemiotiqueDictionnaireRaisonne1979a] est pré-installée dans la forme.
+Là où Deleuze [@deleuzeLimageTemps1985a] concevait
+l'[image-pensée](glossaire/entrees.qmd#image-pensee) comme mise en crise de la
+pensée, le régime algorithmique anticipe la crise pour la désamorcer :
 l'indétermination y devient une anomalie à corriger.
 
 L'enjeu est universitaire. L'université cultive depuis ses origines la
@@ -101,75 +108,95 @@ sujet sémiotique que l'université cherche à former.
 
 ## Trois gestes
 
-Le projet décrit la *sémiose algorithmique* selon trois gestes complémentaires.
+Le projet décrit la
+[*sémiose algorithmique*](glossaire/entrees.qmd#semiose-algorithmique) selon
+trois gestes complémentaires.
 
 ### Cartographier {#geste-1}
 
-Geste diagnostique : décrire le milieu génératif comme un territoire de reliefs
-probabilistes (attracteurs, surpondérations, bifurcations) où une requête
-converge vers des formes pré-stabilisées. Le *visible-pensant* — régime des
-images génératives où la forme résout son propre interprétant — et la
-*textualité algorithmique*, son pendant discursif, figurent ici comme reliefs de
-la carte.
+Geste diagnostique : décrire le milieu génératif comme un territoire de
+reliefs probabilistes (attracteurs,
+[surpondérations](glossaire/entrees.qmd#surponderation), bifurcations) où une
+requête converge vers des formes pré-stabilisées. Le
+[*visible-pensant*](glossaire/entrees.qmd#visible-pensant) — régime des
+[images génératives](glossaire/entrees.qmd#images-generatives) où la forme
+résout son propre interprétant — et la *textualité algorithmique*, son pendant
+discursif, figurent ici comme reliefs de la carte.
 
-La contribution sémiotique propre : décrire la chaîne de transduction qui va de
-l'attracteur statistique à l'attracteur perceptif, le passage de l'indice au
-signe iconique médiatisé par le calcul. L'émergence des autoencodeurs épars
-(SAE) [@cunninghamSparseAutoencodersFind2023; @templetonScalingMonosemanticityExtracting2026],
-théorisés comme rendus partiels de l'encyclopédie computationnelle d'Eco
+La contribution sémiotique propre : décrire la chaîne de transduction qui va
+de l'[attracteur statistique](glossaire/entrees.qmd#attracteur-statistique) à
+l'[attracteur perceptif](glossaire/entrees.qmd#attracteur-perceptif), le
+passage de l'indice au signe iconique médiatisé par le calcul. L'émergence des
+[autoencodeurs épars](glossaire/entrees.qmd#autoencodeurs-epars) (SAE)
+[@cunninghamSparseAutoencodersFind2023; @templetonScalingMonosemanticityExtracting2026],
+théorisés comme rendus partiels de
+l'[encyclopédie](glossaire/entrees.qmd#encyclopedie) computationnelle d'Eco
 [@ecoLimitesLinterpretation1992], fournit pour la première fois un appui
 empirique à ce geste.
 
 ### Habiter {#geste-2}
 
 Geste anthropologique : nommer ce que la prolifération d'agents algorithmiques
-rend visible par contraste. Le *silence sémiotique* désigne l'intervalle entre
-la perception du signe et sa résolution en sens, condition structurelle de la
-créativité interprétative, ancrée dans l'ennui phénoménologique (Husserl,
-Heidegger), le *Ma* japonais [@saitoJapaneseAestheticsImperfection], la
-frontière lotmanienne [@UniverseMindSemiotic] et l'hésitation d'Eco
-[@ecoLimitesLinterpretation1992]. Son inverse est la *clôture prématurée*,
-pathologie structurelle des architectures agentiques dont chaque cycle appelle
-le suivant.
+rend visible par contraste. Le
+[*silence sémiotique*](glossaire/entrees.qmd#silence-semiotique) désigne
+l'intervalle entre la perception du signe et sa résolution en sens, condition
+structurelle de la créativité interprétative, ancrée dans l'ennui
+phénoménologique (Husserl, Heidegger), le
+[*Ma*](glossaire/entrees.qmd#ma-semiotique) japonais
+[@saitoJapaneseAestheticsImperfection], la frontière lotmanienne
+[@UniverseMindSemiotic] et l'[hésitation](glossaire/entrees.qmd#hesitation)
+d'Eco [@ecoLimitesLinterpretation1992]. Son inverse est la
+[*clôture prématurée*](glossaire/entrees.qmd#cloture-prematuree), pathologie
+structurelle des architectures agentiques dont chaque cycle appelle le
+suivant.
 
-De ce geste naît le concept-charnière d'*inhabitation* — habiter un espace
-sémiotique sans le remplir — qui articule l'anthropologie de l'interprétation à
-la question institutionnelle : l'université fonctionne comme un espace
+De ce geste naît le concept-charnière
+d'[*inhabitation*](glossaire/entrees.qmd#inhabitation) — habiter un espace
+sémiotique sans le remplir — qui articule l'anthropologie de l'interprétation
+à la question institutionnelle : l'université fonctionne comme un espace
 transitionnel au sens de Winnicott [@winnicottJeuRealiteLespace1975], et c'est
 cet entre-deux que la sémiosphère algorithmique menace de saturer.
 
 ### Résister {#geste-3}
 
 Geste politico-pédagogique, contribution la plus originale du projet. La
-*résistance sémiotique* est une posture critique : l'émancipation du regard de
-Rancière [@rancierePartageSensibleEsthetique2000], étendue au sujet
+[*résistance sémiotique*](glossaire/entrees.qmd#resistance-semiotique) est une
+posture critique : l'[émancipation](glossaire/entrees.qmd#emancipation) du
+regard de Rancière [@rancierePartageSensibleEsthetique2000], étendue au sujet
 interprétant dans sa totalité. Son protocole opératoire est l'*enquête
 seconde* : un « Blow Up algorithmique » qui transforme la sortie générée de
-destination en sonde et reprend la promenade inférentielle pré-exécutée. Le
-système génératif fonctionne comme un explicateur au sens du *Maître ignorant*
-[@ranciereMaitreIgnorantCinq1987] ; l'enquête seconde est la contre-conduite
-qui restitue à l'interprète la position de celui qui cherche.
+destination en sonde et reprend
+[la promenade inférentielle](glossaire/entrees.qmd#promenade-inferentielle-algorithmique)
+pré-exécutée. Le système génératif fonctionne comme un explicateur au sens du
+[*Maître ignorant*](glossaire/entrees.qmd#maitre-ignorant)
+[@ranciereMaitreIgnorantCinq1987] ;
+l'[enquête seconde](glossaire/entrees.qmd#enquete-seconde) est la
+[contre-conduite](glossaire/entrees.qmd#contre-conduite) qui restitue à
+l'interprète la position de celui qui cherche.
 
 Livrables : un diagnostic de l'état des études supérieures face à l'IA ; des
 dispositifs de pédagogie de l'indétermination valorisant structurellement
-l'hésitation, le silence et la lenteur comme compétences ; une contribution à la
-refonte des curricula fondée sur la formation d'un sujet sémiotique critique.
+l'[hésitation](glossaire/entrees.qmd#hesitation), le silence et la lenteur
+comme compétences ; une contribution à la refonte des curricula fondée sur la
+formation d'un sujet sémiotique critique.
 
 ::: {.charniere}
 ### Charnière — la [spirale interprétative](glossaire/entrees.qmd#spirale-interpretative)
 
 Les trois gestes s'enroulent : cartographier rend possible d'habiter et de
 résister, ce qui produit de nouveaux reliefs à cartographier. Cette boucle
-ouverte est l'opposé structurel de la clôture prématurée — le principe
+ouverte est l'opposé structurel de la
+[clôture prématurée](glossaire/entrees.qmd#cloture-prematuree) — le principe
 méthodologique autant que le pari théorique du projet.
 :::
 
 ## Méthode
 
-L'enquête empirique traverse les trois gestes comme méthode transversale plutôt
-que comme volet distinct. Elle combine trois approches : l'analyse sémiotique
-des formes, qui décrit les attracteurs dominants d'un corpus généré ; l'analyse
-des dispositifs, qui traite les interfaces comme opérateurs perceptifs réels ;
+L'enquête empirique traverse les trois gestes comme méthode transversale
+plutôt que comme volet distinct. Elle combine trois approches : l'analyse
+sémiotique des formes, qui décrit les attracteurs dominants d'un corpus
+généré ; l'analyse des dispositifs, qui traite les interfaces comme
+[opérateurs perceptifs réels](glossaire/entrees.qmd#operateurs-perceptifs-reels) ;
 et des entretiens avec étudiants et enseignants, qui documentent l'expérience
 située du court-circuit inférentiel.
 
@@ -177,14 +204,16 @@ située du court-circuit inférentiel.
 
 Trois types d'objets paradigmatiques :
 
-**Textes et images génératives** de dernière génération, interrogés du point de
-vue de leurs attracteurs dominants — quelles formes sont surpondérées, quels
-corps, quels visages, quels espaces sont produits comme « naturels » ou
-« universels ».
+**Textes et [images génératives](glossaire/entrees.qmd#images-generatives)**
+de dernière génération, interrogés du point de vue de leurs attracteurs
+dominants — quelles formes sont surpondérées, quels corps, quels visages,
+quels espaces sont produits comme « naturels » ou « universels ».
 
-**Interfaces cognitives universitaires** — plateformes, correction automatisée,
-assistants LLM — analysées comme opérateurs perceptifs réels qui reconfigurent
-l'acte d'apprendre en amont de tout usage.
+**[Interfaces cognitives](glossaire/entrees.qmd#interfaces-cognitives)
+universitaires** — plateformes, correction automatisée, assistants LLM —
+analysées comme
+[opérateurs perceptifs réels](glossaire/entrees.qmd#operateurs-perceptifs-reels)
+qui reconfigurent l'acte d'apprendre en amont de tout usage.
 
 **Productions étudiantes assistées par IA**, lues pour y repérer les traces du
 court-circuit inférentiel.
@@ -195,28 +224,33 @@ Les discours dominants sur l'IA et l'éducation oscillent entre enthousiasme
 intégrateur et panique régulatrice, deux positions qui traitent l'IA comme un
 outil neutre dont il faudrait gérer l'usage : le registre gestionnaire que ce
 projet prend pour objet de critique. Ce projet pose que l'IA générative agit
-comme un opérateur perceptif réel, qui reconfigure les conditions du voir, du
-lire, du penser et du croire indépendamment de l'usage. La question pédagogique
-devient : quelle écologie sémiotique l'université doit-elle construire pour que
-l'être humain reste le sujet de sa propre sémiose ?
+comme un
+[opérateur perceptif réel](glossaire/entrees.qmd#operateurs-perceptifs-reels),
+qui reconfigure les conditions du voir, du lire, du penser et du croire
+indépendamment de l'usage. La question pédagogique devient : quelle écologie
+sémiotique l'université doit-elle construire pour que l'être humain reste le
+sujet de sa propre sémiose ?
 
 En **sémiotique**, le projet actualise les concepts fondamentaux dans le
-contexte de la production algorithmique et ouvre une sémiotique computationnelle.
-En **théorie des médias**, il articule la tradition française — Stiegler
-[@stieglerTechniqueTempsSuivi2018], avec la pré-tention algorithmique comme
-déformation de la rétention tertiaire ; Simondon
+contexte de la production algorithmique et ouvre une sémiotique
+computationnelle. En **théorie des médias**, il articule la tradition
+française — Stiegler [@stieglerTechniqueTempsSuivi2018], avec la pré-tention
+algorithmique comme déformation de la
+[rétention tertiaire](glossaire/entrees.qmd#retention-tertiaire) ; Simondon
 [@simondonModeDexistenceObjets2024] ; Rancière — aux sciences cognitives de la
-cognition distribuée (Hutchins [@hutchinsCognitionWild1995], Norman
-[@normanCognitiveArtifacts1991]). En **sciences de l'éducation**, il propose de
-passer des compétences numériques à la formation sémiotique, en faisant de la
-résistance à la sémiose algorithmique une compétence académique à part
-entière.
+[cognition distribuée](glossaire/entrees.qmd#cognition-distribuee) (Hutchins
+[@hutchinsCognitionWild1995], Norman [@normanCognitiveArtifacts1991]). En
+**sciences de l'éducation**, il propose de passer des compétences numériques à
+la formation sémiotique, en faisant de la résistance à la
+[sémiose algorithmique](glossaire/entrees.qmd#semiose-algorithmique) une
+compétence académique à part entière.
 
 La posture est descriptive et anti-herméneutique, au sens de Bertrand Gervais
 [@gervaisFormesLidentitefluxFigureecran2024] : décrire les régimes de sémiose
-que les sorties algorithmiques instaurent, et rouvrir par l'enquête seconde le
-processus que leur forme prétend clore. Cette description est la condition de
-toute pédagogie critique sérieuse.
+que les sorties algorithmiques instaurent, et rouvrir par
+l'[enquête seconde](glossaire/entrees.qmd#enquete-seconde) le processus que
+leur forme prétend clore. Cette description est la condition de toute
+pédagogie critique sérieuse.
 
 ## Références
 
