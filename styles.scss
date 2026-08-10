@@ -112,7 +112,17 @@ h1.title {
   grid-template-columns: repeat(3, 1fr);
   gap: 1.6rem;
   margin: 2.5rem 0 0;
-  border-top: 1px solid $encre;
+  border-top: none;
+  position: relative;
+}
+.carte::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: $encre;
 }
 .carte > * {
   padding: 1.4rem 2.2rem 1.8rem;
