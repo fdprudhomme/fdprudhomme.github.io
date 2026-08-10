@@ -43,6 +43,17 @@ $code-color: $encre;
 
 body { text-rendering: optimizeLegibility; }
 
+// Trame de fond : grille de points, registre papier millimétré.
+body {
+  background-image: radial-gradient(
+    circle,
+    rgba(28, 28, 26, 0.055) 1px,
+    transparent 1px
+  );
+  background-size: 22px 22px;
+  background-attachment: fixed;
+}
+
 .navbar {
   border-bottom: 1px solid $relief;
   font-family: $font-family-monospace;
@@ -256,7 +267,7 @@ a { text-underline-offset: 0.16em; }
 
 @media print {
   .navbar, #quarto-margin-sidebar, .page-footer, #TOC { display: none !important; }
-  body { font-size: 10.5pt; }
+  body { font-size: 10.5pt; background-image: none !important; }
 }
 
 @media (prefers-reduced-motion: reduce) {
