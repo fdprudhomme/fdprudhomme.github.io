@@ -103,7 +103,7 @@ sujet sémiotique que l'université cherche à former.
 
 Le projet décrit la *sémiose algorithmique* selon trois gestes complémentaires.
 
-### Cartographier
+### Cartographier {#geste-1}
 
 Geste diagnostique : décrire le milieu génératif comme un territoire de reliefs
 probabilistes (attracteurs, surpondérations, bifurcations) où une requête
@@ -120,7 +120,7 @@ théorisés comme rendus partiels de l'encyclopédie computationnelle d'Eco
 [@ecoLimitesLinterpretation1992], fournit pour la première fois un appui
 empirique à ce geste.
 
-### Habiter
+### Habiter {#geste-2}
 
 Geste anthropologique : nommer ce que la prolifération d'agents algorithmiques
 rend visible par contraste. Le *silence sémiotique* désigne l'intervalle entre
@@ -138,7 +138,7 @@ la question institutionnelle : l'université fonctionne comme un espace
 transitionnel au sens de Winnicott [@winnicottJeuRealiteLespace1975], et c'est
 cet entre-deux que la sémiosphère algorithmique menace de saturer.
 
-### Résister
+### Résister {#geste-3}
 
 Geste politico-pédagogique, contribution la plus originale du projet. La
 *résistance sémiotique* est une posture critique : l'émancipation du regard de

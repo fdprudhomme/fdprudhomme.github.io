@@ -306,7 +306,7 @@ Les SAEs occupent une position structurellement ambivalente vis-à-vis du projet
 
 -   **Généralisation hors-LLM** : SAEs appliqués aux modèles vision-langage-action (robotique), aux modèles de protéines (Berger et al., *PNAS* 2025), aux modèles de reconnaissance vocale (Whisper, 2026). La technique se constitue en méthode générale de description des opérateurs algorithmiques.
 
--   **Reconnaissance institutionnelle** : l'interprétabilité mécanistique a été nommée *Breakthrough Technology 2026* par MIT Technology Review — ce qui consolide institutionnellement un horizon de recherche, avec l'ambivalence inhérente à toute consolration : confondre outil de recherche et garantie de sécurité.
+-   **Reconnaissance institutionnelle** : l'interprétabilité mécanistique a été nommée *Breakthrough Technology 2026* par MIT Technology Review — ce qui consolide institutionnellement un horizon de recherche, avec l'ambivalence inhérente à toute consolidation : confondre outil de recherche et garantie de sécurité.
 
 ::: {.voir-aussi}
 **Voir aussi** — [visible-pensant](#visible-pensant) · [attracteur statistique](#attracteur-statistique) · [attracteur perceptif](#attracteur-perceptif) · [pondération](#ponderation) · [surpondération](#surponderation) · [opérateurs perceptifs réels](#operateurs-perceptifs-reels) · [artéfact cognitif algorithmique](#artefact-cognitif-algorithmique) · [ingénierie du possible](#ingenierie-du-possible) · [LLM](#llm) · [token](#token) · [résistance sémiotique](#resistance-semiotique) · [coopération interprétative](#cooperation-interpretative)
@@ -1034,7 +1034,7 @@ C’est précisément ce concept que la **coopération interprétative retourné
 :::
 
 
-## LLM {#llm}
+## LLM (LARGE LANGUAGE MODEL) {#llm}
 
 [LARGE LANGUAGE MODEL]{.sous-titre}
 
@@ -1197,7 +1197,7 @@ Elle occupe la fonction de la **rétention tertiaire** — le support externalis
 :::
 
 
-## MÉMOIRE PERSISTANTE {#memoire-persistante}
+## MÉMOIRE PERSISTANTE (MEMORY) {#memoire-persistante}
 
 [MEMORY]{.sous-titre}
 

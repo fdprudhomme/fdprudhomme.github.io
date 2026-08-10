@@ -13,7 +13,7 @@ alphabétique](entrees.qmd) sert à la consultation.
 
 ::: {.carte}
 ::: {.geste-1}
-### Cartographier
+### [Cartographier](/recherche.qmd#geste-1)
 [Décrire · Axes I–II]{.verbe}
 
 Faire des reliefs probabilistes une carte lisible.
@@ -30,7 +30,7 @@ Faire des reliefs probabilistes une carte lisible.
 :::
 
 ::: {.geste-2}
-### Silence sémiotique
+### [Silence sémiotique](/recherche.qmd#geste-2)
 [Protéger]{.verbe}
 
 Habiter l'indétermination, tenir le pas-encore-résolu.
@@ -43,7 +43,7 @@ Habiter l'indétermination, tenir le pas-encore-résolu.
 :::
 
 ::: {.geste-3}
-### Résistance sémiotique
+### [Résistance sémiotique](/recherche.qmd#geste-3)
 [Agir · Axe III]{.verbe}
 
 La faculté politico-pédagogique : De Certeau, Rancière, Gervais.
