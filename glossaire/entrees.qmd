@@ -4,8 +4,10 @@ subtitle: "Corps alphabétique"
 page-layout: full
 toc: true
 toc-depth: 2
-toc-title: "Entrées"
+toc-expand: false
+toc-title: "Entrées A–Z"
 toc-location: left
+include-after-body: _retour-haut.html
 ---
 
 ::: {.avertissement}

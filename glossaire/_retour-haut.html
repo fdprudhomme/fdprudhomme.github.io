@@ -1,0 +1,50 @@
+<!--
+  Bouton « retour en haut » — inclus par glossaire/entrees.qmd uniquement
+  (include-after-body). Aucune dépendance externe. Les styles vivent dans
+  styles.scss, sous « Retour en haut ».
+-->
+<button type="button" id="retour-haut" class="retour-haut"
+        aria-label="Revenir en haut de la page">
+  <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
+    <path d="M12 19V5M12 5l-7 7M12 5l7 7" fill="none" stroke="currentColor"
+          stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+</button>
+
+<script>
+(function () {
+  var bouton = document.getElementById('retour-haut');
+  if (!bouton) return;
+
+  var SEUIL = 400;          // px de défilement avant apparition
+  var enAttente = false;
+
+  function majVisibilite() {
+    var y = window.scrollY || document.documentElement.scrollTop;
+    bouton.classList.toggle('est-visible', y > SEUIL);
+    enAttente = false;
+  }
+
+  // requestAnimationFrame : un seul calcul par frame, pas de travail au scroll.
+  window.addEventListener('scroll', function () {
+    if (!enAttente) {
+      window.requestAnimationFrame(majVisibilite);
+      enAttente = true;
+    }
+  }, { passive: true });
+
+  bouton.addEventListener('click', function () {
+    // 'instant' plutôt que 'auto' : 'auto' hérite du scroll-behavior CSS,
+    // qui est smooth sur ce site et ignorerait la préférence système.
+    var lent = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    window.scrollTo({ top: 0, behavior: lent ? 'instant' : 'smooth' });
+
+    // Ramener le focus en tête, sinon la navigation clavier reste en bas.
+    var tete = document.querySelector('#title-block-header h1, main h1') || document.body;
+    tete.setAttribute('tabindex', '-1');
+    tete.focus({ preventScroll: true });
+  });
+
+  majVisibilite();
+})();
+</script>
