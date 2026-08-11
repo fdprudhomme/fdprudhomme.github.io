@@ -113,6 +113,18 @@
   "collections": {},
   "items": [
     {
+      "itemType": "attachment",
+      "title": "Lotman - 2000 - Universe of the mind a semiotic theory of culture",
+      "url": "https://monoskop.org/images/5/5e/Lotman_Yuri_M_Universe_of_the_Mind_A_Semiotic_Theory_of_Culture_1990.pdf",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-11T15:43:41Z",
+      "dateModified": "2026-08-11T15:43:46Z",
+      "uri": "http://zotero.org/users/4329366/items/Y6GBH2RD",
+      "path": "/Users/fd/Zotero/storage/Y6GBH2RD/Lotman - 2000 - Universe of the mind a semiotic theory of culture.pdf",
+      "select": "zotero://select/library/items/Y6GBH2RD"
+    },
+    {
       "key": "KR2ULRQ4",
       "version": 4185,
       "itemType": "preprint",
@@ -1299,6 +1311,50 @@
       "select": "zotero://select/library/items/MC5MXDYJ"
     },
     {
+      "key": "L4Q4QV3J",
+      "version": 4223,
+      "itemType": "book",
+      "title": "Universe of the mind: a semiotic theory of culture",
+      "date": "2000",
+      "language": "en",
+      "shortTitle": "Universe of the mind",
+      "libraryCatalog": "K10plus ISBN",
+      "place": "Bloomington",
+      "publisher": "Indiana Univ. Press",
+      "ISBN": "978-0-253-33608-8 978-0-253-21405-8",
+      "edition": "1. U.S. paperback print",
+      "numPages": "288",
+      "citationKey": "lotmanUniverseMindSemiotic2000",
+      "creators": [
+        {
+          "firstName": "Jurij Michajlovič",
+          "lastName": "Lotman",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Agni Wadhwa",
+          "type": 1
+        }
+      ],
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4329366/items/5LE623PA"
+        ]
+      },
+      "dateAdded": "2026-08-10T12:49:33Z",
+      "dateModified": "2026-08-11T15:45:50Z",
+      "uri": "http://zotero.org/users/4329366/items/L4Q4QV3J",
+      "itemID": 1494,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "L4Q4QV3J",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/L4Q4QV3J"
+    },
+    {
       "key": "7AVNHAL9",
       "version": 4202,
       "itemType": "journalArticle",
@@ -1785,13 +1841,22 @@
       "select": "zotero://select/library/items/HTZAK9BN"
     },
     {
-      "key": "NAG9MCD6",
-      "version": 4140,
+      "key": "HL8ISJEC",
+      "version": 4227,
       "itemType": "journalArticle",
       "title": "The Japanese Aesthetics of Imperfection and Insufficiency",
-      "language": "en",
-      "libraryCatalog": "Zotero",
-      "citationKey": "saitoJapaneseAestheticsImperfection",
+      "date": "1997",
+      "libraryCatalog": "JSTOR",
+      "url": "https://www.jstor.org/stable/430925",
+      "accessDate": "2026-08-11T15:47:28Z",
+      "volume": "55",
+      "publisher": "[Wiley, American Society for Aesthetics]",
+      "pages": "377-385",
+      "publicationTitle": "The Journal of Aesthetics and Art Criticism",
+      "DOI": "10.2307/430925",
+      "issue": "4",
+      "ISSN": "0021-8529",
+      "citationKey": "saitoJapaneseAestheticsImperfection1997",
       "creators": [
         {
           "firstName": "Yuriko",
@@ -1800,11 +1865,15 @@
         }
       ],
       "tags": [],
-      "relations": {},
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4329366/items/NAG9MCD6"
+        ]
+      },
       "dateAdded": "2026-05-11T14:19:48Z",
-      "dateModified": "2026-05-11T14:19:48Z",
-      "uri": "http://zotero.org/users/4329366/items/NAG9MCD6",
-      "itemID": 1366,
+      "dateModified": "2026-08-11T15:47:57Z",
+      "uri": "http://zotero.org/users/4329366/items/HL8ISJEC",
+      "itemID": 1495,
       "attachments": [
         {
           "itemType": "attachment",
@@ -1812,17 +1881,17 @@
           "tags": [],
           "relations": {},
           "dateAdded": "2026-05-11T14:19:23Z",
-          "dateModified": "2026-05-11T14:19:49Z",
+          "dateModified": "2026-08-11T15:47:57Z",
           "uri": "http://zotero.org/users/4329366/items/3HXNFD46",
           "path": "/Users/fd/Zotero/storage/3HXNFD46/Saito - The Japanese Aesthetics of Imperfection and Insufficiency.pdf",
           "select": "zotero://select/library/items/3HXNFD46"
         }
       ],
       "notes": [],
-      "autoJournalAbbreviation": "",
-      "itemKey": "NAG9MCD6",
+      "autoJournalAbbreviation": "J. Aesthet. Art Crit.",
+      "itemKey": "HL8ISJEC",
       "libraryID": 1,
-      "select": "zotero://select/library/items/NAG9MCD6"
+      "select": "zotero://select/library/items/HL8ISJEC"
     },
     {
       "key": "ZZ9SBTGE",
@@ -2440,42 +2509,6 @@
       "itemKey": "M5F4DLGP",
       "libraryID": 1,
       "select": "zotero://select/library/items/M5F4DLGP"
-    },
-    {
-      "key": "5LE623PA",
-      "version": 4200,
-      "itemType": "book",
-      "title": "Universe Of The Mind A Semiotic Theory Of Culture A Semiotic Theory Of Culture Yuri Lotman M.",
-      "abstractNote": "'Universe of The Mind a Semiotic Theory of Culture A Semiotic Theory of Culture Yuri Lotman M. '",
-      "language": "san",
-      "libraryCatalog": "Internet Archive",
-      "accessDate": "2026-08-10T12:49:33Z",
-      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
-      "citationKey": "UniverseMindSemiotic",
-      "creators": [
-        {
-          "firstName": "Yuri",
-          "lastName": "Lotman",
-          "creatorType": "author"
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Agni Wadhwa",
-          "type": 1
-        }
-      ],
-      "relations": {},
-      "dateAdded": "2026-08-10T12:49:33Z",
-      "dateModified": "2026-08-10T13:47:20Z",
-      "uri": "http://zotero.org/users/4329366/items/5LE623PA",
-      "itemID": 1450,
-      "attachments": [],
-      "notes": [],
-      "autoJournalAbbreviation": "",
-      "itemKey": "5LE623PA",
-      "libraryID": 1,
-      "select": "zotero://select/library/items/5LE623PA"
     },
     {
       "key": "FN29EUVD",
