@@ -14,7 +14,7 @@ alphabétique](entrees.qmd) sert à la consultation.
 ::: {.carte}
 ::: {.geste-1}
 ### [Cartographier](/recherche.qmd#geste-1)
-[Décrire · Axes I–II]{.verbe}
+[Décrire]{.verbe}
 
 Faire des reliefs probabilistes une carte lisible.
 
@@ -46,7 +46,7 @@ Habiter l'indétermination, tenir le pas-encore-résolu.
 
 ::: {.geste-3}
 ### [Résistance sémiotique](/recherche.qmd#geste-3)
-[Agir · Axe III]{.verbe}
+[Agir]{.verbe}
 
 La faculté politico-pédagogique : De Certeau, Rancière, Gervais.
 

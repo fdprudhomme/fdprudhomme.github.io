@@ -1841,7 +1841,7 @@ La spirale interprétative désigne le mouvement récursif et non clôturant de 
 
 ### Les trois moments charnière
 
-La spirale articule les trois registres sans les confondre. **Cartographier** la sémiose algorithmique, c’est *décrire* (geste diagnostique, Axes I–II) : sous ce registre, les reliefs d’objet — visible-pensant, textualité algorithmique, coopération interprétative retournée, véridiction pré-installée, opérateurs perceptifs réels, attracteur / surpondération / bifurcation. Le **silence sémiotique**, c’est *protéger* (condition anthropologique menacée) : le Ma, l’inhabitation, l’hésitation, la tolérance à l’indétermination. La **résistance sémiotique**, c’est *agir* (faculté politico-pédagogique, Axe III, gréée De Certeau + Rancière + Gervais) : l’enquête seconde, l’émancipation, Le Maître ignorant, la contre-conduite.
+La spirale articule les trois registres sans les confondre. **Cartographier** la sémiose algorithmique, c’est *décrire* (geste diagnostique) : sous ce registre, les reliefs d’objet — visible-pensant, textualité algorithmique, coopération interprétative retournée, véridiction pré-installée, opérateurs perceptifs réels, attracteur / surpondération / bifurcation. Le **silence sémiotique**, c’est *protéger* (condition anthropologique menacée) : le Ma, l’inhabitation, l’hésitation, la tolérance à l’indétermination. La **résistance sémiotique**, c’est *agir* (faculté politico-pédagogique, gréée De Certeau + Rancière + Gervais) : l’enquête seconde, l’émancipation, Le Maître ignorant, la contre-conduite.
 
 ### Cercle vicieux et spirale vertueuse
 
@@ -1859,7 +1859,7 @@ Si résister ramène à cartographier, ce n’est pas par tautologie : c’est q
 
 La sémiose illimitée de Peirce couvre le refus de tout premier sol : la sémiose est toujours déjà en cours, l’interprétant devient signe pour un interprétant suivant. Le regrès cesse alors d’être un trou pour devenir un principe. Politiquement, Rancière en donne la traduction : l’émancipation ne s’acquiert jamais une fois pour toutes, elle se re-vérifie à chaque tour. La boucle qui ne se clôt pas est l’égalité des intelligences perpétuellement réactivée — par opposition au Maître explicateur, et à l’IA-explicatrice, qui prétend clore le sens d’avance.
 
-### Implication pédagogique (Axe III)
+### Implication pédagogique
 
 **Instituer la spirale plutôt qu’enseigner la résistance.** L’université n’a pas pour tâche de transmettre une fois pour toutes une compétence de résistance — geste qui retomberait dans la posture du Maître explicateur — mais d’instituer les conditions de la boucle ouverte : empêcher la sémiose de se clore, faire de l’espace universitaire le lieu où l’interprétation peut se relancer.
 
