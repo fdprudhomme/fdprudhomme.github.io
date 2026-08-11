@@ -602,15 +602,27 @@ Jacques Rancière
 
 → *Voir* **COGNITION DISTRIBUÉE**
 
+::: {.avertissement}
+Renvoi de vocabulaire. L’écologie cognitive, au sens de Pierre Lévy, désigne le même objet que la cognition distribuée de Hutchins et Clark-Chalmers ; le second terme est retenu ici pour l’appareil analytique qu’il fournit.
+:::
+
 
 ## ÉCOLOGIE DU SENSIBLE {#ecologie-du-sensible}
 
 → *Voir* **RÉGIMES DE PERCEPTIBILITÉ**
 
+::: {.avertissement}
+Terme employé jusqu’au printemps 2026. Le vocabulaire écologique supposait un milieu donné ; les régimes de perceptibilité nomment ce qui rend une chose perceptible, question qui appelle une description des conditions plutôt qu’une métaphore du milieu.
+:::
+
 
 ## ÉCOPERCEPTION {#ecoperception}
 
-→ *Voir* **SILENCE SÉMIOTIQUE**
+→ *Voir* **SILENCE SÉMIOTIQUE**, versant perceptif
+
+::: {.avertissement}
+Terme employé jusqu’au printemps 2026, réancré sous le silence sémiotique et délesté du préfixe « éco ». Il nommait une perception incarnée qui ne se laisse pas saturer par le visible probable ; cette description subsiste, rattachée au deuxième geste.
+:::
 
 
 ## ÉMANCIPATION {#emancipation}
@@ -1338,6 +1350,10 @@ En multipliant des images hautement plausibles et rapidement générées, les mo
 
 → *Voir* **OPÉRATEURS PERCEPTIFS RÉELS**
 
+::: {.avertissement}
+Forme abrégée du terme complet. L’adjectif « réels » porte la thèse : ces opérateurs agissent sur la perception indépendamment de la conscience critique du sujet, et produisent des effets mesurables. L’abréger revient à perdre ce qui distingue le concept d’une simple médiation.
+:::
+
 
 ## OPÉRATEURS PERCEPTIFS RÉELS {#operateurs-perceptifs-reels}
 
@@ -1447,6 +1463,10 @@ La **tolérance** nomme une faculté du sujet interprétant, ancrée chez Lotman
 ## PENSÉE DISTRIBUÉE {#pensee-distribuee}
 
 → *Voir* **COGNITION DISTRIBUÉE**
+
+::: {.avertissement}
+Variante lexicale. La formule circule dans les usages courants ; le glossaire retient « cognition distribuée », terme des travaux dont il se réclame.
+:::
 
 
 ## PONDÉRATION {#ponderation}
@@ -1565,6 +1585,10 @@ L'ennui sémiotique, le *Ma*, l'hésitation d'Eco sont des états qui correspond
 ## RÉGIME DE PENSÉE {#regime-de-pensee}
 
 → *Voir* **RÉGIMES DE PERCEPTIBILITÉ**
+
+::: {.avertissement}
+Terme employé jusqu’au printemps 2026. Le déplacement porte sur ce qui est en jeu : le partage du perceptible précède celui du pensable, et c’est à ce niveau que la sémiose algorithmique opère.
+:::
 
 
 ## RÉGIMES DE PERCEPTIBILITÉ {#regimes-de-perceptibilite}
