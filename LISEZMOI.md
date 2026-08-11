@@ -70,9 +70,6 @@ quarto preview
 `glossaire/_index-termes.yml`. Il n'écrit que ce fichier. L'option `--verifier`
 compare sans écrire, ce qui convient à un contrôle avant commit.
 
-Penser à répercuter le nombre d'entrées sur `cv.qmd` et `en/cv.qmd`, où il est
-écrit en toutes lettres.
-
 **Produire un `.docx` quand une revue en réclame un**
 
 ```bash

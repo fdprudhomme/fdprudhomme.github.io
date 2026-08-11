@@ -472,11 +472,41 @@ Les deux concepts sont voisins mais ne nomment pas la même chose : la coopérat
 
 ## COGNITION DISTRIBUÉE {#cognition-distribuee}
 
+[Penser hors de la tête]{.sous-titre}
+
+[Entrée importée — Hutchins, Clark & Chalmers — à valider]{.statut}
+
 ::: {.punchline}
-Edwin Hutchins et Donald Norman
+Ce qui pense n’est pas le cerveau seul : c’est le système qu’il forme avec ses instruments.
 :::
 
-→ *Voir* **PENSÉE DISTRIBUÉE**
+::: {.definition}
+La cognition distribuée désigne l’approche selon laquelle les processus cognitifs s’accomplissent dans un système qui excède l’individu : corps, artefacts, notations, environnement et autres sujets y participent à titre **constitutif** plutôt que d’assistance. Elle fournit au projet son appui empirique sur la question de la délégation cognitive.
+:::
+
+### Cadre théorique
+
+**Hutchins** (*Cognition in the Wild*, 1995) observe la navigation d’un bâtiment de guerre et décrit le calcul de position comme une propriété du **système entier** — instruments, procédures, répartition des rôles — sans localiser la cognition en un seul opérateur. L’unité d’analyse cesse d’être l’individu.
+
+**Clark et Chalmers** (*The Extended Mind*, 1998) donnent le versant conceptuel avec des critères explicites : un dispositif externe fait partie du système cognitif s’il est **constamment disponible**, **immédiatement accessible**, et si ses contenus sont **endossés automatiquement** sans examen préalable.
+
+Ces critères font la valeur de l’appui. Ils rendent la question testable au lieu de la laisser déclarative.
+
+### Articulation au cadre : l’endossement automatique
+
+Appliqués au système génératif, les critères se dissocient. La disponibilité et l’accessibilité sont pleinement satisfaites. L’**endossement automatique** est le point où tout se joue : c’est la condition qui transforme un dispositif consulté en composant du système cognitif, et c’est exactement ce que la clôture prématurée produit — une sortie tenue pour acquise sans examen du parcours qui l’a produite.
+
+L’enquête seconde se laisse alors décrire avec précision : un protocole qui **suspend l’endossement automatique**. Interroger le modèle sur ses choix, comparer plusieurs générations, formuler des hypothèses sur le relief — chacun de ces gestes rétablit l’examen que le troisième critère suppose absent.
+
+Le partage entre l’**artefact cognitif** au sens de Norman, qui étend une capacité en laissant la décision au sujet, et l’**opérateur perceptif réel**, qui produit des effets sans passer par lui, se formule dans les mêmes termes.
+
+### Le choix du terme
+
+Le glossaire retient « cognition distribuée » plutôt que « écologie cognitive » ou « pensée distribuée » pour l’appareil analytique qu’il fournit — des critères vérifiables sur des cas, là où le vocabulaire écologique offre une métaphore de milieu.
+
+::: {.voir-aussi}
+**Voir aussi** — [artefact cognitif](#artefact-cognitif) · [artéfact cognitif algorithmique](#artefact-cognitif-algorithmique) · [opérateurs perceptifs réels](#operateurs-perceptifs-reels) · [clôture prématurée](#cloture-prematuree) · [enquête seconde](#enquete-seconde) · [médiation algorithmique](#mediation-algorithmique) · [individuation technique](#individuation-technique) · [milieu associé](#milieu-associe)
+:::
 
 
 ## CONTRE-CONDUITE {#contre-conduite}
