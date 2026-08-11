@@ -107,7 +107,7 @@ Norman critique l'idée classique selon laquelle les artefacts « amplifient » 
 
 L'effet cognitif ne vient pas d'une amélioration interne du cerveau, mais du **couplage humain–artefact–tâche**. Norman insiste donc sur une approche **systémique** de la cognition.
 
-Dans ce projet de recherches, la notion d'**artefact cognitif** permet d'ancrer l'axe du **visible-pensant / écologie cognitive** dans une approche rigoureusement systémique de la perception contemporaine : les images, interfaces et dispositifs algorithmiques ne sont pas de simples supports visuels, mais des **dispositifs représentationnels** qui transforment la nature même des tâches perceptives et interprétatives.
+Dans ce projet de recherches, la notion d'**artefact cognitif** permet d'ancrer le **visible-pensant** dans une approche rigoureusement systémique de la perception contemporaine, en le rattachant à la **cognition distribuée** : les images, interfaces et dispositifs algorithmiques ne sont pas de simples supports visuels, mais des **dispositifs représentationnels** qui transforment la nature même des tâches perceptives et interprétatives.
 
 ### Artéfact cognitif algorithmique
 
