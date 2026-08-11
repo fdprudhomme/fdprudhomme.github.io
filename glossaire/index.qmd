@@ -37,7 +37,7 @@ Faire des reliefs probabilistes une carte lisible.
 Habiter l'indétermination, tenir le pas-encore-résolu.
 
 - [silence sémiotique](entrees.qmd#silence-semiotique)
-- le [*Ma*](entrees.qmd#ma-semiotique)
+- [le *Ma*](entrees.qmd#ma-semiotique)
 - [l'inhabitation](entrees.qmd#inhabitation)
 - [l'hésitation](entrees.qmd#hesitation)
 - [la tolérance à l'indétermination](entrees.qmd#tolerance-a-l-indetermination)

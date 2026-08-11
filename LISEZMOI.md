@@ -112,6 +112,32 @@ Corps de texte.
 :::
 ```
 
+### Renvoyer au glossaire depuis les autres pages
+
+Ce que le lien englobe dépend de ce que la page fait du terme. Deux règles,
+une par contexte.
+
+**`glossaire/index.qmd` — la carte.** L'item de liste est une unité autonome :
+article et emphase passent **à l'intérieur** du lien, qui couvre l'item entier.
+
+```markdown
+- [l'espace transitionnel](entrees.qmd#espace-transitionnel)
+- [le *Ma*](entrees.qmd#ma-semiotique)
+```
+
+**`recherche.qmd` — la prose.** Le lien ne couvre que le terme : article et
+attribution restent **hors** des crochets, l'emphase reste **dedans**.
+L'italique marque les termes introduits dans la phrase, pas les simples
+rappels.
+
+```markdown
+l'[émancipation](glossaire/entrees.qmd#emancipation) (Rancière)
+le [*visible-pensant*](glossaire/entrees.qmd#visible-pensant)
+```
+
+Dans les deux cas, l'emphase se place toujours à l'intérieur des crochets :
+jamais `*[terme](…)*`.
+
 ## 5. Le CV en PDF
 
 ```bash
