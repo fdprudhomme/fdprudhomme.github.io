@@ -45,7 +45,7 @@ Tenir le pas-encore-résolu contre la clôture prématurée.
 - le [*Ma*](glossaire/entrees.qmd#ma-semiotique)
 - l'[inhabitation](glossaire/entrees.qmd#inhabitation)
 - l'[hésitation](glossaire/entrees.qmd#hesitation)
-- l'espace transitionnel (Winnicott)
+- l'[espace transitionnel](glossaire/entrees.qmd#espace-transitionnel) (Winnicott)
 :::
 
 ::: {.geste-3}
@@ -56,9 +56,9 @@ Restituer à l'interprète la position de celui qui cherche.
 
 - [résistance sémiotique](glossaire/entrees.qmd#resistance-semiotique)
 - l'[enquête seconde](glossaire/entrees.qmd#enquete-seconde)
-- [la promenade inférentielle](glossaire/entrees.qmd#promenade-inferentielle-algorithmique)
+- la [promenade inférentielle](glossaire/entrees.qmd#promenade-inferentielle-algorithmique)
 - l'[émancipation](glossaire/entrees.qmd#emancipation) (Rancière)
-- la pédagogie de l'indétermination
+- la [pédagogie de l'indétermination](glossaire/entrees.qmd#pedagogie-de-l-indetermination)
 :::
 :::
 
