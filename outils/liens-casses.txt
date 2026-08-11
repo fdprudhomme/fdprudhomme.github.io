@@ -1,3 +1,3 @@
 # Liens internes sans ancre correspondante — glossaire/entrees.qmd
-# 79 ancres declarees, 336 liens internes, 0 cibles cassees
+# 80 ancres declarees, 355 liens internes, 0 cibles cassees
 # (aucune)

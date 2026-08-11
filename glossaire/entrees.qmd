@@ -470,7 +470,7 @@ La boucle ReAct des agents est une **machine à clôture prématurée permanente
 Les deux concepts sont voisins mais ne nomment pas la même chose : la coopération interprétative retournée nomme un **renversement de position** — qui anticipe qui —, la clôture prématurée nomme la **disparition de la durée**. Un système pourrait anticiper son lecteur sans supprimer la durée ; la sémiose algorithmique fait les deux à la fois.
 
 ::: {.voir-aussi}
-**Voir aussi** — [silence sémiotique](#silence-semiotique) · [spirale interprétative](#spirale-interpretative) · [ReAct Loop](#react-loop) · [coopération interprétative](#cooperation-interpretative) · [coopération interprétative retournée](#cooperation-interpretative-retournee) · [sémiose illimitée](#semiose-illimitee) · [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique) · [espace transitionnel](#espace-transitionnel) · [textualité algorithmique](#textualite-algorithmique)
+**Voir aussi** — [silence sémiotique](#silence-semiotique) · [spirale interprétative](#spirale-interpretative) · [ReAct Loop](#react-loop) · [coopération interprétative](#cooperation-interpretative) · [coopération interprétative retournée](#cooperation-interpretative-retournee) · [sémiose illimitée](#semiose-illimitee) · [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique) · [espace transitionnel](#espace-transitionnel) · [textualité algorithmique](#textualite-algorithmique) · [intentio operis](#intentio-operis) · [court-circuit inférentiel](#court-circuit-inferentiel)
 :::
 
 
@@ -573,12 +573,12 @@ Les systèmes génératifs effectuent une opération structurellement analogue �
 
 ## COOPÉRATION INTERPRÉTATIVE RETOURNÉE {#cooperation-interpretative-retournee}
 
-[Le lecteur modèle sédimenté dans la machine]{.sous-titre}
+[Le Lecteur Modèle sédimenté dans la machine]{.sous-titre}
 
 [Concept forgé par l’auteur — déplacement assumé de l’appareil d’Eco — à valider]{.statut}
 
 ::: {.punchline}
-Chez Eco, l’auteur configurait un lecteur modèle dans son texte. Ici, l’auteur doit anticiper un lecteur modèle déjà sédimenté dans la machine.
+Chez Eco, l’auteur configurait un Lecteur Modèle dans son texte. Ici, l’auteur doit anticiper un Lecteur Modèle déjà sédimenté dans la machine.
 :::
 
 ::: {.definition}
@@ -587,7 +587,7 @@ La coopération interprétative retournée déplace le concept de Lecteur Modèl
 
 ### Coopération interprétative retournée et coopération interprétative
 
-Ce concept ne prolonge pas celui d’Eco par extension naturelle : il en opère le **retournement**, sur deux axes. Le **support de l’instance** d’abord : chez Eco, le lecteur modèle est une prévision de l’auteur inscrite dans le texte, sans existence hors de l’acte de lecture qui l’actualise ; ici, l’instance migre hors du texte singulier et se sédimente statistiquement dans le modèle, à travers le corpus d’entraînement, avant toute requête. La **direction de l’anticipation** ensuite : chez Eco, l’auteur anticipe le lecteur ; ici, l’auteur doit anticiper le lecteur modèle déjà sédimenté dans la machine — il ajuste sa requête par itérations pour deviner quels non-dits la statistique remplira.
+Ce concept ne prolonge pas celui d’Eco par extension naturelle : il en opère le **retournement**, sur deux axes. Le **support de l’instance** d’abord : chez Eco, le Lecteur Modèle est une prévision de l’auteur inscrite dans le texte, sans existence hors de l’acte de lecture qui l’actualise ; ici, l’instance migre hors du texte singulier et se sédimente statistiquement dans le modèle, à travers le corpus d’entraînement, avant toute requête. La **direction de l’anticipation** ensuite : chez Eco, l’auteur anticipe le lecteur ; ici, l’auteur doit anticiper le Lecteur Modèle déjà sédimenté dans la machine — il ajuste sa requête par itérations pour deviner quels non-dits la statistique remplira.
 
 ### Encyclopédie sédimentée, encyclopédie opérationnalisée
 
@@ -598,7 +598,7 @@ Objection anticipée : chez Eco déjà, l’encyclopédie est une **sédimentati
 Le déplacement emprunte la notion d’**instance anticipée**, distincte de l’individu empirique. Il ne prend pas la temporalité de l’actualisation — la promenade inférentielle du lecteur empirique. L’attracteur statistique supprime cette durée : il ne configure pas un espace pour qu’un lecteur le traverse, il livre la traversée déjà faite. Coopération interprétative retournée nomme donc un **renversement de position** — qui anticipe qui —, à distinguer de clôture prématurée, qui nomme la disparition de la durée elle-même.
 
 ::: {.voir-aussi}
-**Voir aussi** — [coopération interprétative](#cooperation-interpretative) · [lecteur modèle](#lecteur-modele) · [encyclopédie](#encyclopedie) · [attracteur statistique](#attracteur-statistique) · [clôture prématurée](#cloture-prematuree) · [asymétrie sémiosique](#asymetrie-semiosique) · [mémoire corpus](#memoire-corpus) · [véridiction pré-installée](#veridiction-pre-installee)
+**Voir aussi** — [coopération interprétative](#cooperation-interpretative) · [lecteur modèle](#lecteur-modele) · [encyclopédie](#encyclopedie) · [attracteur statistique](#attracteur-statistique) · [clôture prématurée](#cloture-prematuree) · [asymétrie sémiosique](#asymetrie-semiosique) · [mémoire corpus](#memoire-corpus) · [véridiction pré-installée](#veridiction-pre-installee) · [court-circuit inférentiel](#court-circuit-inferentiel)
 :::
 
 
@@ -621,6 +621,45 @@ Dans le cadre de la **résistance sémiotique**, la co-perception homme-machine 
 ### Co-perception et visible-pensant
 
 La co-perception est la **condition d'actualisation du visible-pensant** : la machine pense *dans* l'image (calcul, pondération, anticipation), l'humain pense *avec* l'image (interprétation, critique, affect). La perception est ainsi **co-produite**, sans se confondre.
+
+
+## COURT-CIRCUIT INFÉRENTIEL {#court-circuit-inferentiel}
+
+[Ce qu’on cherche dans les copies]{.sous-titre}
+
+[Concept forgé par l’auteur — opérateur du protocole empirique — à valider]{.statut}
+
+::: {.punchline}
+Un texte qui conclut sans avoir cherché laisse des traces reconnaissables.
+:::
+
+::: {.definition}
+Le court-circuit inférentiel désigne la **marque observable**, dans une production, de l’inférence résolue par le calcul plutôt que parcourue par son auteur. Opérateur empirique du projet, il nomme ce que l’enquête cherche dans les productions étudiantes assistées par IA et dans les entretiens qui les accompagnent.
+:::
+
+### Cinq marqueurs
+
+-   **L’absence d’embranchement** : l’argument avance sans qu’aucune hypothèse alternative ait été formulée puis écartée. Les positions rivales apparaissent comme déjà réfutées, jamais comme ayant été considérées.
+-   **La citation sans lecture** : les références sont exactes et pertinentes, mais leur emploi ne porte aucune trace du texte cité — pas de résistance de l’œuvre, pas de détail qui n’aurait pu être obtenu autrement que par une lecture.
+-   **Le lissage des difficultés** : les points où le sujet résiste effectivement reçoivent le même traitement que les points établis. La difficulté est mentionnée, jamais habitée.
+-   **L’inférence non située** : la conclusion vaut en général et ne s’ancre dans aucun cas, aucun corpus, aucune observation propre à l’auteur.
+-   **Le vocabulaire sans dette** : les termes techniques apparaissent au bon endroit, sans qu’aucun ait été acquis dans le texte — ni introduit, ni négocié, ni employé de travers puis rectifié.
+
+### Ce que le concept ne dit pas
+
+Le court-circuit inférentiel décrit une **propriété du texte**, non un jugement sur son auteur. Un étudiant peut court-circuiter sans recourir à un système génératif, en s’appuyant sur un manuel ou sur un cours ; un autre peut employer un modèle et parcourir néanmoins. Le concept n’est ni un détecteur ni une accusation.
+
+Cette réserve est **constitutive**. Faire du court-circuit un critère d’intégrité académique reviendrait à reconduire la position de l’explicateur, en jugeant les productions au lieu d’instituer les conditions du parcours.
+
+### Articulation au cadre : de l’indice au protocole
+
+Les marqueurs servent d’**entrée d’enquête**, non de verdict. Repérer un court-circuit ouvre la question de ce qui n’a pas été parcouru, et c’est cette question que l’enquête seconde transforme en travail : reprendre l’embranchement absent, relire le texte cité, habiter la difficulté lissée.
+
+La pédagogie de l’indétermination en donne le versant institutionnel — une évaluation qui porte sur le parcours rend le court-circuit visible sans avoir à le traquer.
+
+::: {.voir-aussi}
+**Voir aussi** — [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique) · [clôture prématurée](#cloture-prematuree) · [enquête seconde](#enquete-seconde) · [coopération interprétative](#cooperation-interpretative) · [coopération interprétative retournée](#cooperation-interpretative-retournee) · [pédagogie de l’indétermination](#pedagogie-de-l-indetermination) · [résistance sémiotique](#resistance-semiotique) · [Maître ignorant](#maitre-ignorant)
+:::
 
 
 ## DISTRIBUTION POLITIQUE DES CAPACITÉS PERCEPTIVES {#distribution-politique-des-capacites-perceptives}
@@ -734,7 +773,7 @@ Le protocole s’apparente à un **« Blow Up algorithmique »** — du film d�
 Le système génératif fonctionne comme un **explicateur** au sens du *Maître ignorant* de Rancière : il explique à la place de l’interprète et le maintient dans la position de celui à qui l’on explique. L’enquête seconde est la **contre-conduite émancipatrice** qui restitue à l’interprète la position de celui qui cherche — une lecture qui rejoint l’**anti-herméneutique** de Bertrand Gervais : il ne s’agit pas de restituer un sens caché derrière la sortie, mais d’en faire le point de départ d’une enquête qui ne se referme pas.
 
 ::: {.voir-aussi}
-**Voir aussi** — [résistance sémiotique](#resistance-semiotique) · [Maître ignorant](#maitre-ignorant) · [contre-conduite](#contre-conduite) · [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique) · [coopération interprétative retournée](#cooperation-interpretative-retournee) · [pédagogie de l’indétermination](#pedagogie-de-l-indetermination) · [textualité algorithmique](#textualite-algorithmique)
+**Voir aussi** — [résistance sémiotique](#resistance-semiotique) · [Maître ignorant](#maitre-ignorant) · [contre-conduite](#contre-conduite) · [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique) · [coopération interprétative retournée](#cooperation-interpretative-retournee) · [pédagogie de l’indétermination](#pedagogie-de-l-indetermination) · [textualité algorithmique](#textualite-algorithmique) · [court-circuit inférentiel](#court-circuit-inferentiel)
 :::
 
 
@@ -1103,7 +1142,7 @@ Les interfaces cognitives sont des **manifestations exemplaires du visible-pensa
 [Nouvelle entrée — à valider]{.statut}
 
 ::: {.punchline}
-Le lecteur modèle n’est pas celui qui lit : c’est celui que le texte construit pour être lu.
+Le Lecteur Modèle n’est pas celui qui lit : c’est celui que le texte construit pour être lu.
 :::
 
 ::: {.definition}
@@ -1490,7 +1529,7 @@ Le dispositif porte en lui le risque qu’il combat. Une pédagogie de l’indé
 La **tolérance** nomme une faculté du sujet interprétant, ancrée chez Lotman, deuxième geste (protéger). La **pédagogie** nomme un dispositif institutionnel, ancré chez Rancière, troisième geste (agir). Le passage de l’une à l’autre reprend le partage entre silence sémiotique et résistance sémiotique.
 
 ::: {.voir-aussi}
-**Voir aussi** — [résistance sémiotique](#resistance-semiotique) · [tolérance à l’indétermination](#tolerance-a-l-indetermination) · [Maître ignorant](#maitre-ignorant) · [émancipation](#emancipation) · [enquête seconde](#enquete-seconde) · [contre-conduite](#contre-conduite) · [spirale interprétative](#spirale-interpretative) · [espace transitionnel](#espace-transitionnel) · [clôture prématurée](#cloture-prematuree)
+**Voir aussi** — [résistance sémiotique](#resistance-semiotique) · [tolérance à l’indétermination](#tolerance-a-l-indetermination) · [Maître ignorant](#maitre-ignorant) · [émancipation](#emancipation) · [enquête seconde](#enquete-seconde) · [contre-conduite](#contre-conduite) · [spirale interprétative](#spirale-interpretative) · [espace transitionnel](#espace-transitionnel) · [clôture prématurée](#cloture-prematuree) · [court-circuit inférentiel](#court-circuit-inferentiel)
 :::
 
 
@@ -1510,20 +1549,42 @@ Variante lexicale. La formule circule dans les usages courants ; le glossaire re
 
 ## PROMENADE INFÉRENTIELLE ALGORITHMIQUE {#promenade-inferentielle-algorithmique}
 
-[à enrichir — à valider]{.statut}
+[Le trajet sauté]{.sous-titre}
+
+[Concept forgé par l’auteur — transposition assumée d’Eco — à valider]{.statut}
 
 ::: {.punchline}
 La promenade inférentielle, naguère faite par le lecteur, est désormais exécutée par le modèle.
 :::
 
 ::: {.definition}
-La promenade inférentielle algorithmique transpose les passeggiate inferenziali d’Eco — les excursions du lecteur dans l’encyclopédie pour combler les non-dits du texte — en régime statistique : c’est le modèle qui, à la place du lecteur, parcourt l’encyclopédie computationnelle et résout les inférences avant lui.
+La promenade inférentielle algorithmique transpose les *passeggiate inferenziali* d’Eco — les excursions du lecteur dans l’encyclopédie pour combler les non-dits du texte — en régime statistique : c’est le modèle qui, à la place du lecteur, parcourt l’encyclopédie computationnelle et résout les inférences avant lui. Elle nomme le **trajet supprimé**, là où la coopération interprétative retournée nomme le renversement de position et la clôture prématurée la disparition de la durée.
 :::
 
-Elle est le cœur de la **coopération interprétative retournée** : la promenade qui était le travail de l’interprète devient une opération pré-exécutée par le calcul. La résistance sémiotique consiste précisément à **reprendre la promenade** — re-parcourir activement les renvois que le modèle a court-circuités (l’enquête seconde).
+### Cadre théorique (Eco)
+
+Chez Eco, la promenade inférentielle est une **excursion hors du texte** : le lecteur quitte momentanément la ligne qu’il lit pour aller chercher dans son encyclopédie de quoi combler un non-dit, puis revient. Le mouvement est spatial autant que temporel — il faut aller quelque part, et le trajet a un coût.
+
+Ce coût **fait** le travail interprétatif. Un lecteur qui ne parcourt pas ne comble pas, et un texte dont tous les blancs seraient pré-remplis n’appellerait aucune promenade.
+
+### Trois noms pour une même opération
+
+Le régime génératif se décrit par trois concepts distincts, qui ne se recouvrent pas :
+
+-   **Coopération interprétative retournée** : le renversement de position — qui anticipe qui.
+-   **Clôture prématurée** : la disparition de la durée interprétative.
+-   **Promenade inférentielle algorithmique** : le trajet lui-même, parcouru par le calcul plutôt que par l’interprète.
+
+Un système pourrait supprimer la durée sans que le trajet ait été parcouru par personne. Le trait propre du régime génératif tient à ce que le parcours **a bien eu lieu**, hors de l’interprète, dans un espace statistique dont celui-ci ne voit que le point d’arrivée.
+
+### Articulation au cadre : reprendre la promenade
+
+La résistance sémiotique consiste à **re-parcourir activement** les renvois que le modèle a résolus par avance. L’enquête seconde en est le protocole : comparer plusieurs générations pour faire réapparaître, par différence, les embranchements que la sortie unique dissimule.
+
+Ce que l’interprète reconstitue est **une** promenade, non le trajet du modèle. La différence importe : il refait le parcours pour son propre compte, et le relief statistique reste inaccessible.
 
 ::: {.voir-aussi}
-**Voir aussi** — [coopération interprétative](#cooperation-interpretative) · [résistance sémiotique](#resistance-semiotique) · [sémiose algorithmique](#semiose-algorithmique) · [visible-pensant](#visible-pensant) · [spirale interprétative](#spirale-interpretative)
+**Voir aussi** — [coopération interprétative](#cooperation-interpretative) · [coopération interprétative retournée](#cooperation-interpretative-retournee) · [encyclopédie](#encyclopedie) · [lecteur modèle](#lecteur-modele) · [clôture prématurée](#cloture-prematuree) · [court-circuit inférentiel](#court-circuit-inferentiel) · [enquête seconde](#enquete-seconde) · [résistance sémiotique](#resistance-semiotique) · [sémiose algorithmique](#semiose-algorithmique) · [spirale interprétative](#spirale-interpretative)
 :::
 
 
@@ -1663,7 +1724,7 @@ La résistance sémiotique n'est pas un refus technophobe de l'IA. C'est une pos
 La résistance n’est pas que posture critique : elle a un versant perceptif, hérité de ce que nommaient le voir-pensant et le voir-pensé — un **voir qui pense**, qui reconnaît l’attracteur perceptif comme un choix et non comme une évidence. Là où le visible-pensant (l’objet) a déjà pensé à notre place, la faculté résistante **re-saisit la perception comme acte interprétable**. C’est l’émancipation du regard de Rancière, étendue à la sémiose tout entière.
 
 ::: {.voir-aussi}
-**Voir aussi** — [coopération interprétative](#cooperation-interpretative) · [silence sémiotique](#silence-semiotique) · [régimes de perceptibilité](#regimes-de-perceptibilite) · [pédagogie de l’indétermination](#pedagogie-de-l-indetermination)
+**Voir aussi** — [coopération interprétative](#cooperation-interpretative) · [silence sémiotique](#silence-semiotique) · [régimes de perceptibilité](#regimes-de-perceptibilite) · [pédagogie de l’indétermination](#pedagogie-de-l-indetermination) · [court-circuit inférentiel](#court-circuit-inferentiel)
 :::
 
 

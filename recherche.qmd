@@ -198,7 +198,7 @@ sémiotique des formes, qui décrit les attracteurs dominants d'un corpus
 généré ; l'analyse des dispositifs, qui traite les interfaces comme
 [opérateurs perceptifs réels](glossaire/entrees.qmd#operateurs-perceptifs-reels) ;
 et des entretiens avec étudiants et enseignants, qui documentent l'expérience
-située du court-circuit inférentiel.
+située du [court-circuit inférentiel](glossaire/entrees.qmd#court-circuit-inferentiel).
 
 ## Corpus et terrain
 
