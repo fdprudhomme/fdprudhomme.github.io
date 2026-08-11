@@ -53,28 +53,38 @@ C'est tout. Trois commandes, toujours les mêmes.
 
 ## 4. Mettre à jour le glossaire
 
-Le fichier `glossaire/entrees.qmd` est **généré**. Deux façons de travailler :
+Le fichier `glossaire/entrees.qmd` **fait autorité** depuis août 2026 : on y
+écrit directement, et le `.docx` n'en est plus qu'un export ponctuel.
 
-**A. Continuer dans Word** (transition douce)
-Déposer la nouvelle version du `.docx` dans `outils/source/`, puis :
+**Ajouter ou corriger une entrée**
+Éditer `glossaire/entrees.qmd` à la main, en respectant les balises ci-dessous
+et l'ordre alphabétique (accents ignorés). Puis :
 
 ```bash
-python3 outils/convertir-glossaire.py outils/source/GLOSSAIRE_IA_MaJ_v6.docx
+python3 outils/indexer-glossaire.py    # reconstruit l'index des termes
+python3 outils/verifier-liens.py       # signale les renvois sans ancre
 quarto preview
 ```
 
-Le script régénère la page, recrée les ancres et transforme les lignes
-« Voir aussi » en liens internes. Il signale en fin d'exécution les termes
-renvoyés qui n'ont pas d'entrée correspondante.
+`indexer-glossaire.py` relit les titres de `entrees.qmd` et régénère
+`glossaire/_index-termes.yml`. Il n'écrit que ce fichier. L'option `--verifier`
+compare sans écrire, ce qui convient à un contrôle avant commit.
 
-**B. Basculer la source dans le dépôt** (recommandé à terme)
-Une fois la première conversion satisfaisante, éditer directement
-`glossaire/entrees.qmd` et supprimer l'étape Word. Pour regénérer un `.docx`
-quand une revue en réclame un :
+Penser à répercuter le nombre d'entrées sur `cv.qmd` et `en/cv.qmd`, où il est
+écrit en toutes lettres.
+
+**Produire un `.docx` quand une revue en réclame un**
 
 ```bash
 quarto render glossaire/entrees.qmd --to docx
 ```
+
+**Réimporter depuis Word** (hérité, à éviter)
+`convertir-glossaire.py` régénère toute la page depuis un `.docx` — il
+**écrase** `entrees.qmd`. Il refuse donc de tourner si le `.docx` est plus
+ancien que le `.qmd`, et ne cède qu'avec `--force`, au prix des ajouts faits
+depuis. Ce chemin n'a de sens que pour repartir d'un Word réellement plus à
+jour que le dépôt, ce qui n'est plus le cas.
 
 ### Balises disponibles dans une entrée
 
@@ -158,11 +168,12 @@ site-fdp/
 ├── cv.qmd  recherche.qmd  publications.qmd
 ├── glossaire/
 │   ├── index.qmd            carte des trois gestes
-│   ├── entrees.qmd          GÉNÉRÉ — corps alphabétique
+│   ├── entrees.qmd          SOURCE — corps alphabétique, édité à la main
 │   └── _index-termes.yml    GÉNÉRÉ — index des ancres
 ├── en/                      version anglaise
 ├── outils/
-│   ├── convertir-glossaire.py
+│   ├── convertir-glossaire.py   (hérité — import Word, écrase entrees.qmd)
+│   ├── indexer-glossaire.py     (reconstruit _index-termes.yml)
 │   └── source/              .docx sources (hors dépôt Git)
 ├── assets/                  images, PDF, favicon
 └── .github/workflows/publier.yml

@@ -460,7 +460,7 @@ La boucle ReAct des agents est une **machine à clôture prématurée permanente
 Les deux concepts sont voisins mais ne nomment pas la même chose : la coopération interprétative retournée nomme un **renversement de position** — qui anticipe qui —, la clôture prématurée nomme la **disparition de la durée**. Un système pourrait anticiper son lecteur sans supprimer la durée ; la sémiose algorithmique fait les deux à la fois.
 
 ::: {.voir-aussi}
-**Voir aussi** — [silence sémiotique](#silence-semiotique) · [spirale interprétative](#spirale-interpretative) · [ReAct Loop](#react-loop) · [coopération interprétative](#cooperation-interpretative) · [coopération interprétative retournée](#cooperation-interpretative-retournee) · [sémiose illimitée](#semiose-illimitee) · [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique)
+**Voir aussi** — [silence sémiotique](#silence-semiotique) · [spirale interprétative](#spirale-interpretative) · [ReAct Loop](#react-loop) · [coopération interprétative](#cooperation-interpretative) · [coopération interprétative retournée](#cooperation-interpretative-retournee) · [sémiose illimitée](#semiose-illimitee) · [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique) · [espace transitionnel](#espace-transitionnel)
 :::
 
 
@@ -496,7 +496,7 @@ Le terme provient des cours de Foucault au Collège de France (*Sécurité, terr
 Le système génératif fonctionne comme un explicateur au sens du *Maître ignorant* : il explique à la place de l’interprète et le maintient dans la position de celui à qui l’on explique. L’enquête seconde est précisément cette **contre-conduite émancipatrice** — non un refus de l’outil, mais une autre manière de s’en servir, qui restitue à l’interprète la position de celui qui cherche.
 
 ::: {.voir-aussi}
-**Voir aussi** — [enquête seconde](#enquete-seconde) · [Maître ignorant](#maitre-ignorant) · [résistance sémiotique](#resistance-semiotique) · [émancipation](#emancipation)
+**Voir aussi** — [enquête seconde](#enquete-seconde) · [Maître ignorant](#maitre-ignorant) · [résistance sémiotique](#resistance-semiotique) · [émancipation](#emancipation) · [pédagogie de l’indétermination](#pedagogie-de-l-indetermination)
 :::
 
 
@@ -630,7 +630,7 @@ Dans *Le Maître ignorant* (1987), l’émancipation intellectuelle suppose l’
 La sémiose illimitée de Peirce refuse tout premier sol : l’interprétant devient signe pour un interprétant suivant, sans terme. Rancière en donne la traduction politique — l’émancipation ne se transmet pas une fois pour toutes, elle se relance à chaque tour. La spirale interprétative est la forme institutionnelle de cette réactivation perpétuelle : instituer la spirale plutôt qu’enseigner la résistance, pour ne pas retomber dans la posture du Maître explicateur.
 
 ::: {.voir-aussi}
-**Voir aussi** — [résistance sémiotique](#resistance-semiotique) · [Maître ignorant](#maitre-ignorant) · [contre-conduite](#contre-conduite) · [spirale interprétative](#spirale-interpretative) · [sémiose illimitée](#semiose-illimitee) · [coopération interprétative](#cooperation-interpretative)
+**Voir aussi** — [résistance sémiotique](#resistance-semiotique) · [Maître ignorant](#maitre-ignorant) · [contre-conduite](#contre-conduite) · [spirale interprétative](#spirale-interpretative) · [sémiose illimitée](#semiose-illimitee) · [coopération interprétative](#cooperation-interpretative) · [pédagogie de l’indétermination](#pedagogie-de-l-indetermination)
 :::
 
 
@@ -682,7 +682,42 @@ Le protocole s’apparente à un **« Blow Up algorithmique »** — du film d�
 Le système génératif fonctionne comme un **explicateur** au sens du *Maître ignorant* de Rancière : il explique à la place de l’interprète et le maintient dans la position de celui à qui l’on explique. L’enquête seconde est la **contre-conduite émancipatrice** qui restitue à l’interprète la position de celui qui cherche — une lecture qui rejoint l’**anti-herméneutique** de Bertrand Gervais : il ne s’agit pas de restituer un sens caché derrière la sortie, mais d’en faire le point de départ d’une enquête qui ne se referme pas.
 
 ::: {.voir-aussi}
-**Voir aussi** — [résistance sémiotique](#resistance-semiotique) · [Maître ignorant](#maitre-ignorant) · [contre-conduite](#contre-conduite) · [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique) · [coopération interprétative retournée](#cooperation-interpretative-retournee)
+**Voir aussi** — [résistance sémiotique](#resistance-semiotique) · [Maître ignorant](#maitre-ignorant) · [contre-conduite](#contre-conduite) · [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique) · [coopération interprétative retournée](#cooperation-interpretative-retournee) · [pédagogie de l’indétermination](#pedagogie-de-l-indetermination)
+:::
+
+
+## ESPACE TRANSITIONNEL {#espace-transitionnel}
+
+[L’aire où l’objet n’est ni trouvé ni créé]{.sous-titre}
+
+[Entrée importée — Winnicott — à valider]{.statut}
+
+::: {.punchline}
+L’aire transitionnelle tient aussi longtemps qu’on n’y demande pas si l’objet a été trouvé ou inventé.
+:::
+
+::: {.definition}
+L’espace transitionnel désigne, chez Winnicott, l’aire d’expérience intermédiaire entre la réalité intérieure et le monde partagé, où l’objet est simultanément trouvé et créé sans que le paradoxe ait à être tranché. Étendu par Winnicott lui-même à l’expérience culturelle adulte, il nomme ici le milieu institutionnel que l’université ménage, et que la saturation générative résout par avance.
+:::
+
+### Cadre théorique (Winnicott)
+
+Deux propositions de *Jeu et réalité* (1971) sont retenues ici. La première tient au **paradoxe maintenu** : la question « l’as-tu trouvé ou l’as-tu inventé ? » ne doit jamais être posée, sous peine de dissoudre l’aire. La seconde tient à la **survie de l’objet** : le jeu suppose un objet qui résiste à la destruction sans représailles et sans s’effondrer.
+
+L’import porte sur l’**aire culturelle** que Winnicott décrit explicitement au chapitre VII comme le prolongement adulte de l’aire transitionnelle, à l’écart du stade infantile. La précision doit être tenue : l’espace transitionnel qualifie ici le milieu universitaire, sans rien affirmer sur la maturité de qui l’habite.
+
+### Articulation au cadre : le paradoxe résolu d’avance
+
+La sortie générative arrive entièrement du côté du **trouvé**. Elle est donnée avant que l’interprète ait pu la créer en la trouvant, et le paradoxe constitutif de l’aire se voit tranché avant toute coopération. C’est une reformulation de la **clôture prématurée** dans un registre indépendant de Peirce et d’Eco, ce qui en fait un appui distinct plutôt qu’une redite.
+
+La seconde proposition est plus opératoire. Le modèle génératif **se conforme au lieu de survivre** : il cède à la reformulation de la requête, il n’oppose aucune consistance propre. L’enquête seconde se laisse relire comme une tentative de restaurer artificiellement la condition de survie de l’objet — provoquer la résistance du modèle pour rouvrir l’aire. Sa limite s’énonce dans le même mouvement : la résistance obtenue reste celle que l’interprète a lui-même suscitée.
+
+### Espace transitionnel et inhabitation
+
+L’espace transitionnel nomme le **milieu** ; l’inhabitation nomme la **conduite du sujet** dans ce milieu. Un dispositif institutionnel peut ménager l’aire sans que personne y séjourne.
+
+::: {.voir-aussi}
+**Voir aussi** — [inhabitation](#inhabitation) · [silence sémiotique](#silence-semiotique) · [Ma sémiotique](#ma-semiotique) · [clôture prématurée](#cloture-prematuree) · [tolérance à l’indétermination](#tolerance-a-l-indetermination) · [enquête seconde](#enquete-seconde) · [pédagogie de l’indétermination](#pedagogie-de-l-indetermination)
 :::
 
 
@@ -934,7 +969,7 @@ L’inhabitation prolonge la chaîne du silence sémiotique — ennui, *Ma*, hé
 L’interprète humain **devient** dans l’interprétation : son identité se forme dans la durée du contact avec les signes. L’agent, lui, est **déjà ce qu’il est** avant d’agir — identité sans biographie, sans durée, sans ennui possible. L’inhabitation nomme précisément ce que cette identité pré-installée rend impossible.
 
 ::: {.voir-aussi}
-**Voir aussi** — [silence sémiotique](#silence-semiotique) · [Ma sémiotique](#ma-semiotique) · [clôture prématurée](#cloture-prematuree) · [Soul File](#soul-file) · [spirale interprétative](#spirale-interpretative) · [résistance sémiotique](#resistance-semiotique)
+**Voir aussi** — [silence sémiotique](#silence-semiotique) · [Ma sémiotique](#ma-semiotique) · [clôture prématurée](#cloture-prematuree) · [Soul File](#soul-file) · [spirale interprétative](#spirale-interpretative) · [résistance sémiotique](#resistance-semiotique) · [espace transitionnel](#espace-transitionnel)
 :::
 
 
@@ -1080,7 +1115,7 @@ Le *Ma* traverse l’architecture (Isozaki), la musique, le théâtre nô, la ca
 Le Heartbeat est l’**anti-Ma architectural** : chaque battement rouvre la boucle, aucun intervalle ne reste vide. Là où le *Ma* est un intervalle productif parce qu’habité sans être rempli, l’architecture agentique convertit tout intervalle en **latence à supprimer**.
 
 ::: {.voir-aussi}
-**Voir aussi** — [silence sémiotique](#silence-semiotique) · [inhabitation](#inhabitation) · [clôture prématurée](#cloture-prematuree) · [Heartbeat](#heartbeat) · [spirale interprétative](#spirale-interpretative)
+**Voir aussi** — [silence sémiotique](#silence-semiotique) · [inhabitation](#inhabitation) · [clôture prématurée](#cloture-prematuree) · [Heartbeat](#heartbeat) · [spirale interprétative](#spirale-interpretative) · [espace transitionnel](#espace-transitionnel)
 :::
 
 
@@ -1107,7 +1142,7 @@ Le maître explicateur ne transmet pas seulement un savoir : il **installe une h
 L’objet généré, par sa véridiction pré-installée, fonctionne comme une **IA-explicatrice** qui prétend clore le sens d’avance : il livre une réponse déjà résolue, sans laisser à l’interprète la position de celui qui cherche. L’enquête seconde, comme contre-conduite, est la réponse qui refuse cette position.
 
 ::: {.voir-aussi}
-**Voir aussi** — [émancipation](#emancipation) · [contre-conduite](#contre-conduite) · [enquête seconde](#enquete-seconde) · [résistance sémiotique](#resistance-semiotique) · [véridiction pré-installée](#veridiction-pre-installee) · [clôture prématurée](#cloture-prematuree)
+**Voir aussi** — [émancipation](#emancipation) · [contre-conduite](#contre-conduite) · [enquête seconde](#enquete-seconde) · [résistance sémiotique](#resistance-semiotique) · [véridiction pré-installée](#veridiction-pre-installee) · [clôture prématurée](#cloture-prematuree) · [pédagogie de l’indétermination](#pedagogie-de-l-indetermination)
 :::
 
 
@@ -1362,6 +1397,43 @@ C'est une reconfiguration radicale de la sémiosphère : les traces passées peu
 :::
 
 
+## PÉDAGOGIE DE L’INDÉTERMINATION {#pedagogie-de-l-indetermination}
+
+[Aménager l’intervalle plutôt que l’enseigner]{.sous-titre}
+
+[Concept forgé par l’auteur — troisième geste — à valider]{.statut}
+
+::: {.punchline}
+Une compétence de lenteur qu’on enseigne redevient une explication.
+:::
+
+::: {.definition}
+La pédagogie de l’indétermination désigne l’ensemble des dispositifs institutionnels par lesquels l’université aménage les conditions temporelles, évaluatives et matérielles de la suspension interprétative. Versant institutionnel du troisième geste (agir), elle est à la tolérance à l’indétermination ce que le dispositif est à la faculté.
+:::
+
+### Cadre théorique (Rancière)
+
+Transmettre explicitement une compétence de résistance réinstalle la position de l’**explicateur** : celui qui sait où se tient l’indétermination et y conduit ceux qui l’ignorent. L’émancipation, chez Rancière, se vérifie à chaque tour et ne se transmet jamais une fois pour toutes. La pédagogie porte donc sur les **conditions**, et l’égalité des intelligences y est présupposée plutôt que produite.
+
+### Trois registres opératoires
+
+-   **Temporel** : des protocoles qui interdisent la clôture au premier résultat. L’enquête seconde en est la forme exemplaire — la sortie devient sonde et la promenade inférentielle est reprise.
+-   **Évaluatif** : cesser de sanctionner la suspension. L’évaluation porte sur le parcours inférentiel et sur les hypothèses révisées, le produit final perdant son monopole probatoire.
+-   **Matériel** : maintenir disponibles les états intermédiaires — versions successives, traces de requêtes, transcriptions d’interaction traitées comme matériau empirique daté et reproductible.
+
+### Articulation au cadre : la garde interne
+
+Le dispositif porte en lui le risque qu’il combat. Une pédagogie de l’indétermination peut reconduire la position d’**avant-garde topographique** — l’instance qui a cartographié l’indétermination et y installe les autres. La garde tient dans la **vérifiabilité** : le dispositif doit rester contestable par ceux qui l’habitent, et l’institution vérifie la spirale plutôt qu’elle n’enseigne la résistance.
+
+### Distinction avec la tolérance à l’indétermination
+
+La **tolérance** nomme une faculté du sujet interprétant, ancrée chez Lotman, deuxième geste (protéger). La **pédagogie** nomme un dispositif institutionnel, ancré chez Rancière, troisième geste (agir). Le passage de l’une à l’autre reprend le partage entre silence sémiotique et résistance sémiotique.
+
+::: {.voir-aussi}
+**Voir aussi** — [résistance sémiotique](#resistance-semiotique) · [tolérance à l’indétermination](#tolerance-a-l-indetermination) · [Maître ignorant](#maitre-ignorant) · [émancipation](#emancipation) · [enquête seconde](#enquete-seconde) · [contre-conduite](#contre-conduite) · [spirale interprétative](#spirale-interpretative) · [espace transitionnel](#espace-transitionnel) · [clôture prématurée](#cloture-prematuree)
+:::
+
+
 ## PENSÉE DISTRIBUÉE {#pensee-distribuee}
 
 → *Voir* **COGNITION DISTRIBUÉE**
@@ -1523,7 +1595,7 @@ La résistance sémiotique n'est pas un refus technophobe de l'IA. C'est une pos
 La résistance n’est pas que posture critique : elle a un versant perceptif, hérité de ce que nommaient le voir-pensant et le voir-pensé — un **voir qui pense**, qui reconnaît l’attracteur perceptif comme un choix et non comme une évidence. Là où le visible-pensant (l’objet) a déjà pensé à notre place, la faculté résistante **re-saisit la perception comme acte interprétable**. C’est l’émancipation du regard de Rancière, étendue à la sémiose tout entière.
 
 ::: {.voir-aussi}
-**Voir aussi** — [coopération interprétative](#cooperation-interpretative) · [silence sémiotique](#silence-semiotique) · [régimes de perceptibilité](#regimes-de-perceptibilite)
+**Voir aussi** — [coopération interprétative](#cooperation-interpretative) · [silence sémiotique](#silence-semiotique) · [régimes de perceptibilité](#regimes-de-perceptibilite) · [pédagogie de l’indétermination](#pedagogie-de-l-indetermination)
 :::
 
 
@@ -1646,7 +1718,7 @@ Il se décline en une chaîne — ennui, *Ma*, hésitation, explosion interprét
 Le silence a un versant perceptif : une perception incarnée qui ne se laisse pas saturer par le visible probable, et qui ménage des intervalles — le *Ma* — dans le flux des images. C’est ce que nommait l’écoperception, ici réancrée sous le silence et délestée du préfixe « éco ».
 
 ::: {.voir-aussi}
-**Voir aussi** — [sémiose algorithmique](#semiose-algorithmique) · [cartographie de la sémiose algorithmique](#cartographie-de-la-semiose-algorithmique) · [résistance sémiotique](#resistance-semiotique) · [coopération interprétative](#cooperation-interpretative) · [spirale interprétative](#spirale-interpretative)
+**Voir aussi** — [sémiose algorithmique](#semiose-algorithmique) · [cartographie de la sémiose algorithmique](#cartographie-de-la-semiose-algorithmique) · [résistance sémiotique](#resistance-semiotique) · [coopération interprétative](#cooperation-interpretative) · [spirale interprétative](#spirale-interpretative) · [espace transitionnel](#espace-transitionnel)
 :::
 
 
@@ -1728,7 +1800,7 @@ La sémiose illimitée de Peirce couvre le refus de tout premier sol : la sémio
 **Instituer la spirale plutôt qu’enseigner la résistance.** L’université n’a pas pour tâche de transmettre une fois pour toutes une compétence de résistance — geste qui retomberait dans la posture du Maître explicateur — mais d’instituer les conditions de la boucle ouverte : empêcher la sémiose de se clore, faire de l’espace universitaire le lieu où l’interprétation peut se relancer.
 
 ::: {.voir-aussi}
-**Voir aussi** — [cartographie de la sémiose algorithmique](#cartographie-de-la-semiose-algorithmique) · [résistance sémiotique](#resistance-semiotique) · [silence sémiotique](#silence-semiotique) · [coopération interprétative](#cooperation-interpretative) · [React Loop](#react-loop) · [clôture prématurée](#cloture-prematuree) · [sémiose illimitée](#semiose-illimitee)
+**Voir aussi** — [cartographie de la sémiose algorithmique](#cartographie-de-la-semiose-algorithmique) · [résistance sémiotique](#resistance-semiotique) · [silence sémiotique](#silence-semiotique) · [coopération interprétative](#cooperation-interpretative) · [React Loop](#react-loop) · [clôture prématurée](#cloture-prematuree) · [sémiose illimitée](#semiose-illimitee) · [pédagogie de l’indétermination](#pedagogie-de-l-indetermination)
 :::
 
 
@@ -1836,7 +1908,7 @@ Chez Lotman, la créativité naît aux **frontières de la sémiosphère**, dans
 L’université, depuis ses origines médiévales, est un espace institutionnel voué à la cultivation de cette tolérance : lire des textes difficiles, formuler des hypothèses sur leur sens, tolérer l’indétermination le temps qu’une interprétation se construise. La résistance sémiotique en fait un programme explicite — une **pédagogie de l’indétermination** qui valorise l’hésitation, le silence et la lenteur comme compétences plutôt que comme défauts.
 
 ::: {.voir-aussi}
-**Voir aussi** — [silence sémiotique](#silence-semiotique) · [hésitation](#hesitation) · [Ma sémiotique](#ma-semiotique) · [résistance sémiotique](#resistance-semiotique) · [coopération interprétative](#cooperation-interpretative) · [clôture prématurée](#cloture-prematuree)
+**Voir aussi** — [silence sémiotique](#silence-semiotique) · [hésitation](#hesitation) · [Ma sémiotique](#ma-semiotique) · [résistance sémiotique](#resistance-semiotique) · [coopération interprétative](#cooperation-interpretative) · [clôture prématurée](#cloture-prematuree) · [espace transitionnel](#espace-transitionnel) · [pédagogie de l’indétermination](#pedagogie-de-l-indetermination)
 :::
 
 

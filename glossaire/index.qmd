@@ -40,6 +40,7 @@ Habiter l'indétermination, tenir le pas-encore-résolu.
 - [l'inhabitation](entrees.qmd#inhabitation)
 - [l'hésitation](entrees.qmd#hesitation)
 - [la tolérance à l'indétermination](entrees.qmd#tolerance-a-l-indetermination)
+- [l'espace transitionnel](entrees.qmd#espace-transitionnel)
 :::
 
 ::: {.geste-3}
@@ -54,6 +55,7 @@ La faculté politico-pédagogique : De Certeau, Rancière, Gervais.
 - [*Le Maître ignorant*](entrees.qmd#maitre-ignorant)
 - [la contre-conduite](entrees.qmd#contre-conduite)
 - [la promenade inférentielle](entrees.qmd#promenade-inferentielle-algorithmique)
+- [la pédagogie de l'indétermination](entrees.qmd#pedagogie-de-l-indetermination)
 :::
 :::
 
