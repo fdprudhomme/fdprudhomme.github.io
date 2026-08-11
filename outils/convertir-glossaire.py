@@ -3,8 +3,15 @@
 """
 Convertit GLOSSAIRE_IA_MaJ_vN.docx en page Quarto (glossaire/entrees.qmd).
 
+⚠ glossaire/entrees.qmd fait désormais autorité : les entrées y sont ajoutées
+et corrigées à la main, et le .docx n'en est plus qu'un export ponctuel. Ce
+script écrase entrees.qmd — il refuse donc de tourner si le .docx est plus
+ancien que le .qmd. Pour reconstruire seulement l'index des termes après un
+ajout manuel, utiliser outils/indexer-glossaire.py.
+
 Usage :
     python3 outils/convertir-glossaire.py outils/source/GLOSSAIRE_IA_MaJ_v5.docx
+    python3 outils/convertir-glossaire.py <source.docx> --force   # passe outre
 
 Ce que le script fait :
   1. appelle pandoc pour extraire le texte du .docx en Markdown ;
@@ -210,10 +217,51 @@ def lier_renvois(liste: str, table: dict[str, str], manquants: set) -> str:
     return " · ".join(sorties)
 
 
+def verifier_fraicheur(source: Path, force: bool) -> None:
+    """Refuse de régénérer entrees.qmd depuis un .docx périmé.
+
+    Depuis août 2026, glossaire/entrees.qmd fait autorité : les entrées y sont
+    ajoutées et corrigées directement, et le .docx n'est plus qu'un export
+    ponctuel. Régénérer depuis un .docx plus ancien que le .qmd écrase donc
+    silencieusement du travail. On compare les dates de modification et on
+    s'arrête si la source est en retard.
+
+    Le critère est l'horodatage, avec sa faille connue : un `git clone` remet
+    les mtime au moment du clone, ce qui peut rendre le .docx faussement plus
+    récent. Le garde-fou protège contre l'erreur ordinaire (relancer le script
+    par habitude), pas contre un arbre fraîchement cloné.
+    """
+    if not SORTIE.exists():
+        return
+    if source.stat().st_mtime >= SORTIE.stat().st_mtime:
+        return
+
+    from datetime import datetime
+    fmt = lambda p: datetime.fromtimestamp(p.stat().st_mtime).strftime("%Y-%m-%d %H:%M")
+    message = (
+        f"\n⛔ Refus de régénérer : le .docx est plus ancien que le .qmd.\n\n"
+        f"   source  {source.relative_to(RACINE) if source.is_relative_to(RACINE) else source}"
+        f"   modifié le {fmt(source)}\n"
+        f"   sortie  {SORTIE.relative_to(RACINE)}   modifié le {fmt(SORTIE)}\n\n"
+        f"   entrees.qmd fait autorité et contient probablement des ajouts que\n"
+        f"   le .docx ignore. Régénérer les effacerait.\n\n"
+        f"   · pour seulement reconstruire l'index des termes :\n"
+        f"       python3 outils/indexer-glossaire.py\n"
+        f"   · pour écraser malgré tout (vous perdrez les ajouts) :\n"
+        f"       python3 {Path(__file__).relative_to(RACINE)} {source} --force\n"
+    )
+    if not force:
+        sys.exit(message)
+    print(message.replace("⛔ Refus de régénérer :", "⚠ --force :"), file=sys.stderr)
+
+
 def main() -> None:
-    if len(sys.argv) < 2:
+    args = [a for a in sys.argv[1:] if a != "--force"]
+    force = "--force" in sys.argv
+    if not args:
         sys.exit(__doc__)
-    source = Path(sys.argv[1])
+    source = Path(args[0])
+    verifier_fraicheur(source, force)
     blocs = [b.strip() for b in extraire_markdown(source).split("\n\n") if b.strip()]
 
     # Passe 1 : recenser les entrées pour pouvoir résoudre les renvois.
