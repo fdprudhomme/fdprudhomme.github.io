@@ -59,7 +59,7 @@ PRUD'HOMME, François David. « L'enquête seconde : un protocole rancièrien co
 
 ### Travaux numériques
 
-*Glossaire de la sémiose algorithmique.* Édition numérique évolutive, [fdprudhomme.com/glossaire](glossaire/index.qmd). Soixante-et-onze entrées rédigées, organisées en trois registres.
+*Glossaire de la sémiose algorithmique.* Édition numérique évolutive, [fdprudhomme.com/glossaire](glossaire/index.qmd). Soixante-douze entrées rédigées, organisées en trois registres.
 
 ### Ouvrages, articles et recensions
 

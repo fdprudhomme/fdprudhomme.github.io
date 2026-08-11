@@ -60,7 +60,7 @@ PRUD'HOMME, François David. "The Second Inquiry: A Rancièrian Protocol Against
 
 ### Digital Scholarship
 
-*Glossaire de la sémiose algorithmique* [Glossary of Algorithmic Semiosis]. Evolving digital edition, [fdprudhomme.com/glossaire](../glossaire/index.qmd). Seventy-one entries, organised across three registers.
+*Glossaire de la sémiose algorithmique* [Glossary of Algorithmic Semiosis]. Evolving digital edition, [fdprudhomme.com/glossaire](../glossaire/index.qmd). Seventy-two full entries, organised across three registers.
 
 ### Books, Articles and Reviews
 

@@ -142,6 +142,8 @@ termes:
     ancre: "spirale-interpretative"
   - terme: "SURPONDÉRATION"
     ancre: "surponderation"
+  - terme: "TEXTUALITÉ ALGORITHMIQUE"
+    ancre: "textualite-algorithmique"
   - terme: "TICKET"
     ancre: "ticket"
   - terme: "TOKEN"

@@ -251,6 +251,10 @@ L'attracteur statistique n'est pas un point figé, mais une **zone de convergenc
 
 L'attracteur statistique devient attracteur perceptif lorsqu'il se matérialise dans une forme sensible reconnue comme évidente par un sujet humain. Il passe alors : du calcul → à la forme → à l'évidence perceptive.
 
+::: {.voir-aussi}
+**Voir aussi** — [textualité algorithmique](#textualite-algorithmique)
+:::
+
 
 ## AUTOENCODEURS ÉPARS {#autoencodeurs-epars}
 
@@ -460,7 +464,7 @@ La boucle ReAct des agents est une **machine à clôture prématurée permanente
 Les deux concepts sont voisins mais ne nomment pas la même chose : la coopération interprétative retournée nomme un **renversement de position** — qui anticipe qui —, la clôture prématurée nomme la **disparition de la durée**. Un système pourrait anticiper son lecteur sans supprimer la durée ; la sémiose algorithmique fait les deux à la fois.
 
 ::: {.voir-aussi}
-**Voir aussi** — [silence sémiotique](#silence-semiotique) · [spirale interprétative](#spirale-interpretative) · [ReAct Loop](#react-loop) · [coopération interprétative](#cooperation-interpretative) · [coopération interprétative retournée](#cooperation-interpretative-retournee) · [sémiose illimitée](#semiose-illimitee) · [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique) · [espace transitionnel](#espace-transitionnel)
+**Voir aussi** — [silence sémiotique](#silence-semiotique) · [spirale interprétative](#spirale-interpretative) · [ReAct Loop](#react-loop) · [coopération interprétative](#cooperation-interpretative) · [coopération interprétative retournée](#cooperation-interpretative-retournee) · [sémiose illimitée](#semiose-illimitee) · [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique) · [espace transitionnel](#espace-transitionnel) · [textualité algorithmique](#textualite-algorithmique)
 :::
 
 
@@ -682,7 +686,7 @@ Le protocole s’apparente à un **« Blow Up algorithmique »** — du film d�
 Le système génératif fonctionne comme un **explicateur** au sens du *Maître ignorant* de Rancière : il explique à la place de l’interprète et le maintient dans la position de celui à qui l’on explique. L’enquête seconde est la **contre-conduite émancipatrice** qui restitue à l’interprète la position de celui qui cherche — une lecture qui rejoint l’**anti-herméneutique** de Bertrand Gervais : il ne s’agit pas de restituer un sens caché derrière la sortie, mais d’en faire le point de départ d’une enquête qui ne se referme pas.
 
 ::: {.voir-aussi}
-**Voir aussi** — [résistance sémiotique](#resistance-semiotique) · [Maître ignorant](#maitre-ignorant) · [contre-conduite](#contre-conduite) · [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique) · [coopération interprétative retournée](#cooperation-interpretative-retournee) · [pédagogie de l’indétermination](#pedagogie-de-l-indetermination)
+**Voir aussi** — [résistance sémiotique](#resistance-semiotique) · [Maître ignorant](#maitre-ignorant) · [contre-conduite](#contre-conduite) · [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique) · [coopération interprétative retournée](#cooperation-interpretative-retournee) · [pédagogie de l’indétermination](#pedagogie-de-l-indetermination) · [textualité algorithmique](#textualite-algorithmique)
 :::
 
 
@@ -1166,6 +1170,10 @@ La médiation algorithmique est le **mécanisme central du visible-pensant** : l
 
 En orientant systématiquement l'accès au sensible, la médiation algorithmique contribue à l'émergence de **nouveaux régimes de perceptibilité** où la visibilité est conditionnée par le calcul, l'attention modulée par des attracteurs perceptifs, et le choix apparent alors qu'il est pré-orienté.
 
+::: {.voir-aussi}
+**Voir aussi** — [textualité algorithmique](#textualite-algorithmique)
+:::
+
 
 ## MÉMOIRE {#memoire}
 
@@ -1637,7 +1645,7 @@ La sémiose algorithmique désigne le régime de production et de circulation de
 Elle n’abolit pas la sémiose au sens de Peirce — elle en déplace la matière : là où la sémiose humaine est un parcours inférentiel ouvert, la sémiose algorithmique livre des objets qui ont **déjà résolu leur interprétant**. C’est contre cette pré-résolution que se déploient les trois gestes du projet — **cartographier** le territoire qu’elle sédimente, **protéger** le silence qu’elle court-circuite, **agir** pour ranimer la puissance interprétative qu’elle anesthésie.
 
 ::: {.voir-aussi}
-**Voir aussi** — [cartographie de la sémiose algorithmique](#cartographie-de-la-semiose-algorithmique) · [silence sémiotique](#silence-semiotique) · [résistance sémiotique](#resistance-semiotique) · [coopération interprétative](#cooperation-interpretative) · [visible-pensant](#visible-pensant) · [spirale interprétative](#spirale-interpretative)
+**Voir aussi** — [cartographie de la sémiose algorithmique](#cartographie-de-la-semiose-algorithmique) · [silence sémiotique](#silence-semiotique) · [résistance sémiotique](#resistance-semiotique) · [coopération interprétative](#cooperation-interpretative) · [visible-pensant](#visible-pensant) · [spirale interprétative](#spirale-interpretative) · [textualité algorithmique](#textualite-algorithmique)
 :::
 
 
@@ -1824,6 +1832,46 @@ La surpondération est le **moteur quantitatif** de l'attracteur perceptif : ce 
 
 Lors d'une **bifurcation probabiliste**, la surpondération augmente la probabilité qu'une branche soit empruntée plutôt qu'une autre. Le système reste ouvert, mais **l'ouverture est asymétrique**.
 
+::: {.voir-aussi}
+**Voir aussi** — [textualité algorithmique](#textualite-algorithmique)
+:::
+
+
+## TEXTUALITÉ ALGORITHMIQUE {#textualite-algorithmique}
+
+[La surface sans travail]{.sous-titre}
+
+[Concept forgé par l’auteur — relief du premier geste — à valider]{.statut}
+
+::: {.punchline}
+Un texte dont on ne peut pas dire ce qu’il a coûté à produire.
+:::
+
+::: {.definition}
+La textualité algorithmique désigne l’ensemble des propriétés du texte produit sous régime de sémiose algorithmique : une surface énonciative sans trace du travail qui l’a formée, statistiquement centrée, indéfiniment reformulable, et dotée d’une autorité de forme sans énonciateur assignable. Là où la sémiose algorithmique nomme le régime, la textualité algorithmique en décrit les effets de surface — relief du premier geste, pendant textuel du visible-pensant.
+:::
+
+### Quatre propriétés
+
+-   **L’effacement du travail** : le texte humain porte les traces de sa fabrication — hésitations résorbées, ruptures de registre, disproportions entre ce que l’auteur maîtrise et ce qu’il traverse. La sortie générative arrive sans ces indices. La lecture perd du même coup son accès aux conditions de production : ce qui a été difficile, ce qui a été concédé, ce qui n’a pas été trouvé.
+-   **La centralité statistique** : l’énoncé se stabilise près du mode de la distribution, c’est-à-dire sur la formulation la plus probable étant donné le corpus. La conséquence tient dans un **effet de reconnaissance** — le texte paraît juste parce qu’il ressemble à ce qui a déjà été écrit. C’est la surpondération au niveau de la phrase, et l’attracteur statistique devenu régime stylistique.
+-   **La reformulabilité indéfinie** : toute formulation peut être remplacée à coût nul par une variante de même valeur. La version cesse d’être un état atteint et devient un tirage parmi d’autres. Le travail de la rature — choisir contre les possibles — perd son support matériel.
+-   **L’autorité sans énonciateur** : le texte présente les marques formelles de l’assertion assumée sans qu’aucune instance ne réponde de son contenu. C’est la véridiction pré-installée au niveau de la surface : la forme du dire vrai détachée de la position depuis laquelle on le dit.
+
+### Articulation au cadre : le pendant textuel du visible-pensant
+
+Le **visible-pensant** décrit un visible qui a déjà pensé pour celui qui regarde. La textualité algorithmique décrit un **lisible qui a déjà interprété** pour celui qui lit. Les deux reliefs relèvent du même geste et se distinguent par leur matière : l’un cartographie l’image générée, l’autre le texte généré.
+
+L’articulation aux gestes suivants passe par les **traces manquantes**. Ce que l’effacement du travail retire à l’interprète, c’est la prise même de la coopération interprétative : les blancs à combler, les indices d’intention, les inégalités qui font hypothèse. L’enquête seconde est la reconstitution artificielle de ces prises — comparer plusieurs générations pour faire réapparaître, par différence, la variance que la surface unique dissimule.
+
+### Textualité algorithmique et sémiose algorithmique
+
+La **sémiose algorithmique** nomme le régime de production et de circulation des signes, tous supports confondus. La **textualité algorithmique** en isole les propriétés observables sur le texte, et constitue à ce titre un objet descriptible pour l’analyse — mesurable, comparable d’un modèle à l’autre, exposable en corpus.
+
+::: {.voir-aussi}
+**Voir aussi** — [sémiose algorithmique](#semiose-algorithmique) · [visible-pensant](#visible-pensant) · [attracteur statistique](#attracteur-statistique) · [surpondération](#surponderation) · [véridiction pré-installée](#veridiction-pre-installee) · [clôture prématurée](#cloture-prematuree) · [coopération interprétative](#cooperation-interpretative) · [enquête seconde](#enquete-seconde) · [médiation algorithmique](#mediation-algorithmique)
+:::
+
 
 ## TICKET {#ticket}
 
@@ -1974,7 +2022,7 @@ Chez Greimas, la véridiction est un **contrat** : le jeu de l’être et du par
 La pré-installation opère en deux sites. Du côté de la **sortie** : l’optimisation statistique rend la crédibilité immanente à la forme — l’objet correspond déjà aux attracteurs sémiotiques de son public, le contrat est signé d’avance. Du côté de l’**agent** : le Soul File en est la forme la plus radicale — une identité prescrite avant toute sémiose, qui oriente toute la production ultérieure. La résistance sémiotique commence par la capacité à identifier ces régimes de véridiction comme des choix et non des évidences.
 
 ::: {.voir-aussi}
-**Voir aussi** — [coopération interprétative retournée](#cooperation-interpretative-retournee) · [clôture prématurée](#cloture-prematuree) · [Soul File](#soul-file) · [sémiose rétaliative](#semiose-retaliative) · [visible-pensant](#visible-pensant) · [intentio operis](#intentio-operis) · [résistance sémiotique](#resistance-semiotique)
+**Voir aussi** — [coopération interprétative retournée](#cooperation-interpretative-retournee) · [clôture prématurée](#cloture-prematuree) · [Soul File](#soul-file) · [sémiose rétaliative](#semiose-retaliative) · [visible-pensant](#visible-pensant) · [intentio operis](#intentio-operis) · [résistance sémiotique](#resistance-semiotique) · [textualité algorithmique](#textualite-algorithmique)
 :::
 
 
@@ -1997,6 +2045,10 @@ Le visible-pensant prolonge et transforme l'**image-pensée** deleuzienne : l'im
 ### Visible-pensant et écologie du sensible
 
 Le visible-pensant reconfigure l'**écologie du sensible** contemporaine en automatisant certains seuils de perceptibilité, stabilisant des attracteurs perceptifs, modifiant les régimes de perceptibilité.
+
+::: {.voir-aussi}
+**Voir aussi** — [textualité algorithmique](#textualite-algorithmique)
+:::
 
 
 ## VISUALISATIONS ALGORITHMIQUES {#visualisations-algorithmiques}
