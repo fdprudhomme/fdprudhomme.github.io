@@ -27,6 +27,7 @@ Faire des reliefs probabilistes une carte lisible.
 - [image-pensée](entrees.qmd#image-pensee)
 - [image-processus](entrees.qmd#image-processus)
 - [médiation algorithmique](entrees.qmd#mediation-algorithmique)
+- [textualité algorithmique](entrees.qmd#textualite-algorithmique)
 :::
 
 ::: {.geste-2}

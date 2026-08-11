@@ -120,7 +120,7 @@ reliefs probabilistes (attracteurs,
 requête converge vers des formes pré-stabilisées. Le
 [*visible-pensant*](glossaire/entrees.qmd#visible-pensant) — régime des
 [images génératives](glossaire/entrees.qmd#images-generatives) où la forme
-résout son propre interprétant — et la *textualité algorithmique*, son pendant
+résout son propre interprétant — et la [*textualité algorithmique*](glossaire/entrees.qmd#textualite-algorithmique), son pendant
 discursif, figurent ici comme reliefs de la carte.
 
 La contribution sémiotique propre : décrire la chaîne de transduction qui va
