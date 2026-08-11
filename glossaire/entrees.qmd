@@ -134,7 +134,7 @@ L’artéfact cognitif classique transformait la tâche ; l’algorithmique tran
 Un artéfact cognitif algorithmique est un objet visuel ou computationnel produit par un système algorithmique (IA générative, modèle statistique, visualisation automatisée) qui externalise une opération cognitive et influence la perception, l’interprétation ou la prise de décision humaine.
 :::
 
-### Cadre théorique (Norman, Hutchins)
+### Cadre théorique
 
 L’artefact cognitif classique — liste, carnet, carte — **transforme la tâche** plutôt qu’il n’amplifie une capacité. L’artéfact algorithmique franchit un seuil : il ne se contente pas de représenter l’information pour qu’un sujet la traite, il livre un **traitement déjà effectué** — l’externalisation porte non plus sur le support de l’opération, mais sur l’opération elle-même.
 
@@ -234,6 +234,8 @@ Un attracteur statistique est une zone de convergence probabiliste qui oriente d
 Un **attracteur statistique** désigne une configuration récurrente vers laquelle tend un système probabiliste en raison de la **distribution des données, des pondérations et des règles d'optimisation** qui le structurent. Il n'impose pas un résultat unique, mais **oriente durablement l'espace des possibles**.
 
 ### Cadre théorique (calcul du visible)
+
+L'attracteur statistique est le produit d'une **distribution d'entraînement** : les régularités les plus denses du corpus forment des creux vers lesquels la génération converge. Ce qui se donne comme évidence de forme est la trace d'une fréquence, et le **calcul du visible** désigne cette conversion d'une masse statistique en apparence de nécessité.
 
 ### L'attracteur statistique constitue le **niveau invisible du visible-pensant** :
 
@@ -391,7 +393,7 @@ La charge perceptive est la quantité d'effort cognitif et attentionnel mobilis�
 
 La **charge perceptive** désigne le **niveau d'effort cognitif et attentionnel** requis pour percevoir, traiter et interpréter une configuration sensible donnée (image, son, interface, dispositif). Elle mesure la **sollicitation du regard et des capacités perceptives** dans une situation donnée.
 
-### Cadre théorique (régimes de perceptibilité)
+### Cadre théorique (résistance sémiotique)
 
 Dans une perspective de **résistance sémiotique**, la charge perceptive est un **indicateur clé de l'équilibre ou du déséquilibre** des régimes de perceptibilité. Elle dépend de la densité d'informations, de la complexité formelle, du rythme perceptif imposé, et du degré de médiation algorithmique.
 
@@ -972,7 +974,7 @@ Chaque image-processus est traversée par des **bifurcations probabilistes** : �
 Gilbert Simondon
 :::
 
-→ *Voir* **OPÉRATEUR PERCEPTIF** et **COGNITION DISTRIBUÉE**
+→ *Voir* **OPÉRATEURS PERCEPTIFS RÉELS** et **COGNITION DISTRIBUÉE**
 
 
 ## INGÉNIERIE DU POSSIBLE {#ingenierie-du-possible}
@@ -1030,7 +1032,7 @@ L'IA ne comprend pas : elle calcule, propose et oriente le visible.
 :::
 
 ::: {.definition}
-L'intelligence artificielle est un système de calcul probabiliste qui, en produisant des formes visibles et interprétables, agit comme un opérateur cognitif au sein de l'écologie du sensible.
+L'intelligence artificielle est un système de calcul probabiliste qui, en produisant des formes visibles et interprétables, agit comme un opérateur cognitif au sein des régimes de perceptibilité.
 :::
 
 L'**intelligence artificielle (IA)** désigne l'ensemble des systèmes computationnels capables de **produire des comportements, des décisions ou des formes symboliques** (texte, image, son) à partir de calculs statistiques, d'apprentissages automatiques et de modèles probabilistes, **sans compréhension sémantique propre du monde**.
