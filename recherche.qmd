@@ -143,8 +143,8 @@ l'intervalle entre la perception du signe et sa résolution en sens, condition
 structurelle de la créativité interprétative, ancrée dans l'ennui
 phénoménologique (Husserl, Heidegger), le
 [*Ma*](glossaire/entrees.qmd#ma-semiotique) japonais
-[@saitoJapaneseAestheticsImperfection], la frontière lotmanienne
-[@UniverseMindSemiotic] et l'[hésitation](glossaire/entrees.qmd#hesitation)
+[@saitoJapaneseAestheticsImperfection1997], la frontière lotmanienne
+[@lotmanUniverseMindSemiotic2000] et l'[hésitation](glossaire/entrees.qmd#hesitation)
 d'Eco [@ecoLimitesLinterpretation1992]. Son inverse est la
 [*clôture prématurée*](glossaire/entrees.qmd#cloture-prematuree), pathologie
 structurelle des architectures agentiques dont chaque cycle appelle le
