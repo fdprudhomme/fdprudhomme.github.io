@@ -1,9 +1,9 @@
 _site/
 .quarto/
-*.pdf
-!assets/*.pdf
-!cv.pdf
-!en/cv.pdf
+# Les PDF déposés à la racine des sources sont des livrables : Quarto les
+# recopie dans _site/ et le CI les déploie. Ne pas les exclure, sinon ils
+# manquent au checkout du workflow et l'URL renvoie 404. Les PDF produits
+# par le rendu vivent dans _site/, déjà ignoré ci-dessus.
 .DS_Store
 outils/source/*.docx
 __pycache__/
