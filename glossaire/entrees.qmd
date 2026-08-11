@@ -46,7 +46,7 @@ Un agent repose sur cinq composantes indissociables, dont l'absence ou le retrai
 
 La distinction avec le chatbot n'est pas de degré mais d'architecture. Le chatbot maintient structurellement une temporalité de l'interprétation humaine : il attend un signe avant d'agir. L'agent supprime cet espace. Il n'attend pas : il agit dans les intervalles que l'interprète humain occupe par le silence et l'hésitation.
 
-Du point de vue de l'écologie cognitive, l'agent constitue un **opérateur perceptif réel non supervisé** : il transforme la sémiosphère sans passer par la médiation d'un sujet interprétant humain. Il ne coopère pas au sens d'Eco — il produit des effets sans habiter l'indétermination, sans hésiter, sans silence sémiotique possible.
+Du point de vue de la cognition distribuée, l'agent constitue un **opérateur perceptif réel non supervisé** : il transforme la sémiosphère sans passer par la médiation d'un sujet interprétant humain. Il ne coopère pas au sens d'Eco — il produit des effets sans habiter l'indétermination, sans hésiter, sans silence sémiotique possible.
 
 ### Agent et silence sémiotique
 
@@ -83,7 +83,7 @@ Un artéfact cognitif est un dispositif matériel, symbolique ou algorithmique q
 
 Objet, un dispositif ou une représentation matérielle ou symbolique qui **externalise, soutient ou transforme une opération de pensée**, en participant activement aux processus cognitifs humains. Il ne se contente pas d'assister la cognition : il **reconfigure la manière de percevoir, de raisonner et de décider**.
 
-Dans une perspective d'**écologie cognitive**, l'artéfact cognitif est un **élément constitutif de la pensée distribuée** : la cognition n'est pas confinée au sujet, mais circule entre le cerveau, le corps, les outils et les environnements médiatiques.
+Dans une perspective de **cognition distribuée**, l'artéfact cognitif est un **élément constitutif du système cognitif** : la cognition n'est pas confinée au sujet, mais circule entre le cerveau, le corps, les outils et les environnements médiatiques.
 
 ### Selon Donald A. Norman (1991)
 
@@ -192,9 +192,9 @@ Configuration visuelle, sonore ou audiovisuelle qui, au sein d'un environnement 
 
 Il s'agit d'un point de convergence vers lequel tend la perception, non par contrainte explicite, mais par **stabilisation implicite des attentes, des habitudes et des régularités sensibles**.
 
-### Cadre théorique (écologie cognitive)
+### Cadre théorique (cognition distribuée)
 
-Dans une perspective d'**écologie cognitive**, l'attracteur perceptif n'est ni purement subjectif ni purement objectif — il émerge de l'interaction entre :
+Dans une perspective de **cognition distribuée**, l'attracteur perceptif n'est ni purement subjectif ni purement objectif — il émerge de l'interaction entre :
 
 -   Des **dispositifs techniques** (montage, cadrage, algorithmes, interfaces)
 
@@ -331,7 +331,7 @@ La bifurcation probabiliste est un point de bascule où un système génère plu
 
 Désigne un point critique au sein d'un système computationnel ou perceptif où, à partir d'un même état initial, **plusieurs trajectoires possibles émergent**, chacune associée à une probabilité différente. Ce moment marque un basculement où le devenir du visible n'est plus déterminé, mais **statistiquement orienté**.
 
-### Cadre théorique (visible-pensant)
+### Cadre théorique (Peirce)
 
 Dans le contexte de la sémiose algorithmique, la bifurcation probabiliste correspond au moment où le **visible-pensant** se déploie : l'image n'est pas encore fixée, le sens n'est pas encore stabilisé, mais l'espace des possibles est déjà **contraint par des distributions statistiques**.
 
@@ -610,7 +610,7 @@ La co-perception homme-machine désigne une perception distribuée dans laquelle
 
 Situation dans laquelle la perception humaine et les opérations de perception automatisée (vision artificielle, classification, génération d'images) se répondent et se modulent mutuellement.
 
-### Cadre théorique (résistance sémiotique / écologie cognitive)
+### Cadre théorique (cognition distribuée)
 
 Dans le cadre de la **résistance sémiotique**, la co-perception homme-machine marque la fin d'une perception strictement humaine : le monde n'est plus seulement perçu *par* le sujet, il est **pré-perçu, filtré et orienté par des dispositifs**. La perception devient un **processus relationnel**, réparti entre regard humain, calcul algorithmique et médiation technique.
 
@@ -1033,7 +1033,7 @@ L'intelligence artificielle est un système de calcul probabiliste qui, en produ
 
 L'**intelligence artificielle (IA)** désigne l'ensemble des systèmes computationnels capables de **produire des comportements, des décisions ou des formes symboliques** (texte, image, son) à partir de calculs statistiques, d'apprentissages automatiques et de modèles probabilistes, **sans compréhension sémantique propre du monde**.
 
-### Cadre théorique (résistance sémiotique / visible-pensant)
+### Cadre théorique
 
 Dans le cadre de ce projet, l'IA n'est pas envisagée comme une imitation de l'intelligence humaine, mais comme un **opérateur perceptif et cognitif**. Elle agit en amont de l'expérience sensible en calculant des régularités, surpondérant certains traits, proposant des formes visibles déjà orientées. L'IA ne pense pas au sens humain, mais elle **fait penser** en structurant ce qui devient perceptible, crédible ou saillant.
 
@@ -1352,7 +1352,7 @@ C’est la strate qui force le plus l’évolution du concept stieglerien. Tourn
 Bernard Stiegler
 :::
 
-→ *Voir* **MÉDIATION ALGORITHMIQUE** et **ÉCOLOGIE COGNITIVE**
+→ *Voir* **MÉDIATION ALGORITHMIQUE** et **COGNITION DISTRIBUÉE**
 
 
 ## MODÈLES DIFFUSIONNELS {#modeles-diffusionnels}
@@ -1959,7 +1959,7 @@ Les plateformes contemporaines (GitHub Issues, GitLab, Jira, Bugzilla) implémen
 
 ### Articulation au cadre : canal d'attention saturable
 
-Le ticket est, du point de vue de l'écologie cognitive, un opérateur de coordination distribuée : il matérialise et rend traitable une demande d'attention. Sa valeur tient à ce qu'il appelle un interprétant humain — un mainteneur qui lit, comprend, décide. Le ticket suppose donc une économie attentionnelle finie : un projet ne peut absorber qu'un débit limité de tickets par unité de temps.
+Le ticket est, du point de vue de la cognition distribuée, un opérateur de coordination distribuée : il matérialise et rend traitable une demande d'attention. Sa valeur tient à ce qu'il appelle un interprétant humain — un mainteneur qui lit, comprend, décide. Le ticket suppose donc une économie attentionnelle finie : un projet ne peut absorber qu'un débit limité de tickets par unité de temps.
 
 Lorsqu'un agent autonome dépose des tickets à un débit incommensurable avec celui d'un mainteneur humain (cf. asymétrie sémiosique), le ticket cesse d'être un dispositif de coopération et devient un vecteur de saturation. La forme du ticket — son apparence de demande légitime — masque alors une pression structurelle sur le canal d'attention du projet. C'est précisément cette ambivalence (forme coopérative, fonction saturante) qui rend l'incident OpenClaw / Matplotlib paradigmatique.
 
