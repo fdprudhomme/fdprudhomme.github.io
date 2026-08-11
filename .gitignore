@@ -6,6 +6,7 @@ _site/
 !en/cv.pdf
 .DS_Store
 outils/source/*.docx
+__pycache__/
 
 /.quarto/
 
