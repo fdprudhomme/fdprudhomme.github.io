@@ -254,6 +254,47 @@
       "select": "zotero://select/library/items/6G6MSLZL"
     },
     {
+      "key": "C7HTMEFL",
+      "version": 4214,
+      "itemType": "journalArticle",
+      "title": "The Extended Mind",
+      "date": "1998",
+      "libraryCatalog": "JSTOR",
+      "url": "https://www.jstor.org/stable/3328150",
+      "accessDate": "2026-08-11T13:53:04Z",
+      "volume": "58",
+      "publisher": "[Analysis Committee, Oxford University Press]",
+      "pages": "7-19",
+      "publicationTitle": "Analysis",
+      "issue": "1",
+      "ISSN": "0003-2638",
+      "citationKey": "clarkExtendedMind1998",
+      "creators": [
+        {
+          "firstName": "Andy",
+          "lastName": "Clark",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "David",
+          "lastName": "Chalmers",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-11T13:53:04Z",
+      "dateModified": "2026-08-11T13:53:13Z",
+      "uri": "http://zotero.org/users/4329366/items/C7HTMEFL",
+      "itemID": 1492,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "C7HTMEFL",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/C7HTMEFL"
+    },
+    {
       "key": "TXTJIYZL",
       "version": 4194,
       "itemType": "preprint",
