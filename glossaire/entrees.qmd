@@ -134,7 +134,7 @@ L’artéfact cognitif classique transformait la tâche ; l’algorithmique tran
 Un artéfact cognitif algorithmique est un objet visuel ou computationnel produit par un système algorithmique (IA générative, modèle statistique, visualisation automatisée) qui externalise une opération cognitive et influence la perception, l’interprétation ou la prise de décision humaine.
 :::
 
-### Cadre théorique
+### Cadre théorique (Norman)
 
 L’artefact cognitif classique — liste, carnet, carte — **transforme la tâche** plutôt qu’il n’amplifie une capacité. L’artéfact algorithmique franchit un seuil : il ne se contente pas de représenter l’information pour qu’un sujet la traite, il livre un **traitement déjà effectué** — l’externalisation porte non plus sur le support de l’opération, mais sur l’opération elle-même.
 
@@ -237,7 +237,7 @@ Un **attracteur statistique** désigne une configuration récurrente vers laquel
 
 L'attracteur statistique est le produit d'une **distribution d'entraînement** : les régularités les plus denses du corpus forment des creux vers lesquels la génération converge. Ce qui se donne comme évidence de forme est la trace d'une fréquence, et le **calcul du visible** désigne cette conversion d'une masse statistique en apparence de nécessité.
 
-### L'attracteur statistique constitue le **niveau invisible du visible-pensant** :
+L'attracteur statistique constitue le **niveau invisible du visible-pensant** :
 
 -   Il agit en amont de toute perception
 
@@ -308,7 +308,7 @@ Les SAEs occupent une position structurellement ambivalente vis-à-vis du projet
 
 ### **Développements récents (2025–2026)**
 
-### L'horizon technique s'est déplacé depuis les SAEs originels :
+L'horizon technique s'est déplacé depuis les SAEs originels :
 
 -   **Cross-layer transcoders (CLTs)** : variante plus récente qui lit dans une couche mais distribue son effet sur les couches suivantes, permettant la construction de **graphes d'attribution** — des cartographies computationnelles montrant, pour un prompt donné, quels traits ont activé quels autres traits, et comment ils ont collectivement produit la sortie. C'est une **circuiterie de la sémiose computationnelle**.
 
@@ -401,7 +401,7 @@ Une charge perceptive trop élevée peut saturer l'attention ; trop faible, elle
 
 ### Charge perceptive et régimes de perceptibilité
 
-### Chaque régime de perceptibilité impose une **norme de charge perceptive** :
+Chaque régime de perceptibilité impose une **norme de charge perceptive** :
 
 -   Certains valorisent la fluidité et la rapidité
 
