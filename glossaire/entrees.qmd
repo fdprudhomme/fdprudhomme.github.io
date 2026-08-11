@@ -113,11 +113,11 @@ Dans ce projet de recherches, la notion d'**artefact cognitif** permet d'ancrer 
 
 → *Voir* l’entrée autonome ARTÉFACT COGNITIF ALGORITHMIQUE.
 
-### Artéfact cognitif et régime de pensée
+### Artéfact cognitif et régimes de perceptibilité
 
-Un artéfact cognitif est toujours inscrit dans un **régime de pensée** donné : il incarne des normes perceptives, stabilise certaines manières de voir, rend d'autres interprétations moins accessibles.
+Un artéfact cognitif est toujours inscrit dans un **régime de perceptibilité** donné : il incarne des normes perceptives, stabilise certaines manières de voir, rend d'autres interprétations moins accessibles.
 
-Ainsi, les artéfacts cognitifs algorithmiques contemporains participent à l'émergence d'un régime de pensée où les images **ne représentent plus seulement le monde, mais le calculent et le proposent**.
+Ainsi, les artéfacts cognitifs algorithmiques contemporains participent à l'émergence d'un régime de perceptibilité où les images **ne représentent plus seulement le monde, mais le calculent et le proposent**.
 
 
 ## ARTÉFACT COGNITIF ALGORITHMIQUE {#artefact-cognitif-algorithmique}
@@ -337,6 +337,8 @@ Dans le contexte de la sémiose algorithmique, la bifurcation probabiliste corre
 
 La perception humaine intervient alors non comme créatrice ex nihilo, mais comme **sélectrice, amplificatrice ou résistante** face à ces possibles calculés.
 
+Le cadre peircien éclaire ce moment : la bifurcation est le point où la sémiose pourrait produire **plusieurs interprétants**, et où le calcul en privilégie un. L'ouverture demeure formellement, mais la distribution des probabilités décide en pratique de la branche empruntée.
+
 ### Lien avec l'attracteur perceptif
 
 -   La bifurcation probabiliste **ouvre** l'éventail des possibles.
@@ -389,9 +391,9 @@ La charge perceptive est la quantité d'effort cognitif et attentionnel mobilis�
 
 La **charge perceptive** désigne le **niveau d'effort cognitif et attentionnel** requis pour percevoir, traiter et interpréter une configuration sensible donnée (image, son, interface, dispositif). Elle mesure la **sollicitation du regard et des capacités perceptives** dans une situation donnée.
 
-### Cadre théorique (écologie du sensible)
+### Cadre théorique (régimes de perceptibilité)
 
-Dans une perspective de **résistance sémiotique**, la charge perceptive est un **indicateur clé de l'équilibre ou du déséquilibre** d'une écologie du sensible. Elle dépend de la densité d'informations, de la complexité formelle, du rythme perceptif imposé, et du degré de médiation algorithmique.
+Dans une perspective de **résistance sémiotique**, la charge perceptive est un **indicateur clé de l'équilibre ou du déséquilibre** des régimes de perceptibilité. Elle dépend de la densité d'informations, de la complexité formelle, du rythme perceptif imposé, et du degré de médiation algorithmique.
 
 Une charge perceptive trop élevée peut saturer l'attention ; trop faible, elle peut appauvrir l'expérience.
 
@@ -610,7 +612,7 @@ La co-perception homme-machine désigne une perception distribuée dans laquelle
 
 Situation dans laquelle la perception humaine et les opérations de perception automatisée (vision artificielle, classification, génération d'images) se répondent et se modulent mutuellement.
 
-### Cadre théorique (cognition distribuée)
+### Cadre théorique (résistance sémiotique)
 
 Dans le cadre de la **résistance sémiotique**, la co-perception homme-machine marque la fin d'une perception strictement humaine : le monde n'est plus seulement perçu *par* le sujet, il est **pré-perçu, filtré et orienté par des dispositifs**. La perception devient un **processus relationnel**, réparti entre regard humain, calcul algorithmique et médiation technique.
 
@@ -625,7 +627,7 @@ La co-perception est la **condition d'actualisation du visible-pensant** : la ma
 Jacques Rancière
 :::
 
-→ *Voir* **RÉGIMES DE PERCEPTIBILITÉ** et **RÉGIME DE PENSÉE**
+→ *Voir* **RÉGIMES DE PERCEPTIBILITÉ**
 
 
 ## ÉCOLOGIE COGNITIVE {#ecologie-cognitive}
@@ -934,9 +936,9 @@ L'**image-pensée** désigne une image qui **ne se contente pas de représenter 
 
 Dans la perspective de Gilles Deleuze, le cinéma est une **machine à penser** : l'image n'est pas un signe à interpréter, mais un **événement perceptif** qui engage la pensée en la mettant en crise, en la déplaçant ou en l'inventant.
 
-### Image-pensée et régimes de pensée
+### Image-pensée et régimes de perceptibilité
 
-L'image-pensée est l'**unité opératoire** d'un régime de pensée : l'image-mouvement produit une pensée de l'action ; l'image-temps produit une pensée de l'indétermination ; le **visible-pensant** contemporain prolonge l'image-pensée en y intégrant le calcul, la probabilité et l'anticipation.
+L'image-pensée est l'**unité opératoire** d'un régime de perceptibilité : l'image-mouvement produit une pensée de l'action ; l'image-temps produit une pensée de l'indétermination ; le **visible-pensant** contemporain prolonge l'image-pensée en y intégrant le calcul, la probabilité et l'anticipation.
 
 
 ## IMAGE-PROCESSUS {#image-processus}
@@ -1037,9 +1039,9 @@ L'**intelligence artificielle (IA)** désigne l'ensemble des systèmes computati
 
 Dans le cadre de ce projet, l'IA n'est pas envisagée comme une imitation de l'intelligence humaine, mais comme un **opérateur perceptif et cognitif**. Elle agit en amont de l'expérience sensible en calculant des régularités, surpondérant certains traits, proposant des formes visibles déjà orientées. L'IA ne pense pas au sens humain, mais elle **fait penser** en structurant ce qui devient perceptible, crédible ou saillant.
 
-### IA et écologie du sensible
+### IA et régimes de perceptibilité
 
-L'IA transforme profondément l'**écologie du sensible** : elle accélère la production des formes, standardise certaines esthétiques, et redéfinit les seuils de perceptibilité. Elle ne remplace pas la perception humaine, mais **reconfigure le milieu dans lequel elle s'exerce**.
+L'IA transforme profondément les **régimes de perceptibilité** : elle accélère la production des formes, standardise certaines esthétiques, et redéfinit les seuils de perceptibilité. Elle ne remplace pas la perception humaine, mais **reconfigure le milieu dans lequel elle s'exerce**.
 
 
 ## INTENTIO OPERIS {#intentio-operis}
@@ -1371,9 +1373,9 @@ Les **modèles diffusionnels** sont des modèles d'intelligence artificielle gé
 
 À chaque étape de diffusion, plusieurs états visuels sont possibles, une **bifurcation probabiliste** est tranchée, orientée par des **surpondérations** issues de l'apprentissage. L'image finale est donc une **trajectoire parmi d'autres**, stabilisée par des attracteurs statistiques puis perceptifs.
 
-### Modèles diffusionnels et écologie du sensible
+### Modèles diffusionnels et régimes de perceptibilité
 
-En multipliant des images hautement plausibles et rapidement générées, les modèles diffusionnels modifient les **régimes de perceptibilité**, standardisent certaines esthétiques, déplacent les seuils de crédibilité visuelle. Ils reconfigurent ainsi l'**écologie du sensible contemporaine**.
+En multipliant des images hautement plausibles et rapidement générées, les modèles diffusionnels modifient les **régimes de perceptibilité**, standardisent certaines esthétiques, déplacent les seuils de crédibilité visuelle. Ils reconfigurent ainsi les **régimes de perceptibilité contemporains**.
 
 
 ## OPÉRATEUR PERCEPTIF {#operateur-perceptif}
@@ -1984,9 +1986,9 @@ Un **token** est une **unité minimale de traitement** utilisée par les systèm
 
 À chaque étape de génération, le système doit choisir le token suivant parmi plusieurs possibles. Ce choix constitue une **bifurcation probabiliste** : plusieurs tokens sont envisageables, un seul est actualisé, selon une hiérarchie de probabilités. Le flux perceptible (texte, image, son) est donc une suite de décisions locales, invisibles mais déterminantes.
 
-### Token et régime de pensée
+### Token et régimes de perceptibilité
 
-Le passage à une culture des tokens marque un **changement de régime de pensée** : le sens n'est plus produit par des intentions, mais par des **corrélations calculées**, ensuite interprétées par le sujet humain. Le token est ainsi le point où le **calcul précède le sens**, et où le sens devient une **émergence perceptive**.
+Le passage à une culture des tokens marque un **changement de régime de perceptibilité** : le sens n'est plus produit par des intentions, mais par des **corrélations calculées**, ensuite interprétées par le sujet humain. Le token est ainsi le point où le **calcul précède le sens**, et où le sens devient une **émergence perceptive**.
 
 
 ## TOLÉRANCE À L’INDÉTERMINATION {#tolerance-a-l-indetermination}
@@ -2098,9 +2100,9 @@ Le **visible-pensant** désigne des formes visuelles qui **intègrent en elles-m
 
 Le visible-pensant prolonge et transforme l'**image-pensée** deleuzienne : l'image ne fait plus seulement penser par sa forme, elle **pense en amont** par des calculs, des pondérations et des bifurcations probabilistes. Il s'agit d'une image-pensée **externalisée et automatisée**.
 
-### Visible-pensant et écologie du sensible
+### Visible-pensant et régimes de perceptibilité
 
-Le visible-pensant reconfigure l'**écologie du sensible** contemporaine en automatisant certains seuils de perceptibilité, stabilisant des attracteurs perceptifs, modifiant les régimes de perceptibilité.
+Le visible-pensant reconfigure les **régimes de perceptibilité** contemporains en automatisant certains seuils de perceptibilité et en stabilisant des attracteurs perceptifs.
 
 ::: {.voir-aussi}
 **Voir aussi** — [textualité algorithmique](#textualite-algorithmique)
