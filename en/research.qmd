@@ -231,9 +231,10 @@ The field of *critical digital education studies* has established a robust
 analysis of government by measurement: Ben Williamson's work on the
 datafication of education systems [@williamsonBigDataEducation2017], Siân
 Bayne's and Jen Ross's on digital pedagogies
-[@bayneManifestoTeachingOnline2020], Neil Selwyn's on the automation of
-teaching [@selwynShouldRobotsReplace2019] describe how analytics, scoring and
-prediction reconfigure institutional governance and learner subjectivity.
+[@bayneManifestoTeachingOnline2020; @rossDigitalFuturesLearning2023], Neil
+Selwyn's on the automation of teaching [@selwynShouldRobotsReplace2019]
+describe how analytics, scoring and prediction reconfigure institutional
+governance and learner subjectivity.
 
 Algorithmic semiosis describes an adjacent regime: government by generation,
 in which the device produces the semiotic object itself, with its coherence

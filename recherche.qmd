@@ -258,7 +258,8 @@ sujet de sa propre sémiose ?
 Le champ des *critical studies of digital education* a établi une analyse
 solide du gouvernement par la mesure : les travaux de Ben Williamson
 [@williamsonBigDataEducation2017] sur la datafication des systèmes éducatifs,
-ceux de Siân Bayne et de Jen Ross [@bayneManifestoTeachingOnline2020] sur les
+ceux de Siân Bayne et de Jen Ross
+[@bayneManifestoTeachingOnline2020; @rossDigitalFuturesLearning2023] sur les
 pédagogies numériques, ceux de Neil Selwyn [@selwynShouldRobotsReplace2019]
 sur l'automatisation de l'enseignement décrivent comment l'analytique, le
 score et la prédiction reconfigurent la gouvernance des institutions et la
