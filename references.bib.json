@@ -1062,50 +1062,6 @@
       "select": "zotero://select/library/items/BL6P4RMC"
     },
     {
-      "key": "HHLG35L4",
-      "version": 4199,
-      "itemType": "book",
-      "title": "Sémiotique : dictionnaire raisonné de la théorie du langage",
-      "abstractNote": "volumes ; 23 cm",
-      "date": "1979",
-      "language": "fre",
-      "shortTitle": "Sémiotique",
-      "libraryCatalog": "Internet Archive",
-      "accessDate": "2026-08-10T12:48:13Z",
-      "publisher": "Paris : Hachette",
-      "ISBN": "978-2-01-005221-7",
-      "numPages": "442",
-      "citationKey": "greimasSemiotiqueDictionnaireRaisonne1979",
-      "creators": [
-        {
-          "firstName": "Algirdas Julien",
-          "lastName": "Greimas",
-          "creatorType": "author"
-        },
-        {
-          "name": "Internet Archive",
-          "creatorType": "contributor"
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Semiotics -- Dictionaries -- French",
-          "type": 1
-        }
-      ],
-      "relations": {},
-      "dateAdded": "2026-08-10T12:48:13Z",
-      "dateModified": "2026-08-10T13:47:07Z",
-      "uri": "http://zotero.org/users/4329366/items/HHLG35L4",
-      "itemID": 1448,
-      "attachments": [],
-      "notes": [],
-      "autoJournalAbbreviation": "",
-      "itemKey": "HHLG35L4",
-      "libraryID": 1,
-      "select": "zotero://select/library/items/HHLG35L4"
-    },
-    {
       "key": "YTGFW5SK",
       "version": 4191,
       "itemType": "book",
