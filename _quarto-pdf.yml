@@ -47,10 +47,32 @@ format:
     # aussi $link-color et $primary du site) : le PDF et le HTML signalent
     # l'hyperlien de la même couleur. Contraste 7,49:1 sur blanc.
     colorlinks: true
-    linkcolor: "2F5D50"
-    urlcolor: "2F5D50"
-    citecolor: "2F5D50"
+    linkcolor: vertfdp
+    urlcolor: vertfdp
+    citecolor: vertfdp
+    include-in-header:
+      text: |
+        \usepackage{xcolor}
+        \definecolor{vertfdp}{HTML}{2F5D50}
 
-    # Les deux CV portent déjà toc: true dans leur en-tête ; on borne la
-    # profondeur pour que la table ne reprenne pas chaque sous-rubrique.
-    toc-depth: 2
+        % ─── Titres en romain ────────────────────────────────────────────
+        % KOMA-Script compose tous les éléments de titre en sans-serif par
+        % défaut. Sur un corps en Pagella, le contraste serif/sans est la
+        % première cause de l'aspect « LaTeX brut » : Latin Modern Sans
+        % n'appartient pas à la même famille et n'a pas été dessiné pour
+        % l'accompagner. \addtokomafont ajoute \rmfamily à l'élément
+        % « disposition », dont héritent titre, sections et sous-sections.
+        \addtokomafont{disposition}{\rmfamily}
+
+        % Hiérarchie explicite ensuite, élément par élément. \setkomafont
+        % remplace la définition — d'où la répétition de \rmfamily.
+        \setkomafont{title}{\rmfamily\bfseries\Huge}
+        \setkomafont{subtitle}{\rmfamily\mdseries\large\itshape}
+        \setkomafont{section}{\rmfamily\bfseries\Large}
+        \setkomafont{subsection}{\rmfamily\bfseries\large}
+        \setkomafont{subsubsection}{\rmfamily\bfseries\normalsize}
+
+    # Pas de toc: false ici. Le toc des deux CV est déclaré au niveau du
+    # document, qui l'emporte sur le projet ; il est donc restreint au format
+    # html dans cv.qmd et en/cv.qmd. Rien n'active le toc pour le PDF, il
+    # n'y en a donc pas — et le toc du glossaire n'est pas touché.

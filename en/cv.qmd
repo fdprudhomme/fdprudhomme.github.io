@@ -1,9 +1,11 @@
 ---
 title: "Curriculum Vitae"
 subtitle: "François David Prud'homme, PhD"
-toc: true
-toc-title: "Sections"
 lang: en
+format:
+  html:
+    toc: true
+    toc-title: "Sections"
 ---
 
 PhD in Semiotics · Sessional Lecturer — UQAM, UQAT, UQO

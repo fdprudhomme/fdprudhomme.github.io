@@ -1,8 +1,10 @@
 ---
 title: "Curriculum vitæ"
 subtitle: "François David Prud'homme, Ph. D."
-toc: true
-toc-title: "Sections"
+format:
+  html:
+    toc: true
+    toc-title: "Sections"
 ---
 
 Docteur en sémiologie · Chargé de cours — UQAM, UQAT, UQO
