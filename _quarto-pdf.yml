@@ -1,0 +1,56 @@
+# Profil PDF — activé par `--profile pdf`, jamais par un `quarto render` nu.
+#
+# Ce bloc n'est PAS dans _quarto.yml à dessein. Un `format: pdf` déclaré au
+# niveau du projet ferait rendre un PDF pour chacune des dix pages à chaque
+# `quarto render` — y compris le glossaire de 18 000 mots — et le workflow
+# GitHub, qui n'installe pas TinyTeX, échouerait avant de déployer le site.
+# Le profil garde la configuration partagée en un seul endroit sans imposer
+# le PDF au rendu courant.
+#
+# Usage : quarto render cv.qmd --to pdf --profile pdf
+
+format:
+  pdf:
+    # LuaTeX est le moteur qui a produit le cv.pdf du 11 août sur cette
+    # machine : c'est le seul dont on sache qu'il fonctionne ici. Il gère
+    # nativement l'OpenType, donc mainfont ci-dessous.
+    pdf-engine: lualatex
+
+    # Palatino de la fonte libre TeX Gyre. C'est la fonte du cv anglais du
+    # 9 août, celle qu'on cherche à retrouver. Couverture vérifiée sur les
+    # caractères du site : ’ — – æ œ → ↓ ∈ sont tous présents.
+    mainfont: "TeX Gyre Pagella"
+
+    # KOMA-Script plutôt que article : titres et interlignage pensés pour le
+    # document long, et parskip=half remplace le retrait d'alinéa par une
+    # demi-ligne d'air — ce que veut une notice de CV, faite d'entrées brèves
+    # et non de paragraphes courants.
+    documentclass: scrartcl
+    classoption:
+      - 11pt
+      - parskip=half
+
+    # Letter : format des deux PDF existants et des dossiers nord-américains.
+    papersize: letter
+
+    # Pagella a un œil large ; à 11 pt, 6 pouces de justification donnent une
+    # ligne d'environ 75 signes, la mesure lisible usuelle. D'où 1,25 pouce
+    # de marge latérale plutôt qu'un pouce. Le bas est légèrement plus ample
+    # que le haut pour loger le folio sans le coller au texte.
+    geometry:
+      - top=1in
+      - bottom=1.1in
+      - left=1.25in
+      - right=1.25in
+
+    # Liens colorés plutôt qu'encadrés, dans le $vert de styles.scss (#2F5D50,
+    # aussi $link-color et $primary du site) : le PDF et le HTML signalent
+    # l'hyperlien de la même couleur. Contraste 7,49:1 sur blanc.
+    colorlinks: true
+    linkcolor: "2F5D50"
+    urlcolor: "2F5D50"
+    citecolor: "2F5D50"
+
+    # Les deux CV portent déjà toc: true dans leur en-tête ; on borne la
+    # profondeur pour que la table ne reprenne pas chaque sous-rubrique.
+    toc-depth: 2

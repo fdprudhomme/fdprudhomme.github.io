@@ -8,7 +8,7 @@ lang: en
 
 PhD in Semiotics · Sessional Lecturer — UQAM, UQAT, UQO
 
-[fdprudhomme@gmail.com](mailto:fdprudhomme@gmail.com) · [vimeo.com/fdprudhomme](https://vimeo.com/fdprudhomme) · ORCID: [0009-0001-1460-6594](https://orcid.org/0009-0001-1460-6594) · [Download PDF ↓](cv.pdf)
+[fdprudhomme@gmail.com](mailto:fdprudhomme@gmail.com) · [vimeo.com/fdprudhomme](https://vimeo.com/fdprudhomme) · ORCID: [0009-0001-1460-6594](https://orcid.org/0009-0001-1460-6594)[ · [Download PDF ↓](cv.pdf)]{.content-visible when-format="html"}
 
 ---
 
@@ -28,7 +28,13 @@ The project unfolds through three gestures. **Mapping** describes the semiotic r
 
 Empirical work runs across all three gestures: generative texts and images interrogated for their dominant attractors, university cognitive interfaces analysed as real perceptual operators, and student production read for traces of the inferential short circuit.
 
+::: {.content-visible when-format="html"}
 [Read the full summary](research.qmd)
+:::
+
+::: {.content-visible when-format="pdf"}
+[Read the full summary](https://fdprudhomme.com/en/research.html)
+:::
 
 ## Education
 
@@ -60,7 +66,13 @@ PRUD'HOMME, François David. "The Second Inquiry: A Rancièrian Protocol Against
 
 ### Digital Scholarship
 
+::: {.content-visible when-format="html"}
 *Glossaire de la sémiose algorithmique* [Glossary of Algorithmic Semiosis]. Evolving digital edition, [fdprudhomme.com/glossaire](../glossaire/index.qmd). Organised across three registers.
+:::
+
+::: {.content-visible when-format="pdf"}
+*Glossaire de la sémiose algorithmique* [Glossary of Algorithmic Semiosis]. Evolving digital edition, [fdprudhomme.com/glossaire](https://fdprudhomme.com/glossaire/). Organised across three registers.
+:::
 
 ### Books, Articles and Reviews
 

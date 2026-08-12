@@ -7,7 +7,7 @@ toc-title: "Sections"
 
 Docteur en sémiologie · Chargé de cours — UQAM, UQAT, UQO
 
-[fdprudhomme@gmail.com](mailto:fdprudhomme@gmail.com) · [vimeo.com/fdprudhomme](https://vimeo.com/fdprudhomme) · ORCID : [0009-0001-1460-6594](https://orcid.org/0009-0001-1460-6594) · [Télécharger en PDF ↓](cv.pdf)
+[fdprudhomme@gmail.com](mailto:fdprudhomme@gmail.com) · [vimeo.com/fdprudhomme](https://vimeo.com/fdprudhomme) · ORCID : [0009-0001-1460-6594](https://orcid.org/0009-0001-1460-6594)[ · [Télécharger en PDF ↓](cv.pdf)]{.content-visible when-format="html"}
 
 ---
 
@@ -27,7 +27,13 @@ Le projet se déploie en trois gestes. **Cartographier** décrit le régime sém
 
 L'enquête empirique traverse les trois gestes : textes et images génératives interrogés du point de vue de leurs attracteurs dominants, interfaces cognitives universitaires analysées comme opérateurs perceptifs réels, productions étudiantes lues pour y repérer les traces du court-circuit inférentiel.
 
+::: {.content-visible when-format="html"}
 [Lire le résumé complet](recherche.qmd)
+:::
+
+::: {.content-visible when-format="pdf"}
+[Lire le résumé complet](https://fdprudhomme.com/recherche.html)
+:::
 
 ## Formation
 
@@ -59,7 +65,13 @@ PRUD'HOMME, François David. « L'enquête seconde : un protocole rancièrien co
 
 ### Travaux numériques
 
+::: {.content-visible when-format="html"}
 *Glossaire de la sémiose algorithmique.* Édition numérique évolutive, [fdprudhomme.com/glossaire](glossaire/index.qmd). Organisé en trois registres.
+:::
+
+::: {.content-visible when-format="pdf"}
+*Glossaire de la sémiose algorithmique.* Édition numérique évolutive, [fdprudhomme.com/glossaire](https://fdprudhomme.com/glossaire/). Organisé en trois registres.
+:::
 
 ### Ouvrages, articles et recensions
 
