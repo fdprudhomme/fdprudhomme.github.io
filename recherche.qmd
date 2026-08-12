@@ -3,8 +3,6 @@ title: "La coopération interprétative à l'ère de la sémiose algorithmique"
 subtitle: "Projet postdoctoral"
 toc: true
 toc-title: "Sur cette page"
-nocite: |
-  @micheldecerteauetlucegiardLinventionQuotidien11990
 ---
 
 [Résumé]{.eyebrow}
@@ -132,13 +130,19 @@ passage de l'indice au signe iconique médiatisé par le calcul. L'émergence de
 [@cunninghamSparseAutoencodersFind2023; @templetonScalingMonosemanticityExtracting2026],
 théorisés comme rendus partiels de
 l'[encyclopédie](glossaire/entrees.qmd#encyclopedie) computationnelle d'Eco
-[@ecoLimitesLinterpretation1992], fournit pour la première fois un appui
-empirique à ce geste.
+[@ecoLimitesLinterpretation1992], fournit à ce geste un appui empirique
+inédit. Cet appui demande un traitement prudent, et le projet en fait un objet
+d'analyse au même titre qu'un instrument : ces dispositifs sont optimisés pour
+la reconstruction, objectif qui laisse ouverte la question de savoir si les
+traits obtenus correspondent à des concepts humainement valides. Le statut
+véridictoire de cette lisibilité reste à construire, ce qui en fait un objet
+sémiotique de plein droit.
 
 ### Habiter {#geste-2}
 
-Geste anthropologique : nommer ce que la prolifération d'agents algorithmiques
-rend visible par contraste. Le
+Geste anthropologique : nommer ce que la prolifération
+d'[agents](glossaire/entrees.qmd#agent) algorithmiques rend visible par
+contraste. Le
 [*silence sémiotique*](glossaire/entrees.qmd#silence-semiotique) désigne
 l'intervalle entre la perception du signe et sa résolution en sens, condition
 structurelle de la créativité interprétative, ancrée dans l'ennui
@@ -175,6 +179,15 @@ l'[enquête seconde](glossaire/entrees.qmd#enquete-seconde) est la
 [contre-conduite](glossaire/entrees.qmd#contre-conduite) qui restitue à
 l'interprète la position de celui qui cherche.
 
+Le troisième geste renvoie au premier par une asymétrie qui distingue la
+spirale d'une circularité. La cartographie stratégique est celle de l'appareil
+algorithmique, qui pose les attracteurs et impose ses reliefs comme des
+évidences ; la cartographie tactique est celle du sujet qui relit la carte
+comme un ensemble de choix repérables. Résister consiste à
+contre-cartographier, au sens où De Certeau nomme tactique la reprise, depuis
+une position dépourvue de lieu propre, d'un dispositif conçu ailleurs
+[@micheldecerteauetlucegiardLinventionQuotidien11990].
+
 Livrables : un diagnostic de l'état des études supérieures face à l'IA ; des
 dispositifs de pédagogie de l'indétermination valorisant structurellement
 l'[hésitation](glossaire/entrees.qmd#hesitation), le silence et la lenteur
@@ -203,7 +216,7 @@ située du [court-circuit inférentiel](glossaire/entrees.qmd#court-circuit-infe
 
 ## Corpus et terrain
 
-Trois types d'objets paradigmatiques :
+Quatre types d'objets paradigmatiques :
 
 **Textes et [images génératives](glossaire/entrees.qmd#images-generatives)**
 de dernière génération, interrogés du point de vue de leurs attracteurs
@@ -219,6 +232,14 @@ qui reconfigurent l'acte d'apprendre en amont de tout usage.
 **Productions étudiantes assistées par IA**, lues pour y repérer les traces du
 court-circuit inférentiel.
 
+**Incidents agentiques documentés** — archives publiques de dépôts de code,
+fils de [tickets](glossaire/entrees.qmd#ticket), publications produites par
+des agents, dont l'incident OpenClaw / Matplotlib de février 2026 constitue le
+cas d'entrée. Cette famille rend la sémiose
+algorithmique observable dans ses traces, au-delà de ses seuls produits finis.
+Les interactions conduites avec des systèmes génératifs dans le cadre de la
+recherche sont versées au corpus et documentées comme cas.
+
 ## Contribution et posture
 
 Les discours dominants sur l'IA et l'éducation oscillent entre enthousiasme
@@ -231,6 +252,27 @@ qui reconfigure les conditions du voir, du lire, du penser et du croire
 indépendamment de l'usage. La question pédagogique devient : quelle écologie
 sémiotique l'université doit-elle construire pour que l'être humain reste le
 sujet de sa propre sémiose ?
+
+### Articulation aux études critiques du numérique éducatif
+
+Le champ des *critical studies of digital education* a établi une analyse
+solide du gouvernement par la mesure : les travaux de Ben Williamson sur la
+datafication des systèmes éducatifs, ceux de Siân Bayne et de Jen Ross sur les
+pédagogies numériques, ceux de Neil Selwyn sur l'automatisation de
+l'enseignement décrivent comment l'analytique, le score et la prédiction
+reconfigurent la gouvernance des institutions et la subjectivité des
+apprenants.
+
+La sémiose algorithmique décrit un régime adjacent : le gouvernement par la
+génération, où le dispositif produit l'objet sémiotique lui-même, avec sa
+cohérence et son évidence, en amont de toute mesure. Ce que la datafication
+fait à l'évaluation, la génération le fait à l'objet d'étude. Le projet se
+propose comme une extension de ce champ du côté de la production des formes,
+avec les instruments que la sémiotique a construits pour décrire la
+véridiction, l'inférence et l'interprétant. Il rejoint par là les travaux
+menés au Québec sur les cultures algorithmiques, notamment ceux de Jonathan
+Roberge sur les logiques sociales et culturelles de l'apprentissage
+automatique.
 
 En **sémiotique**, le projet actualise les concepts fondamentaux dans le
 contexte de la production algorithmique et ouvre une sémiotique

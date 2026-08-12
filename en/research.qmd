@@ -4,8 +4,6 @@ subtitle: "Postdoctoral project"
 lang: en
 toc: true
 toc-title: "On this page"
-nocite: |
-  @micheldecerteauetlucegiardLinventionQuotidien11990
 ---
 
 [Summary]{.eyebrow}
@@ -123,8 +121,13 @@ from index to iconic sign, mediated by computation. The emergence of sparse
 autoencoders (SAEs)
 [@cunninghamSparseAutoencodersFind2023; @templetonScalingMonosemanticityExtracting2026],
 theorised here as partial renderings of Eco's computational encyclopaedia
-[@ecoLimitesLinterpretation1992], provides empirical purchase on this gesture
-for the first time.
+[@ecoLimitesLinterpretation1992], provides novel empirical purchase on this
+gesture. That purchase calls for caution, and the project treats it as an
+object of analysis as much as an instrument: these devices are optimised for
+reconstruction, an objective that leaves open whether the features they yield
+correspond to humanly valid concepts. The veridictory status of this
+legibility remains to be established, which makes it a semiotic object in its
+own right.
 
 ### Dwelling
 
@@ -158,6 +161,15 @@ Schoolmaster* [@ranciereMaitreIgnorantCinq1987]; the second inquiry is the
 counter-conduct that restores to the interpreter the position of one who
 searches.
 
+The third gesture returns to the first through an asymmetry that distinguishes
+the spiral from a circle. Strategic mapping belongs to the algorithmic
+apparatus, which sets the attractors and imposes its reliefs as self-evident;
+tactical mapping belongs to the subject who rereads the map as a set of
+locatable choices. To resist is to counter-map, in the sense in which De
+Certeau calls tactical the reappropriation, from a position without a proper
+place, of an apparatus devised elsewhere
+[@micheldecerteauetlucegiardLinventionQuotidien11990].
+
 Deliverables: a diagnosis of the state of higher education in the face of AI; a
 set of devices for a pedagogy of indeterminacy that treats hesitation, silence
 and slowness as competences rather than defects; and a contribution to
@@ -183,7 +195,7 @@ short circuit.
 
 ## Corpus and fieldwork
 
-Three types of paradigmatic object:
+Four types of paradigmatic object:
 
 **Generative texts and images** from current-generation models, interrogated for
 their dominant attractors — which forms are overweighted, which bodies, faces
@@ -195,6 +207,13 @@ learning upstream of any particular use.
 
 **AI-assisted student work**, read for traces of the inferential short circuit.
 
+**Documented agentic incidents** — public code repository archives, issue
+threads, publications produced by agents, with the OpenClaw / Matplotlib
+incident of February 2026 as the entry case. This family makes algorithmic
+semiosis observable in its traces rather than in its finished products alone.
+Interactions conducted with generative systems in the course of the research
+are added to the corpus and documented as cases.
+
 ## Contribution and stance
 
 Dominant discourse on AI and education oscillates between integrative enthusiasm
@@ -205,6 +224,25 @@ operator, reconfiguring the conditions of seeing, reading, thinking and
 believing independently of use. The pedagogical question then becomes: what
 semiotic ecology must the university build so that human beings remain the
 subjects of their own semiosis?
+
+### Situating the project within critical studies of digital education
+
+The field of *critical digital education studies* has established a robust
+analysis of government by measurement: Ben Williamson's work on the
+datafication of education systems, Siân Bayne's and Jen Ross's on digital
+pedagogies, Neil Selwyn's on the automation of teaching describe how
+analytics, scoring and prediction reconfigure institutional governance and
+learner subjectivity.
+
+Algorithmic semiosis describes an adjacent regime: government by generation,
+in which the device produces the semiotic object itself, with its coherence
+and its self-evidence, upstream of any measurement. What datafication does to
+assessment, generation does to the object of study. The project offers itself
+as an extension of that field on the side of the production of forms, with the
+instruments semiotics has built for describing veridiction, inference and the
+interpretant. It connects in this respect to work carried out in Quebec on
+algorithmic cultures, notably Jonathan Roberge's on the social and cultural
+logics of machine learning.
 
 In **semiotics**, the project updates foundational concepts in the context of
 algorithmic production and opens onto a computational semiotics. In **media
