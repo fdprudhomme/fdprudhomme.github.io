@@ -256,12 +256,13 @@ sujet de sa propre sémiose ?
 ### Articulation aux études critiques du numérique éducatif
 
 Le champ des *critical studies of digital education* a établi une analyse
-solide du gouvernement par la mesure : les travaux de Ben Williamson sur la
-datafication des systèmes éducatifs, ceux de Siân Bayne et de Jen Ross sur les
-pédagogies numériques, ceux de Neil Selwyn sur l'automatisation de
-l'enseignement décrivent comment l'analytique, le score et la prédiction
-reconfigurent la gouvernance des institutions et la subjectivité des
-apprenants.
+solide du gouvernement par la mesure : les travaux de Ben Williamson
+[@williamsonBigDataEducation2017] sur la datafication des systèmes éducatifs,
+ceux de Siân Bayne et de Jen Ross [@bayneManifestoTeachingOnline2020] sur les
+pédagogies numériques, ceux de Neil Selwyn [@selwynShouldRobotsReplace2019]
+sur l'automatisation de l'enseignement décrivent comment l'analytique, le
+score et la prédiction reconfigurent la gouvernance des institutions et la
+subjectivité des apprenants.
 
 La sémiose algorithmique décrit un régime adjacent : le gouvernement par la
 génération, où le dispositif produit l'objet sémiotique lui-même, avec sa
@@ -271,8 +272,8 @@ propose comme une extension de ce champ du côté de la production des formes,
 avec les instruments que la sémiotique a construits pour décrire la
 véridiction, l'inférence et l'interprétant. Il rejoint par là les travaux
 menés au Québec sur les cultures algorithmiques, notamment ceux de Jonathan
-Roberge sur les logiques sociales et culturelles de l'apprentissage
-automatique.
+Roberge [@robergeCulturalLifeMachine2021] sur les logiques sociales et
+culturelles de l'apprentissage automatique.
 
 En **sémiotique**, le projet actualise les concepts fondamentaux dans le
 contexte de la production algorithmique et ouvre une sémiotique

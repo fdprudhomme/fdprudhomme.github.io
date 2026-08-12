@@ -208,6 +208,85 @@
       "select": "zotero://select/library/items/KR2ULRQ4"
     },
     {
+      "key": "I55HBMS4",
+      "version": 4237,
+      "itemType": "book",
+      "title": "The Manifesto for Teaching Online",
+      "abstractNote": "An update to a provocative manifesto intended to serve as a platform for debate and as a resource and inspiration for those teaching in online environments.",
+      "date": "2020-09-15",
+      "language": "en",
+      "libraryCatalog": "MIT Press Books",
+      "place": "Cambridge, MA, USA",
+      "publisher": "MIT Press",
+      "ISBN": "978-0-262-53983-8",
+      "numPages": "272",
+      "citationKey": "bayneManifestoTeachingOnline2020",
+      "creators": [
+        {
+          "firstName": "Siân",
+          "lastName": "Bayne",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Peter",
+          "lastName": "Evans",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Rory",
+          "lastName": "Ewins",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jeremy",
+          "lastName": "Knox",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "James",
+          "lastName": "Lamb",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Hamish",
+          "lastName": "Macleod",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Clara",
+          "lastName": "O'Shea",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jen",
+          "lastName": "Ross",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Philippa",
+          "lastName": "Sheail",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Christine",
+          "lastName": "Sinclair",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-12T19:31:11Z",
+      "dateModified": "2026-08-12T19:31:11Z",
+      "uri": "http://zotero.org/users/4329366/items/I55HBMS4",
+      "itemID": 1499,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "I55HBMS4",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/I55HBMS4"
+    },
+    {
       "key": "6G6MSLZL",
       "version": 4149,
       "itemType": "journalArticle",
@@ -1840,6 +1919,82 @@
       "select": "zotero://select/library/items/HTZAK9BN"
     },
     {
+      "key": "IRHRJCJH",
+      "version": 4249,
+      "itemType": "book",
+      "title": "The cultural life of machine learning: an incursion into critical AI studies",
+      "date": "2021",
+      "language": "English",
+      "shortTitle": "The cultural life of machine learning",
+      "libraryCatalog": "WorldCat Discovery Service",
+      "numberOfVolumes": "1 ressource en ligne (xv, 289 pages) : illustrations",
+      "place": "Cham, Switzerland",
+      "publisher": "Palgrave Macmillan",
+      "ISBN": "978-3-030-56286-1",
+      "citationKey": "robergeCulturalLifeMachine2021",
+      "creators": [
+        {
+          "firstName": "Jonathan",
+          "lastName": "Roberge",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael",
+          "lastName": "Castelle",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-12T19:34:27Z",
+      "dateModified": "2026-08-12T19:34:27Z",
+      "uri": "http://zotero.org/users/4329366/items/IRHRJCJH",
+      "itemID": 1506,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "IRHRJCJH",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/IRHRJCJH"
+    },
+    {
+      "key": "FYH35859",
+      "version": 4245,
+      "itemType": "book",
+      "title": "Digital futures for learning: speculative methods and pedagogies",
+      "date": "2023",
+      "language": "English",
+      "shortTitle": "Digital futures for learning",
+      "libraryCatalog": "WorldCat Discovery Service",
+      "url": "http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=3382080",
+      "accessDate": "2026-08-12T19:33:13Z",
+      "numberOfVolumes": "1 online resource",
+      "place": "New York, NY",
+      "publisher": "Routledge, Taylor & Francis Group",
+      "ISBN": "978-1-003-20213-4 978-1-000-77015-5 978-1-000-77023-0",
+      "DOI": "10.4324/9781003202134",
+      "citationKey": "rossDigitalFuturesLearning2023",
+      "creators": [
+        {
+          "firstName": "Jen",
+          "lastName": "Ross",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-12T19:33:13Z",
+      "dateModified": "2026-08-12T19:33:13Z",
+      "uri": "http://zotero.org/users/4329366/items/FYH35859",
+      "itemID": 1504,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "FYH35859",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/FYH35859"
+    },
+    {
       "key": "HL8ISJEC",
       "version": 4227,
       "itemType": "journalArticle",
@@ -1891,6 +2046,38 @@
       "itemKey": "HL8ISJEC",
       "libraryID": 1,
       "select": "zotero://select/library/items/HL8ISJEC"
+    },
+    {
+      "key": "XGJD2RID",
+      "version": 4250,
+      "itemType": "book",
+      "title": "Should Robots Replace Teachers? AI and the Future of Education",
+      "date": "2019",
+      "shortTitle": "Should Robots Replace Teachers?",
+      "libraryCatalog": "WorldCat Discovery Service",
+      "extra": "Section: 160",
+      "publisher": "Polity Press",
+      "ISBN": "978-1-5095-2896-7",
+      "citationKey": "selwynShouldRobotsReplace2019",
+      "creators": [
+        {
+          "firstName": "Neil",
+          "lastName": "Selwyn",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-12T19:33:39Z",
+      "dateModified": "2026-08-12T19:36:51Z",
+      "uri": "http://zotero.org/users/4329366/items/XGJD2RID",
+      "itemID": 1505,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "XGJD2RID",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/XGJD2RID"
     },
     {
       "key": "ZZ9SBTGE",
@@ -2508,6 +2695,42 @@
       "itemKey": "M5F4DLGP",
       "libraryID": 1,
       "select": "zotero://select/library/items/M5F4DLGP"
+    },
+    {
+      "key": "6MBVJ8HB",
+      "version": 4235,
+      "itemType": "book",
+      "title": "Big Data in Education: The digital future of learning, policy and practice",
+      "date": "2017",
+      "shortTitle": "Big Data in Education",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "url": "https://sk.sagepub.com/books/big-data-in-education",
+      "accessDate": "2026-08-12T19:30:41Z",
+      "extra": "DOI: 10.4135/9781529714920",
+      "place": "1 Oliver’s Yard, 55 City Road London EC1Y 1SP",
+      "publisher": "SAGE Publications Ltd",
+      "ISBN": "978-1-4739-4800-6 978-1-5297-1492-0",
+      "DOI": "10.4135/9781529714920",
+      "citationKey": "williamsonBigDataEducation2017",
+      "creators": [
+        {
+          "firstName": "Ben",
+          "lastName": "Williamson",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-12T19:30:42Z",
+      "dateModified": "2026-08-12T19:30:42Z",
+      "uri": "http://zotero.org/users/4329366/items/6MBVJ8HB",
+      "itemID": 1498,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "6MBVJ8HB",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/6MBVJ8HB"
     },
     {
       "key": "FN29EUVD",
