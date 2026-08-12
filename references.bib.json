@@ -113,18 +113,6 @@
   "collections": {},
   "items": [
     {
-      "itemType": "attachment",
-      "title": "Lotman - 2000 - Universe of the mind a semiotic theory of culture",
-      "url": "https://monoskop.org/images/5/5e/Lotman_Yuri_M_Universe_of_the_Mind_A_Semiotic_Theory_of_Culture_1990.pdf",
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2026-08-11T15:43:41Z",
-      "dateModified": "2026-08-11T15:43:46Z",
-      "uri": "http://zotero.org/users/4329366/items/Y6GBH2RD",
-      "path": "/Users/fd/Zotero/storage/Y6GBH2RD/Lotman - 2000 - Universe of the mind a semiotic theory of culture.pdf",
-      "select": "zotero://select/library/items/Y6GBH2RD"
-    },
-    {
       "key": "KR2ULRQ4",
       "version": 4185,
       "itemType": "preprint",
@@ -343,6 +331,51 @@
       "itemKey": "6G6MSLZL",
       "libraryID": 1,
       "select": "zotero://select/library/items/6G6MSLZL"
+    },
+    {
+      "key": "XQPRS2PW",
+      "version": 4265,
+      "itemType": "book",
+      "title": "L'invention du quotidien",
+      "date": "1980",
+      "language": "French",
+      "libraryCatalog": "WorldCat Discovery Service",
+      "extra": "Section: 2 v. (374 p.) (316 p.) ; 18 cm.",
+      "place": "Paris",
+      "publisher": "Union générale d'éditions",
+      "ISBN": "978-2-264-00267-9 978-2-264-00268-6",
+      "series": "10/18; 1363 ; 1364",
+      "numPages": "374",
+      "citationKey": "certeauLinventionQuotidien1980",
+      "creators": [
+        {
+          "firstName": "Michel de",
+          "lastName": "Certeau",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Luce",
+          "lastName": "Giard",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Pierre",
+          "lastName": "Mayol",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-12T20:13:54Z",
+      "dateModified": "2026-08-12T20:13:54Z",
+      "uri": "http://zotero.org/users/4329366/items/XQPRS2PW",
+      "itemID": 1509,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "XQPRS2PW",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/XQPRS2PW"
     },
     {
       "key": "C7HTMEFL",
@@ -1347,7 +1380,7 @@
     },
     {
       "key": "L4Q4QV3J",
-      "version": 4223,
+      "version": 4256,
       "itemType": "book",
       "title": "Universe of the mind: a semiotic theory of culture",
       "date": "2000",
@@ -1375,11 +1408,12 @@
       ],
       "relations": {
         "dc:replaces": [
-          "http://zotero.org/users/4329366/items/5LE623PA"
+          "http://zotero.org/users/4329366/items/5LE623PA",
+          "http://zotero.org/users/4329366/items/78MQS9D9"
         ]
       },
       "dateAdded": "2026-08-10T12:49:33Z",
-      "dateModified": "2026-08-11T15:45:50Z",
+      "dateModified": "2026-08-12T20:10:12Z",
       "uri": "http://zotero.org/users/4329366/items/L4Q4QV3J",
       "itemID": 1494,
       "attachments": [],
@@ -1479,43 +1513,6 @@
       "select": "zotero://select/library/items/7AVNHAL9"
     },
     {
-      "key": "LXQXQINL",
-      "version": 4202,
-      "itemType": "book",
-      "title": "L'invention du quotidien 1. Arts de faire",
-      "abstractNote": "La Raison technicienne croit savoir comment organiser au \nmieux les choses et les gens, assignant à chacun une place, un rôle, des\n produits à consommer. Mais l'homme ordinaire se soustrait en silence à \ncette conformation. Il invente le quotidien grâce aux arts de faire,\n ruses subtiles, tactiques de résistance par lesquelles il détourne les \nobjets et les codes, se réapproprie l'espace et l'usage à sa façon. \nTours et traverses, manières de faire des coups, astuces de chasseurs, \nmobilités, mises en récit et trouvailles de mots, mille pratiques \ninventives prouvent, à qui sait les voir, que la foule sans qualité \nn'est pas obéissante et passive, mais pratique l'écart dans l'usage des \nproduits imposés, dans une liberté buissonnière par laquelle chacun \ntâche de vivre au mieux l'ordre social et la violence des choses.Michel\n de Certeau, le premier, restitua les ruses anonymes des arts de faire, \ncet art de vivre la société de consommation. Vite devenues classiques, \nses analyses pionnières ont inspiré historiens, philosophes et \nsociologues.",
-      "date": "1990-11-13",
-      "language": "fre",
-      "libraryCatalog": "Internet Archive",
-      "accessDate": "2026-08-10T12:40:20Z",
-      "publisher": "Editions Gallimard",
-      "ISBN": "978-2-07-032576-4",
-      "citationKey": "micheldecerteauetlucegiardLinventionQuotidien11990",
-      "creators": [
-        {
-          "name": "Michel de Certeau et Luce Giard",
-          "creatorType": "author"
-        }
-      ],
-      "tags": [
-        {
-          "tag": "sociology",
-          "type": 1
-        }
-      ],
-      "relations": {},
-      "dateAdded": "2026-08-10T12:40:20Z",
-      "dateModified": "2026-08-10T13:47:29Z",
-      "uri": "http://zotero.org/users/4329366/items/LXQXQINL",
-      "itemID": 1442,
-      "attachments": [],
-      "notes": [],
-      "autoJournalAbbreviation": "",
-      "itemKey": "LXQXQINL",
-      "libraryID": 1,
-      "select": "zotero://select/library/items/LXQXQINL"
-    },
-    {
       "key": "D6VBSU2G",
       "version": 4095,
       "itemType": "bookSection",
@@ -1613,7 +1610,7 @@
     },
     {
       "key": "FE24LZLQ",
-      "version": 4228,
+      "version": 4262,
       "itemType": "book",
       "title": "The collected papers of Charles Sanders Peirce",
       "date": "2009",
@@ -1625,7 +1622,7 @@
       "citationKey": "peirceCollectedPapersCharles2009",
       "creators": [
         {
-          "firstName": "Charles S. (Charles Sanders), 1839-1914.",
+          "firstName": "Charles S. (Charles Sanders)",
           "lastName": "Peirce",
           "creatorType": "author"
         },
@@ -1652,7 +1649,7 @@
       "tags": [],
       "relations": {},
       "dateAdded": "2021-01-12T14:51:20Z",
-      "dateModified": "2026-08-11T17:32:15Z",
+      "dateModified": "2026-08-12T20:13:12Z",
       "uri": "http://zotero.org/users/4329366/items/FE24LZLQ",
       "itemID": 609,
       "attachments": [],
@@ -1876,14 +1873,13 @@
     },
     {
       "key": "IRHRJCJH",
-      "version": 4249,
+      "version": 4267,
       "itemType": "book",
       "title": "The cultural life of machine learning: an incursion into critical AI studies",
       "date": "2021",
       "language": "English",
       "shortTitle": "The cultural life of machine learning",
       "libraryCatalog": "WorldCat Discovery Service",
-      "numberOfVolumes": "1 ressource en ligne (xv, 289 pages) : illustrations",
       "place": "Cham, Switzerland",
       "publisher": "Palgrave Macmillan",
       "ISBN": "978-3-030-56286-1",
@@ -1903,7 +1899,7 @@
       "tags": [],
       "relations": {},
       "dateAdded": "2026-08-12T19:34:27Z",
-      "dateModified": "2026-08-12T19:34:27Z",
+      "dateModified": "2026-08-12T20:14:57Z",
       "uri": "http://zotero.org/users/4329366/items/IRHRJCJH",
       "itemID": 1506,
       "attachments": [],
@@ -1915,7 +1911,7 @@
     },
     {
       "key": "FYH35859",
-      "version": 4245,
+      "version": 4268,
       "itemType": "book",
       "title": "Digital futures for learning: speculative methods and pedagogies",
       "date": "2023",
@@ -1924,7 +1920,6 @@
       "libraryCatalog": "WorldCat Discovery Service",
       "url": "http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=3382080",
       "accessDate": "2026-08-12T19:33:13Z",
-      "numberOfVolumes": "1 online resource",
       "place": "New York, NY",
       "publisher": "Routledge, Taylor & Francis Group",
       "ISBN": "978-1-003-20213-4 978-1-000-77015-5 978-1-000-77023-0",
@@ -1940,7 +1935,7 @@
       "tags": [],
       "relations": {},
       "dateAdded": "2026-08-12T19:33:13Z",
-      "dateModified": "2026-08-12T19:33:13Z",
+      "dateModified": "2026-08-12T20:15:08Z",
       "uri": "http://zotero.org/users/4329366/items/FYH35859",
       "itemID": 1504,
       "attachments": [],
@@ -2324,11 +2319,11 @@
     },
     {
       "key": "4B232I2U",
-      "version": 4229,
+      "version": 4260,
       "itemType": "preprint",
       "title": "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet",
       "abstractNote": "We demonstrate that sparse autoencoders can extract interpretable features from Claude 3 Sonnet, a production-scale language model, addressing the open question of whether dictionary learning methods scale beyond small transformers. We trained sparse autoencoders with up to 34 million features on the model's middle layer residual stream, using scaling laws to guide hyperparameter selection. The resulting features are multilingual and multimodal (generalizing to images despite text-only training), respond to both concrete instances and abstract discussions of concepts, and can be used to steer model behavior in ways consistent with their interpretations. We find features corresponding to famous entities and locations, as well as more abstract concepts like sarcasm or errors in code. We also identify features relevant to ways in which language models might cause harm--including features representing deception, power-seeking, sycophancy, and bias--and show that these causally influence model outputs when manipulated. Additionally, we conduct analyses of feature interpretability, geometry, and computational function. However, significant limitations remain: our suite of features is incomplete, and we lack rigorous methods for evaluating whether our features faithfully capture model computations.",
-      "date": "2026-05-28",
+      "date": "2024",
       "shortTitle": "Scaling Monosemanticity",
       "libraryCatalog": "arXiv.org",
       "accessDate": "2026-08-10T13:00:13Z",
@@ -2477,7 +2472,7 @@
       ],
       "relations": {},
       "dateAdded": "2026-08-10T13:00:13Z",
-      "dateModified": "2026-08-10T13:48:21Z",
+      "dateModified": "2026-08-12T20:12:02Z",
       "uri": "http://zotero.org/users/4329366/items/4B232I2U",
       "itemID": 1463,
       "attachments": [
@@ -2490,7 +2485,7 @@
           "dateAdded": "2026-08-10T13:00:14Z",
           "dateModified": "2026-08-10T13:00:14Z",
           "uri": "http://zotero.org/users/4329366/items/6T68FKK2",
-          "path": "/Users/fd/Zotero/storage/6T68FKK2/Templeton et al. - 2026 - Scaling Monosemanticity Extracting Interpretable Features from Claude 3 Sonnet.pdf",
+          "path": "/Users/fd/Zotero/storage/6T68FKK2/Templeton et al. - 2024 - Scaling Monosemanticity Extracting Interpretable Features from Claude 3 Sonnet.pdf",
           "select": "zotero://select/library/items/6T68FKK2"
         },
         {
@@ -2689,20 +2684,19 @@
       "select": "zotero://select/library/items/6MBVJ8HB"
     },
     {
-      "key": "FN29EUVD",
-      "version": 4121,
+      "key": "QHTK9Z94",
+      "version": 4271,
       "itemType": "book",
-      "title": "Jeu et realite: l'espace potentiel. Trad. de l'anglais par claude monod et J.-B. Pontalis. Pref. de J.-B. Pontalis.",
-      "date": "1975",
-      "language": "French",
-      "shortTitle": "Jeu et realite",
+      "title": "Playing and reality: [By] D.W. Winnicott",
+      "date": "1971",
+      "language": "English",
+      "shortTitle": "Playing and reality",
       "libraryCatalog": "WorldCat Discovery Service",
-      "extra": "Section: 218 pages",
-      "place": "Paris",
-      "publisher": "Gallimard",
-      "series": "Titre original - playing and reality",
-      "numPages": "218",
-      "citationKey": "winnicottJeuRealiteLespace1975",
+      "extra": "Section: 169 pages",
+      "place": "New York",
+      "publisher": "Basic Books",
+      "numPages": "169",
+      "citationKey": "winnicottPlayingRealityDW1971",
       "creators": [
         {
           "firstName": "D. W.",
@@ -2712,16 +2706,16 @@
       ],
       "tags": [],
       "relations": {},
-      "dateAdded": "2026-08-10T13:00:32Z",
-      "dateModified": "2026-08-10T13:00:32Z",
-      "uri": "http://zotero.org/users/4329366/items/FN29EUVD",
-      "itemID": 1466,
+      "dateAdded": "2026-08-12T20:17:12Z",
+      "dateModified": "2026-08-12T20:17:12Z",
+      "uri": "http://zotero.org/users/4329366/items/QHTK9Z94",
+      "itemID": 1511,
       "attachments": [],
       "notes": [],
       "autoJournalAbbreviation": "",
-      "itemKey": "FN29EUVD",
+      "itemKey": "QHTK9Z94",
       "libraryID": 1,
-      "select": "zotero://select/library/items/FN29EUVD"
+      "select": "zotero://select/library/items/QHTK9Z94"
     }
   ]
 }
