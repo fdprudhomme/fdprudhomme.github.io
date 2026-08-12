@@ -72,6 +72,28 @@ format:
         \setkomafont{subsection}{\rmfamily\bfseries\large}
         \setkomafont{subsubsection}{\rmfamily\bfseries\normalsize}
 
+        % ─── Titre courant ───────────────────────────────────────────────
+        % Un CV se lit désagrafé, page par page, souvent photocopié : chaque
+        % feuillet doit porter le nom et sa place dans le tout. C'est l'usage
+        % des dossiers académiques nord-américains, et la raison pour laquelle
+        % le titre courant va en tête et non en pied — c'est le haut de page
+        % qu'on regarde en feuilletant.
+        \usepackage{scrlayer-scrpage}
+        \usepackage{lastpage}
+        \clearpairofpagestyles
+        % En marge extérieure, donc à droite en recto simple : la colonne où
+        % l'œil cherche une pagination. « Nom — n/total » plutôt que « n » seul,
+        % pour qu'une page isolée reste identifiable et qu'on sache s'il en
+        % manque.
+        \ohead*{Prud'homme — \thepage/\pageref{LastPage}}
+        % Petit corps et gris : le titre courant se consulte, il ne se lit pas.
+        % Pas de filet de séparation — headsepline reste à false — le blanc
+        % suffit à détacher la ligne du texte.
+        \setkomafont{pageheadfoot}{\normalfont\small\color{black!60}}
+        % Page de titre sans folio : elle porte déjà le nom en toutes lettres.
+        \renewcommand*{\titlepagestyle}{empty}
+        \pagestyle{scrheadings}
+
     # Pas de toc: false ici. Le toc des deux CV est déclaré au niveau du
     # document, qui l'emporte sur le projet ; il est donc restreint au format
     # html dans cv.qmd et en/cv.qmd. Rien n'active le toc pour le PDF, il

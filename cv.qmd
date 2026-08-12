@@ -11,7 +11,11 @@ Docteur en sémiologie · Chargé de cours — UQAM, UQAT, UQO
 
 [fdprudhomme@gmail.com](mailto:fdprudhomme@gmail.com) · [vimeo.com/fdprudhomme](https://vimeo.com/fdprudhomme) · ORCID : [0009-0001-1460-6594](https://orcid.org/0009-0001-1460-6594)[ · [Télécharger en PDF ↓](cv.pdf)]{.content-visible when-format="html"}
 
+::: {.content-visible when-format="html"}
+
 ---
+
+:::
 
 ## Profil de recherche
 
