@@ -132,8 +132,8 @@ The anthropological gesture: naming what the proliferation of algorithmic agents
 makes visible by contrast. *Semiotic silence* designates the interval between the
 perception of a sign and its resolution into meaning — a structural condition of
 interpretive creativity, grounded in phenomenological boredom (Husserl,
-Heidegger), the Japanese *Ma* [@saitoJapaneseAestheticsImperfection], the
-Lotmanian boundary [@UniverseMindSemiotic] and Eco's hesitation
+Heidegger), the Japanese *Ma* [@saitoJapaneseAestheticsImperfection1997], the
+Lotmanian boundary [@lotmanUniverseMindSemiotic2000] and Eco's hesitation
 [@ecoLimitesLinterpretation1992]. Its inverse is *premature closure*, the
 structural pathology of agentic architectures in which each cycle calls forth
 the next.
