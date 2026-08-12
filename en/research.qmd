@@ -3,7 +3,9 @@ title: "Interpretive Cooperation in the Age of Algorithmic Semiosis"
 subtitle: "Postdoctoral project"
 lang: en
 toc: true
-toc-title: "On this page"
+format:
+  html:
+    toc-title: "On this page"
 ---
 
 [Summary]{.eyebrow}
@@ -281,8 +283,18 @@ Age of Algorithmic Semiosis* (project summary). Zenodo.
 :::
 -->
 
+::: {.content-visible when-format="html"}
 ::: {.avertissement}
 This summary describes work in progress; its formulations evolve with the
 research. For the long version, or to discuss the project,
 [get in touch](mailto:fdprudhomme@gmail.com).
+:::
+:::
+
+::: {.content-visible when-format="pdf"}
+::: {.avertissement}
+This summary describes work in progress; its formulations evolve with the
+research. For the long version, or to discuss the project, write to
+fdprudhomme@gmail.com.
+:::
 :::

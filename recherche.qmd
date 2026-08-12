@@ -2,7 +2,9 @@
 title: "La coopération interprétative à l'ère de la sémiose algorithmique"
 subtitle: "Projet postdoctoral"
 toc: true
-toc-title: "Sur cette page"
+format:
+  html:
+    toc-title: "Sur cette page"
 ---
 
 [Résumé]{.eyebrow}
@@ -315,8 +317,20 @@ Zenodo. [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.
 :::
 -->
 
+::: {.content-visible when-format="html"}
 ::: {.avertissement}
-Ce résumé décrit un projet en cours ; les formulations évoluent avec le travail.
+Ce résumé décrit un projet en cours ; les formulations évoluent avec le
+travail.
 Pour la version longue ou pour discuter du projet,
 [écrire](mailto:fdprudhomme@gmail.com).
+:::
+:::
+
+::: {.content-visible when-format="pdf"}
+::: {.avertissement}
+Ce résumé décrit un projet en cours ; les formulations évoluent avec le
+travail.
+Pour la version longue ou pour discuter du projet, écrire à
+fdprudhomme@gmail.com.
+:::
 :::

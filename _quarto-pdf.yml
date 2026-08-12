@@ -46,6 +46,18 @@ format:
     # Liens colorés plutôt qu'encadrés, dans le $vert de styles.scss (#2F5D50,
     # aussi $link-color et $primary du site) : le PDF et le HTML signalent
     # l'hyperlien de la même couleur. Contraste 7,49:1 sur blanc.
+    # Un PDF circule détaché du site : les cibles relatives des .qmd n'y
+    # désignent rien. Le filtre les réécrit en URL absolues sur
+    # fdprudhomme.com, en résolvant depuis le répertoire du document — sans
+    # quoi « research.qmd » appelé depuis en/ pointerait vers la racine.
+    filters:
+      - outils/liens-absolus.lua
+
+    # Pas de toc-title ici : sans valeur explicite, LaTeX emploie l'intitulé
+    # localisé de sa langue — « Table des matières » sous lang: fr,
+    # « Contents » sous lang: en. Un titre fixé dans ce profil partagé serait
+    # dans une seule des deux langues.
+
     colorlinks: true
     linkcolor: vertfdp
     urlcolor: vertfdp
