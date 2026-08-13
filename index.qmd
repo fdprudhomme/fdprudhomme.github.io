@@ -3,6 +3,9 @@ title: "François David Prud'homme"
 subtitle: "Sémiotique · IA générative · études supérieures"
 toc: false
 page-layout: full
+format:
+  html:
+    include-after-body: _filigrane-topo.html
 ---
 
 ::: {.chapeau}

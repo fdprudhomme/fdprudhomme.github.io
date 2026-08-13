@@ -333,13 +333,55 @@ body:has(.retour-haut) main { padding-bottom: 4.5rem; }
   .retour-haut { right: 0.75rem; bottom: 0.75rem; }
 }
 
+// --- Filigrane topographique -----------------------------------------------
+// Courbes de niveau au coin inférieur droit, injectées par _filigrane-topo.html
+// sur l'accueil et les pages de section. `fixed` et non `absolute` : la trame
+// de points du body est déjà en background-attachment: fixed, et le filigrane
+// doit appartenir au même plan « papier » qu'elle, pas au flux du texte.
+
+.filigrane-topo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  z-index: -1;                // au-dessus de la trame de points, sous le texte
+
+  // Le carré de rognage. Le motif déborde à l'intérieur (règle .filigrane-topo
+  // svg ci-dessous) plutôt qu'en décalage négatif sur le viewport : un élément
+  // fixed qui déborde à droite peut provoquer une barre de défilement.
+  width:  clamp(260px, 36vw, 540px);
+  height: clamp(260px, 36vw, 540px);
+  overflow: hidden;
+
+  color: $relief;             // le SVG trace en currentColor
+  opacity: 0.9;
+
+  pointer-events: none;       // le bouton « retour en haut » reste cliquable
+  user-select: none;
+}
+
+.filigrane-topo svg {
+  display: block;
+  position: absolute;
+  right: -18%;
+  bottom: -22%;
+  width: 132%;
+  height: auto;
+}
+
+// Petits écrans : la colonne de texte prend toute la largeur, le motif doit se
+// retirer nettement sous elle.
+@media (max-width: 620px) {
+  .filigrane-topo { width: 240px; height: 240px; opacity: 0.55; }
+}
+
 // --- Divers ----------------------------------------------------------------
 
 a { text-underline-offset: 0.16em; }
 #TOC, .sidebar nav[role="doc-toc"] { font-family: $font-family-monospace; font-size: 0.76rem; }
 
 @media print {
-  .navbar, #quarto-margin-sidebar, .page-footer, #TOC, .retour-haut { display: none !important; }
+  .navbar, #quarto-margin-sidebar, .page-footer, #TOC, .retour-haut,
+  .filigrane-topo { display: none !important; }
   body { font-size: 10.5pt; background-image: none !important; }
   body:has(.retour-haut) main { padding-bottom: 0; }
 }

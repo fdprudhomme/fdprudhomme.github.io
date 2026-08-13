@@ -6,7 +6,9 @@ format:
   html:
     toc: true
     toc-title: "Sur cette page"
-    include-after-body: _retour-haut.html
+    include-after-body:
+      - _retour-haut.html
+      - _filigrane-topo.html
 ---
 
 [Résumé]{.eyebrow}

@@ -1,6 +1,9 @@
 ---
 title: "Publications"
 toc: true
+format:
+  html:
+    include-after-body: _filigrane-topo.html
 ---
 
 ## Articles

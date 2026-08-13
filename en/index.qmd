@@ -3,6 +3,9 @@ title: "François David Prud'homme"
 subtitle: "Semiotics · Generative AI · Higher education"
 toc: false
 page-layout: full
+format:
+  html:
+    include-after-body: ../_filigrane-topo.html
 ---
 
 ::: {.chapeau}

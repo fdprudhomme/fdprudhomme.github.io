@@ -5,6 +5,7 @@ format:
   html:
     toc: true
     toc-title: "Sections"
+    include-after-body: _filigrane-topo.html
 ---
 
 Docteur en sémiologie · Chargé de cours — UQAM, UQAT, UQO

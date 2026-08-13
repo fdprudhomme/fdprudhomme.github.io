@@ -6,6 +6,7 @@ toc: true
 format:
   html:
     toc-title: "On this page"
+    include-after-body: ../_filigrane-topo.html
 ---
 
 [Summary]{.eyebrow}

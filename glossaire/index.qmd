@@ -3,6 +3,9 @@ title: "Glossaire de la sémiose algorithmique"
 subtitle: "Carte du glossaire"
 toc: false
 page-layout: full
+format:
+  html:
+    include-after-body: ../_filigrane-topo.html
 ---
 
 ::: {.chapeau}

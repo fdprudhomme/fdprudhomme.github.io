@@ -162,7 +162,34 @@ Pour le style Chicago : télécharger
 `chicago-note-bibliography.csl` depuis <https://www.zotero.org/styles>, le
 déposer à la racine, et décommenter la ligne `csl:` dans `_quarto.yml`.
 
-## 7. Rendre le glossaire citable (DOI)
+## 7. Le filigrane topographique
+
+Les courbes de niveau du coin inférieur droit sont un composant partagé,
+injecté par `include-after-body` dans l'accueil et les pages de section, des
+deux côtés de la langue. Une page n'en reçoit pas si son en-tête ne le demande
+pas : `glossaire/entrees.qmd`, page longue et dense, en est volontairement
+exempte.
+
+Le fichier `_filigrane-topo.html` est **généré**. Ne pas y toucher : régénérer.
+
+```bash
+python3 outils/generer-filigrane.py              # à l'identique (graine fixe)
+python3 outils/generer-filigrane.py --graine 7   # un autre relief
+```
+
+Le style vit dans `styles.scss`, section « Filigrane topographique » — c'est là
+qu'on règle la taille (`clamp`), l'opacité et la couleur, qui est `$relief`,
+celle-là même des filets et des séparateurs. Le SVG trace en `currentColor` et
+ne porte aucune couleur en propre.
+
+Deux choix à ne pas défaire sans raison. Le motif est en `position: fixed`,
+comme la trame de points du `body` : les deux appartiennent au même plan
+« papier », et un filigrane qui défilerait avec le texte romprait cette unité.
+Et il déborde à l'intérieur d'un carré en `overflow: hidden` plutôt que par des
+décalages négatifs sur le viewport, qui provoqueraient une barre de défilement
+horizontale.
+
+## 8. Rendre le glossaire citable (DOI)
 
 Une fois le dépôt public :
 
@@ -178,7 +205,7 @@ citable :
 
 Ajouter ensuite le fichier `CITATION.cff` proposé par Zenodo à la racine.
 
-## 8. À personnaliser avant la première mise en ligne
+## 9. À personnaliser avant la première mise en ligne
 
 - [ ] `_quarto.yml` : `site-url`, adresse courriel, lien GitHub, ORCID
 - [ ] `CNAME` : le domaine
@@ -194,6 +221,8 @@ Ajouter ensuite le fichier `CITATION.cff` proposé par Zenodo à la racine.
 site-fdp/
 ├── _quarto.yml              configuration générale
 ├── styles.scss              palette, typographie, composants
+├── _retour-haut.html        composant — bouton de remontée (pages longues)
+├── _filigrane-topo.html     GÉNÉRÉ — courbes de niveau du coin inférieur droit
 ├── index.qmd                accueil
 ├── cv.qmd  recherche.qmd  publications.qmd
 ├── glossaire/
@@ -204,6 +233,7 @@ site-fdp/
 ├── outils/
 │   ├── convertir-glossaire.py   (hérité — import Word, écrase entrees.qmd)
 │   ├── indexer-glossaire.py     (reconstruit _index-termes.yml)
+│   ├── generer-filigrane.py     (reconstruit _filigrane-topo.html)
 │   └── source/              .docx sources (hors dépôt Git)
 ├── assets/                  images, PDF, favicon
 └── .github/workflows/publier.yml
