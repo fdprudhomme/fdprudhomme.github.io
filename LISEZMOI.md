@@ -135,15 +135,22 @@ le [*visible-pensant*](glossaire/entrees.qmd#visible-pensant)
 Dans les deux cas, l'emphase se place toujours à l'intérieur des crochets :
 jamais `*[terme](…)*`.
 
-## 5. Le CV en PDF
+## 5. Les PDF (CV et projet de recherche)
 
 ```bash
-quarto render cv.qmd --to pdf
+./outils/publier-pdf.sh              # les quatre documents
+./outils/publier-pdf.sh recherche    # un seul
 ```
 
+**`quarto render` ne met pas à jour les PDF suivis** — il n'en produit même
+aucun, le profil `_quarto-pdf.yml` n'étant pas activé sans `--profile pdf`. Et
+un rendu PDF isolé dépose sa sortie dans `_site/`, ignoré par git : le fichier
+publié reste alors à sa version précédente, sans que rien le signale. Ce script
+est le seul chemin correct : il rend, recopie vers l'emplacement suivi, et
+vérifie. Il ne fait pas le `git add`, qu'il rappelle en fin d'exécution.
+
 Nécessite LaTeX : `quarto install tinytex` (une fois, 100 Mo).
-Le PDF est produit à côté du `.html` ; le lien de téléchargement existe déjà
-dans `cv.qmd`.
+Les liens de téléchargement existent déjà dans `cv.qmd` et `recherche.qmd`.
 
 ## 6. Citations
 
