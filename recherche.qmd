@@ -161,7 +161,7 @@ De ce geste naît le concept-charnière
 d'[*inhabitation*](glossaire/entrees.qmd#inhabitation) — habiter un espace
 sémiotique sans le remplir — qui articule l'anthropologie de l'interprétation
 à la question institutionnelle : l'université fonctionne comme un espace
-transitionnel au sens de Winnicott [@winnicottJeuRealiteLespace1975], et c'est
+transitionnel au sens de Winnicott [@winnicottPlayingRealityDW1971], et c'est
 cet entre-deux que la sémiosphère algorithmique menace de saturer.
 
 ### Résister {#geste-3}
@@ -181,6 +181,19 @@ l'[enquête seconde](glossaire/entrees.qmd#enquete-seconde) est la
 [contre-conduite](glossaire/entrees.qmd#contre-conduite) qui restitue à
 l'interprète la position de celui qui cherche.
 
+Ce geste a une productivité propre. Reprendre la sortie générée pour
+l'agrandir, la déformer et en éprouver les limites relève de ce que Winnicott
+nomme le [*jeu*](glossaire/entrees.qmd#jeu) — mode d'existence de la
+créativité dans l'espace potentiel, et versant actif de l'inhabitation dégagée
+au geste précédent. L'opération visée est
+l'[abduction](glossaire/entrees.qmd#abduction) qui révise l'habitude
+interprétative dont elle procède, ce que Peirce nomme un
+[*habit-change*](glossaire/entrees.qmd#habit-change) : critère qui distingue
+la création de la variation stochastique d'un modèle dont les poids demeurent
+figés durant l'inférence. La créativité se mesure ainsi au déplacement de la
+règle, ce qui donne au troisième geste un critère opératoire plutôt qu'un
+plaidoyer en faveur de la lenteur.
+
 Le troisième geste renvoie au premier par une asymétrie qui distingue la
 spirale d'une circularité. La cartographie stratégique est celle de l'appareil
 algorithmique, qui pose les attracteurs et impose ses reliefs comme des
@@ -188,20 +201,27 @@ algorithmique, qui pose les attracteurs et impose ses reliefs comme des
 comme un ensemble de choix repérables. Résister consiste à
 contre-cartographier, au sens où De Certeau nomme tactique la reprise, depuis
 une position dépourvue de lieu propre, d'un dispositif conçu ailleurs
-[@micheldecerteauetlucegiardLinventionQuotidien11990].
+[@certeauLinventionQuotidien1980].
 
 Livrables : un diagnostic de l'état des études supérieures face à l'IA ; des
 dispositifs de pédagogie de l'indétermination valorisant structurellement
 l'[hésitation](glossaire/entrees.qmd#hesitation), le silence et la lenteur
-comme compétences ; une contribution à la refonte des curricula fondée sur la
+comme compétences et instituant l'essai sans conséquence comme condition de
+l'apprentissage ; une contribution à la refonte des curricula fondée sur la
 formation d'un sujet sémiotique critique.
 
 ::: {.charniere}
 ### Charnière — la [spirale interprétative](glossaire/entrees.qmd#spirale-interpretative)
 
 Les trois gestes s'enroulent : cartographier rend possible d'habiter et de
-résister, ce qui produit de nouveaux reliefs à cartographier. Cette boucle
-ouverte est l'opposé structurel de la
+résister, ce qui produit de nouveaux reliefs à cartographier. Ce qui relance
+chaque tour est le
+[*résidu interprétatif*](glossaire/entrees.qmd#residu-interpretatif) : la part
+que la carte n'absorbe pas — anomalie, panne, intraduisible momentané.
+L'incident OpenClaw / Matplotlib (février 2026) en fournit la démonstration,
+le dysfonctionnement d'un agent ayant rendu observables trois opérations que
+la théorie ne nommait pas encore. Cette boucle ouverte est l'opposé structurel
+de la
 [clôture prématurée](glossaire/entrees.qmd#cloture-prematuree) — le principe
 méthodologique autant que le pari théorique du projet.
 :::

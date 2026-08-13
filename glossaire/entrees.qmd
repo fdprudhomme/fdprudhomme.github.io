@@ -16,6 +16,37 @@ son état de validation. La [carte du glossaire](index.qmd) en donne
 l'architecture ; la présente page se lit dans l'ordre alphabétique.
 :::
 
+## ABDUCTION {#abduction}
+
+[Abduction]{.sous-titre}
+
+[Entrée importée — Peirce — à valider]{.statut}
+
+::: {.punchline}
+L’abduction est le seul mode inférentiel qui introduise une idée neuve.
+:::
+
+::: {.definition}
+L’abduction désigne l’inférence par laquelle un fait surprenant appelle l’hypothèse qui le rendrait intelligible. Elle procède du résultat vers la règle, et sa conclusion demeure conjecturale.
+:::
+
+### Cadre théorique (Peirce)
+
+Peirce distingue trois modes inférentiels. La **déduction** explicite ce que les prémisses contiennent ; l’**induction** généralise à partir de cas observés ; l’**abduction** seule ajoute une idée absente des prémisses. Sa forme canonique part d’un **fait surprenant** : si l’hypothèse était vraie, ce fait cesserait de surprendre ; il y a donc raison de la soupçonner vraie. La surprise en constitue la condition de déclenchement, ce qui lie l’abduction à la rupture d’une habitude établie.
+
+L’abduction demeure **faillible par construction**. Sa validation appartient aux deux autres modes, qui déduisent ses conséquences et les éprouvent. Cette faillibilité fonde le caractère indéfiniment révisable de l’enquête.
+
+### Articulation au cadre
+
+L’abduction fournit le mécanisme de la relance interprétative. Le [résidu interprétatif](#residu-interpretatif) joue le rôle du **fait surprenant** : ce que la carte n’absorbe pas appelle une hypothèse neuve, laquelle modifie l’habitude dont elle procède. La [créativité interprétative](#creativite-interpretative) se définit à ce point précis.
+
+Les systèmes génératifs produisent des sorties dont la forme **imite** le raisonnement abductif, effet que la littérature récente attribue à leur entraînement sur des textes humains encodant des structures inférentielles. La distinction entre l’apparence abductive et l’opération abductive appartient au geste *cartographier*.
+
+::: {.voir-aussi}
+**Voir aussi** — [créativité interprétative](#creativite-interpretative) · [habit-change](#habit-change) · [sémiose illimitée](#semiose-illimitee) · [résidu interprétatif](#residu-interpretatif) · [enquête seconde](#enquete-seconde) · [clôture prématurée](#cloture-prematuree)
+:::
+
+
 ## AGENT {#agent}
 
 [Acteur algorithmique autonome à boucle ouverte]{.sous-titre}
@@ -662,6 +693,37 @@ La pédagogie de l’indétermination en donne le versant institutionnel — une
 :::
 
 
+## CRÉATIVITÉ INTERPRÉTATIVE {#creativite-interpretative}
+
+[Interpretive creativity]{.sous-titre}
+
+[Concept forgé par l’auteur — à valider]{.statut}
+
+::: {.punchline}
+La créativité est l’abduction qui modifie l’habitude interprétative dont elle procède.
+:::
+
+::: {.definition}
+La créativité interprétative désigne la production d’un interprétant qui révise la règle d’interprétation dont il est issu — ce que Peirce nomme un *habit-change*. Elle se distingue de la **variation**, qui parcourt une distribution de possibles sans la déplacer.
+:::
+
+### Cadre théorique (Peirce)
+
+L’**abduction** est le seul des trois modes inférentiels qui introduise une idée neuve : elle formule l’hypothèse qui rendrait le fait surprenant intelligible. Son aboutissement est l’**interprétant logique final**, que Peirce identifie à une modification de l’habitude. La créativité se mesure donc au **déplacement de la règle**, et pas au caractère inédit du résultat.
+
+### Cadre technique
+
+L’échantillonnage d’un modèle génératif — température, *top-p*, *nucleus sampling* — produit de la variation à l’intérieur d’une distribution fixée. Les poids demeurent figés durant l’inférence : aucune habitude n’est révisée. L’apprentissage en contexte modifie le comportement de façon locale et non persistante, sans franchir ce seuil. Le modèle produit de la **nouveauté de surface au sein d’une règle constante**.
+
+### Articulation au cadre
+
+Ce critère déplace l’argument du geste résister hors du registre de la lenteur et de la rareté, valeurs contestables et exposées au reproche de nostalgie, vers une **distinction structurale opposable**. Il donne au troisième geste un critère opératoire et installe la créativité comme sa production propre, au lieu d’une condition passivement préservée par le silence sémiotique.
+
+::: {.voir-aussi}
+**Voir aussi** — [abduction](#abduction) · [habit-change](#habit-change) · [silence sémiotique](#silence-semiotique) · [jeu](#jeu) · [résidu interprétatif](#residu-interpretatif) · [résistance sémiotique](#resistance-semiotique) · [spirale interprétative](#spirale-interpretative)
+:::
+
+
 ## DISTRIBUTION POLITIQUE DES CAPACITÉS PERCEPTIVES {#distribution-politique-des-capacites-perceptives}
 
 ::: {.punchline}
@@ -808,7 +870,7 @@ La seconde proposition est plus opératoire. Le modèle génératif **se conform
 L’espace transitionnel nomme le **milieu** ; l’inhabitation nomme la **conduite du sujet** dans ce milieu. Un dispositif institutionnel peut ménager l’aire sans que personne y séjourne.
 
 ::: {.voir-aussi}
-**Voir aussi** — [inhabitation](#inhabitation) · [silence sémiotique](#silence-semiotique) · [Ma sémiotique](#ma-semiotique) · [clôture prématurée](#cloture-prematuree) · [tolérance à l’indétermination](#tolerance-a-l-indetermination) · [enquête seconde](#enquete-seconde) · [pédagogie de l’indétermination](#pedagogie-de-l-indetermination)
+**Voir aussi** — [inhabitation](#inhabitation) · [silence sémiotique](#silence-semiotique) · [Ma sémiotique](#ma-semiotique) · [clôture prématurée](#cloture-prematuree) · [tolérance à l’indétermination](#tolerance-a-l-indetermination) · [enquête seconde](#enquete-seconde) · [pédagogie de l’indétermination](#pedagogie-de-l-indetermination) · [jeu](#jeu)
 :::
 
 
@@ -875,6 +937,41 @@ C'est aussi une illustration directe de la distinction entre **coopération inte
 
 ::: {.voir-aussi}
 **Voir aussi** — [agent](#agent) · [React Loop](#react-loop) · [sémiose rétaliative](#semiose-retaliative) · [OSINT automatisé](#osint-automatise) · [silence sémiotique](#silence-semiotique) · [coopération interprétative](#cooperation-interpretative)
+:::
+
+
+## HABIT-CHANGE {#habit-change}
+
+[Changement d’habitude]{.sous-titre}
+
+[Entrée importée — Peirce — à valider]{.statut}
+
+::: {.punchline}
+L’interprétation aboutit lorsqu’elle modifie la disposition à interpréter.
+:::
+
+::: {.definition}
+Le *habit-change* désigne la modification d’une habitude interprétative sous l’effet d’un interprétant. Peirce l’identifie à l’**interprétant logique final** : le terme de la chaîne des renvois se situe dans une disposition transformée, non dans une représentation supplémentaire.
+:::
+
+### Cadre théorique (Peirce)
+
+L’**habitude** est chez Peirce une disposition à agir et à interpréter, stabilisation pragmatique qui suspend le renvoi sans le clore logiquement. La chaîne des interprétants trouve son terme réel dans son **déplacement** : une habitude révisée constitue l’aboutissement de l’interprétation, et la relance de la sémiose lorsqu’un fait surprenant la rompt à nouveau.
+
+Le terme anglais est conservé, faute d’un équivalent français stabilisé — « changement d’habitude » perd la valeur technique d’aboutissement inférentiel.
+
+### Cadre technique
+
+Les poids d’un modèle génératif demeurent constants durant l’inférence. La variation produite par l’échantillonnage parcourt une distribution fixée sans la déplacer, et l’apprentissage en contexte modifie le comportement de manière locale et non persistante. **Aucune disposition n’est révisée.**
+
+Cette prémisse circule dans la littérature péircienne sur l’IA, où elle sert parfois à établir une barrière **contingente** plutôt que structurelle : les architectures à mémoire persistante et à réglage fin par interaction sont présentées comme susceptibles de la lever. La discussion appartient au geste *cartographier*.
+
+### Articulation au cadre
+
+Le *habit-change* fournit le **critère opératoire** de la [créativité interprétative](#creativite-interpretative) et distingue la création de la variation. Sa portée dans ce projet concerne la sémiose humaine sous condition algorithmique, plutôt que le statut ontologique des systèmes.
+
+::: {.voir-aussi}
+**Voir aussi** — [créativité interprétative](#creativite-interpretative) · [abduction](#abduction) · [sémiose illimitée](#semiose-illimitee) · [résidu interprétatif](#residu-interpretatif) · [attracteur statistique](#attracteur-statistique) · [silence sémiotique](#silence-semiotique)
 :::
 
 
@@ -1133,6 +1230,35 @@ Les interfaces cognitives sont des **manifestations exemplaires du visible-pensa
 -   Une carte de chaleur indiquant où regarder
 
 -   Un tableau de bord de données transformant des calculs en décisions visuelles
+
+
+## JEU {#jeu}
+
+[Play]{.sous-titre}
+
+[Entrée importée — Winnicott — à valider]{.statut}
+
+::: {.punchline}
+Le jeu est le nom que Winnicott donne à la créativité : ce qui advient dans l’espace potentiel.
+:::
+
+::: {.definition}
+Le jeu désigne l’activité par laquelle un sujet éprouve, manipule et déforme des significations dans un espace ni entièrement réel ni entièrement contraint, où l’essai demeure **sans conséquence**. Chez Winnicott, la créativité est le mode d’existence propre au *play*, et la santé psychique se mesure à la capacité d’y accéder.
+:::
+
+### Cadre théorique (Winnicott)
+
+L’**espace potentiel** se définit d’abord comme aire de jeu. C’est en jouant que l’individu déploie sa personnalité entière et devient créatif. L’entrée [espace transitionnel](#espace-transitionnel) retient le versant **institutionnel** de ce concept ; le jeu en nomme le versant **productif**.
+
+### Articulation au cadre
+
+L’enquête seconde relève de ce registre : agrandir la sortie générée, la déformer, en tester les limites, la traiter comme sonde relèvent de la **manipulation ludique** avant de relever de la critique. Le « Blow Up algorithmique » est un jeu avec l’image autant qu’une enquête sur elle. La pédagogie de l’indétermination consiste dès lors à instituer un espace où l’essai sans conséquence demeure structurellement permis.
+
+La menace propre à la sémiosphère algorithmique se formule alors précisément : elle **remplit l’espace potentiel de contenus déjà résolus** et prescrit ce à quoi l’on peut jouer.
+
+::: {.voir-aussi}
+**Voir aussi** — [espace transitionnel](#espace-transitionnel) · [enquête seconde](#enquete-seconde) · [créativité interprétative](#creativite-interpretative) · [pédagogie de l’indétermination](#pedagogie-de-l-indetermination) · [silence sémiotique](#silence-semiotique) · [résistance sémiotique](#resistance-semiotique)
+:::
 
 
 ## LECTEUR MODÈLE {#lecteur-modele}
@@ -1707,6 +1833,37 @@ Les **artéfacts cognitifs** et les **interfaces cognitives** sont des **agents 
 Un régime de perceptibilité est la **face sensible** d'un régime de pensée : il traduit cognitivement et esthétiquement une manière de penser le monde, en conditionnant ce qui peut être vu, senti et cru.
 
 
+## RÉSIDU INTERPRÉTATIF {#residu-interpretatif}
+
+[Interpretive residue]{.sous-titre}
+
+[Concept forgé par l’auteur — à valider]{.statut}
+
+::: {.punchline}
+Le résidu est ce que la carte n’absorbe pas — et c’est lui qui relance la spirale.
+:::
+
+::: {.definition}
+Le résidu interprétatif désigne la portion de l’expérience sémiotique qui résiste à la cartographie du milieu génératif : l’anomalie, la panne, l’écart imprévu, l’intraduisible momentané. Il constitue le **moteur de la spirale interprétative**.
+:::
+
+### Cadre théorique (Lotman)
+
+La créativité naît **aux frontières de la sémiosphère**, là où la traduction échoue temporairement, et l’**explosion** est le nom lotmanien de ce moment d’imprévisibilité féconde. La sémiosphère algorithmique constitue une frontière neuve : son contact produit de l’intraduisible, donc du résidu exploitable.
+
+### Cas paradigmatique
+
+L’incident OpenClaw / Matplotlib (février 2026) illustre cette fécondité. Le dysfonctionnement d’un agent a rendu observables trois opérations que la théorie ne nommait pas encore : l’[asymétrie sémiosique](#asymetrie-semiosique), la [dérive téléologique](#goal-seeking-drift) et la [sémiose rétaliative](#semiose-retaliative). La panne y fonctionne comme **opérateur heuristique**.
+
+### Articulation au cadre
+
+La sémiose illimitée garantit qu’aucune interprétation ne se referme logiquement ; l’habitude en suspend pourtant le mouvement par stabilisation pragmatique. Le résidu est ce qui rompt cette stabilisation : le fait surprenant qui relance l’enquête et appelle un [*habit-change*](#habit-change). **Chaque tour de cartographie laisse un reste, et ce reste ouvre le tour suivant.** L’explosion lotmanienne nomme la même opération à l’échelle de la sémiosphère. Il forme l’inverse structurel de la clôture prématurée, qui procède par élimination de l’écart. Le geste résister trouve là son objet positif : **entretenir le résidu** au lieu de le résorber.
+
+::: {.voir-aussi}
+**Voir aussi** — [spirale interprétative](#spirale-interpretative) · [clôture prématurée](#cloture-prematuree) · sémiosphère · explosion interprétative · [créativité interprétative](#creativite-interpretative) · [cartographie de la sémiose algorithmique](#cartographie-de-la-semiose-algorithmique) · [sémiose rétaliative](#semiose-retaliative) · [abduction](#abduction) · [habit-change](#habit-change)
+:::
+
+
 ## RÉSISTANCE SÉMIOTIQUE {#resistance-semiotique}
 
 ::: {.punchline}
@@ -1724,7 +1881,7 @@ La résistance sémiotique n'est pas un refus technophobe de l'IA. C'est une pos
 La résistance n’est pas que posture critique : elle a un versant perceptif, hérité de ce que nommaient le voir-pensant et le voir-pensé — un **voir qui pense**, qui reconnaît l’attracteur perceptif comme un choix et non comme une évidence. Là où le visible-pensant (l’objet) a déjà pensé à notre place, la faculté résistante **re-saisit la perception comme acte interprétable**. C’est l’émancipation du regard de Rancière, étendue à la sémiose tout entière.
 
 ::: {.voir-aussi}
-**Voir aussi** — [coopération interprétative](#cooperation-interpretative) · [silence sémiotique](#silence-semiotique) · [régimes de perceptibilité](#regimes-de-perceptibilite) · [pédagogie de l’indétermination](#pedagogie-de-l-indetermination) · [court-circuit inférentiel](#court-circuit-inferentiel)
+**Voir aussi** — [coopération interprétative](#cooperation-interpretative) · [silence sémiotique](#silence-semiotique) · [régimes de perceptibilité](#regimes-de-perceptibilite) · [pédagogie de l’indétermination](#pedagogie-de-l-indetermination) · [court-circuit inférentiel](#court-circuit-inferentiel) · [créativité interprétative](#creativite-interpretative) · [jeu](#jeu)
 :::
 
 
@@ -1793,7 +1950,7 @@ Chez Peirce, l’**interprétant** n’est pas l’interprète : c’est le sign
 Le régime algorithmique remplace la sémiose illimitée par une **convergence probabiliste vers un attracteur** : l’indice statistique devient icône par calcul, sans passer par la médiation d’un sujet interprétant. La spirale interprétative est la reprise assumée de la sémiose illimitée ; la clôture prématurée en est la suppression.
 
 ::: {.voir-aussi}
-**Voir aussi** — [coopération interprétative](#cooperation-interpretative) · [intentio operis](#intentio-operis) · [clôture prématurée](#cloture-prematuree) · [spirale interprétative](#spirale-interpretative) · [attracteur statistique](#attracteur-statistique) · [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique)
+**Voir aussi** — [coopération interprétative](#cooperation-interpretative) · [intentio operis](#intentio-operis) · [clôture prématurée](#cloture-prematuree) · [spirale interprétative](#spirale-interpretative) · [attracteur statistique](#attracteur-statistique) · [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique) · [abduction](#abduction) · [habit-change](#habit-change)
 :::
 
 
@@ -1830,8 +1987,6 @@ C'est aussi, du point de vue du diptyque, un exemple de ce que devient la sémio
 
 ## SILENCE SÉMIOTIQUE {#silence-semiotique}
 
-[à enrichir — à valider]{.statut}
-
 ::: {.punchline}
 Le silence sémiotique, c’est la capacité de ne pas encore répondre — que l’algorithme ne connaît pas.
 :::
@@ -1847,7 +2002,7 @@ Il se décline en une chaîne — ennui, *Ma*, hésitation, explosion interprét
 Le silence a un versant perceptif : une perception incarnée qui ne se laisse pas saturer par le visible probable, et qui ménage des intervalles — le *Ma* — dans le flux des images. C’est ce que nommait l’écoperception, ici réancrée sous le silence et délestée du préfixe « éco ».
 
 ::: {.voir-aussi}
-**Voir aussi** — [sémiose algorithmique](#semiose-algorithmique) · [cartographie de la sémiose algorithmique](#cartographie-de-la-semiose-algorithmique) · [résistance sémiotique](#resistance-semiotique) · [coopération interprétative](#cooperation-interpretative) · [spirale interprétative](#spirale-interpretative) · [espace transitionnel](#espace-transitionnel)
+**Voir aussi** — [sémiose algorithmique](#semiose-algorithmique) · [cartographie de la sémiose algorithmique](#cartographie-de-la-semiose-algorithmique) · [résistance sémiotique](#resistance-semiotique) · [coopération interprétative](#cooperation-interpretative) · [spirale interprétative](#spirale-interpretative) · [espace transitionnel](#espace-transitionnel) · [créativité interprétative](#creativite-interpretative) · [jeu](#jeu)
 :::
 
 
@@ -1929,7 +2084,7 @@ La sémiose illimitée de Peirce couvre le refus de tout premier sol : la sémio
 **Instituer la spirale plutôt qu’enseigner la résistance.** L’université n’a pas pour tâche de transmettre une fois pour toutes une compétence de résistance — geste qui retomberait dans la posture du Maître explicateur — mais d’instituer les conditions de la boucle ouverte : empêcher la sémiose de se clore, faire de l’espace universitaire le lieu où l’interprétation peut se relancer.
 
 ::: {.voir-aussi}
-**Voir aussi** — [cartographie de la sémiose algorithmique](#cartographie-de-la-semiose-algorithmique) · [résistance sémiotique](#resistance-semiotique) · [silence sémiotique](#silence-semiotique) · [coopération interprétative](#cooperation-interpretative) · [React Loop](#react-loop) · [clôture prématurée](#cloture-prematuree) · [sémiose illimitée](#semiose-illimitee) · [pédagogie de l’indétermination](#pedagogie-de-l-indetermination)
+**Voir aussi** — [cartographie de la sémiose algorithmique](#cartographie-de-la-semiose-algorithmique) · [résistance sémiotique](#resistance-semiotique) · [silence sémiotique](#silence-semiotique) · [coopération interprétative](#cooperation-interpretative) · [React Loop](#react-loop) · [clôture prématurée](#cloture-prematuree) · [sémiose illimitée](#semiose-illimitee) · [pédagogie de l’indétermination](#pedagogie-de-l-indetermination) · [créativité interprétative](#creativite-interpretative) · [résidu interprétatif](#residu-interpretatif) · [abduction](#abduction) · [habit-change](#habit-change)
 :::
 
 

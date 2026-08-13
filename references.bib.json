@@ -443,7 +443,7 @@
     },
     {
       "key": "XQPRS2PW",
-      "version": 4265,
+      "version": 4331,
       "itemType": "book",
       "title": "L'invention du quotidien",
       "date": "1980",
@@ -474,9 +474,13 @@
         }
       ],
       "tags": [],
-      "relations": {},
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4329366/items/UGBILHLH"
+        ]
+      },
       "dateAdded": "2026-08-12T20:13:54Z",
-      "dateModified": "2026-08-12T20:13:54Z",
+      "dateModified": "2026-08-13T14:20:40Z",
       "uri": "http://zotero.org/users/4329366/items/XQPRS2PW",
       "itemID": 1509,
       "attachments": [],

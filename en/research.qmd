@@ -146,7 +146,7 @@ the next.
 From this gesture comes the hinge concept of *inhabitation* — dwelling in a
 semiotic space without filling it — which connects the anthropology of
 interpretation to the institutional question: the university functions as a
-transitional space in Winnicott's sense [@winnicottJeuRealiteLespace1975], and
+transitional space in Winnicott's sense [@winnicottPlayingRealityDW1971], and
 it is precisely this in-between that the algorithmic semiosphere threatens to
 saturate.
 
@@ -170,7 +170,7 @@ tactical mapping belongs to the subject who rereads the map as a set of
 locatable choices. To resist is to counter-map, in the sense in which De
 Certeau calls tactical the reappropriation, from a position without a proper
 place, of an apparatus devised elsewhere
-[@micheldecerteauetlucegiardLinventionQuotidien11990].
+[@certeauLinventionQuotidien1980].
 
 Deliverables: a diagnosis of the state of higher education in the face of AI; a
 set of devices for a pedagogy of indeterminacy that treats hesitation, silence
