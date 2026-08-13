@@ -164,6 +164,17 @@ Schoolmaster* [@ranciereMaitreIgnorantCinq1987]; the second inquiry is the
 counter-conduct that restores to the interpreter the position of one who
 searches.
 
+This gesture has a productivity of its own. Taking up the generated output in
+order to enlarge it, distort it and test its limits belongs to what Winnicott
+calls play — the mode of existence of creativity within potential space, and
+the active side of the inhabitation identified in the preceding gesture. The
+operation at stake is the abduction that revises the interpretive habit from
+which it proceeds, what Peirce calls a habit-change: a criterion that
+distinguishes creation from the stochastic variation of a model whose weights
+remain frozen during inference. Creativity is thus measured by the displacement
+of the rule, which gives the third gesture an operative criterion rather than a
+plea for slowness.
+
 The third gesture returns to the first through an asymmetry that distinguishes
 the spiral from a circle. Strategic mapping belongs to the algorithmic
 apparatus, which sets the attractors and imposes its reliefs as self-evident;
@@ -177,6 +188,15 @@ Deliverables: a diagnosis of the state of higher education in the face of AI; a
 set of devices for a pedagogy of indeterminacy that treats hesitation, silence
 and slowness as competences rather than defects; and a contribution to
 curriculum reform grounded in the formation of a critical semiotic subject.
+
+The dispositif is tested in undergraduate film studies courses, where analysis
+bears on objects whose reading requires inferential completion. Three
+consecutive sessions articulate the solicitation of a generative system, the
+second inquiry into the output obtained, and a collective restitution. The
+resulting traces — prompt corpora, inquiry notebooks, interviews — are coded
+through a grid derived from the glossary, which contact with the data may
+confirm or compel to revise. Data collection is conditional upon approval by
+the relevant research ethics board.
 
 ::: {.charniere}
 ### Hinge — the interpretive spiral

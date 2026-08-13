@@ -214,6 +214,16 @@ comme compétences et instituant l'essai sans conséquence comme condition de
 l'apprentissage ; une contribution à la refonte des curricula fondée sur la
 formation d'un sujet sémiotique critique.
 
+La mise à l'épreuve du dispositif s'effectue dans des cours de premier cycle
+en études cinématographiques, où l'analyse porte sur des objets dont la
+lecture exige un travail inférentiel de complétion. Trois séances consécutives
+articulent la sollicitation d'un système génératif, l'enquête seconde sur la
+sortie obtenue, et une restitution collective. Les traces produites — corpus
+de requêtes, carnets d'enquête, entretiens — sont codées au moyen d'une grille
+dérivée du glossaire, que le contact avec les données peut confirmer ou
+contraindre à réviser. La collecte est conditionnelle à l'approbation du
+comité d'éthique compétent.
+
 ::: {.charniere}
 ### Charnière — la [spirale interprétative](glossaire/entrees.qmd#spirale-interpretative)
 

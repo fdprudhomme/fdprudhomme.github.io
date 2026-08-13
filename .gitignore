@@ -12,3 +12,9 @@ _quarto_internal_scss_error.scss
 /.quarto/
 
 **/*.quarto_ipynb
+
+# résidus de rendu LaTeX
+*.aux
+*.log
+*.toc
+*.tex
