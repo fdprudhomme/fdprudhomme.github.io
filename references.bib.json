@@ -196,6 +196,60 @@
       "select": "zotero://select/library/items/KR2ULRQ4"
     },
     {
+      "key": "3TT5GQB2",
+      "version": 4299,
+      "itemType": "journalArticle",
+      "title": "The cultural explosion of AI: Navigating the intersection of artificial intelligence, society, and culture from a semiotic and interdisciplinary perspective",
+      "date": "2025",
+      "shortTitle": "The cultural explosion of AI",
+      "libraryCatalog": "WorldCat Discovery Service",
+      "url": "http://dx.doi.org/10.33919/dasc.25.8.1",
+      "accessDate": "2026-08-13T12:32:07Z",
+      "volume": "8",
+      "pages": "7-18",
+      "publicationTitle": "Digital Age in Semiotics & Communication",
+      "DOI": "10.33919/dasc.25.8.1",
+      "ISSN": "2603-3585; 2603-3593; 2603-3585; 2603-3593",
+      "citationKey": "bankovCulturalExplosionAI2025",
+      "creators": [
+        {
+          "firstName": "Kristian",
+          "lastName": "Bankov",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Federico",
+          "lastName": "Biggio",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-13T12:32:07Z",
+      "dateModified": "2026-08-13T12:32:07Z",
+      "uri": "http://zotero.org/users/4329366/items/3TT5GQB2",
+      "itemID": 1517,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Texte intégral",
+          "url": "https://ojs.nbu.bg/index.php/DASC/article/download/1390/1213",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-13T12:32:08Z",
+          "dateModified": "2026-08-13T12:32:08Z",
+          "uri": "http://zotero.org/users/4329366/items/4RK6MUBW",
+          "path": "/Users/fd/Zotero/storage/4RK6MUBW/Bankov et Biggio - 2025 - The cultural explosion of AI Navigating the intersection of artificial intelligence, society, and c.pdf",
+          "select": "zotero://select/library/items/4RK6MUBW"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "Digit. Age Semiot. Commun.",
+      "itemKey": "3TT5GQB2",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/3TT5GQB2"
+    },
+    {
       "key": "I55HBMS4",
       "version": 4237,
       "itemType": "book",
@@ -331,6 +385,61 @@
       "itemKey": "6G6MSLZL",
       "libraryID": 1,
       "select": "zotero://select/library/items/6G6MSLZL"
+    },
+    {
+      "key": "H3FIEGQS",
+      "version": 4328,
+      "itemType": "journalArticle",
+      "title": "The bewitching AI: The Illusion of Communication with Large Language Models",
+      "date": "2025",
+      "language": "English",
+      "shortTitle": "The bewitching AI",
+      "libraryCatalog": "WorldCat Discovery Service",
+      "url": "https://doi.org/10.1007/s13347-025-00893-6",
+      "accessDate": "2026-08-13T13:11:10Z",
+      "volume": "38",
+      "publicationTitle": "Philosophy & technology",
+      "DOI": "10.1007/s13347-025-00893-6",
+      "issue": "2",
+      "ISSN": "2210-5441; 2210-5441",
+      "citationKey": "bottazzigrifoniBewitchingAIIllusion2025",
+      "creators": [
+        {
+          "firstName": "Emanuele",
+          "lastName": "Bottazzi Grifoni",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Roberta",
+          "lastName": "Ferrario",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-13T13:11:10Z",
+      "dateModified": "2026-08-13T13:32:11Z",
+      "uri": "http://zotero.org/users/4329366/items/H3FIEGQS",
+      "itemID": 1526,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Texte intégral",
+          "url": "https://link.springer.com/content/pdf/10.1007/s13347-025-00893-6.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-13T13:11:13Z",
+          "dateModified": "2026-08-13T13:11:13Z",
+          "uri": "http://zotero.org/users/4329366/items/Z4WT37IL",
+          "path": "/Users/fd/Zotero/storage/Z4WT37IL/Bottazzi Grifoni et Ferrario - 2025 - The bewitching AI The Illusion of Communication with Large Language Models.pdf",
+          "select": "zotero://select/library/items/Z4WT37IL"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "Philos. Technol.",
+      "itemKey": "H3FIEGQS",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/H3FIEGQS"
     },
     {
       "key": "XQPRS2PW",
@@ -989,6 +1098,54 @@
       "select": "zotero://select/library/items/3QIVRE4G"
     },
     {
+      "key": "7IBN4BQR",
+      "version": 4298,
+      "itemType": "manuscript",
+      "title": "What Kind of Reasoning (if any) is an LLM actually doing? On the Stochastic Nature and Abductive Appearance of Large Language Models",
+      "date": "2025",
+      "language": "English",
+      "shortTitle": "What Kind of Reasoning (if any) is an LLM actually doing?",
+      "libraryCatalog": "WorldCat Discovery Service",
+      "url": "http://arxiv.org/abs/2512.10080",
+      "accessDate": "2026-08-13T12:30:04Z",
+      "DOI": "10.48550/arXiv.2512.10080",
+      "citationKey": "floridiWhatKindReasoning2025a",
+      "creators": [
+        {
+          "firstName": "Luciano",
+          "lastName": "Floridi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jessica",
+          "lastName": "Morley",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Claudio",
+          "lastName": "Novelli",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "David",
+          "lastName": "Watson",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-13T12:30:04Z",
+      "dateModified": "2026-08-13T12:31:19Z",
+      "uri": "http://zotero.org/users/4329366/items/7IBN4BQR",
+      "itemID": 1516,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "7IBN4BQR",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/7IBN4BQR"
+    },
+    {
       "key": "PV28YGBJ",
       "version": 4197,
       "itemType": "journalArticle",
@@ -1133,6 +1290,143 @@
       "itemKey": "YTGFW5SK",
       "libraryID": 1,
       "select": "zotero://select/library/items/YTGFW5SK"
+    },
+    {
+      "key": "XKURZ79I",
+      "version": 4303,
+      "itemType": "book",
+      "title": "On the Digital Semiosphere: Culture,Media and Science for the Anthropocene",
+      "date": "2021",
+      "language": "English",
+      "shortTitle": "On the Digital Semiosphere",
+      "libraryCatalog": "WorldCat Discovery Service",
+      "url": "https://go.openathens.net/redirector/umoncton.ca?url=https%3A%2F%2Febookcentral.proquest.com%2Flib%2Fumoncton-ebooks%2Fdetail.action%3FdocID%3D6427252",
+      "accessDate": "2026-08-13T12:32:53Z",
+      "numberOfVolumes": "1 ressource en ligne (352 pages) : illustrations (certaines en couleur)",
+      "place": "New York, New York",
+      "publisher": "Bloomsbury Academic",
+      "ISBN": "978-1-5013-6923-0 978-1-5013-6922-3 978-1-5013-6920-9",
+      "citationKey": "hartleyDigitalSemiosphereCultureMedia2021",
+      "creators": [
+        {
+          "firstName": "John",
+          "lastName": "Hartley",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Indrek",
+          "lastName": "Ibrus",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Marrja",
+          "lastName": "Ojamaa",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-13T12:32:53Z",
+      "dateModified": "2026-08-13T13:00:26Z",
+      "uri": "http://zotero.org/users/4329366/items/XKURZ79I",
+      "itemID": 1519,
+      "attachments": [],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "XKURZ79I",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/XKURZ79I"
+    },
+    {
+      "key": "77DF8CIM",
+      "version": 4322,
+      "itemType": "journalArticle",
+      "title": "From Reasoning to Learning: A Survey on Hypothesis Discovery and Rule Learning with Large Language Models",
+      "abstractNote": "Since the advent of Large Language Models (LLMs), efforts have largely focused on improving their instruction-following and deductive reasoning abilities, leaving open the question of whether these models can truly discover new knowledge. In pursuit of artificial general intelligence (AGI), there is a growing need for models that not only execute commands or retrieve information but also learn, reason, and generate new knowledge by formulating novel hypotheses and theories that deepen our understanding of the world. Guided by Peirce's framework of abduction, deduction, and induction, this survey offers a structured lens to examine LLM-based hypothesis discovery. We synthesize existing work in hypothesis generation, application, and validation, identifying both key achievements and critical gaps. By unifying these threads, we illuminate how LLMs might evolve from mere ``information executors'' into engines of genuine innovation, potentially transforming research, science, and real-world problem solving.",
+      "date": "2025",
+      "shortTitle": "From Reasoning to Learning",
+      "libraryCatalog": "Semantic Scholar",
+      "url": "https://arxiv.org/abs/2505.21935",
+      "accessDate": "2026-08-13T13:12:44Z",
+      "rights": "Creative Commons Attribution 4.0 International",
+      "extra": "Version Number: 2",
+      "publisher": "arXiv",
+      "DOI": "10.48550/ARXIV.2505.21935",
+      "citationKey": "heReasoningLearningSurvey2025",
+      "creators": [
+        {
+          "firstName": "Kaiyu",
+          "lastName": "He",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Zhiyu",
+          "lastName": "Chen",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Artificial Intelligence (cs.AI)",
+          "type": 1
+        },
+        {
+          "tag": "Computation and Language (cs.CL)",
+          "type": 1
+        },
+        {
+          "tag": "FOS: Computer and information sciences",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-08-13T13:12:44Z",
+      "dateModified": "2026-08-13T13:12:44Z",
+      "uri": "http://zotero.org/users/4329366/items/77DF8CIM",
+      "itemID": 1531,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://arxiv.org/pdf/2505.21935.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-13T13:12:46Z",
+          "dateModified": "2026-08-13T13:12:46Z",
+          "uri": "http://zotero.org/users/4329366/items/KT9T6V67",
+          "path": "/Users/fd/Zotero/storage/KT9T6V67/He et Chen - 2025 - From Reasoning to Learning A Survey on Hypothesis Discovery and Rule Learning with Large Language M.pdf",
+          "select": "zotero://select/library/items/KT9T6V67"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Semantic Scholar Link",
+          "url": "https://www.semanticscholar.org/paper/From-Reasoning-to-Learning%3A-A-Survey-on-Hypothesis-He-Chen/4123282c3cb0491de0714a93ca3ef3e46dcee5c6",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-13T13:12:45Z",
+          "dateModified": "2026-08-13T13:12:45Z",
+          "uri": "http://zotero.org/users/4329366/items/MVQC6BKG",
+          "select": "zotero://select/library/items/MVQC6BKG"
+        }
+      ],
+      "notes": [
+        {
+          "key": "9SIZKQ54",
+          "version": 4322,
+          "itemType": "note",
+          "parentItem": "77DF8CIM",
+          "note": "<h2>Other</h2>\nTMLR Survey Certification",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-13T13:12:44Z",
+          "dateModified": "2026-08-13T13:12:44Z",
+          "uri": "http://zotero.org/users/4329366/items/9SIZKQ54"
+        }
+      ],
+      "autoJournalAbbreviation": "",
+      "itemKey": "77DF8CIM",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/77DF8CIM"
     },
     {
       "key": "AHSID6A6",
@@ -1337,6 +1631,56 @@
       "itemKey": "U3JAWHUQ",
       "libraryID": 1,
       "select": "zotero://select/library/items/U3JAWHUQ"
+    },
+    {
+      "key": "SCM3267C",
+      "version": 4310,
+      "itemType": "bookSection",
+      "title": "Peirce and Generative Ai",
+      "date": "2026",
+      "libraryCatalog": "PhilArchive",
+      "url": "https://philarchive.org/rec/LEGPAG",
+      "accessDate": "2026-08-13T13:10:26Z",
+      "publisher": "Cambridge University Press",
+      "bookTitle": "Pragmatism Revisited",
+      "citationKey": "leggPeirceGenerativeAi2026",
+      "creators": [
+        {
+          "firstName": "Catherine",
+          "lastName": "Legg",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Robert",
+          "lastName": "Lane",
+          "creatorType": "editor"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-13T13:10:26Z",
+      "dateModified": "2026-08-13T13:10:26Z",
+      "uri": "http://zotero.org/users/4329366/items/SCM3267C",
+      "itemID": 1524,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://philarchive.org/archive/LEGPAG",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-13T13:10:27Z",
+          "dateModified": "2026-08-13T13:10:27Z",
+          "uri": "http://zotero.org/users/4329366/items/35E4LVI6",
+          "path": "/Users/fd/Zotero/storage/35E4LVI6/Legg - 2026 - Peirce and Generative Ai.pdf",
+          "select": "zotero://select/library/items/35E4LVI6"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "SCM3267C",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/SCM3267C"
     },
     {
       "key": "MC5MXDYJ",
@@ -1609,6 +1953,91 @@
       "select": "zotero://select/library/items/MWGT74XP"
     },
     {
+      "key": "HBGE97WH",
+      "version": 4317,
+      "itemType": "journalArticle",
+      "title": "Moving Pictures of Thought: Extracting Visual Knowledge in Charles S.Peirce’s Manuscripts with Vision-Language Models",
+      "abstractNote": "Diagrams are crucial yet underexplored tools in many disciplines, demonstrating the close connection between visual representation and scholarly reasoning. However, their iconic form poses obstacles to visual studies, intermedial analysis, and text-based digital workflows. In particular, Charles S. Peirce consistently advocated the use of diagrams as essential for reasoning and explanation. His manuscripts, often combining textual content with complex visual artifacts, provide a challenging case for studying documents involving heterogeneous materials. In this preliminary study, we investigate whether Visual Language Models (VLMs) can effectively help us identify and interpret such hybrid pages in context. First, we propose a workflow that (i) segments manuscript page layouts, (ii) reconnects each segment to IIIF-compliant annotations, and (iii) submits fragments containing diagrams to a VLM. In addition, by adopting Peirce's semiotic framework, we designed prompts to extract key knowledge about diagrams and produce concise captions. Finally, we integrated these captions into knowledge graphs, enabling structured representations of diagrammatic content within composite sources.",
+      "date": "2025-11-21",
+      "shortTitle": "Moving Pictures of Thought",
+      "libraryCatalog": "Semantic Scholar",
+      "url": "https://anthology.ach.org/volumes/vol0003/moving-pictures-of-thought-extracting-visual-in-s/",
+      "accessDate": "2026-08-13T13:12:26Z",
+      "extra": "Book Title: Anthology of Computers and the Humanities\nDOI: 10.63744/fkFGJ6wSzDPV",
+      "publisher": "Association for Computers and the Humanities",
+      "pages": "1453-1466",
+      "DOI": "10.63744/fkFGJ6wSzDPV",
+      "citationKey": "pedrettiMovingPicturesThought2025",
+      "creators": [
+        {
+          "firstName": "Taylor",
+          "lastName": "Arnold",
+          "creatorType": "editor"
+        },
+        {
+          "firstName": "Margherita",
+          "lastName": "Fantoli",
+          "creatorType": "editor"
+        },
+        {
+          "firstName": "Ruben",
+          "lastName": "Ros",
+          "creatorType": "editor"
+        },
+        {
+          "firstName": "Carlo Teo",
+          "lastName": "Pedretti",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Davide",
+          "lastName": "Picca",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Dario",
+          "lastName": "Rodighiero",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-13T13:12:26Z",
+      "dateModified": "2026-08-13T13:12:26Z",
+      "uri": "http://zotero.org/users/4329366/items/HBGE97WH",
+      "itemID": 1528,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://arxiv.org/pdf/2511.13378.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-13T13:12:28Z",
+          "dateModified": "2026-08-13T13:12:28Z",
+          "uri": "http://zotero.org/users/4329366/items/7ZDZGI4C",
+          "path": "/Users/fd/Zotero/storage/7ZDZGI4C/Pedretti et al. - 2025 - Moving Pictures of Thought Extracting Visual Knowledge in Charles S.Peirce’s Manuscripts with Visio.pdf",
+          "select": "zotero://select/library/items/7ZDZGI4C"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Semantic Scholar Link",
+          "url": "https://www.semanticscholar.org/paper/Moving-Pictures-of-Thought%3A-Extracting-Visual-in-S.-Pedretti-Picca/c8afd4336b5c7e46edf978275cd2ea5ced1107a2",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-13T13:12:26Z",
+          "dateModified": "2026-08-13T13:12:26Z",
+          "uri": "http://zotero.org/users/4329366/items/3PRM2B7X",
+          "select": "zotero://select/library/items/3PRM2B7X"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "HBGE97WH",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/HBGE97WH"
+    },
+    {
       "key": "FE24LZLQ",
       "version": 4262,
       "itemType": "book",
@@ -1726,7 +2155,7 @@
     },
     {
       "key": "48Q6J7E2",
-      "version": 4205,
+      "version": 4282,
       "itemType": "thesis",
       "title": "L'accessibilité esthétique des mondes possibles au cinéma",
       "date": "2022",
@@ -1745,18 +2174,18 @@
         {
           "firstName": "Sylvano",
           "lastName": "Santini",
-          "creatorType": "author"
+          "creatorType": "contributor"
         },
         {
           "firstName": "Bertrand",
           "lastName": "Gervais",
-          "creatorType": "author"
+          "creatorType": "contributor"
         }
       ],
       "tags": [],
       "relations": {},
       "dateAdded": "2026-08-10T13:00:58Z",
-      "dateModified": "2026-08-10T13:47:50Z",
+      "dateModified": "2026-08-12T21:53:27Z",
       "uri": "http://zotero.org/users/4329366/items/48Q6J7E2",
       "itemID": 1467,
       "attachments": [],
@@ -2714,6 +3143,88 @@
       "itemKey": "QHTK9Z94",
       "libraryID": 1,
       "select": "zotero://select/library/items/QHTK9Z94"
+    },
+    {
+      "key": "ZSKTGULJ",
+      "version": 4307,
+      "itemType": "journalArticle",
+      "title": "Epistemic Agency in the Age of Large Language Models: Design Principles for Knowledge-Building AI",
+      "abstractNote": "Introduction: Large language models (LLMs) are increasingly employed as cognitive aids in research and professional inquiry, yet their fluent outputs are frequently regarded as authoritative knowledge. We contend that this practice signifies a fundamental epistemic misalignment. Methods/Approach: Building on Peirce’s theory of inquiry, Sellars’ concept of the space of reasons, Stanovich’s tripartite model of cognition, and knowledge-building theory, we develop a conceptual framework for analyzing epistemic agency in human–LLM collaboration. Results/Argument: We demonstrate that LLM outputs fail to satisfy the conditions for knowledge because they lack reflective regulation, resistance to revision, and normative commitment. While LLMs display strong autonomous and algorithmic abilities (e.g., pattern recognition and hypothesis development), reflective control remains a distinctly human function. This asymmetry supports a principled division of epistemic labour and motivates the concept of the Knowledge-Building Partner (KBP): an AI system designed to support inquiry without claiming epistemic authority. Discussion/Implications: We identify prompt-, system-, and model-level design requirements and introduce a triangulated framework for operationalizing epistemic agency through explainable AI, discourse analysis, and rational-thinking measures. These contributions collectively reposition LLM limitations as epistemic design challenges rather than technical issues.",
+      "date": "2026-03-09",
+      "language": "en",
+      "shortTitle": "Epistemic Agency in the Age of Large Language Models",
+      "libraryCatalog": "Semantic Scholar",
+      "url": "https://www.mdpi.com/2673-2688/7/3/99",
+      "accessDate": "2026-08-13T13:08:33Z",
+      "volume": "7",
+      "pages": "99",
+      "publicationTitle": "AI",
+      "DOI": "10.3390/ai7030099",
+      "issue": "3",
+      "journalAbbreviation": "AI",
+      "ISSN": "2673-2688",
+      "citationKey": "woodruffEpistemicAgencyAge2026",
+      "creators": [
+        {
+          "firstName": "Earl",
+          "lastName": "Woodruff",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jim",
+          "lastName": "Hewitt",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-13T13:08:33Z",
+      "dateModified": "2026-08-13T13:08:33Z",
+      "uri": "http://zotero.org/users/4329366/items/ZSKTGULJ",
+      "itemID": 1520,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://pdfs.semanticscholar.org/9b9d/f68ed6ee11cb024633f4b5835e47157263f6.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-13T13:08:36Z",
+          "dateModified": "2026-08-13T13:08:36Z",
+          "uri": "http://zotero.org/users/4329366/items/YBIFWS3H",
+          "path": "/Users/fd/Zotero/storage/YBIFWS3H/Woodruff et Hewitt - 2026 - Epistemic Agency in the Age of Large Language Models Design Principles for Knowledge-Building AI.pdf",
+          "select": "zotero://select/library/items/YBIFWS3H"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Semantic Scholar Link",
+          "url": "https://www.semanticscholar.org/paper/Epistemic-Agency-in-the-Age-of-Large-Language-for-Woodruff-Hewitt/2ec9ebf1565cef902fbf859857e0b4e36cadaf16",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-13T13:08:33Z",
+          "dateModified": "2026-08-13T13:08:33Z",
+          "uri": "http://zotero.org/users/4329366/items/TG5ETJS5",
+          "select": "zotero://select/library/items/TG5ETJS5"
+        }
+      ],
+      "notes": [
+        {
+          "key": "ZQVZJA4A",
+          "version": 4307,
+          "itemType": "note",
+          "parentItem": "ZSKTGULJ",
+          "note": "[TLDR] It is demonstrated that LLM outputs fail to satisfy the conditions for knowledge because they lack reflective regulation, resistance to revision, and normative commitment, which collectively reposition LLM limitations as epistemic design challenges rather than technical issues.",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-13T13:08:33Z",
+          "dateModified": "2026-08-13T13:08:33Z",
+          "uri": "http://zotero.org/users/4329366/items/ZQVZJA4A"
+        }
+      ],
+      "autoJournalAbbreviation": "",
+      "itemKey": "ZSKTGULJ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ZSKTGULJ"
     }
   ]
 }
