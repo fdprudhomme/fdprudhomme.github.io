@@ -1,7 +1,8 @@
 <!--
-  Bouton « retour en haut » — inclus par glossaire/entrees.qmd uniquement
-  (include-after-body). Aucune dépendance externe. Les styles vivent dans
-  styles.scss, sous « Retour en haut ».
+  Bouton « retour en haut » — composant partagé par les pages longues :
+  glossaire/entrees.qmd et recherche.qmd, via include-after-body. Il vit à la
+  racine parce qu'il n'appartient à aucune des deux. Aucune dépendance
+  externe ; les styles vivent dans styles.scss, sous « Retour en haut ».
 -->
 <button type="button" id="retour-haut" class="retour-haut"
         aria-label="Revenir en haut de la page">

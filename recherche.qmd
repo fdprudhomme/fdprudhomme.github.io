@@ -1,10 +1,12 @@
 ---
 title: "La coopération interprétative à l'ère de la sémiose algorithmique"
 subtitle: "Projet postdoctoral"
-toc: true
+titre-courant: "La coopération interprétative à l'ère de la sémiose algorithmique"
 format:
   html:
+    toc: true
     toc-title: "Sur cette page"
+    include-after-body: _retour-haut.html
 ---
 
 [Résumé]{.eyebrow}
@@ -19,7 +21,7 @@ d'interprétation.
 :::
 
 *Cartographier, habiter, résister : pour une refonte sémiotique des études
-supérieures.*
+supérieures.*[ · [Télécharger en PDF ↓](recherche.pdf)]{.content-visible when-format="html"}
 
 ::: {.carte}
 ::: {.geste-1}

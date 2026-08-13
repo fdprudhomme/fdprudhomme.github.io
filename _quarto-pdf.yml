@@ -52,6 +52,7 @@ format:
     # quoi « research.qmd » appelé depuis en/ pointerait vers la racine.
     filters:
       - outils/liens-absolus.lua
+      - outils/titre-courant.lua
 
     # Pas de toc-title ici : sans valeur explicite, LaTeX emploie l'intitulé
     # localisé de sa langue — « Table des matières » sous lang: fr,
@@ -93,11 +94,14 @@ format:
         \usepackage{scrlayer-scrpage}
         \usepackage{lastpage}
         \clearpairofpagestyles
-        % En marge extérieure, donc à droite en recto simple : la colonne où
-        % l'œil cherche une pagination. « Nom — n/total » plutôt que « n » seul,
-        % pour qu'une page isolée reste identifiable et qu'on sache s'il en
-        % manque.
-        \ohead*{Prud'homme — \thepage/\pageref{LastPage}}
+        % La commande \ohead* elle-même est posée par outils/titre-courant.lua,
+        % qui lit le champ `titre-courant` du document et se rabat sur
+        % « Prud'homme » en son absence. Elle n'est pas écrite ici : ce profil
+        % est partagé, et un titre courant nominatif ne convient qu'au CV.
+        % Elle va en marge extérieure — à droite en recto simple, la colonne où
+        % l'œil cherche une pagination — sous la forme « X — n/total » plutôt
+        % que « n » seul, pour qu'une page isolée reste identifiable et qu'on
+        % sache s'il en manque.
         % Petit corps et gris : le titre courant se consulte, il ne se lit pas.
         % Pas de filet de séparation — headsepline reste à false — le blanc
         % suffit à détacher la ligne du texte.
