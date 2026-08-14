@@ -25,21 +25,33 @@ Remediation and Distributed Authorship in Prompt-Based Visual Co-creation]
 
 ::: {.cv-entree}
 ::: {.cv-date}
-submitted
+in progress
 :::
 ::: {.cv-corps}
-**Reversed Interpretive Cooperation: Statistical Attractors, Premature Closure
-and Semiotic Silence** — *Semiotica* (De Gruyter)
+**Reversed Interpretive Cooperation: The Model Reader Sedimented in the
+Machine** — target journal: *Semiotica* (De Gruyter), journal of the
+International Association for Semiotic Studies.
 :::
 :::
 
 ::: {.cv-entree}
 ::: {.cv-date}
-in progress
+in preparation
 :::
 ::: {.cv-corps}
-**The Second Inquiry as a Rancièrian Protocol** — *Postdigital Science and
-Education* (Springer).
+**Semiotic Silence: Dwelling in Slowness, Indecision and Boredom in the Space of
+Interpretation** — target journal: *Signata — Annales des sémiotiques*.
+:::
+:::
+
+::: {.cv-entree}
+::: {.cv-date}
+in preparation
+:::
+::: {.cv-corps}
+**Second Inquiry: Interpretive Counter-Conduct and the Redesign of Higher
+Education** — target journal: *Learning, Media and Technology* (Taylor &
+Francis).
 :::
 :::
 

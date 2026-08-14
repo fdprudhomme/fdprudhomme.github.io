@@ -23,20 +23,34 @@ dans la cocréation visuelle par requête**
 
 ::: {.cv-entree}
 ::: {.cv-date}
-soumis
+en rédaction
 :::
 ::: {.cv-corps}
-**La coopération interprétative retournée : attracteurs statistiques, clôture prématurée et silence sémiotique** — *Semiotica* (De Gruyter)
+**La coopération interprétative retournée : le Lecteur Modèle sédimenté dans la
+machine** — soumission prévue : *Semiotica* (De Gruyter), revue de l'Association
+internationale de sémiotique.
 :::
 :::
 
 ::: {.cv-entree}
 ::: {.cv-date}
-en cours
+en préparation
 :::
 ::: {.cv-corps}
-**L'enquête seconde comme protocole rancièrien** — *Postdigital Science and
-Education* (Springer).
+**Le silence sémiotique : habiter la lenteur, l'indécision et l'ennui dans
+l'espace de l'interprétation** — soumission prévue : *Signata — Annales des
+sémiotiques*.
+:::
+:::
+
+::: {.cv-entree}
+::: {.cv-date}
+en préparation
+:::
+::: {.cv-corps}
+**L'enquête seconde : contre-conduite interprétative et refonte des études
+supérieures** — soumission prévue : *Learning, Media and Technology* (Taylor &
+Francis).
 :::
 :::
 
