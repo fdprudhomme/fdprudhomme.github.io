@@ -197,7 +197,7 @@
     },
     {
       "key": "3TT5GQB2",
-      "version": 4299,
+      "version": 4581,
       "itemType": "journalArticle",
       "title": "The cultural explosion of AI: Navigating the intersection of artificial intelligence, society, and culture from a semiotic and interdisciplinary perspective",
       "date": "2025",
@@ -224,9 +224,14 @@
         }
       ],
       "tags": [],
-      "relations": {},
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4329366/items/MNRZNIIH",
+          "http://zotero.org/users/4329366/items/Z7PU2GNX"
+        ]
+      },
       "dateAdded": "2026-08-13T12:32:07Z",
-      "dateModified": "2026-08-13T12:32:07Z",
+      "dateModified": "2026-08-15T14:15:41Z",
       "uri": "http://zotero.org/users/4329366/items/3TT5GQB2",
       "itemID": 1517,
       "attachments": [
@@ -235,9 +240,14 @@
           "title": "Texte intégral",
           "url": "https://ojs.nbu.bg/index.php/DASC/article/download/1390/1213",
           "tags": [],
-          "relations": {},
+          "relations": {
+            "dc:replaces": [
+              "http://zotero.org/users/4329366/items/BAIU3BZF",
+              "http://zotero.org/users/4329366/items/LZDZ799R"
+            ]
+          },
           "dateAdded": "2026-08-13T12:32:08Z",
-          "dateModified": "2026-08-13T12:32:08Z",
+          "dateModified": "2026-08-15T14:15:41Z",
           "uri": "http://zotero.org/users/4329366/items/4RK6MUBW",
           "path": "/Users/fd/Zotero/storage/4RK6MUBW/Bankov et Biggio - 2025 - The cultural explosion of AI Navigating the intersection of artificial intelligence, society, and c.pdf",
           "select": "zotero://select/library/items/4RK6MUBW"
@@ -251,7 +261,7 @@
     },
     {
       "key": "I55HBMS4",
-      "version": 4237,
+      "version": 4584,
       "itemType": "book",
       "title": "The Manifesto for Teaching Online",
       "abstractNote": "An update to a provocative manifesto intended to serve as a platform for debate and as a resource and inspiration for those teaching in online environments.",
@@ -316,9 +326,14 @@
         }
       ],
       "tags": [],
-      "relations": {},
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4329366/items/G82QKYU9",
+          "http://zotero.org/users/4329366/items/W6P69JCD"
+        ]
+      },
       "dateAdded": "2026-08-12T19:31:11Z",
-      "dateModified": "2026-08-12T19:31:11Z",
+      "dateModified": "2026-08-15T14:16:19Z",
       "uri": "http://zotero.org/users/4329366/items/I55HBMS4",
       "itemID": 1499,
       "attachments": [],
@@ -330,7 +345,7 @@
     },
     {
       "key": "6G6MSLZL",
-      "version": 4149,
+      "version": 4592,
       "itemType": "journalArticle",
       "title": "Word Priming in Attractor Networks",
       "abstractNote": "We propose a new view of word priming in attractor networks, which involves deepening the basins of attraction for primed words. In a network that maps from orthographic to phonological word representations via semantics, this view of priming leads to novel predictions about the interactions between orthographically and/or semantically similar primes and targets, when compared on an orthographic versus a semantic retrieval task. W e confirm these predictions in computer simulations of long-term priming in a word recognition network. Connectionist models have strongly influenced current thinking about the nature of human memory storage and retrieval processes. One reason for their appeal is that they can account for a wide range of human performance on tasks such as word recognition (McClelland and Rumelhart, 1981), reading (Seidenberg and McClelland, 1989), and repetition priming (McClelland and Rumelhart, 1986). Further, because connectionist models make relatively specific assumptions about the mechanisms of cognitive processes, they can lead to novel predictions about human performance. One of the most exciting developments in the last decade of human memory research is the characterization of implicit memory (Graf &amp;; Schacter, 1985; Schacter, 1985), a form of automatic, unconscious retrieval of previously encountered material. A widely used experimental method for testing implicit m e m ory is repetition priming, in which the accuracy or speed of processing is measured on successive presentations of a target stimulus. Evidence of implicit memory is observed when subjects are more accurate or efficient in responding to previously studied targets than to new targets. The priming literature is highly relevant to connectionist models of learning and memory for two reasons: 1) Priming effects can be extremely long-lasting, ranging from minutes to many hours, or even months, and apparently reflect fundamental automatic (\"unsupervised\") learning processes employed by the brain. 2) W h e n the prime and target are not identical, but have similar input and/or semantic features, the priming effects may range from facilitation to inhibition; these effects can shed light on the nature of h u m a n memory organization, and provide constraints on the representations employed in connectionist models. In this paper, w e first review the previous connectionist accounts of priming. W e then propose a new view of word priming in attractor networks with orthographic and semantic levels of representation, which involves deepening the basins of attraction for primed words. This leads to some novel predictions about the interactions between primes and targets, which we explore in computer simulations.",
@@ -361,9 +376,15 @@
         }
       ],
       "tags": [],
-      "relations": {},
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4329366/items/55VWPERD",
+          "http://zotero.org/users/4329366/items/6739LW8D",
+          "http://zotero.org/users/4329366/items/QUXK62UN"
+        ]
+      },
       "dateAdded": "2026-07-19T16:10:59Z",
-      "dateModified": "2026-07-19T16:10:59Z",
+      "dateModified": "2026-08-15T14:16:38Z",
       "uri": "http://zotero.org/users/4329366/items/6G6MSLZL",
       "itemID": 1423,
       "attachments": [
@@ -372,9 +393,15 @@
           "title": "Full Text PDF",
           "url": "https://escholarship.org/content/qt13k8p12j/qt13k8p12j.pdf",
           "tags": [],
-          "relations": {},
+          "relations": {
+            "dc:replaces": [
+              "http://zotero.org/users/4329366/items/N3FICPFU",
+              "http://zotero.org/users/4329366/items/S9BVI2MK",
+              "http://zotero.org/users/4329366/items/X5YKCQ5H"
+            ]
+          },
           "dateAdded": "2026-07-19T16:11:01Z",
-          "dateModified": "2026-07-19T16:11:01Z",
+          "dateModified": "2026-08-15T14:16:38Z",
           "uri": "http://zotero.org/users/4329366/items/PALINFZ4",
           "path": "/Users/fd/Zotero/storage/PALINFZ4/Becker et al. - 1993 - Word Priming in Attractor Networks.pdf",
           "select": "zotero://select/library/items/PALINFZ4"
@@ -440,6 +467,81 @@
       "itemKey": "H3FIEGQS",
       "libraryID": 1,
       "select": "zotero://select/library/items/H3FIEGQS"
+    },
+    {
+      "key": "SPKIMXP2",
+      "version": 4566,
+      "itemType": "preprint",
+      "title": "Beyond Epistemia: Epistemic Schizologia and Large Language Models as Techno-Semiotic Machines",
+      "abstractNote": "Quattrociocchi and colleagues warn that the fluent outputs of large language models may allow linguistic plausibility to substitute for epistemic evaluation, producing the condition they call *Epistemia*: the experience of possessing knowledge without undertaking the practices through which judgment would ordinarily be warranted. This article accepts that diagnosis but challenges its explanatory framework, which compares an embodied, socially situated human knower with an isolated generative model thereby locating epistemic legitimacy in capacities internal to autonomous agents. Drawing on Carlo Sini's philosophy of practices, writing, signs, and technics, we propose instead to understand a large language model (LLM) as a *techno-semiotic machine* that automates a phase of written semiosis by producing plausible linguistic configurations from the sedimented archive of human writing. From this perspective, *Epistemia* is one consequence of a broader phenomenon that we call *epistemic schizologia*: the socio-technical cleavage between signs as linguistically accomplished expressions and signs as moments within socially embedded circuits of interpretation, evidence, criticism, verification, and responsibility. This cleavage is reinforced by *eikotic closure*, through which a plausible continuation is presented with the finality of an epistemic result, and by algorithmic authority and epistemic self-misrecognition. The relevant unit is therefore not the model alone but the complete practice in which generated inscriptions are prompted, interpreted, verified, contested, used, and made consequential. This reframing preserves the distinction between linguistic production and responsible understanding while grounding a design programme centred on inspectable genealogy, contestability, distributed responsibility, epistemic agency, and the evaluation of hybrid human--AIpractices.",
+      "date": "2026-07-28",
+      "shortTitle": "Beyond Epistemia",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2607.25620",
+      "accessDate": "2026-08-15T13:19:24Z",
+      "extra": "arXiv:2607.25620 [cs.AI]",
+      "DOI": "10.48550/arXiv.2607.25620",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2607.25620",
+      "citationKey": "cabitzaEpistemiaEpistemicSchizologia2026",
+      "creators": [
+        {
+          "firstName": "Federico",
+          "lastName": "Cabitza",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Gianluca",
+          "lastName": "Colombo",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Artificial Intelligence",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Human-Computer Interaction",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-08-15T13:19:24Z",
+      "dateModified": "2026-08-15T13:19:24Z",
+      "uri": "http://zotero.org/users/4329366/items/SPKIMXP2",
+      "itemID": 1704,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Preprint PDF",
+          "url": "http://arxiv.org/pdf/2607.25620v1",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-15T13:19:24Z",
+          "dateModified": "2026-08-15T13:19:24Z",
+          "uri": "http://zotero.org/users/4329366/items/F5HQNNUS",
+          "path": "/Users/fd/Zotero/storage/F5HQNNUS/Cabitza et Colombo - 2026 - Beyond Epistemia Epistemic Schizologia and Large Language Models as Techno-Semiotic Machines.pdf",
+          "select": "zotero://select/library/items/F5HQNNUS"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2607.25620",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-15T13:19:25Z",
+          "dateModified": "2026-08-15T13:19:25Z",
+          "uri": "http://zotero.org/users/4329366/items/C5RAT8PW",
+          "path": "/Users/fd/Zotero/storage/C5RAT8PW/2607.html",
+          "select": "zotero://select/library/items/C5RAT8PW"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "SPKIMXP2",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/SPKIMXP2"
     },
     {
       "key": "XQPRS2PW",
@@ -2156,6 +2258,76 @@
       "itemKey": "XQ992B4L",
       "libraryID": 1,
       "select": "zotero://select/library/items/XQ992B4L"
+    },
+    {
+      "key": "J89W8U8H",
+      "version": 4571,
+      "itemType": "preprint",
+      "title": "The Semiotic Channel Principle: Measuring the Capacity for Meaning in LLM Communication",
+      "abstractNote": "This paper proposes a novel semiotic framework for analyzing Large Language Models (LLMs), conceptualizing them as stochastic semiotic engines whose outputs demand active, asymmetric human interpretation. We formalize the trade-off between expressive richness (semiotic breadth) and interpretive stability (decipherability) using information-theoretic tools. Breadth is quantified as source entropy, and decipherability as the mutual information between messages and human interpretations. We introduce a generative complexity parameter (lambda) that governs this trade-off, as both breadth and decipherability are functions of lambda. The core trade-off is modeled as an emergent property of their distinct responses to $λ$. We define a semiotic channel, parameterized by audience and context, and posit a capacity constraint on meaning transmission, operationally defined as the maximum decipherability by optimizing lambda. This reframing shifts analysis from opaque model internals to observable textual artifacts, enabling empirical measurement of breadth and decipherability. We demonstrate the framework's utility across four key applications: (i) model profiling; (ii) optimizing prompt/context design; (iii) risk analysis based on ambiguity; and (iv) adaptive semiotic systems. We conclude that this capacity-based semiotic approach offers a rigorous, actionable toolkit for understanding, evaluating, and designing LLM-mediated communication.",
+      "date": "2025-11-24",
+      "shortTitle": "The Semiotic Channel Principle",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2511.19550",
+      "accessDate": "2026-08-15T13:21:23Z",
+      "extra": "arXiv:2511.19550 [cs.IT]",
+      "DOI": "10.48550/arXiv.2511.19550",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2511.19550",
+      "citationKey": "piccaSemioticChannelPrinciple2025",
+      "creators": [
+        {
+          "firstName": "Davide",
+          "lastName": "Picca",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Artificial Intelligence",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Information Theory",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-08-15T13:21:23Z",
+      "dateModified": "2026-08-15T13:21:23Z",
+      "uri": "http://zotero.org/users/4329366/items/J89W8U8H",
+      "itemID": 1707,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Preprint PDF",
+          "url": "http://arxiv.org/pdf/2511.19550v1",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-15T13:21:24Z",
+          "dateModified": "2026-08-15T13:21:24Z",
+          "uri": "http://zotero.org/users/4329366/items/F7DNL96S",
+          "path": "/Users/fd/Zotero/storage/F7DNL96S/Picca - 2025 - The Semiotic Channel Principle Measuring the Capacity for Meaning in LLM Communication.pdf",
+          "select": "zotero://select/library/items/F7DNL96S"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2511.19550",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-15T13:21:24Z",
+          "dateModified": "2026-08-15T13:21:24Z",
+          "uri": "http://zotero.org/users/4329366/items/AXCRVJBG",
+          "path": "/Users/fd/Zotero/storage/AXCRVJBG/2511.html",
+          "select": "zotero://select/library/items/AXCRVJBG"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "J89W8U8H",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/J89W8U8H"
     },
     {
       "key": "48Q6J7E2",
