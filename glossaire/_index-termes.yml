@@ -12,6 +12,8 @@ termes:
     ancre: "asymetrie-semiosique"
   - terme: "ATTRACTEUR PERCEPTIF"
     ancre: "attracteur-perceptif"
+  - terme: "ATTRACTEUR PERCEPTIF INDUIT"
+    ancre: "attracteur-perceptif-induit"
   - terme: "ATTRACTEUR STATISTIQUE"
     ancre: "attracteur-statistique"
   - terme: "AUTOENCODEURS ÉPARS"

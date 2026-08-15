@@ -276,6 +276,31 @@ algorithmique observable dans ses traces, au-delà de ses seuls produits finis.
 Les interactions conduites avec des systèmes génératifs dans le cadre de la
 recherche sont versées au corpus et documentées comme cas.
 
+À ces quatre familles d'objets s'ajoute un protocole pilote destiné à rendre
+l'attracteur observable chez des interprètes humains. La question
+opérationnelle : dans quelle mesure l'exposition à une production générative
+reconfigure-t-elle la distribution des parcours interprétatifs effectivement
+actualisés devant un même objet sémiotique ? Deux hypothèses la mettent à
+l'épreuve. La première (H1) : l'exposition préalable à une sortie
+générative installe un
+[attracteur perceptif induit](glossaire/entrees.qmd#attracteur-perceptif-induit)
+— la distribution des interprétations des sujets exposés converge de manière
+mesurable vers la configuration proposée par le modèle, et l'espace des
+hypothèses explorées s'en trouve déformé, par rétrécissement, déplacement ou
+élargissement local. La seconde (H2) : des groupes exposés aux sorties de
+modèles distincts sur le même objet se distribuent autour de configurations
+interprétatives distinctes, ce qui ferait de l'attracteur un phénomène
+cartographiable plutôt qu'une métaphore descriptive. Les deux hypothèses sont
+réfutables, et chaque issue — y compris négative — départage des mécanismes
+que la littérature récente confond : la réfutation de H2 distinguerait
+l'autorité
+épistémique générique des sorties génératives de l'attraction
+configurationnelle spécifique que le présent cadre postule. Le résidu du
+protocole — les lectures qui échappent à l'attracteur — alimente le geste 2 et
+fournit un appui empirique à l'enquête seconde du geste 3. Le dispositif
+détaillé (objet, conditions d'exposition, grille de codage sémiotique,
+critères de confirmation et de réfutation) est en cours de spécification.
+
 ## Contribution et posture
 
 Les discours dominants sur l'IA et l'éducation oscillent entre enthousiasme

@@ -245,6 +245,8 @@ L'attracteur perceptif agit ainsi comme un **opérateur de passage** entre le *v
 
 Autrement dit, l'attracteur perceptif est la **forme vécue** de l'attracteur statistique.
 
+Lorsque la configuration est installée par l'exposition préalable à une sortie générative plutôt que par la stabilisation lente de l'écologie cognitive, on parle d'[attracteur perceptif induit](#attracteur-perceptif-induit).
+
 ### Exemples
 
 -   Au cinéma : un visage centré, bien éclairé, déclenche une focalisation quasi automatique de l'attention.
@@ -252,6 +254,39 @@ Autrement dit, l'attracteur perceptif est la **forme vécue** de l'attracteur st
 -   Dans les images générées par IA : certaines compositions « plausibles » s'imposent comme immédiatement reconnaissables, même si elles sont artificielles.
 
 -   Dans les interfaces numériques : une carte de chaleur ou un score visuel attire le regard et oriente la décision avant toute analyse critique.
+
+
+## ATTRACTEUR PERCEPTIF INDUIT {#attracteur-perceptif-induit}
+
+[Concept forgé par l’auteur — à valider]{.statut}
+
+::: {.punchline}
+Un attracteur perceptif installé par exposition : la sortie générative devient le relief qui oriente les lectures ultérieures.
+:::
+
+::: {.definition}
+L'attracteur perceptif induit est une configuration interprétative installée chez un sujet par l'exposition préalable à une production générative, et qui oriente de manière mesurable la distribution de ses parcours interprétatifs ultérieurs devant le même objet sémiotique.
+:::
+
+L'attracteur perceptif émerge de l'écologie cognitive du sujet — dispositifs techniques, codes culturels, capacités perceptives — sur un temps long. L'attracteur perceptif induit s'installe par un **événement d'exposition datable** : la rencontre avec une sortie générative portant sur l'objet à interpréter. Il constitue la **forme expérimentalement saisissable de la coopération interprétative retournée** : le moment où la configuration proposée par le modèle précède le voyage inférentiel du sujet et en oriente le trajet.
+
+### Trois modalités de déformation
+
+L'attracteur perceptif induit **oriente l'espace des possibles interprétatifs sans imposer un résultat unique** — définition homologue à celle de l'attracteur statistique, transposée du calcul au sujet. La déformation du champ peut prendre trois formes : un **rétrécissement** (la clôture prématurée : le voyage inférentiel court-circuité), un **déplacement** (le sujet explore d'autres régions interprétatives en délaissant celles qu'il aurait actualisées), ou un **élargissement local** (la sortie générative ouvre des pistes que les sujets non exposés n'actualisent pas).
+
+### Statut méthodologique
+
+Le concept est construit pour être **falsifiable**. Deux hypothèses le mettent à l'épreuve. **H1** : la distribution des interprétations produites par des sujets exposés à une sortie générative converge de manière mesurable vers la configuration proposée par le modèle (lexique, catégories, structures causales), par rapport à des sujets non exposés. **H2** : des groupes exposés à des sorties génératives différentes, produites par des modèles distincts sur le même objet, se distribuent autour de configurations interprétatives distinctes, chacune orientée vers la sortie vue.
+
+Si les distributions des exposés et des non-exposés sont indistinguables, le concept est réfuté. Si les groupes exposés convergent entre eux indépendamment du modèle vu, l'effet relève de l'autorité épistémique générique de la sortie générative — le terrain de l'*eikotic closure* (Cabitza et Colombo 2026) — et l'attraction configurationnelle propre au présent cadre est écartée. Le protocole produit un résultat théoriquement fécond dans chacune des trois issues.
+
+### Du calcul au trajet
+
+La chaîne complète s'écrit désormais : **attracteur statistique** (zone de convergence du calcul) → **attracteur perceptif** (forme sensible reconnue comme évidente) → **attracteur perceptif induit** (réorganisation mesurable du parcours interprétatif d'un sujet exposé). Du calcul → à la forme → à l'évidence → au trajet.
+
+::: {.voir-aussi}
+**Voir aussi** — [attracteur statistique](#attracteur-statistique) · [attracteur perceptif](#attracteur-perceptif) · [bifurcation probabiliste](#bifurcation-probabiliste) · [clôture prématurée](#cloture-prematuree) · [coopération interprétative retournée](#cooperation-interpretative-retournee) · [silence sémiotique](#silence-semiotique)
+:::
 
 
 ## ATTRACTEUR STATISTIQUE {#attracteur-statistique}
@@ -286,7 +321,7 @@ L'attracteur statistique n'est pas un point figé, mais une **zone de convergenc
 
 ### De l'attracteur statistique à l'attracteur perceptif
 
-L'attracteur statistique devient attracteur perceptif lorsqu'il se matérialise dans une forme sensible reconnue comme évidente par un sujet humain. Il passe alors : du calcul → à la forme → à l'évidence perceptive.
+L'attracteur statistique devient attracteur perceptif lorsqu'il se matérialise dans une forme sensible reconnue comme évidente par un sujet humain. Il passe alors : du calcul → à la forme → à l'évidence perceptive. Lorsque cette forme sensible est une sortie générative présentée à un sujet avant son propre travail interprétatif, elle peut s'installer comme [attracteur perceptif induit](#attracteur-perceptif-induit) et réorganiser le trajet de lecture.
 
 ::: {.voir-aussi}
 **Voir aussi** — [textualité algorithmique](#textualite-algorithmique)
@@ -503,7 +538,7 @@ La boucle ReAct des agents est une **machine à clôture prématurée permanente
 Les deux concepts sont voisins mais ne nomment pas la même chose : la coopération interprétative retournée nomme un **renversement de position** — qui anticipe qui —, la clôture prématurée nomme la **disparition de la durée**. Un système pourrait anticiper son lecteur sans supprimer la durée ; la sémiose algorithmique fait les deux à la fois.
 
 ::: {.voir-aussi}
-**Voir aussi** — [silence sémiotique](#silence-semiotique) · [spirale interprétative](#spirale-interpretative) · [ReAct Loop](#react-loop) · [coopération interprétative](#cooperation-interpretative) · [coopération interprétative retournée](#cooperation-interpretative-retournee) · [sémiose illimitée](#semiose-illimitee) · [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique) · [espace transitionnel](#espace-transitionnel) · [textualité algorithmique](#textualite-algorithmique) · [intentio operis](#intentio-operis) · [court-circuit inférentiel](#court-circuit-inferentiel)
+**Voir aussi** — [silence sémiotique](#silence-semiotique) · [spirale interprétative](#spirale-interpretative) · [ReAct Loop](#react-loop) · [coopération interprétative](#cooperation-interpretative) · [coopération interprétative retournée](#cooperation-interpretative-retournee) · [sémiose illimitée](#semiose-illimitee) · [promenade inférentielle algorithmique](#promenade-inferentielle-algorithmique) · [espace transitionnel](#espace-transitionnel) · [textualité algorithmique](#textualite-algorithmique) · [intentio operis](#intentio-operis) · [court-circuit inférentiel](#court-circuit-inferentiel) · [attracteur perceptif induit](#attracteur-perceptif-induit)
 :::
 
 
@@ -631,7 +666,7 @@ Objection anticipée : chez Eco déjà, l’encyclopédie est une **sédimentati
 Le déplacement emprunte la notion d’**instance anticipée**, distincte de l’individu empirique. Il ne prend pas la temporalité de l’actualisation — la promenade inférentielle du lecteur empirique. L’attracteur statistique supprime cette durée : il ne configure pas un espace pour qu’un lecteur le traverse, il livre la traversée déjà faite. Coopération interprétative retournée nomme donc un **renversement de position** — qui anticipe qui —, à distinguer de clôture prématurée, qui nomme la disparition de la durée elle-même.
 
 ::: {.voir-aussi}
-**Voir aussi** — [coopération interprétative](#cooperation-interpretative) · [lecteur modèle](#lecteur-modele) · [encyclopédie](#encyclopedie) · [attracteur statistique](#attracteur-statistique) · [clôture prématurée](#cloture-prematuree) · [asymétrie sémiosique](#asymetrie-semiosique) · [mémoire corpus](#memoire-corpus) · [véridiction pré-installée](#veridiction-pre-installee) · [court-circuit inférentiel](#court-circuit-inferentiel)
+**Voir aussi** — [coopération interprétative](#cooperation-interpretative) · [lecteur modèle](#lecteur-modele) · [encyclopédie](#encyclopedie) · [attracteur statistique](#attracteur-statistique) · [clôture prématurée](#cloture-prematuree) · [asymétrie sémiosique](#asymetrie-semiosique) · [mémoire corpus](#memoire-corpus) · [véridiction pré-installée](#veridiction-pre-installee) · [court-circuit inférentiel](#court-circuit-inferentiel) · [attracteur perceptif induit](#attracteur-perceptif-induit)
 :::
 
 
