@@ -3,6 +3,9 @@ lang: fr
 project:
   type: website
   output-dir: _site
+  resources:
+    - "*.pdf"
+    - "en/*.pdf"
   render:
     - "*.qmd"
     - "glossaire/*.qmd"
