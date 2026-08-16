@@ -415,7 +415,7 @@
     },
     {
       "key": "H3FIEGQS",
-      "version": 4328,
+      "version": 4598,
       "itemType": "journalArticle",
       "title": "The bewitching AI: The Illusion of Communication with Large Language Models",
       "date": "2025",
@@ -443,9 +443,14 @@
         }
       ],
       "tags": [],
-      "relations": {},
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4329366/items/J283BQFN",
+          "http://zotero.org/users/4329366/items/MQBERQV8"
+        ]
+      },
       "dateAdded": "2026-08-13T13:11:10Z",
-      "dateModified": "2026-08-13T13:32:11Z",
+      "dateModified": "2026-08-16T14:35:45Z",
       "uri": "http://zotero.org/users/4329366/items/H3FIEGQS",
       "itemID": 1526,
       "attachments": [
@@ -454,9 +459,14 @@
           "title": "Texte intégral",
           "url": "https://link.springer.com/content/pdf/10.1007/s13347-025-00893-6.pdf",
           "tags": [],
-          "relations": {},
+          "relations": {
+            "dc:replaces": [
+              "http://zotero.org/users/4329366/items/3VFRN4VQ",
+              "http://zotero.org/users/4329366/items/6JQB2HJB"
+            ]
+          },
           "dateAdded": "2026-08-13T13:11:13Z",
-          "dateModified": "2026-08-13T13:11:13Z",
+          "dateModified": "2026-08-16T14:35:45Z",
           "uri": "http://zotero.org/users/4329366/items/Z4WT37IL",
           "path": "/Users/fd/Zotero/storage/Z4WT37IL/Bottazzi Grifoni et Ferrario - 2025 - The bewitching AI The Illusion of Communication with Large Language Models.pdf",
           "select": "zotero://select/library/items/Z4WT37IL"
@@ -594,7 +604,7 @@
     },
     {
       "key": "C7HTMEFL",
-      "version": 4214,
+      "version": 4601,
       "itemType": "journalArticle",
       "title": "The Extended Mind",
       "date": "1998",
@@ -621,9 +631,14 @@
         }
       ],
       "tags": [],
-      "relations": {},
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4329366/items/6KV9AQFR",
+          "http://zotero.org/users/4329366/items/RRLYMM6G"
+        ]
+      },
       "dateAdded": "2026-08-11T13:53:04Z",
-      "dateModified": "2026-08-11T13:53:13Z",
+      "dateModified": "2026-08-16T14:35:56Z",
       "uri": "http://zotero.org/users/4329366/items/C7HTMEFL",
       "itemID": 1492,
       "attachments": [],
@@ -735,15 +750,16 @@
       "select": "zotero://select/library/items/TXTJIYZL"
     },
     {
-      "key": "EN9CZ8FM",
-      "version": 4195,
+      "key": "4BT34YXQ",
+      "version": 4614,
       "itemType": "journalArticle",
       "title": "Les IA génératives visuelles entre perception d’archives et circuits de composition",
       "abstractNote": "Résumé Cet article aborde les intelligences artificielles génératives visuelles telles que Midjourney et DALL·E afin d’analyser leur fonctionnement sémiotique. Le point de départ est la définition de la discipline sémiotique proposée par Pierluigi Basso Fossali, décrivant celle-ci comme la science qui étudie la gestion sociale du sens, et qui s’articule en quatre sphères fondamentales : la perception, l’énonciation, la communication et la transmission. À partir de ce cadre théorique, l’objectif est de proposer et de décrire deux nouvelles configurations qui caractérisent le fonctionnent sémiotique des IA génératives visuelles : à travers une perception d’archives et grâce à des circuits de composition. Le concept de perception d’archives a pour objectif de décrire la manière particulière dont les IA voient, entendent et apprennent, celle-ci étant réalisée sur de grandes quantités de données et à travers une généalogie d’opérations reconfigurables sur les archives. Les circuits de composition, quant à eux, concernent le couplage entre la logique de la composition visuelle et de la prédication verbale : il s’agit du processus d’énonciation par débruitage visuel réalisé par les IA, guidé par les requêtes en langage naturel fournies par des opérateurs humains. À partir de trois critères élaborés en sémiotique – les catégories plastiques, l’énonciation visuelle, ainsi que la traduction intersémiotique entre textes verbaux et images – une série de tests seront proposés afin d’examiner les circuits de composition des modèles génératifs de Midjourney et de DALL·E. Les IA seront enfin définies en tant que machines co-énonçantes : des entités dépourvues d’intentionnalité et d’initiative, qui produisent pourtant des énoncés en collaboration avec un opérateur humain et sur la base d’archives de données hautement structurées et reconfigurables.",
       "date": "2025-01-01",
       "language": "fr",
       "libraryCatalog": "www.degruyterbrill.com",
-      "accessDate": "2026-07-18T14:42:47Z",
+      "url": "https://www.degruyterbrill.com/document/doi/10.1515/sem-2024-0184/html?lang=en",
+      "accessDate": "2026-07-20T13:56:21Z",
       "rights": "De Gruyter expressly reserves the right to use all content for commercial text and data mining within the meaning of Section 44b of the German Copyright Act.",
       "volume": "2025",
       "publisher": "De Gruyter Mouton",
@@ -752,7 +768,7 @@
       "DOI": "10.1515/sem-2024-0184",
       "issue": "262",
       "ISSN": "1613-3692",
-      "citationKey": "darmenioIAGenerativesVisuelles2025",
+      "citationKey": "darmenioIAGenerativesVisuelles2025a",
       "creators": [
         {
           "firstName": "Enzo",
@@ -762,40 +778,47 @@
       ],
       "tags": [
         {
-          "tag": "artificial intelligence",
-          "type": 1
+          "tag": "artificial intelligence"
         },
         {
-          "tag": "perception",
-          "type": 1
+          "tag": "perception"
         },
         {
-          "tag": "archive",
-          "type": 1
+          "tag": "archive"
         },
         {
-          "tag": "enunciation",
-          "type": 1
+          "tag": "enunciation"
         },
         {
-          "tag": "intersemiotic translation",
-          "type": 1
+          "tag": "intersemiotic translation"
         }
       ],
-      "relations": {},
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4329366/items/BEL6G5WN",
+          "http://zotero.org/users/4329366/items/EN9CZ8FM",
+          "http://zotero.org/users/4329366/items/RENQ79HX"
+        ]
+      },
       "dateAdded": "2026-07-18T14:42:47Z",
-      "dateModified": "2026-08-10T13:46:36Z",
-      "uri": "http://zotero.org/users/4329366/items/EN9CZ8FM",
-      "itemID": 1421,
+      "dateModified": "2026-08-16T14:36:26Z",
+      "uri": "http://zotero.org/users/4329366/items/4BT34YXQ",
+      "itemID": 1427,
       "attachments": [
         {
           "itemType": "attachment",
           "title": "Full Text PDF",
           "url": "https://www.degruyterbrill.com/document/doi/10.1515/sem-2024-0184/pdf?licenseType=open-access",
           "tags": [],
-          "relations": {},
+          "relations": {
+            "dc:replaces": [
+              "http://zotero.org/users/4329366/items/935Q5TX9",
+              "http://zotero.org/users/4329366/items/DH2BEI9L",
+              "http://zotero.org/users/4329366/items/WTLMMU7M"
+            ]
+          },
           "dateAdded": "2026-07-18T14:42:53Z",
-          "dateModified": "2026-07-18T14:42:53Z",
+          "dateModified": "2026-08-16T14:36:26Z",
           "uri": "http://zotero.org/users/4329366/items/WKJV6HB4",
           "path": "/Users/fd/Zotero/storage/WKJV6HB4/D’Armenio - 2025 - Les IA génératives visuelles entre perception d’archives et circuits de composition.pdf",
           "select": "zotero://select/library/items/WKJV6HB4"
@@ -805,18 +828,29 @@
           "title": "Les IA génératives visuelles entre perception d’archives et circuits de composition",
           "tags": [],
           "relations": {},
-          "dateAdded": "2026-07-20T13:57:31Z",
-          "dateModified": "2026-07-20T13:57:31Z",
-          "uri": "http://zotero.org/users/4329366/items/935Q5TX9",
-          "path": "/Users/fd/Zotero/storage/935Q5TX9/Les IA génératives visuelles entre perception d’archives et circuits de composition.pdf",
-          "select": "zotero://select/library/items/935Q5TX9"
+          "dateAdded": "2026-08-13T14:32:51Z",
+          "dateModified": "2026-08-16T14:36:26Z",
+          "uri": "http://zotero.org/users/4329366/items/2A9NGJUV",
+          "path": "/Users/fd/Zotero/storage/2A9NGJUV/Les IA génératives visuelles entre perception d’archives et circuits de composition.pdf",
+          "select": "zotero://select/library/items/2A9NGJUV"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Les IA génératives visuelles entre perception d’archives et circuits de composition",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-13T14:32:52Z",
+          "dateModified": "2026-08-16T14:36:26Z",
+          "uri": "http://zotero.org/users/4329366/items/8ZKSAXAS",
+          "path": "/Users/fd/Zotero/storage/8ZKSAXAS/Les IA génératives visuelles entre perception d’archives et circuits de composition.pdf",
+          "select": "zotero://select/library/items/8ZKSAXAS"
         }
       ],
       "notes": [],
       "autoJournalAbbreviation": "",
-      "itemKey": "EN9CZ8FM",
+      "itemKey": "4BT34YXQ",
       "libraryID": 1,
-      "select": "zotero://select/library/items/EN9CZ8FM"
+      "select": "zotero://select/library/items/4BT34YXQ"
     },
     {
       "key": "7D6YQ3TR",
@@ -974,7 +1008,7 @@
     },
     {
       "key": "LJA3ZHTA",
-      "version": 4080,
+      "version": 4620,
       "itemType": "book",
       "title": "Lector in Fabula",
       "date": "1985 [1979]",
@@ -989,9 +1023,14 @@
         }
       ],
       "tags": [],
-      "relations": {},
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4329366/items/FK9H7USV",
+          "http://zotero.org/users/4329366/items/PT86GLEJ"
+        ]
+      },
       "dateAdded": "2017-11-28T11:27:33Z",
-      "dateModified": "2017-12-07T13:57:09Z",
+      "dateModified": "2026-08-16T14:36:44Z",
       "uri": "http://zotero.org/users/4329366/items/LJA3ZHTA",
       "itemID": 256,
       "attachments": [],
@@ -1003,7 +1042,7 @@
     },
     {
       "key": "9AL4SDXA",
-      "version": 4080,
+      "version": 4623,
       "itemType": "book",
       "title": "Les limites de l'interprétation",
       "date": "1992",
@@ -1026,11 +1065,25 @@
         {
           "tag": "Critique; Esthétique de la réception; Sémiotique et littérature",
           "type": 1
+        },
+        {
+          "tag": "Critique"
+        },
+        {
+          "tag": "Esthétique de la réception"
+        },
+        {
+          "tag": "Sémiotique et littérature"
         }
       ],
-      "relations": {},
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4329366/items/8JTMNVHJ",
+          "http://zotero.org/users/4329366/items/DNB8TA5T"
+        ]
+      },
       "dateAdded": "2019-06-25T12:33:58Z",
-      "dateModified": "2019-06-25T12:34:56Z",
+      "dateModified": "2026-08-16T14:36:52Z",
       "uri": "http://zotero.org/users/4329366/items/9AL4SDXA",
       "itemID": 434,
       "attachments": [],
@@ -1042,7 +1095,7 @@
     },
     {
       "key": "3QIVRE4G",
-      "version": 4088,
+      "version": 4617,
       "itemType": "book",
       "title": "L'oeuvre ouverte",
       "date": "1965",
@@ -1185,15 +1238,44 @@
         },
         {
           "tag": "Tzoys, Tzeems, 1882-1941"
+        },
+        {
+          "tag": "Dzhois Dzheims Avgustin Aloizii 1882-1941"
+        },
+        {
+          "tag": "Dzoiss Dzeimss 1882-1941"
+        },
+        {
+          "tag": "G`ois G`aims 1882-1941"
+        },
+        {
+          "tag": "Information Théorie de l'"
+        },
+        {
+          "tag": "Joyce Giacomo 1882-1941"
+        },
+        {
+          "tag": "Joyce James 1882-1941."
+        },
+        {
+          "tag": "Juyis Jims 1882-1941"
+        },
+        {
+          "tag": "Tzoys Tzaiems 1882-1941"
+        },
+        {
+          "tag": "Tzoys Tzeems 1882-1941"
         }
       ],
       "relations": {
         "dc:replaces": [
-          "http://zotero.org/users/4329366/items/ZG3SQRKS"
+          "http://zotero.org/users/4329366/items/G3RQVCZV",
+          "http://zotero.org/users/4329366/items/ZG3SQRKS",
+          "http://zotero.org/users/4329366/items/ZQQGQM28"
         ]
       },
       "dateAdded": "2018-02-13T15:14:58Z",
-      "dateModified": "2024-07-24T18:11:14Z",
+      "dateModified": "2026-08-16T14:36:37Z",
       "uri": "http://zotero.org/users/4329366/items/3QIVRE4G",
       "itemID": 465,
       "attachments": [],
@@ -1253,7 +1335,7 @@
     },
     {
       "key": "PV28YGBJ",
-      "version": 4197,
+      "version": 4626,
       "itemType": "journalArticle",
       "title": "Formes de l’identité-flux : figure-écran, profil de fiction et imagination artificielle",
       "date": "2024",
@@ -1277,9 +1359,14 @@
         }
       ],
       "tags": [],
-      "relations": {},
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4329366/items/9JRE4GP3",
+          "http://zotero.org/users/4329366/items/QCKWX2DQ"
+        ]
+      },
       "dateAdded": "2026-05-11T14:19:51Z",
-      "dateModified": "2026-08-10T13:46:55Z",
+      "dateModified": "2026-08-16T14:37:01Z",
       "uri": "http://zotero.org/users/4329366/items/PV28YGBJ",
       "itemID": 1368,
       "attachments": [
@@ -1303,7 +1390,7 @@
     },
     {
       "key": "BL6P4RMC",
-      "version": 4198,
+      "version": 4629,
       "itemType": "journalArticle",
       "title": "« Qui lira ce que tu n’as pas écrit ? Dialogue avec un infra-auteur »",
       "date": "2024-09-16",
@@ -1332,9 +1419,14 @@
         }
       ],
       "tags": [],
-      "relations": {},
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4329366/items/5TQ9AQP6",
+          "http://zotero.org/users/4329366/items/GD8GF4YH"
+        ]
+      },
       "dateAdded": "2026-01-21T15:57:56Z",
-      "dateModified": "2026-08-10T13:47:00Z",
+      "dateModified": "2026-08-16T14:37:08Z",
       "uri": "http://zotero.org/users/4329366/items/BL6P4RMC",
       "itemID": 1335,
       "attachments": [
@@ -1359,7 +1451,7 @@
     },
     {
       "key": "YTGFW5SK",
-      "version": 4191,
+      "version": 4632,
       "itemType": "book",
       "title": "Sémiotique: dictionnaire raisonné de la théorie du langage",
       "date": "1979",
@@ -1385,9 +1477,14 @@
         }
       ],
       "tags": [],
-      "relations": {},
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4329366/items/HCNSYDDH",
+          "http://zotero.org/users/4329366/items/L4IFLGIJ"
+        ]
+      },
       "dateAdded": "2026-08-10T13:15:36Z",
-      "dateModified": "2026-08-10T13:15:39Z",
+      "dateModified": "2026-08-16T14:37:15Z",
       "uri": "http://zotero.org/users/4329366/items/YTGFW5SK",
       "itemID": 1491,
       "attachments": [],
