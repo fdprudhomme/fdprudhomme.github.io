@@ -6,7 +6,9 @@ format:
   html:
     toc: true
     toc-title: "Sections"
-    include-after-body: ../_filigrane-topo.html
+    include-after-body:
+      - ../_retour-haut.html
+      - ../_filigrane-topo.html
 ---
 
 PhD in Semiotics · Sessional Lecturer — UQAM, UQAT, UQO

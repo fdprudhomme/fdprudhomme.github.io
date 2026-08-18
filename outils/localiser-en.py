@@ -73,6 +73,12 @@ def fix_en_page(html: str) -> str:
     )
     html = html.replace(">Code source<", ">Source code<")
 
+    # Bouton « retour en haut » (_retour-haut.html) : étiquette accessible.
+    html = html.replace(
+        'aria-label="Revenir en haut de la page"',
+        'aria-label="Back to top of page"',
+    )
+
     return html
 
 
