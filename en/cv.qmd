@@ -11,7 +11,7 @@ format:
       - ../_filigrane-topo.html
 ---
 
-PhD in Semiotics · Sessional Lecturer — UQAM, UQAT, UQO
+PhD in Semiology · Sessional Lecturer — UQAM, UQAT, UQO
 
 [fdprudhomme@gmail.com](mailto:fdprudhomme@gmail.com) · [vimeo.com/fdprudhomme](https://vimeo.com/fdprudhomme) · ORCID: [0009-0001-1460-6594](https://orcid.org/0009-0001-1460-6594)[ · [Download PDF ↓](cv.pdf)]{.content-visible when-format="html"}
 
@@ -23,7 +23,7 @@ PhD in Semiotics · Sessional Lecturer — UQAM, UQAT, UQO
 
 ## Research Profile
 
-My work sits at the intersection of semiotics, film aesthetics and critical studies of generative artificial intelligence. Trained in possible-worlds logic and in the theory of interpretive cooperation, I develop conceptual frameworks for describing the semiotic regimes that generative systems institute. My doctoral thesis addressed the aesthetic accessibility of possible worlds in cinema; my current research programme extends the concept of *accessibility operators* toward that of *real perceptual operators*, with direct implications for the redesign of higher education.
+My work sits at the intersection of semiology, film aesthetics and critical studies of generative artificial intelligence. Trained in possible-worlds logic and in the theory of interpretive cooperation, I develop conceptual frameworks for describing the semiotic regimes that generative systems institute. My doctoral thesis addressed the aesthetic accessibility of possible worlds in cinema; my current research programme extends the concept of *accessibility operators* toward that of *real perceptual operators*, with direct implications for the redesign of higher education.
 
 ## Postdoctoral Research Project
 
@@ -47,7 +47,7 @@ Empirical work runs across all three gestures: generative texts and images inter
 
 ## Education
 
-**PhD in Semiotics** — Université du Québec à Montréal, 2022  
+**PhD in Semiology** — Université du Québec à Montréal, 2022  
 Thesis: *L'accessibilité esthétique des mondes possibles au cinéma* [The Aesthetic Accessibility of Possible Worlds in Cinema]. Supervisors: Sylvano Santini and Bertrand Gervais.
 
 **Bachelor of Arts** — Université du Québec à Montréal, 2013  
@@ -57,7 +57,7 @@ Minor in Classical Studies (2010) · Certificate in Screenwriting (2009) · Cert
 
 **Research and Creation Grant** — Canada Council for the Arts, 2022. Practice-based research: writing of a novel.
 
-**Département d'études littéraires Fund Scholarship** — Interdisciplinary Doctorate in Semiotic Studies, UQAM, 2020
+**Département d'études littéraires Fund Scholarship** — PhD in Semiology, UQAM, 2020
 
 **FARE Excellence Scholarship**, twice awarded — Fonds à l'accessibilité et à la réussite des études, UQAM, 2018–2020
 
