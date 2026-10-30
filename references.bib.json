@@ -24,6 +24,7 @@
       "bibtexURL": "off",
       "cache": true,
       "cacheDelete": false,
+      "cacheTouch": "fill",
       "charmap": "",
       "chinese": false,
       "chineseSplitName": true,
@@ -39,6 +40,7 @@
       "exportCaseProtection": "",
       "exportSort": "citekey",
       "exportTitlecase": "",
+      "extraFieldAsNote": false,
       "extraMergeCitekeys": false,
       "extraMergeCSL": false,
       "extraMergeTeX": false,
@@ -71,6 +73,8 @@
       "postscript": "",
       "postscriptOverride": "",
       "preferencesOverride": "",
+      "profileRuntime": "no",
+      "profileStartup": false,
       "qualityReport": false,
       "quickCopyEta": "",
       "quickCopyMode": "latex",
@@ -96,6 +100,7 @@
       "Items": true,
       "Normalize": false,
       "Preferences": true,
+      "YAML": false,
       "biblatexAPA": false,
       "biblatexChicago": false,
       "exportFileData": false,
@@ -107,8 +112,8 @@
     }
   },
   "version": {
-    "zotero": "9.0.6",
-    "bbt": "9.0.55"
+    "zotero": "10.0.6",
+    "bbt": "9.0.71"
   },
   "collections": {},
   "items": [
@@ -807,38 +812,14 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Full Text PDF",
-          "url": "https://www.degruyterbrill.com/document/doi/10.1515/sem-2024-0184/pdf?licenseType=open-access",
+          "title": "Les IA génératives visuelles entre perception d’archives et circuits de composition",
           "tags": [],
           "relations": {
-            "dc:replaces": [
-              "http://zotero.org/users/4329366/items/935Q5TX9",
-              "http://zotero.org/users/4329366/items/DH2BEI9L",
-              "http://zotero.org/users/4329366/items/WTLMMU7M"
+            "dc:relation": [
+              "http://zotero.org/users/4329366/items/2A9NGJUV",
+              "http://zotero.org/users/4329366/items/WKJV6HB4"
             ]
           },
-          "dateAdded": "2026-07-18T14:42:53Z",
-          "dateModified": "2026-08-16T14:36:26Z",
-          "uri": "http://zotero.org/users/4329366/items/WKJV6HB4",
-          "path": "/Users/fd/Zotero/storage/WKJV6HB4/D’Armenio - 2025 - Les IA génératives visuelles entre perception d’archives et circuits de composition.pdf",
-          "select": "zotero://select/library/items/WKJV6HB4"
-        },
-        {
-          "itemType": "attachment",
-          "title": "Les IA génératives visuelles entre perception d’archives et circuits de composition",
-          "tags": [],
-          "relations": {},
-          "dateAdded": "2026-08-13T14:32:51Z",
-          "dateModified": "2026-08-16T14:36:26Z",
-          "uri": "http://zotero.org/users/4329366/items/2A9NGJUV",
-          "path": "/Users/fd/Zotero/storage/2A9NGJUV/Les IA génératives visuelles entre perception d’archives et circuits de composition.pdf",
-          "select": "zotero://select/library/items/2A9NGJUV"
-        },
-        {
-          "itemType": "attachment",
-          "title": "Les IA génératives visuelles entre perception d’archives et circuits de composition",
-          "tags": [],
-          "relations": {},
           "dateAdded": "2026-08-13T14:32:52Z",
           "dateModified": "2026-08-16T14:36:26Z",
           "uri": "http://zotero.org/users/4329366/items/8ZKSAXAS",
@@ -2480,6 +2461,51 @@
       "itemKey": "48Q6J7E2",
       "libraryID": 1,
       "select": "zotero://select/library/items/48Q6J7E2"
+    },
+    {
+      "key": "BYTI64SG",
+      "version": 4638,
+      "itemType": "blogPost",
+      "title": "Semantic attractors for creative minds",
+      "abstractNote": "A guide for creative minds in generative AI",
+      "date": "2024-10-30",
+      "url": "https://aimuse.substack.com/p/semantic-attractors-for-creative",
+      "accessDate": "2026-08-27T14:14:20Z",
+      "blogTitle": "AI Muse",
+      "websiteType": "Substack newsletter",
+      "citationKey": "puliafitoSemanticAttractorsCreative2024a",
+      "creators": [
+        {
+          "firstName": "Alberto",
+          "lastName": "Puliafito",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2026-08-27T14:14:20Z",
+      "dateModified": "2026-08-27T14:14:20Z",
+      "uri": "http://zotero.org/users/4329366/items/BYTI64SG",
+      "itemID": 1710,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "https://aimuse.substack.com/p/semantic-attractors-for-creative",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-08-27T14:14:26Z",
+          "dateModified": "2026-08-27T14:14:26Z",
+          "uri": "http://zotero.org/users/4329366/items/9X32PHCW",
+          "path": "/Users/fd/Zotero/storage/9X32PHCW/semantic-attractors-for-creative.html",
+          "select": "zotero://select/library/items/9X32PHCW"
+        }
+      ],
+      "notes": [],
+      "autoJournalAbbreviation": "",
+      "itemKey": "BYTI64SG",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/BYTI64SG"
     },
     {
       "key": "88UXYTRV",
